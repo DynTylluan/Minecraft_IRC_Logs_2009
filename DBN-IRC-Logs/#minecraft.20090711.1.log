@@ -1,0 +1,236 @@
+
+Session Start: Sat Jul 11 13:30:12 2009
+Session Ident: #minecraft
+15P1:30:12 * Disconnected
+10P1:31:07 * Rejoined channel #minecraft
+10P1:31:07 * Topic is 'http://www.minecraft.net  |  Client 0.0.23a is out with new options and the ability to remap keys'
+10P1:31:07 * Set by Notch!Notch@h-77-240.A165.priv.bahnhof.se on Sat Jul 11 09:17:15
+P1:31:10 <citricsquidtimeoutplx> also, they seem to crash on full so I had to restart them every few days
+12P1:31:19 * citricsquid (sam@client-81-97-76-143.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+P1:31:23 <citricsquidtimeoutplx> 16 servers crashing every 48 hours = annoying
+10P1:31:26 * citricsquidtimeoutplx is now known as citricsquid
+12P1:31:30 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Quit: Leaving)
+10P1:31:33 * ChanServ sets mode: +o citricsquid
+P1:31:56 <autoswim> pfft just use a batch file to kill/restart
+P1:31:58 <autoswim> on a timer :P
+P1:32:11 <citricsquid> too lazy to do that.
+P1:33:02 <autoswim> sure
+P1:34:08 <Akai> ...so... when is a command coming in for ops so they can temporarily not be able to break unbreakable?
+P1:35:17 <Akai> <.<
+10P1:35:17 * Rydia (Haruhi@68.186.97.143) has joined #minecraft
+P1:35:36 <JTE> Figuring out why it kicks everyone...
+P1:35:52 <JTE> Akai: When Notch steals my ideas? lol.
+12P1:35:54 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) Quit (Ping timeout: 180 seconds)
+P1:36:24 <Rydia> http://i27.tinypic.com/o7rqdf.png
+P1:36:29 <Rydia> isometric map rendering
+P1:36:39 <autoswim> it is saucy stuff
+P1:36:52 <Akai> I also want to see ops able to make any block unbreakable
+P1:37:00 <Akai> so they can make some unbreakable pretty stuff
+P1:37:07 <Akai> instead of having to use black boxes all the time
+P1:37:13 <Rydia> C418 is there anywhere i can download the music for minecraft
+P1:37:18 <Rydia> it's very pretty
+12P1:37:49 * Dilt (Dilt_Eee@ip68-225-73-116.no.no.cox.net) Quit (Ping timeout: 180 seconds)
+P1:37:51 <autoswim> i think he posted the name of it
+P1:37:54 <autoswim> when he added it
+P1:37:57 <iPope> Rydia, that is sexy
+P1:38:09 <citricsquid> The music is called I cum blood by canibal corpse.
+P1:39:02 <JTE> Okay, so it was one of my new anti-hacks that was acting up ... I think.
+10P1:39:03 * BlockOfC4 (Dilt_Eee@ip68-225-73-116.no.no.cox.net) has joined #minecraft
+12P1:39:07 * Taneru (chatzilla@d24-57-18-245.home.cgocable.net) Quit (Ping timeout: 180 seconds)
+P1:39:12 <JTE> Because the map was smaller than the last one ...
+10P1:40:31 * citricsquidtimeoutplx (sam@client-86-25-242-108.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+P1:40:40 <cryzed> Rydia: 
+P1:40:50 <cryzed> I have it uploaded somewhere
+P1:40:58 <cryzed> http://files.getdropbox.com/u/835469/resources.zip
+P1:41:02 <cryzed> Have fun
+12P1:41:12 * citricsquid (sam@client-81-97-76-143.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+10P1:42:01 * cryzed (cryzed@i59F5CD1A.versanet.de) has left #minecraft (Verlassend)
+10P1:42:08 * Taneru (chatzilla@d24-57-229-111.home.cgocable.net) has joined #minecraft
+P1:42:10 <autoswim> hurf
+10P1:42:16 * citricsquidtimeoutplx is now known as citricsquid
+10P1:42:18 * ChanServ sets mode: +o citricsquid
+10P1:42:20 * cryzed (cryzed@i59F5CD1A.versanet.de) has joined #minecraft
+P1:43:57 <JTE> Okay, server back up ... I think it should be good now.
+P1:44:19 <JTE> I'm just never generating a map with this again. @.@;
+P1:45:07 <iPope> joining
+12P1:45:19 * citricsquid (sam@client-86-25-242-108.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+10P1:45:56 * citricsquid (sam@client-81-97-76-116.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10P1:46:11 * ChanServ sets mode: +o citricsquid
+P1:46:12 <iPope> uh server is gone wierd
+P1:46:14 <cryzed> JTE: you just did
+10P1:46:28 * LucasAnderson (pikachushi@c-98-212-178-70.hsd1.il.comcast.net) has joined #minecraft
+P1:46:36 <LucasAnderson> aww
+P1:46:40 <LucasAnderson> Notch isn't on
+P1:46:54 <JTE> Be patient.
+P1:46:59 <LucasAnderson> I knoe
+P1:47:00 <iPope> thats cause notch is here programming while I hit him with a large stick
+P1:47:13 <LucasAnderson> You know notch?
+P1:47:15 <LucasAnderson> o.
+P1:47:16 <iPope> suprisingly with this gun to his head he hasnt made on syntax error
+P1:47:25 <LucasAnderson> oh... your faking.
+P1:47:33 <iPope> haha
+P1:47:39 <cryzed> XD
+P1:47:48 <LucasAnderson> o.-'
+P1:47:53 <cryzed> try spouting some VBS in there
+P1:47:54 <JTE> Well you haven't disconnected yet
+P1:47:57 <cryzed> he's bound to make errors
+P1:48:00 <LucasAnderson> I like the new minecraft
+10P1:48:06 * Minerman (mechana241@c-71-207-77-211.hsd1.pa.comcast.net) has joined #minecraft
+P1:48:07 <iPope> no but i cant speak JTE
+P1:48:09 <Minerman> Citric
+P1:48:09 <JTE> So okay, a 512x512 map is ridiculously large and hoses my CPU for a full 15 seconds.
+P1:48:11 <LucasAnderson> although, I can here music, I can't here sign
+P1:48:15 <Minerman> Apparently we have another forum spammer
+P1:48:16 <LucasAnderson> 'hear sounds
+P1:48:26 <LucasAnderson> ?
+P1:48:47 <iPope> right, i disocnnected now
+13P1:48:48 * JTE sighs...
+P1:48:50 <citricsquid> Done :)
+P1:48:53 <JTE> Yeah, I killed the server.
+13P1:48:54 * LucasAnderson Hi
+P1:48:56 <LucasAnderson> k
+P1:48:59 <LucasAnderson> figured it out
+13P1:49:11 * iPope rips you testicals from your trousers
+P1:49:15 <cryzed> JTE: when is it going to be online again? I don't mean to be annoying, I'm just interested in Echidna
+P1:49:17 <JTE> Map generation iz hard.
+13P1:49:17 * LucasAnderson says ow
+P1:49:49 <LucasAnderson> I love the new minecraft
+P1:49:51 <iPope> i was considering map generation for a game i was making, then I was like fuck it leave it to the community
+P1:49:59 <JTE> Okay server back up ...
+P1:50:14 <LucasAnderson> test
+P1:50:28 <JTE> iPope: The generation itself isn't hard
+13P1:50:46 * LucasAnderson says Mirc is confusing, as he has had it for only 3days
+10P1:51:04 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) has joined #minecraft
+P1:51:08 <JTE> It's doing it effeciently while still making it interesting and fast enough to make the clients which you have no control over whatsoever happy.
+P1:51:18 <LucasAnderson> Greatttt... VALL3 just griefed my server
+P1:51:23 <LucasAnderson> hes banip'd now
+P1:52:00 <cryzed> honestly someone add /rape
+P1:52:29 <LucasAnderson> k
+10P1:52:40 * yoshibot (kit@ip68-0-175-73.tc.ph.cox.net) has joined #minecraft
+P1:53:29 <LucasAnderson> uh... anyone know how to add sound?
+P1:53:35 <LucasAnderson> I got music
+P1:53:37 <LucasAnderson> but no sound
+P1:54:13 <cryzed> esc options
+P1:55:02 <LucasAnderson> tried
+P1:55:07 <LucasAnderson> tI couldn't get sound
+P1:55:11 <LucasAnderson> even before it came out
+P1:55:31 <LucasAnderson> besides, how do you download the client?
+12P1:58:06 * Piecat (chatzilla@adsl-76-199-164-204.dsl.milwwi.sbcglobal.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+P1:58:55 <autoswim> whoops
+P1:59:08 <autoswim> i went outside the map :x
+12P1:59:13 * iPope (i_the_king@5ac60ec2.bb.sky.com) Quit (Quit: Client Exited)
+12P2:02:55 * Minerman (mechana241@c-71-207-77-211.hsd1.pa.comcast.net) Quit (Quit: Client Exited)
+P2:03:41 <JTE> Back up (again) and bugs fixed (again)
+P2:03:43 <JTE> t
+13P2:03:45 * JTE sighs.
+P2:06:48 <potato> link?
+P2:07:23 <potato> to the server?
+12P2:09:58 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) Quit (Quit: Leaving)
+10P2:13:14 * yako (fsdzh@c-98-223-128-28.hsd1.in.comcast.net) has joined #minecraft
+P2:13:37 <yako> whats the command to unban an ip ban?
+P2:13:52 <citricsquid> has to be done in ipbans.txt
+P2:18:02 <Akai> so...
+P2:18:27 <JTE> I think it died again ... /mute doesn't work.
+P2:18:34 <PuyoDead> poo
+P2:18:42 <Akai> what do you guys think are the odds of me getting banned for accidentally superflooding a server, when I'm an op?
+P2:18:57 <Akai> considering the host has OME...
+P2:19:08 <potato> if you deop all the other ops first
+P2:19:11 <potato> none
+10P2:19:28 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) has joined #minecraft
+12P2:20:41 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Quit: Client Exited)
+P2:20:56 <autoswim> or explain it was a mistake
+12P2:21:15 * yako (fsdzh@c-98-223-128-28.hsd1.in.comcast.net) Quit (Quit: Client Exited)
+P2:21:28 <Akai> I intend to.
+P2:21:38 <Akai> I've even deopped myself to keep it from happening again
+P2:22:04 <citricsquid> I de-op myself normally, keep my alt opped so I can re-op if needed :P
+P2:22:40 <cryzed> citricsquid: 
+P2:22:44 <cryzed> I just found a squid in my map
+P2:22:52 <cryzed> http://img3.imagebanana.com/img/nea8btvk/Unbenannt.png looked like this
+P2:22:58 <citricsquid> lmfao
+P2:23:20 <cryzed> xD
+P2:23:34 <cryzed> this looks really strange once you see it moving
+P2:24:22 <Akai> anybody know Seraph?
+P2:25:04 <cryzed> I do
+P2:25:06 <cryzed> why?
+P2:25:12 <Akai> it was his map
+P2:25:18 <cryzed> He's op on my Serveer
+P2:25:22 <peerkoel> eh, fullscreen, is that an option?
+P2:25:22 <cryzed> Oh I can talk to him
+P2:25:34 <cryzed> peerkoel: userscripts.org -> minecraft
+10P2:25:38 * Animator (Ohnoaspy@adsl-144-246-234.mia.bellsouth.net) has joined #minecraft
+P2:25:40 <peerkoel> hm
+P2:25:57 <Animator> Ooooh, new options?
+P2:26:15 <Akai> think you can get him to come see if it needs a rollback or an edit?
+P2:28:28 <Animator> Ohhhh yeah. Download those packages, Minecraft. OH YESSSS.
+P2:28:39 <Animator> Er.
+P2:28:44 <Animator> You didn't see that.
+P2:29:14 <PuyoDead> we all do that, secretly
+P2:29:55 <Animator> Aw, what? No more arrow key moving?
+P2:29:57 <Animator> That sucks.
+P2:30:10 <Animator> Oh wait.
+P2:30:13 <SteGriff> I need some help for the wiki
+P2:30:23 <SteGriff> I need someone to let me on their server
+P2:30:27 <SteGriff> and op me
+P2:30:36 <SteGriff> So I can document /solid stone
+P2:30:58 <SteGriff> ...any takers?
+P2:31:16 <SteGriff> citricsquid, perhaps?
+P2:31:24 <Animator> Citricsquid has a server.
+P2:31:35 <Animator> You could also document the board games I made.
+P2:31:42 <SteGriff> what is it?
+P2:31:47 <Animator> THAT CITRICSQUID DID NOT FINISH WITH ME.
+P2:32:01 <Animator> It's a board I made that can be used for checkers and chess.
+P2:32:01 <SteGriff> I've finished doing all the "wanted pages"
+P2:32:07 <SteGriff> oh ok
+P2:32:09 <Animator> Checkers is fun.
+P2:32:31 <Animator> Woah, wait a minute.
+P2:32:55 <Animator> My board. Citricsquid!
+P2:33:20 <SteGriff> actually, I'm auto op on facepunch
+P2:33:24 <SteGriff> might try there
+P2:33:28 <citricsquid> I flooded the map so I deleted it, I have a back up though animator :)
+P2:33:41 <SteGriff> hm, their old servers are gone
+P2:33:46 <SteGriff> citric, read above
+P2:33:54 <Animator> Ah, good.
+P2:34:15 <Animator> Can you load the back-up?
+P2:34:26 <citricsquid> animator: I'll make you a server with it :)
+P2:34:51 <Animator> Oh, okay.
+P2:34:53 <SteGriff> can I come on your server and go op, please?
+P2:34:59 <SteGriff> to document /solid stone
+P2:35:08 <Animator> Don't make it public, though.
+P2:35:31 <Animator> I'm going to keep it private until it's gone through enough testing and documentation.
+P2:35:32 <citricsquid> ste: didn't see what you were saying, do you need a server?
+P2:35:43 <citricsquid> animator: mmmkay :) I'll do it now
+P2:36:00 <SteGriff> I need one where I can quickly go op, take some pictures of /solid stone, and then make like a tree
+P2:36:11 <SteGriff> i.e. yours
+P2:36:21 <citricsquid> http://www.minecraft.net/play.jsp?server=fddfd4f36d9ca6276a2a6a7f50e4dece
+P2:36:24 <SteGriff> Sorry to be such a drain today.
+12P2:36:27 * SteGriff (chatzilla@5ad87e77.bb.sky.com) Quit (Read error: Connection reset by peer)
+10P2:37:08 * SteGriff (chatzilla@5ad87e77.bb.sky.com) has joined #minecraft
+P2:37:14 <SteGriff> Firefox spazzed out on me again
+P2:37:22 <SteGriff> can you repeat that? XD
+P2:37:38 <citricsquid> http://www.minecraft.net/play.jsp?server=fddfd4f36d9ca6276a2a6a7f50e4dece
+P2:37:42 <citricsquid> Don't use chatzilla :D
+P2:38:07 <SteGriff> but its convenient and isn't nagware
+P2:38:41 <Animator> I like my nagware.
+P2:39:00 <Animator> It lets me know that mIRC cares about me. ;_;
+P2:39:19 <Rock_D> I'm content with mibbit except for the fact that you can't use it on freenode
+P2:41:15 <Animator> The music is gone, all celebrate.
+13P2:41:21 * Animator puts on iTunes.
+12P2:41:29 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) Quit (Ping timeout: 180 seconds)
+10P2:42:24 * Benjaman (hammertime@va-76-5-72-142.dhcp.embarqhsd.net) has joined #minecraft
+P2:42:38 <citricsquid> sent it in PM, animator
+P2:45:18 <Benjaman> hmm
+P2:45:35 <Benjaman> i keep getting a failure to connect message everytime i try to start a server
+10P2:45:57 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) has joined #minecraft
+10P2:52:17 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) has joined #minecraft
+12P2:56:23 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) Quit (Remote host closed the connection)
+12P2:56:56 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) Quit (Ping timeout: 180 seconds)
+10P2:58:08 * Wolfram (Mibbit@host-208-82-42-143.energize.net) has joined #minecraft
+12P3:00:48 * Wolfram (Mibbit@host-208-82-42-143.energize.net) Quit (Quit: Client Exited)
+10P3:11:11 * citricsquidtimeoutplx (sam@client-81-97-76-28.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+12P3:12:36 * citricsquid (sam@client-81-97-76-116.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+10P3:12:39 * citricsquidtimeoutplx is now known as citricsquid
+10P3:12:42 * ChanServ sets mode: +o citricsquid
+12P3:18:33 * Spazzo (spazzo@CPE0022b0ca43d8-CM0011ae04842a.cpe.net.cable.rogers.com) Quit (Ping timeout: 180 seconds)
+P3:30:46 <Akai> interesting glitch I found out about...
+P3:31:20 <Akai> when you're opped, you have to reconnect to destroy unbreakables... which I'm sure is known... but apparently, the opposite is true for deop. They can still destroy unbreakables
+P3:31:41 <citricsquid> yeah, it's annoying

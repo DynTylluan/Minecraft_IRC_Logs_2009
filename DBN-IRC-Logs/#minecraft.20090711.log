@@ -1,0 +1,2906 @@
+
+Session Start: Sat Jul 11 00:00:01 2009
+Session Ident: #minecraft
+A12:01:21 <PuyoDead> man, deus ex game of the year edition has mouse acceleration built in. this is bunk
+12A12:04:37 * tempestdevil (Tempest@216-67-57-252-rb1.fai.dsl.dynamic.acsalaska.net) Quit (Quit: Client Exited)
+A12:18:16 <vdgmprgrmr> Mouse acceleration...
+A12:19:04 <vdgmprgrmr> This is where, you move the mouse and it kind of starts out slow and then builds up to normal speed, correct?
+A12:19:09 <vdgmprgrmr> (If so, I hate that.)
+A12:19:36 <vdgmprgrmr> But I never noticed it with GOTY edition.
+A12:21:01 <vdgmprgrmr> (Which is the only version I ever played.)
+10A12:21:55 * Arg (chatzilla@d58-104-6-192.dsl.vic.optusnet.com.au) has joined #minecraft
+10A12:30:41 * Mrangry (webmaster@c-98-248-172-133.hsd1.ca.comcast.net) has joined #minecraft
+12A12:30:41 * Misterangry (webmaster@c-98-248-172-133.hsd1.ca.comcast.net) Quit (Read error: Connection reset by peer)
+10A12:32:37 * Kin (Error404@243-228.97-97.tampabay.res.rr.com) has joined #minecraft
+12A12:33:10 * Kinhoshi (Error404@243-228.97-97.tampabay.res.rr.com) Quit (Ping timeout: 180 seconds)
+12A12:36:37 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+10A12:39:02 * fleshBasedProcessor (chatzilla@75-121-96-249.dyn.centurytel.net) has joined #minecraft
+A12:40:06 <fleshBasedProcessor> So, when is notch going to release offline level storage for singleplayer?
+12A12:47:07 * Prime_2 (Prime_2@97-116-98-6.mpls.qwest.net) Quit (Quit: bed)
+12A12:48:00 * VitaEdo (vita@pool-72-77-223-17.tampfl.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+12A12:49:24 * fleshBasedProcessor (chatzilla@75-121-96-249.dyn.centurytel.net) Quit (Remote host closed the connection)
+10A12:54:19 * BitchBox (stick.man@adsl-99-145-235-59.dsl.emhril.sbcglobal.net) has left #minecraft
+10A1:25:38 * SlayerXL (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+12A1:25:50 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Ping timeout: 180 seconds)
+10A1:36:05 * alexsuraci (Alex@pool-71-188-133-67.aubnin.fios.verizon.net) has joined #minecraft
+12A1:37:41 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) Quit (Ping timeout: 180 seconds)
+A1:42:22 <CheeToS> http://files.getdropbox.com/u/2270/minecraftrprogress.png
+10A1:42:47 * mib_343ia5 (Mibbit@212-182-136-121.ip.telfort.nl) has joined #minecraft
+A1:43:24 <Kin> Awesome.
+10A1:43:26 * Kin is now known as Kinhoshi
+A1:43:37 <AlBuzzdrin> G'night.
+12A1:43:42 * AlBuzzdrin (OverwatchF@bas1-toronto48-1242461817.dsl.bell.ca) Quit (Quit: Good night.)
+12A1:43:53 * mib_343ia5 (Mibbit@212-182-136-121.ip.telfort.nl) Quit (Quit: Client Exited)
+12A2:04:26 * Eagle (BLELELEL@c-24-56-241-140.customer.broadstripe.net) Quit (Quit: Eagle has quit (Eagle has quit (Eagle has quit (Eagle has quit (:O)))))
+12A2:13:36 * Kinhoshi (Error404@243-228.97-97.tampabay.res.rr.com) Quit (Quit: Client Exited)
+10A2:24:16 * mib_zwty2n (Mibbit@e177192034.adsl.alicedsl.de) has joined #minecraft
+12A2:24:47 * mib_zwty2n (Mibbit@e177192034.adsl.alicedsl.de) Quit (Quit: Client Exited)
+12A2:47:55 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) Quit (Ping timeout: 180 seconds)
+10A3:11:16 * Cue (cueball61@cpc2-alde4-2-0-cust382.6-2.cable.virginmedia.com) has joined #minecraft
+10A3:13:25 * Echidna-chan (JTE@ool-457f154d.dyn.optonline.net) has joined #minecraft
+12A3:13:45 * JTE (JTE@ool-457f154d.dyn.optonline.net) Quit (Read error: Connection reset by peer)
+10A3:14:02 * Echidna-chan is now known as JTE
+10A3:32:30 * Foobu (Mibbit@pool-71-104-110-50.lsanca.dsl-w.verizon.net) has joined #minecraft
+A3:32:54 <Foobu> hey
+A3:33:08 <Foobu> anyone here know if minecraft standalone is legal? as in allowed?
+12A3:33:53 * Arg (chatzilla@d58-104-6-192.dsl.vic.optusnet.com.au) Quit (Read error: Connection reset by peer)
+A3:36:44 <Parthon> depends, what's the eula say?
+A3:37:00 <Foobu> not certain
+A3:37:54 <Parthon> I think it's okay as long as you don't distribute it
+A3:38:10 <Foobu> interesting.
+A3:38:26 <Foobu> yeah well that won't be a problem, since i'm looking for it if it is indeed legal
+A3:38:34 <Foobu> seems like a pretty good tool
+A3:38:44 <Foobu> for building and administrating a server
+A3:38:44 <JTE> Heh
+A3:39:05 <JTE> I programmed a server. :3
+A3:39:08 <Foobu> not online it seems, only passed through email by friends it seems
+A3:39:38 <Foobu> programmed a server?
+13A3:39:48 * JTE nod nods
+A3:39:54 <JTE> In Perl. :3
+A3:40:01 <Foobu> you mean the map? or what
+A3:40:06 <Foobu> the software?
+A3:40:08 <Foobu> scripts?
+A3:40:09 <JTE> No, I mean the server itself.
+A3:40:11 <JTE> The thing you connect to.
+A3:40:16 <JTE> I programmed one.
+A3:40:22 <Foobu> oh instead of getting his software?
+A3:40:25 <Foobu> interesting
+A3:40:34 <JTE> Does not require anything made by Notch to run.
+A3:40:43 <Foobu> haha cool
+A3:40:49 <JTE> And can do everything his server can and more. :3
+A3:40:57 <Foobu> private?
+A3:41:27 <JTE> Well, everyone says the rule is 'it's okay as long as you don't distribute it'
+A3:41:40 <JTE> Notch wants his official server to be the only one.
+A3:41:41 <Foobu> no i mean, the server
+A3:41:44 <Foobu> is it private?
+A3:41:57 <Foobu> I don't need the software
+A3:41:58 <JTE> It's not usually up.
+A3:41:59 <Foobu> just curious to see
+A3:42:02 <Foobu> oh ok
+A3:42:12 <JTE> But it can be private or public or not even send a heartbeat to the server list.
+A3:42:23 <JTE> :3 Can even verify names so nobody can hack their own.
+A3:42:33 <Foobu> hmm
+A3:42:40 <Foobu> what can it do that notch's can't?
+A3:43:06 <JTE> I added a /tree command that lets you place a tree stump block and a whole entire tree appears instead of just the stump
+A3:43:12 <JTE> And a /help command to list commands
+A3:43:26 <JTE> and a /color command to list all of the color codes, which I added an alias for as %c
+A3:43:50 <JTE> and a /fetch command which teleports someone ELSE to YOU, instead of the /tp command which teleports YOU to THEM.
+A3:44:15 <JTE> and a @<person> <message> command which lets you send chat messages directly to someone
+A3:44:18 <Adura> /tree could be seen as not staying with the spirit of the gmae.
+A3:44:25 <JTE> and a /me command which works exactly as the one on IRC
+A3:44:42 <Adura> The other commands are things you'd hope to see in the official code.
+A3:44:48 <JTE> Adura: That's why I moved it to ops-only, that and build-griefers. @.@;
+A3:44:54 <Adura> Ror.
+A3:45:46 <JTE> and let's see, /save to save the map and make a backup copy and tell you the backup's name so you can later get it from the server admins or whatever
+A3:46:02 <Foobu> schweet
+A3:46:04 <JTE> and /load to load a map without the server going down or anybody needing to disconnect
+A3:46:05 <Foobu> sounds cool
+A3:46:12 <Foobu> oh MAN that is sick
+A3:46:15 <JTE> and /generate to generate a new map of any size without anyone needing to disconnect
+A3:46:16 <Foobu> that sounds like the best one
+A3:46:20 <Foobu> i really hope that gets implemented
+A3:46:27 <Foobu> that /load one
+A3:46:34 <Foobu> i am CONSTANTLY taking down my server to reset back 5 min
+A3:46:36 <Foobu> etc
+A3:46:47 <JTE> but unfortunately my map generation isn't the same as Notch's, so it won't look the same ...
+A3:46:52 <Foobu> that and the TP one
+A3:47:01 <Adura> Well, it shouldn't be the same as Notch's, so that's fine.
+A3:47:03 <Foobu> yeah I got the maps covered
+A3:47:21 <Foobu> I think the software really could be better
+A3:47:34 <JTE> and /adminbreak to toggle whether you can break the solid admin blocks or not if you're an admin, so you don't accidentally break anything playing Spleef or whatever.
+A3:47:35 <Foobu> and actually i found a version of "minecraft standalone"
+A3:47:36 <Foobu> but
+A3:47:46 <Foobu> it's not the one where you fly and noclip and all that crazyness
+A3:47:55 <Foobu> it's just a downloadable client you can connect with
+A3:48:14 <Foobu> oh god that one is amazing too jte
+A3:48:26 <JTE> and /build instead of /solid, which lets you build ANY of the un-buildable blocks, including the solid admin block, grass, water, lava, gold ore, iron ore, coal, and lava sponge
+A3:48:33 <Foobu> seriously?
+A3:48:43 <JTE> lava sponge is a custom block type which I added, looks like a normal sponge but only works on lava instead of water.
+A3:48:43 <Foobu> these are like all the things i was hoping for
+A3:49:23 <Foobu> so you can't distribute this huh
+A3:49:30 <Foobu>  now I am dissapoint.
+A3:49:33 <Foobu> =P
+A3:49:54 <Foobu> that's a reference, not a grammatical error in case it needs to be said...
+A3:51:06 <JTE> So I usually toy with anyone who joins my server by being a clone of them for a while. :P
+A3:51:43 <Foobu> if you could distribute it legally, would you?
+A3:52:03 <JTE> Technically, I already think I CAN distribute it legally, I just haven't yet.
+A3:52:09 <Foobu> ahhh
+A3:52:16 <Foobu> do you plan to?
+A3:52:39 <JTE> I already gave it out to a few people, but mostly I'd just be happy if everyone knew it exists and nothing more.
+A3:52:49 <Foobu> lulz
+10A3:53:20 * do0han (doohan@client-86-10-18-211.bmly.adsl.virgin.net) has joined #minecraft
+A3:53:24 <JTE> I also have the ability to spawn up to 127 - max_players clone characters with any name I want anywhere I want which move any way I want, and I can use them as NPCs
+A3:53:37 <JTE> And change any block anywhere in the map at any time
+A3:54:32 <Foobu> yeah this sounds like it should be released
+A3:54:35 <Foobu> or at least sent to notch
+10A3:54:37 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) has joined #minecraft
+A3:54:40 <Foobu> for consideration
+A3:54:47 <JTE> And my server is much more cheat-proof than the official one. It blocks more than just creating block types you're not supposed to
+A3:54:59 <JTE> Why would Notch consider it? It's not even written in Java.
+A3:55:08 <Adura> You think he'd enjoy being shown what he should do with his project? :P
+A3:55:11 <JTE> It's in a completely different language.
+A3:55:26 <JTE> And 'better', nobody likes that...
+A3:55:43 <Foobu> ehhh Idk adura
+A3:55:48 <JTE> "Oh hi Mr.Notch, I like you server, see I just made one that's exactly like that except better! =D"
+A3:55:52 <Adura> Now, if you make a client in Perl... yipes.
+A3:55:53 <Foobu> i think it's at least something to look at
+A3:56:05 <JTE> Nah, I'm making the client in Java.
+A3:56:23 <JTE> I can't make the client in Perl without using nonstandard extentions.
+A3:56:46 <JTE> But with the same game-centric library that Notch uses, I can make a Java applet that uses OpenGL. And I know OpenGL.
+12A3:57:10 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) Quit (Quit: Client Exited)
+A3:57:11 <JTE> Oh.
+A3:57:20 <JTE> This message didn't send:
+A3:57:21 <JTE> [04:51:44] <JTE> Most of the reason I "can't" distribute this: and I made a /nick command which lets you take any name you want, including names with color codes in it (so I can be "JTE") as well as using any skin that goes along with it (So if I put my name as Foobu, I would look exactly like Foobu), and it changes your character, skin, and chat name.
+A3:57:41 <Foobu> well
+A3:57:45 <Foobu> i'm sure that part can be removed
+A3:58:07 <JTE> With the entire source code available, anyone could easily re-add it.
+A3:58:23 <Foobu> if they knew how to code it
+A3:58:55 <Foobu> and the source code you could easily release without that part
+A3:59:00 <JTE> I've documented every message the server and client send to eachother; There's only 14 of them, and only one of them tells all of your clients what the name of someone is.
+A3:59:05 <JTE> :P
+A3:59:21 <Foobu> can you put up the server?
+A3:59:24 <Foobu> i'd like to take a look
+A3:59:38 <JTE> It's up at http://www.minecraft.net/play.jsp?ip=69.127.21.77&port=27015
+A3:59:56 <JTE> I forgot I left it running while I fell asleep last night, for my friend who is also trying to code a client in Python
+10A4:01:45 * Super-Dot (Super-Dot@adsl-75-61-89-13.dsl.pltn13.sbcglobal.net) has joined #minecraft
+10A4:11:21 * Undead_Sheep (tnt4693@dynamic-67-22-79-155.syban.net) has joined #minecraft
+12A4:11:59 * Super-Dot (Super-Dot@adsl-75-61-89-13.dsl.pltn13.sbcglobal.net) Quit (Quit: Super-Dot)
+12A4:16:30 * SlayerXL (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Quit: Leaving)
+A4:18:49 <Parthon> JTE: that's awesome
+10A4:19:42 * Notch (Notch@h-77-240.A165.priv.bahnhof.se) has joined #minecraft
+10A4:19:44 * ChanServ sets mode: +o Notch
+A4:19:51 <Parthon> hai Notch
+A4:19:56 <08Notch> hai hai
+A4:20:32 <08Notch> one of my monitors broke :-(
+A4:20:38 <08Notch> so now I've only got two
+A4:20:49 <Adura> Bricked, heh.
+A4:21:23 <08Notch> it either blinks really fast, shows a very dim image, or doesn't show anything at all
+A4:21:36 <Parthon> ouch
+A4:21:40 <08Notch> and it made a noise once. I don't think speakerless monitors are supposed to make noises.
+A4:21:44 <Parthon> also .. who needs 3 monitors?!? seriously
+A4:21:53 <Parthon> also#2, I want to get 4 monitors eventually :P
+A4:21:56 <JTE> Hey Notch
+A4:21:58 <08Notch> don't knock it until you've tried it =D
+A4:22:01 <08Notch> I want four too =D
+A4:22:02 <Foobu> http://www.minecraft.net/play.jsp?server=70a05f15c4c27a3a65b49af428e31bd8
+A4:22:03 <08Notch> hey jte
+A4:22:05 <Foobu> oh hi notch
+A4:22:11 <08Notch> hey Foobu
+A4:22:25 <JTE> I never got to speak to you before, Notch.
+A4:22:50 <Parthon> I have two, it's awesome
+A4:22:52 <08Notch> =)
+A4:22:57 <Foobu> i got him to change me password once, and he joined my server for like 5 sec and left =(
+A4:23:05 <Foobu> that was fun
+A4:23:07 <Parthon> but windows is wanky when changing resolutions .. stupid full screen games
+A4:23:16 <08Notch> heh, yeah, parthon..
+A4:23:57 <JTE> I have a server, Notch. :3 I programmed it completely from scratch entirely in Perl. It's thousands of lines long and requires absolutely nothing from the official server or client, yet has every command the official server has and more. What should I do with it?
+A4:24:21 <08Notch> legally and morally you can do anything you want with it. =)
+A4:24:25 <Foobu> (and some really cool ones btw)
+A4:24:33 <08Notch> but personally, I'd appreciate it if you kept spreading to a minimum until the game is completed
+A4:24:50 <JTE> Morally I can't distribute it at all until I remove the /nick command.
+A4:24:54 <08Notch> as long as you didn't base it off anything someone else has made, it's all your property
+A4:24:55 <Foobu> hmm notch how do you feel about the flying engine known as "minecraft standalone"
+A4:24:59 <Foobu> and noclip etc
+A4:25:06 <Foobu> is it allowed?
+A4:25:14 <JTE> ^ My server has guards against that sort of thing, too.
+A4:25:16 <JTE> :P
+A4:25:26 <Foobu> haha
+A4:25:28 <Foobu> yeah
+A4:25:36 <08Notch> Foobu: well, I want people to have fun with the game. But if people are using it to cheat and grief, it's a problem
+A4:25:43 <Foobu> absolutely
+A4:25:45 <Adura> Consider the stance of the server admin, too.
+A4:26:09 <Foobu> it's good that it's underground
+A4:26:10 <JTE> Okay then, so the server is mine and I can do whatever I want with it. Yay. :3
+A4:26:22 <Foobu> i would hate seeing flying griefers that have an autoclicker to destroy everything in seconds
+A4:26:35 <JTE> Now I just need to finish the client I'm working on. And put it on my website. And make it a completely different game.
+A4:26:42 <Foobu> rofl
+A4:26:51 <JTE> And have everyone think it's stupid and not care, because Notch is awesome.
+A4:26:52 <08Notch> if you make everything from scratch, that's very cool. =)
+A4:27:02 <JTE> Yeah, but I'm just a programmer.
+A4:27:14 <JTE> I can't do any art of any kind for it, so I'm stuck making 'mods' and things like that.
+A4:27:16 <08Notch> competition is a very good thing, and I encourage people to make games. =D
+A4:27:23 <Parthon> JTE: I'm just thinking, with your server it would be possible to make an autorepair spleef arena
+A4:27:28 <Adura> Make all the blocks display their hex values.
+A4:27:32 <08Notch> if they "rip off" my ideas, it just means I'm clever. ;)
+12A4:27:34 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (Ping timeout: 180 seconds)
+A4:27:34 <JTE> Parthon: I've done that before too.
+A4:27:49 <Adura> Minecode!
+A4:27:54 <08Notch> worst case, someone makes something better, and minecraft dies.
+A4:28:02 <Foobu> never
+A4:28:19 <08Notch> Foobu: Even if it happens, it's not the end of the world. I'd still finish the game. =)
+A4:28:21 <Parthon> Notch: even then, from what you've learnt, experienced and earnt so far, was it worth it? :P
+A4:28:36 <Foobu> haha
+A4:28:43 <08Notch> absolutely. I'm interested in making games and showing the world that it can be done. :D
+A4:28:44 <Adura> You make it sound like he's dying.
+A4:28:46 <JTE> Notch, I am also very lonely, and have been struggling to find people to work with. :< I would like to work with you on something or other sometime, though I rather dislike Java.
+A4:29:12 <08Notch> JTE: Talk to me after minecraft is done. =) I'm starting with a solo project just to get used to the business
+A4:29:20 <08Notch> I've got many plans for other cool games in the future
+A4:29:26 <Foobu> Notch: did you see the script redshift made, the perfect globe replica
+A4:29:29 <Foobu> the massive one
+A4:29:33 <08Notch> yes! very cool stuff
+A4:29:35 <Adura> Find an open source game project or two, JTE.
+A4:29:37 <Foobu> it's really.....jaw dropping
+A4:29:49 <08Notch> people keep blowing my c^Hmind
+A4:30:17 <JTE> Well okay... But if other people come to you and say they want to work with you on stuff, you'd better say the same to them or bring me along. I'll always be here waiting. oo;
+A4:30:53 <08Notch> hehe, I've turned down everyone who's asked about helping with minecraft, except for C418
+A4:30:58 <JTE> And by "you'd better", I mean "or else I'll be a very sad JTE. :<"
+A4:31:03 <08Notch> haha
+A4:31:06 <Foobu> show him the server jte
+A4:31:10 <Foobu> linklink
+A4:31:16 <Foobu> some cool stuff there...
+A4:32:18 <JTE> I'm a bit embarassed of the poor map generator, but okay ...
+A4:32:25 <Foobu> hah
+A4:32:28 <Foobu> it's actually quite impressive
+A4:32:32 <Foobu> despite what you think
+A4:32:33 <JTE> http://www.minecraft.net/play.jsp?server=530ae5b55ff0a56c21fc24e1f3140d7
+10A4:41:08 * autoswim (wry@c-98-203-7-168.hsd1.fl.comcast.net) has joined #minecraft
+04A4:41:08 autoswim has the same ISP district as chewy.
+A4:41:14 <08Notch> neatobuckets =D
+A4:41:20 <autoswim> buckets o fun
+A4:41:23 <autoswim> ooh mr bucket
+A4:41:41 <08Notch> oh wow 850 purchases
+A4:42:02 <Foobu> I bought the game 400 times : 3
+A4:42:03 <Foobu> jk
+A4:42:05 <autoswim> didnt your last post about purcahses show like 450?
+A4:42:13 <autoswim> also purchases ignore the rum
+A4:42:29 <08Notch> i don't remember when I last blogged it, autoswim. =)
+A4:42:32 <08Notch> the rum? :-O
+A4:42:38 <autoswim> i cannot survive without rum
+A4:42:45 <JTE> I sold a license to my server's code once.
+A4:42:48 <08Notch> alrightie then =D
+A4:42:55 <Foobu> notch, are you planning on making other blocks unbreakable by others? just curious
+A4:42:56 <JTE> Then I used it to purchase.
+A4:42:59 <Parthon> Notch: still with paypal?
+A4:43:04 <Parthon> oh .. did you get that sorted?
+A4:43:18 <JTE> :3
+A4:43:20 <autoswim> paypal likes to screw people over who receive large amounts in a short time
+A4:43:21 <08Notch> Foobu: No, not really. the game I want to make is survival, not creative
+A4:43:30 <08Notch> Parthon: yeah, it seems to work
+A4:43:31 <autoswim> i remember when paypal fucked over some SA Goons for the Katrina relief fund
+A4:43:35 <Foobu> haha ohhh i read about that
+A4:43:44 <Foobu> yeah everyone is being all creative with it hahaha
+A4:44:37 <JTE> I like survival.
+A4:44:44 <autoswim> I can't wait for death :x
+A4:44:50 <Foobu> yeah i'm really looking forward to that
+A4:44:53 <JTE> I made breaking gold ore blocks add 10 to your gold count
+A4:44:58 <autoswim> Lava pits yesss
+A4:44:59 <Foobu> sounds ossum.
+A4:45:01 <JTE> and building solid gold blocks cost 100 gold
+A4:45:15 <JTE> but that was stupid and annoying so I commented it out for now.
+A4:45:30 <08Notch> lol
+A4:46:04 <Foobu> hows the survival coding going?
+A4:46:23 <08Notch> I've been sick for over a week now, so it's been standing still
+A4:46:31 <Foobu> ouch
+A4:46:45 <autoswim> you are going to die of swine flu and we will be left with nothing
+A4:46:46 <08Notch> yeah, it's some kind of throat infection thing. Much sleep, much Discovery Science, heh
+A4:46:53 <Foobu> haha
+A4:46:54 <Foobu> winner
+A4:46:55 <JTE> That's why I'd like to help, mostly.
+A4:47:06 <JTE> Cos while you've been sick, I've been coding feverishly. :3
+A4:47:09 <Foobu> even in...JAVA! don don don
+A4:47:24 <JTE> Feverishly. I'm sick with THE CODE.
+A4:47:39 <08Notch> JTE: I'm almost certainly going to open up an api for the servers. =)
+A4:47:40 <Adura> What convinced you to use Perl, anyways?
+A4:47:54 <08Notch> you can help by requesting what features should be exposed there
+A4:47:59 <Adura> More access via STDERR/STDIN would be nice for me.
+A4:48:12 <JTE> Adura: I hated Java forcing me to put error checking everywhere, when I code so that errors can never occur in the first place.
+A4:48:22 <Adura> Hehe.
+A4:48:26 <08Notch> you can never code so io errors can't occur..
+A4:48:27 <Foobu> how about admin scripts notch, like votekick, autobackups, etc
+A4:48:41 <08Notch> Foobu: Those could be written as server plugins. =)
+A4:48:47 <JTE> Notch: If an error ever occured in my entire Perl script, anywhere, the server would crash and everyone would have been disconnected.
+A4:48:49 <Adura> But yeah, STDERR/STDIN is nice and language agnostic.
+A4:48:54 <Foobu> yeah, but i had trouble installing those =(
+A4:48:59 <autoswim> Foobu: i have a simple batch file that does autobackup and automatically uploads the backups 
+A4:49:05 <08Notch> i mean in the future, with the api
+A4:49:10 <Foobu> =o
+A4:49:11 <autoswim> hrm, guess i could post that
+A4:49:12 <Adura> My Perl scripts do backups.
+A4:49:13 <Foobu> uploads to any site?
+A4:49:17 <autoswim> the 'auto backup' tool that was posted
+A4:49:20 <Adura> Script, rather.
+A4:49:20 <autoswim> yes any site you have ftp access to
+A4:49:29 <Foobu> seeexy
+A4:49:34 <autoswim> i guess i'll post it
+A4:49:36 <JTE> :3 Yes because Adura so totally doesn't have JTE's server script which also does auto backups.
+A4:49:37 <Adura> But yest Notch, make sure It's not Java-only API. Augh.
+A4:49:39 <Foobu> you should
+A4:49:44 <autoswim> because that other autobackup tool requires .net and people bitch about it a lot
+A4:49:50 <08Notch> Adura: Why? the game is written in java
+A4:49:54 <Adura> My script works just fine, thank you.
+A4:50:05 <Adura> Gah, I don't want to use Java.
+A4:50:13 <08Notch> if I make the api java, people can write wrappers for other languages, like lua
+A4:50:22 <JTE> lol lua. oo; Okay~
+A4:50:41 <Foobu> i only know c++ i feel like a noob.
+A4:50:44 <JTE> :3 I once reprogrammed Cave Story from scratch in Lua.
+A4:50:56 <JTE> Then I decided "Lua sucks, what am I using it for. X_x"
+A4:51:08 <JTE> So now I use Perl. ^___^
+A4:51:12 <JTE> True story.
+A4:51:19 <Foobu> Cool story bro?
+A4:51:45 <Adura> More STDERR/STDIN stuff, things that'd give a lot of control. Guess it'd require a server.properties flag for verbose info.
+A4:51:56 <JTE> Foobu: You're still sitting in my server staring blankly at the lava river.
+A4:52:27 <peerkoel> hi all
+A4:55:21 <08Notch> hi peerkoel
+A4:55:49 <Foobu> hello
+A4:56:29 <Foobu> ok well notch, great talking to you
+A4:56:32 <Foobu> always a pleasure
+A4:56:33 <Adura> First thing that'd be nice, is sending /command attempts to STDERR for non-Ops like it does for Ops.
+A4:56:34 <Foobu> sleep time
+A4:56:43 <Foobu> and JTE; very impressive server
+A4:56:59 <Foobu> and /agree adura
+A4:57:07 <Foobu> that would help alot of scripts
+A4:57:10 <Foobu> addons
+A4:57:11 <Foobu> w/e
+A4:57:12 <autoswim> JTE do you have a server up :3
+A4:57:24 <Foobu> he does have a CRAZY cool server up
+A4:57:28 <autoswim> linkkkk
+A4:57:30 <Foobu> it's pretty funky
+A4:57:32 <Foobu> ask him
+A4:57:39 <autoswim> I am
+12A4:57:41 * Undead_Sheep (tnt4693@dynamic-67-22-79-155.syban.net) Quit (Quit: Client Exited)
+A4:58:30 <Foobu> k sec let me ask if you can
+10A4:58:32 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) has joined #minecraft
+A4:59:08 <JTE> autoswim: Yesh, I have a server up.
+A5:00:23 <autoswim> sweet
+12A5:09:41 * do0han (doohan@client-86-10-18-211.bmly.adsl.virgin.net) Quit (Ping timeout: 180 seconds)
+12A5:11:04 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) Quit (Quit: Leaving)
+A5:12:19 <Parthon> JTE: I just like the idea of being able to inject data into the level while it's running :D
+10A5:15:23 * C418 (C418@p5B3D5494.dip.t-dialin.net) has joined #minecraft
+10A5:15:26 * ChanServ sets mode: +o C418
+12A5:19:04 * RaymondTracer (RayTracer@123-2-96-182.static.dsl.dodo.com.au) Quit (Read error: Connection reset by peer)
+10A5:22:03 * cryzed (cryzed@i59F5CD1A.versanet.de) has joined #minecraft
+A5:24:58 <autoswim> http://www.minecraft.net/play.jsp?server=97ac679630bae36e15c5f5b13d3c0cfb
+A5:27:09 <JTE> Parthon: Inject data...?
+12A5:29:14 * Bobo (bodieh@124-169-242-121.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+10A5:30:09 * Bobo (bodieh@124-169-242-121.dyn.iinet.net.au) has joined #minecraft
+12A5:31:23 * Bobo (bodieh@124-169-242-121.dyn.iinet.net.au) Quit (Quit: Client Exited)
+10A5:34:51 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) has joined #minecraft
+A5:35:42 <chrstfer> hello
+10A5:35:47 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) has left #minecraft
+A5:36:14 <JTE> ...
+A5:36:22 <JTE> Hello to you too.
+A5:36:27 <Cue> JAY TEE EEE
+10A5:36:34 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) has joined #minecraft
+A5:36:37 <JTE> CEE YOU EEE
+A5:36:39 <Cue> Already geting into the coding gig here then? =P
+A5:36:41 <chrstfer> hello
+A5:36:51 <JTE> Old news, I've been at it for weeks now.
+A5:37:05 <JTE> Coding is what I do,.
+A5:37:10 <JTE> It's all I know.
+A5:37:12 <Cue> Heh
+A5:37:21 <Cue> and this is why you'll never get laid. :D
+A5:38:38 <chrstfer> ok one question. is notch really on, or he just logged in?
+A5:38:41 <JTE> One day I'm going to have money. Then I can screw the rules.
+A5:39:28 <JTE> For now, I can only screw the rules, I have programs.
+A5:39:40 <08Notch> i'm on, but I'm not reading irc actively
+A5:39:52 <08Notch> I lost a monitor yesterday, so I don't have it up all the time
+A5:40:37 <JTE> Mmm...
+A5:41:05 <JTE> at least autoswim gave me a few new things to code.
+A5:41:06 <chrstfer> that sucks. lost a monitor?
+A5:41:10 <chrstfer> how?
+10A5:41:26 * smn`offline is now known as smn
+A5:41:32 <08Notch> it broke! It started blinking like hell. When I turned it on/off, it showed a very dim image
+A5:41:41 <smn> Notchies!
+A5:41:44 <08Notch> so I turned it off/on again, and it was blinking again
+A5:41:54 <08Notch> then it started making a noise, and it doesn't have any speakers.. heh
+A5:41:56 <smn> long time no see :B
+A5:42:00 <08Notch> hey smn =)
+A5:42:08 <08Notch> how's up?
+A5:42:20 <smn> not up at all, just GOT up! ;D
+A5:42:20 <chrstfer> what kind of monitor? crt or liquid crystal?
+A5:42:25 <08Notch> tft
+A5:43:11 <chrstfer> oh.
+A5:43:23 <chrstfer> dont know how to fix those. =p
+13A5:43:55 * smn feels like a bum
+A5:44:03 <smn> OH WHAT THE HELL, WINDOWS.
+13A5:44:05 * chrstfer does as well
+13A5:44:15 * chrstfer is tired
+A5:44:15 <smn> i installed roughly 150 megabutts of updates yesterday
+A5:44:22 <smn> now i get a beautiful cloud popup saying
+A5:44:23 <08Notch> i think I
+A5:44:26 <smn> NEW UPDATES AVAILABLE
+A5:44:30 <smn> WHAT IS THIS!!! :D
+A5:44:31 <08Notch> 'm going to have to buy a new monitor :-(
+A5:45:02 <smn> they disguise Internet Explorer 8 as an "important update"
+A5:45:07 <smn> meeeeeeh~
+A5:45:28 <autoswim> a mew monitor why
+A5:45:29 <autoswim> new
+A5:45:32 <vdgmprgrmr> Whoa hey Notch is here.
+A5:45:33 <autoswim> you should have 4 in storage
+A5:45:34 <autoswim> like i do
+A5:45:46 <08Notch> vdgmprgrmr
+A5:46:47 <chrstfer> lol.
+10A5:46:53 * Foobu1 (Mibbit@pool-71-104-110-50.lsanca.dsl-w.verizon.net) has joined #minecraft
+A5:47:08 <JTE> Can I get to keep my skin despite having a red name plz? :<
+A5:47:13 <chrstfer> so... you made my favorite game, other than WoW(and it almost tops that)
+A5:47:15 <JTE> I like feeling special.
+A5:47:17 <autoswim> Foobu
+A5:47:19 <autoswim> this is awesome
+A5:47:21 <chrstfer> impressive notch. i have to say
+A5:47:41 <Foobu1> yeah
+10A5:47:45 * ramseh (Mibbit@c-69-255-98-24.hsd1.md.comcast.net) has joined #minecraft
+A5:47:46 <JTE> chrstfer: So you like things with 'craft' in the name. I bet your favorite food is mac 'n cheese, too?
+A5:47:46 <08Notch> thank you, chrstfer!
+A5:47:47 <Foobu1> sorry bout that, browser crash
+12A5:47:54 * ramseh (Mibbit@c-69-255-98-24.hsd1.md.comcast.net) Quit (Quit: Client Exited)
+A5:47:56 <autoswim> dude
+A5:47:59 <08Notch> JTE: I can make the client strip color chars when looking up the skin =)
+A5:48:01 <autoswim> craft mac n cheese is the bomb
+A5:48:01 <Foobu1> i know
+A5:48:08 <vdgmprgrmr> Minecraft is definitely going into my Best Games in the Universe when it hits later, fuller versions.
+A5:48:13 <JTE> Would be nice. o.o
+13A5:48:21 * Notch does so immediately
+A5:48:38 <JTE> I can add a /mute command that makes your name dark red and not able to chat. >:3
+12A5:48:38 * Foobu (Mibbit@pool-71-104-110-50.lsanca.dsl-w.verizon.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A5:48:51 <JTE> Or something silly like that.
+A5:48:55 <08Notch> haha
+A5:48:58 <vdgmprgrmr> Does what immediately?
+A5:49:06 <chrstfer> JTE: the name craft is the awesomeest. someday i shall change my name to ChrstferCRAFT
+A5:49:41 <vdgmprgrmr> Ohhh I see now, nevermind.
+A5:49:47 <JTE> I'm going to name my Minecraft MMO server "World of Minecraft"
+A5:50:10 <JTE> And it'll work by having a bunch of different maps on the server, all connected at the seams. :3
+A5:50:56 <08Notch> WHY did I put the remote player stuff in the network package? haha
+A5:51:02 <vdgmprgrmr> JTE, are you able to do teleportation?
+A5:51:02 <08Notch> I really really have to refactor this
+A5:51:15 <JTE> vdgmprgrmr, both /tp and /fetch
+A5:51:23 <JTE> I like /fetch. :3
+A5:51:33 <vdgmprgrmr> No I mean, like, teleport a player to some specified location.
+A5:51:50 <JTE> It teleports the player to you. I could make it teleport the player to anywhere I want if I code it though.
+A5:52:00 <vdgmprgrmr> Coo.
+A5:52:00 <JTE> Even to completely different maps.
+A5:53:01 <chrstfer> is it possible to mod the server file? 
+A5:53:04 <JTE> I might try making a large overworld by having each 'actual' map be a 32x32 box in the center of a 64x64 map and use the extra space to fill in parts of other maps and keep it all synchronised...
+A5:53:17 <chrstfer> or some other way to get fun things?
+12A5:53:34 * Syniphas (Syniphas@189-015-44-241.xd-dynamic.ctbcnetsuper.com.br) Quit (Quit: Read error: 498 (DON'T PANIC))
+A5:53:54 <JTE> But then I'd need a good map generator or something.
+A5:54:04 <JTE> Or at least a better one ..
+10A5:54:30 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+A5:54:42 <JTE> Hey citricsquid
+10A5:54:47 * ChanServ sets mode: +o citricsquid
+A5:54:50 <citricsquid> hi :)
+A5:54:56 <chrstfer> hey wasup?
+A5:55:00 <vdgmprgrmr> Yo.
+A5:55:04 <JTE> I am a lucky fellow: I get to tell everyone that the Notch griefed my server and flooded it with lava.
+A5:55:05 <JTE> >> <<
+A5:55:17 <vdgmprgrmr>  :D
+A5:55:19 <08Notch> haha, I was testing the lava flow code :D
+A5:55:21 <08Notch> it worked great
+A5:55:28 <citricsquid> =o banbanban
+A5:55:31 <vdgmprgrmr> Lava flow code?
+A5:55:42 <JTE> vdgmprgrmr: I programmed my own server from scratch and showed Notch. :3
+A5:55:43 <chrstfer> is it possible to send pm's on irc?
+A5:55:44 <JTE> It was cool.
+A5:55:51 <JTE> chrstfer: /query <nick>
+A5:56:10 <chrstfer> ok. ty. how can you program a server?
+A5:56:16 <JTE> Very carefully.
+A5:56:16 <chrstfer> explain.
+A5:57:32 <vdgmprgrmr> Mmkay, back to watching stuff now.
+A5:57:33 <JTE> My server is 2,232 lines long.
+A5:57:36 <JTE> Of pure Perl code.
+A5:57:55 <JTE> Which I hand wrote from the ground up :3
+A5:58:07 <JTE> Across 6 files
+A5:58:33 <JTE> Using nothing but network traffic logs from a proxy system I also coded in perl.
+A5:59:00 <chrstfer> i dont understand though, HOW? is not the server in java
+A5:59:01 <citricsquid> liar, I bet you followed a tutorial! ;)
+A5:59:14 <JTE> The original server was written in Java.
+A5:59:26 <JTE> My server is completely seperate from it, and uses nothing it does.
+A5:59:32 <JTE> It can't even use the same server_level.dat files
+A6:00:04 <citricsquid> ;o
+A6:00:06 <Adura> That'll be confusing. :P
+A6:00:17 <Adura> Unless you made the files more verbose...
+A6:01:57 <Ausfriend> Notch, i hate to bother you and everything but is mac support coming back soon?
+A6:02:20 <JTE> I made the files more simple.
+A6:02:51 <08Notch> what, mac support broke again?
+A6:03:01 <08Notch> i had missed that..
+A6:03:19 <Ausfriend> Yeah, a lot of people can't run it, and a fix that was posted doesn't work for everyone
+A6:03:24 <JTE> It's just the map size, spawn point, and blocks. No name, no author, no save time, none of that. Later I'm gonna add NPCs to it, though.
+10A6:03:47 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) has joined #minecraft
+A6:04:00 <Cue> Now go make an isometric level editor, JTE.
+A6:04:05 <Cue> Then I will love you. :D
+A6:04:05 <citricsquid> JTE: It'd be awesome if we could chase NPCs into lava and got points for killing them :P
+A6:04:20 <JTE> Heh
+A6:05:08 <chrstfer> it would be cool if lava flowed up, at a MUCH slower rate than it flows down. that way its possible for maps like mine
+A6:05:29 <chrstfer> vlocano's and such
+A6:06:41 <Cue> It'd be awesome if stuff actually flowed. =P
+A6:06:49 <citricsquid> water affected by gravity and pressure would be so awesome, it'd make waterfalls easier :D (http://minecraftforum.net/viewtopic.php?id=946 would be redundant though :()
+A6:06:50 <JTE> chrstfer: Or I could just add dynamite tiles that explode and cause lava and water to get sent upwards from explosions.
+A6:07:37 <JTE> Which are doubly helpful because then digging pits would be easier too.
+A6:08:16 <peerkoel> bombs?
+A6:08:22 <peerkoel> enter Minecraft 1942
+A6:08:47 <Cue> Nuclear explosions.
+A6:08:57 <JTE> Nuke-ear
+A6:09:00 <JTE> explosions.
+10A6:09:17 * Rroff (msrp24@host86-177-11-216.range86-177.btcentralplus.com) has joined #minecraft
+12A6:09:45 * Foobu1 (Mibbit@pool-71-104-110-50.lsanca.dsl-w.verizon.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A6:10:06 <JTE> Oh oh
+A6:10:14 <JTE> If I make them look like glass blocks
+A6:10:19 <JTE> They'll be new clear weapons.
+A6:10:38 <peerkoel> d'uhhhhh
+A6:10:41 <peerkoel> right
+A6:10:46 <Cue> http://instantrimshot.com/
+A6:10:56 <chrstfer> is it possible to raise the water level ingame? please tell me it IS!
+A6:11:12 <peerkoel> by adding water
+A6:11:13 <JTE> Water never goes up.
+A6:11:25 <JTE> 'Just add water!'
+A6:11:27 <Spadge> only if you use a map editor
+A6:11:39 <Spadge> but nothing ingame can
+A6:11:49 <JTE> Unless you're on JTE's awesome server of awesomeness.
+A6:11:54 <JTE> :]
+A6:12:25 <peerkoel> it's ok to add anything, you can just sponge it up later
+A6:12:29 <Cue> http://minecraftforum.net/viewtopic.php?id=80
+A6:12:37 <Cue> WHY DID NOBODY TELL ME ABOUT THIS? :(
+A6:12:44 <Ausfriend> Ive always wanted to know this; what does Spleef mean?
+A6:13:04 <Cue> Sounds a bit like that word for a vaginal fart.
+A6:13:14 <peerkoel> that's classified
+A6:13:15 <JTE> It's a sport.
+A6:13:21 <JTE> We play it in the FBI.
+A6:13:22 <peerkoel> and it's not queef
+A6:13:23 <citricsquid> haha cue :D
+A6:13:46 <Ausfriend> i mean like
+A6:13:49 <Ausfriend> Spleef servers
+A6:13:49 <JTE> It requires guns.
+A6:13:53 <JTE> And water.
+A6:13:55 <JTE> And blocks.
+A6:14:01 <JTE> >> <<
+A6:14:05 <citricsquid> minecraft checkers is awesome
+A6:14:12 <JTE> Yesh it is, citricsquid.
+A6:14:13 <JTE> :3
+A6:14:20 <Spadge> :S
+A6:14:21 <JTE> I want to help...
+A6:14:26 <Adura> http://whois.domaintools.com/instantrimjob.com Hah.
+A6:14:34 <JTE> With the checkers-playing game.
+A6:14:40 <chrstfer> its a spleef and according to the wiki it rymes with greef, because that is what you are doing
+A6:14:42 <JTE> I will code it. :3
+A6:15:34 <JTE> Have spleef, will travel.
+A6:15:40 <citricsquid> http://filebox.me/files/4dvp10tj8_moth.JPG
+A6:15:55 <citricsquid> There was 2 of those in my room last night, biggest moth I've ever seen :O
+A6:16:11 <chrstfer> notch, letting admins place water and lava would pwn ASS!
+A6:16:18 <Ausfriend> You've obviously never been to Australia, then.
+A6:16:23 <Ausfriend> our wildlife is out to kill us
+A6:16:24 <JTE> JTE already did that, chrstfer... :<
+A6:16:25 <Spadge> AU rox
+13A6:16:27 * JTE mews...
+A6:16:41 <Rroff> citricsquid I had some of those in the other day
+A6:16:43 <Cue> That's pretty big, citricsquid
+A6:16:46 <Rroff> but they were changing color
+A6:16:46 <Cue> It's also pretty
+A6:16:49 <Cue> Compared to normal moths
+A6:16:50 <Rroff> to match the background
+A6:16:53 <Spadge> letting admins create water and lava would be stupid imo
+A6:16:58 <Ausfriend> They're tiny
+A6:16:59 <Ausfriend> get real
+A6:17:07 <citricsquid> rroff: awesome
+A6:17:15 <chrstfer> nice, can i enter the beloved JTE's server?
+A6:17:22 <Cue> http://www.cairns.com.au/article/2008/05/16/3881_local-news.html This one's bigger
+A6:17:27 <JTE> http://www.minecraft.net/play.jsp?server=530ae5b55ff0a56c21fc24e1f3140d7
+A6:17:27 <JTE> I'm testing something right now, though
+A6:17:43 <JTE> But I think it works.
+A6:17:43 <Adura> I put water in a tree, someone destroyed the tree.
+A6:17:52 <citricsquid> pffffffft, it's australia, you have weird everything.
+A6:17:53 <JTE> Yeah, it's all good.
+A6:18:12 <Ausfriend> see
+A6:18:12 <JTE> Adura: I put lava in a pit, Notch destroied the pit..
+A6:18:15 <08Notch> that.. moth.. has to be.. fake..
+A6:18:15 <Ausfriend> com.au
+A6:18:24 <JTE> So it happens often.
+A6:18:29 <Cue> Hercules moths are massive.
+A6:18:49 <Cue> http://images.google.co.uk/images?q=hercules%20moth&oe=utf-8&rls=org.mozilla:en-GB:official&client=firefox-a&um=1&ie=UTF-8&sa=N&hl=en&tab=wi
+A6:19:05 <Adura> Hah, somone had some fun on my small map.
+A6:19:21 <chrstfer> your map seems to have crashed mah firefox...
+A6:19:26 <JTE> mew...?
+A6:19:36 <JTE> That's very strange. Let me generate a new one...
+A6:19:38 <Ausfriend> Cue: look how badass that caterpillar looks
+A6:19:50 <Cue> inorite
+A6:19:52 <Cue> It has spikes
+A6:19:57 <Cue> It looks like Sonic the Hedgehog
+A6:20:13 <Ausfriend> but can Sonic turn into a giant flipping moth
+A6:20:15 <Ausfriend> no sir
+A6:20:16 <Ausfriend> it cannot.
+A6:20:25 <Rroff> http://aten-hosted.com/images/moth.jpg
+A6:20:31 <Rroff> can guess which bit it was on before :P
+A6:20:44 <citricsquid> oh wow
+A6:20:45 <citricsquid> awesome
+A6:21:06 <Rroff> bit smaller than yours tho
+A6:22:26 <Ausfriend> Notch, a question about premium. If you prepurchase now, do you get free updates to the full version?
+A6:22:33 <08Notch> yes
+A6:22:40 <Cue> Remind me, what does premium give...?
+A6:22:47 <08Notch> the game, cue. =)
+A6:22:47 <Ausfriend> ah great
+A6:22:50 <08Notch> the game won't be free when it's done
+A6:22:52 <Cue> touche.
+A6:22:52 <citricsquid> skins! :D
+A6:23:06 <Cue> ffff
+A6:23:09 <Ausfriend> and you will be increasing the price when its done?
+A6:23:09 <Cue> stupid exchange rate
+A6:23:15 <08Notch> Ausfriend: Yes
+A6:23:19 <Ausfriend> ic
+A6:23:20 <Cue> I remember a time when 9.95 euros was more like £5 :(
+A6:23:29 <peerkoel> good old days hm
+A6:23:31 <Ausfriend> and Cue, i agree. Euros is a fail currency
+A6:23:31 <Ausfriend> no offense.
+A6:23:35 <Cue> No
+A6:23:42 <Cue> The pound is weak as hell
+A6:23:43 <08Notch> Cue: Yeah.. that's the reason I change in euros. Dollars<->Swedish Kronor is very random
+A6:23:44 <Cue> That's why.
+A6:24:07 <Cue> How much would is be in Kronor?
+A6:24:19 <08Notch> I get about 100 kronor per sale now
+A6:24:36 <Cue> That's £7.77... :o
+A6:24:49 <08Notch> sounds about right
+A6:24:51 <citricsquid> What can 100 Kronor buy you? :D
+A6:24:58 <08Notch> two big mac meals. :D
+A6:25:03 <citricsquid> :D
+A6:25:05 <08Notch> or, well, just under that
+A6:25:10 <08Notch> like 1.75 big mac meals
+A6:25:20 <Adura> You just lost the vegan potential customers.
+A6:25:24 <citricsquid> Did sales pick up yesterday? It seems to have gone up over 70 in the past 24 hours.
+A6:25:43 <Ausfriend> Minecraft is ¬£10 yeah?
+A6:25:49 <08Notch> citricsquid: heh, no, not 70. But it's gone up, yes
+A6:25:57 <Rroff> 9.99 euro I think
+A6:25:58 <08Notch> I think the average for the last few days has been about 20 per day
+A6:26:02 <08Notch> 9.95 euro
+A6:26:04 <Rroff> so like £8.16 or something
+A6:26:05 <peerkoel> 9,95 for me
+A6:26:06 <Ausfriend> right
+A6:26:14 <Ausfriend> thats like $15 AUD
+A6:26:17 <Ausfriend> which sucks :(
+A6:26:23 <Cue> So how much is this getting you, Notch...? o.o
+A6:26:32 <citricsquid> Notch: I have no sense of time anymore, It felt like 24 hours ago when it said ~780 :D
+A6:26:33 <08Notch> Cue: It's all on the front page. =)
+A6:26:45 <08Notch> I've sold like 850 copies, at 100 sek each, that's 85000 kronor
+A6:26:51 <08Notch> after taxes, I get like 40000
+A6:27:04 <Cue> £111
+A6:27:05 <08Notch> which would last me about three months if I quit my job. :D
+A6:27:05 <Ausfriend> ouch, taxes in sweden must suck
+A6:27:05 <Cue> Nice
+A6:27:05 <citricsquid> 850 * 9.95 - ~5% of paypal fees 
+A6:27:10 <Ausfriend> i heard its 56% tax?
+A6:27:20 <Cue> Now if only Xbox Live Community Games was that good
+A6:27:22 <08Notch> something like that, yes, Ausfriend 
+A6:27:28 <Rroff> ouch that sucks
+A6:27:29 <Ausfriend> bugger
+A6:27:29 <Cue> Because the CG section is really poor right now
+A6:27:30 <citricsquid> move to cuba! They don't have taxes do they?
+A6:27:36 <Cue> You get these shitty games like Rumble Massage
+A6:27:44 <Cue> Where's the good stuff? :(
+A6:27:45 <08Notch> I don't mind paying taxes really.. but when I have to pay more than I get to keep, it kinda stings..
+A6:27:59 <Ausfriend> move to Finland
+A6:28:05 <08Notch> there are a few loopholes, though
+A6:28:17 <08Notch> like if I buy a new monitor, I pay that via the company and don't have to pay taxes
+A6:28:17 <Cue> Wait ,my mistake
+A6:28:20 <Cue> £3111...
+A6:28:23 <citricsquid> That happens here in the UK, the richest of society pay well over 50% which is silly, makes it pointless to earn lots.
+A6:28:25 <08Notch> so the monitor is half price for me. :D
+A6:28:28 <Cue> You've seriously got that much?
+A6:28:38 <Cue> £3000+ from this? :O
+A6:28:46 <08Notch> huh? i don't think it's that much, no
+A6:28:48 <Rroff> and counting
+A6:28:56 <Cue> 40,000 SEK is £3k.
+A6:29:01 <08Notch> oh wow
+A6:29:02 <Rroff> take out server costs
+A6:29:03 <Cue> http://www.google.co.uk/search?hl=en&client=firefox-a&rls=org.mozilla%3Aen-GB%3Aofficial&hs=0TG&q=40000+sek+in+gbp&btnG=Search&meta=
+A6:29:08 <Rroff> and its around £3K
+A6:29:15 <08Notch> the server is 200 dollars per month
+A6:29:19 <Cue> That's a lot...
+A6:29:20 <citricsquid> cheapcjeap
+A6:29:22 <Cue> What do you get for that?
+A6:29:22 <citricsquid> cheap*
+A6:29:28 <08Notch> it's a pretty good server. =)
+A6:29:32 <Ausfriend> Notch, did you base this off Infiniminer or did you make it from scratch with an idea from Infiniminer.
+A6:29:36 <08Notch> i think I blogged it a while back, Cue
+A6:29:46 <08Notch> Ausfriend: It's written from scratch
+A6:29:53 <Cue> We pay $99 for a Phenom, 4GB RAM, 500GB HDD and 1.5tb bandwidth... :S
+A6:29:53 <citricsquid> http://notch.tumblr.com/post/126392210/moving-to-the-new-web-server
+A6:29:55 <Cue> On a 100mbit port
+A6:30:08 <Cue> ahhh
+A6:30:13 <Cue> That's nice
+A6:30:18 <Cue> What the hell do you use it for though?
+10A6:30:31 * rosetta (Rosetta@78.150.78.75) has joined #minecraft
+A6:30:36 <08Notch> i will use it for all my projects
+A6:30:43 <08Notch> mojang.com will move there once I get around to it
+A6:30:50 <Cue> I mean, isn't most of it done clientside in SP?
+A6:30:52 <08Notch> and I'll make more games in the future
+A6:30:58 <Cue> And the bandwidth is sucked from the host in MP... :S
+10A6:30:59 * doohan (doohan@client-86-10-18-211.bmly.adsl.virgin.net) has joined #minecraft
+A6:31:10 <Ausfriend> mmmm, Java Console shows nothing erroneous when i start Minecraft, and it doesnt load :(
+A6:31:19 <Cue> Still, that's a damn, damn good deal
+A6:31:21 <Cue> Where's it from?
+A6:31:26 <citricsquid> singlehop.com =D
+A6:31:34 <08Notch> yep. citricsquid recomended them
+A6:31:35 <JTE> Hi rosetta.
+A6:31:51 <rosetta> hey
+13A6:31:58 * Cue came
+A6:31:58 <JTE> I hear you have a server too? :3
+A6:32:05 <Cue> Do they do any unmetered?
+A6:32:17 <rosetta> Yeah I'm trying to make one
+A6:32:25 <citricsquid> cue: I think the max they do is 10tb
+A6:32:48 <Rroff> you gotta go insane to use 1Tb
+A6:32:52 <Rroff> 10tb even
+A6:32:53 <citricsquid> yeah, 10tb unless you get a custom quote
+A6:32:54 <08Notch> incoming traffic doesn't count towards the limit
+A6:33:11 <Cue> Depends on what you're doing, really
+A6:33:13 <citricsquid> How much have you used so far Notch?
+A6:33:20 <Rroff> I've barely gone over 1Tb on the most insane of bandwidth useages
+A6:33:21 <08Notch> not much. =)
+A6:33:25 <Cue> File hosting would obliterate 10tb probably
+A6:33:28 <Cue> On some servers
+10A6:33:44 * Ste (chatzilla@5ad87e77.bb.sky.com) has joined #minecraft
+A6:33:52 <Cue> The file host provided by a community member for SRB2 apparently used 200gb a day
+A6:33:52 <peerkoel> hm, almost got my grass growing
+A6:33:57 <Rroff> if you were hosting a lot of popular files I guess
+A6:33:57 <Cue> Although I'm not entirely sure that's true
+A6:34:07 <Ste> Hi all
+A6:34:08 <Cue> Considering they were on a 5tb/m servage plan
+A6:34:25 <Cue> And 200gb would wipe it out in a few weeks.
+A6:34:40 <citricsquid> across all my siteas (including minecraft forum and wiki) I get >10,000 uniques a day and only do 1GB bandwidth :D
+A6:34:49 <Cue> Nice.
+A6:34:49 <Rroff> when I was seeding the ETQW demo torrent
+A6:34:58 <Rroff> I was uploading around 3Gigabytes a minute
+A6:35:01 <Rroff> but
+A6:35:03 <Ausfriend> what
+A6:35:06 <doohan> Notch, I'm curios, you don't have to answer if you don't want, but what so far do you think about such open development?
+A6:35:13 <doohan> Is it something you think you'd do for your next game?
+A6:35:15 <Ausfriend> damn i wish i had that sort of internet in Australia
+A6:35:16 <Rroff> after a couple of days that dropped off to almost nothing
+A6:35:17 <chrstfer> DEMO???? a DEMPO as a TORRENT!!!
+A6:35:25 <08Notch> doohan: Absolutely, in a heartbeat
+A6:35:34 <doohan> Cool :)
+A6:35:35 <Ausfriend> it costs me $90 AUD for 5mbit and 150gb dl limit
+A6:35:37 <08Notch> It's a bit scary, hehe
+A6:35:47 <08Notch> but to be honest, I think it's VERY good for goodwill
+A6:36:03 <08Notch> I think my next game(s) will get more sales just because people remember me from minecraft
+A6:36:07 <chrstfer> notch, can you make flying/noclip/cheats for admins, and make them allow others, on a name by name basis?
+A6:36:19 <citricsquid> can I pre-order it now, Notch? ;) 
+A6:36:29 <doohan> Are you at all worried about the possibility of free custom clients for playing with free custom servers?
+A6:36:41 <citricsquid> chrstfer: I think he said no to that before, doesn't want noclip in the game.
+A6:36:42 <Ausfriend> If you released Minecraft on XBLA or PSN you'd get a ton of new customers
+A6:36:50 <Ausfriend> if its possible
+A6:36:51 <Ausfriend> i mean
+A6:37:01 <Cue> Ausfriend, he could release it on Community Games if he wanted to, very easily
+A6:37:06 <Cue> Not PSN though, lots of contracts
+A6:37:06 <citricsquid> If he released it on steam, that'd be awesome.
+A6:37:10 <doohan> I mean people have written compatible servers from scratch. Is it much of a leap to make a matching client?
+A6:37:15 <Rroff> XBLA would be possible I think with a bit of porting
+A6:37:15 <Cue> But Community Games gets very little attention
+A6:37:15 <doohan> Minecraft on steam would be cool.
+A6:37:20 <Ausfriend> Steam is great for indie devs
+A6:37:20 <Cue> Very, very little attention
+A6:37:24 <08Notch> doohan: I'm not worried about competition, that's just cool
+A6:37:26 <Cue> Uh, total port... >_>
+A6:37:27 <Ausfriend> but the tax they induce is heaps
+A6:37:34 <Rroff> for PSN don't you need the development hardware as well?
+A6:37:41 <Rroff> which is like 10 grand up front
+A6:37:42 <08Notch> but I'm a bit worried about people stealing my work. ie cracking the client and distributing that and so
+A6:37:42 <Cue> C#/C++ or gtfo with 360
+A6:37:43 <doohan> That's good, I want to see the finished minecraft :)
+A6:37:44 <citricsquid> Ausfriend: Yeah, but the extra sales would make up for it :D
+A6:37:45 <Cue> You can't use Java =P
+A6:37:49 <Adura> If someone made their own server and client... it'd be an Infiniminer clone. :P
+A6:38:02 <08Notch> but I think that risk is worth it.
+A6:38:13 <Cue> Community Games with C# and XNA would work wonders
+A6:38:14 <peerkoel> cracked?
+A6:38:18 <peerkoel> what?
+A6:38:19 <Cue> You'd have some awesome stuff there
+A6:38:22 <peerkoel> where?
+10A6:38:26 * Arg (chatzilla@d58-104-6-192.dsl.vic.optusnet.com.au) has joined #minecraft
+A6:38:37 <Cue> But it would require a lot of work
+A6:38:46 <Cue> And like I said, CG doesn't get the attention needed for good devs
+A6:39:01 <citricsquid> I think you're in a position where so many people know about minecraft, if a clone came along it'd be ignored and anyone who did play it would end up on minecraft anyway.
+A6:39:14 <Cue> http://uk.gamespot.com/news/6211893.html Although... =P
+A6:39:18 <peerkoel> most possibly citricsquid 
+A6:39:21 <Ausfriend> I dont think many people know about Minecraft
+A6:39:27 <doohan> notch you reckon you would try to put minecraft on the sun store if it's anygood?
+A6:39:27 <Cue> YES
+A6:39:29 <Cue> USER RATING <3
+A6:39:56 <Ausfriend> completely unrelated note: TES Daggerfall is now freeware
+A6:39:57 <Ausfriend> http://www.elderscrolls.com/downloads/downloads_games.htm
+A6:40:21 <citricsquid> Ausfriend: If you consider the biggest forums, somethingawful, facepunch and a few others are pretty much in love with minecraft, any clones would get shot down in an instant.
+A6:40:38 <Ausfriend> not to mention 4chan
+A6:40:43 <Ausfriend> god those goons love that game
+A6:40:55 <citricsquid> goons are somethingawful!
+A6:41:00 <doohan> Yeah
+A6:41:03 <Cue> If you can get 4chan's audience loving your game
+A6:41:04 <Ausfriend> oh
+A6:41:06 <Ausfriend> well then
+A6:41:06 <08Notch> Ausfriend: !!! =D
+A6:41:08 <Cue> You control the Internet.
+A6:41:17 <08Notch> doohan: I'd love to, when it's done. =D
+A6:41:22 <doohan> Sweet
+A6:41:22 <citricsquid> Cue: thank god you didn't call them anonymous <3
+A6:41:29 <08Notch> my dream goal is to end up on steam and/or the stardock one
+A6:41:36 <Ausfriend> eww stardock
+A6:41:47 <Ausfriend> Impulse Digital store or something?
+A6:41:48 <citricsquid> Notch: better get planning achievements then! :D
+A6:41:48 <doohan> The stardock one seems a bit of an underdog just now.
+A6:41:50 <Ausfriend> Yeah, its crap
+A6:41:51 <doohan> Yeah impulse
+A6:42:20 <08Notch> yeah, it's an underdog. but I'd love to see it get bigger. compeition = good
+A6:42:34 <citricsquid> world of goo sold a shit tonne on steam didn't they? If minecraft got like that...
+A6:43:18 <Ausfriend> world of goo had 95% piracy race
+A6:43:21 <Ausfriend> the devs said
+A6:43:28 <Ausfriend> *piracy rate
+A6:43:30 <citricsquid> yeah, and they still made lots of sales :D
+A6:43:53 <doohan> new moneky island demo
+A6:43:59 <chrstfer> notch, how are you feeling? 
+A6:44:04 <doohan> I forgot about that cause I had to use a mobile phone as a modem :)
+A6:44:08 <Ausfriend> brb
+13A6:44:10 * doohan downloads
+A6:44:11 <chrstfer> looking at the dev blog, and you said you was sick
+A6:44:17 <Ausfriend> im gonna ask the 4chan irc about minecraft
+A6:44:17 <08Notch> chrstfer: Better than a week ago, but my throat is still very sore
+A6:44:20 <Ausfriend> yeah i went there
+A6:44:45 <08Notch> I'm not that worried about piracy, to be honest. Sure, I don't want it, and I won't let people legally pirate my game
+A6:44:55 <08Notch> but it's a part of the pc market, and there really are honest customers out there as well
+A6:45:16 <08Notch> so I'd rather make the piracy bit act as advertisement for the game if I can
+A6:45:18 <chrstfer> oh. im smart... lol'
+A6:45:36 <Ausfriend> Steam has very secure DRM, if you are going to release it on that
+A6:45:40 <citricsquid> I'll buy a game if the price is right and I think I'll get my moneys worth, played >40 hours of minecraft which easily makes back the money, there are commercial games I bought and got bored after 20 mins.
+A6:46:03 <Ausfriend> I'd buy minecraft in an instant if i could get it to work
+A6:46:04 <Ausfriend> zzzzzz
+A6:46:21 <Cue> I refuse to buy a game if it has no multiplayer
+A6:46:24 <Cue> If it has, though
+A6:46:26 <Cue> I'm all over it
+A6:46:38 <Cue> The only game I bought that had no multiplayer on the 360 is Superman Returns
+A6:46:42 <Cue> I hate that game, boring as hell
+A6:46:55 <Cue> The better the multiplayer, the more I play it
+A6:47:05 <Cue> Which is probably why Halo 3 is my most player game...
+A6:47:08 <Ausfriend> see: team fortress 2
+A6:47:11 <Ausfriend> low ass piracy rate
+A6:47:15 <Ausfriend> good MP
+A6:47:19 <citricsquid> cheap games are always the best, for some reason. I got CoD1 for £10 and played over 1200 hours of it.
+A6:47:19 <Cue> TF2 on PC, yeah
+A6:47:19 <Ausfriend> and no SP at all
+A6:47:58 <Ausfriend> i bought UT99 packed with the original retail of Unreal for $45 at Harvey Norman 10 years ago and i still play them both today
+A6:47:59 <citricsquid> teamfortress is very well priced, I think that is part of the success it has; it's not a game you have to consider when buying, it's sort of "hey that's cheap and mentioned a lot, I'll buy it!". 
+A6:48:12 <Cue> UT2004 is the best UT ever.
+A6:48:14 <Cue> UT3 sucks. :x
+A6:48:32 <Ausfriend> Ut2004 is the most popular, but UT99 has the best game mechanics
+A6:48:35 <Ausfriend> you cannot argue with this
+A6:49:13 <Ausfriend> Hows the lag on minecraft
+A6:49:15 <Ausfriend> ?
+A6:49:33 <citricsquid> new billy mays advert: http://www.tmz.com/videos?autoplay=true&mediaKey=7f509289-5f8b-43e3-9688-e57c5c96c72c
+A6:49:46 <Ausfriend> but billy died
+A6:49:58 <citricsquid> recorded just before his death!
+A6:50:28 <JTE> Q3A is so better than UT99. >>
+A6:50:47 <Ausfriend> Q3a is more tourney than ut99
+A6:50:50 <08Notch> quake live!!
+A6:50:52 <Ausfriend> more competetive
+A6:50:58 <08Notch> well, I suck at it. But still, QUAKE LIVE!
+A6:51:00 <Ausfriend> quake live is a laggy shitfest
+A6:51:04 <Ausfriend> no offense
+A6:51:09 <citricsquid> is that the browser one?
+A6:51:12 <08Notch> :-(
+A6:51:12 <Ausfriend> yeah
+A6:51:28 <citricsquid> that was fun to play, everyone was too good for me though :(
+A6:51:33 <Ausfriend> you cant put quake onto a browser
+A6:51:37 <Ausfriend> science doesnt work that way
+A6:51:53 <08Notch> lol
+10A6:52:03 * Notch changes topic to 'http://www.minecraft.net  |  <Ausfriend> science doesnt work that way'
+A6:52:14 <08Notch> i don't know why I find that funny :D
+A6:53:00 <JTE> Ausfriend, you can put anything onto a browser with the right plugin. Unfortunately, Quake Live is a custom plugin that requires a whole administrative installation process and installs two mostly-unremovable PunkBuster services whether you like it or not, thus eliminating most of the POINT of it being browser-based.
+A6:53:17 <JTE> They're doin it wrong. :(
+A6:53:27 <citricsquid> battlefield heroes is pretty cool
+A6:54:14 <Ausfriend> urgh
+A6:54:17 <Ausfriend> punkbuster
+A6:54:24 <Ausfriend> one of the reasons i stopped playing call of duty
+12A6:54:28 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) Quit (Quit: Leaving)
+A6:54:50 <Ausfriend> Punkbuster kicked me once because apparently 'Punkbuster has not been initliased'
+A6:54:55 <citricsquid> I never had problems with PB, but a few friends couldn't play CoD1 because of punkbuster crapping out, wouldn't ever let them play.
+A6:55:02 <Ausfriend> How do you kick me if you haven't started ¬¨_¬¨
+A6:55:09 <chrstfer> im bored
+A6:55:50 <JTE> I'm JTE.
+A6:55:54 <JTE> Nice to meet you, bored.
+A6:56:45 <citricsquid> Should topics on the forum based around a specific server be allowed? People keep making topics about their own servers and I have no idea if they should be allowed to stay; quick, community survey, go!
+A6:57:10 <Ausfriend> sure, like an advertising sub forum?
+A6:57:45 <Ausfriend> haha oh god, i lold more than i should of
+A6:57:46 <Ausfriend> http://zip.4chan.org/v/src/1247309739448.jpg
+A6:58:27 <citricsquid> lmao wat
+A6:59:55 <citricsquid> Notch; how many unique visitors does minecraft.net get a day?
+A7:00:27 <08Notch> lemme check..
+A7:01:40 <chrstfer> who is still here?
+A7:01:55 <Ausfriend> not me
+12A7:02:10 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) Quit (Quit: Client Exited)
+A7:02:14 <Ausfriend> hopelessly trying all sorts of methods to get minecraft to work :(
+A7:02:15 <08Notch> about 5000
+A7:02:28 <Ausfriend> haha, he left before your answer
+A7:02:30 <Ausfriend> ohhhhhhhhhhh snap
+A7:02:37 <chrstfer> 5000 NEW PEOPLE?!?!?!?!
+A7:02:42 <chrstfer> A DAY!!!!!!\
+A7:02:45 <08Notch> 5000 unique visitors
+A7:02:47 <JTE> Not necessarily new.
+A7:03:01 <08Notch> according to google analytics, which has been up for like 2.5 weeks
+A7:03:01 <JTE> Just 5000 people in general, both new and coming back.
+A7:03:16 <chrstfer> JTE come to your server
+A7:03:27 <JTE> Nah.
+A7:03:38 <JTE> I'm busy being not-bored.
+A7:03:54 <chrstfer> but cmon ii have to show you
+A7:04:44 <Ausfriend> Also a question i've been meaning to ask for a while
+A7:04:50 <Ausfriend> possibility of different gamemodes?
+10A7:05:55 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10A7:06:01 * ChanServ sets mode: +o citricsquid
+A7:06:03 <08Notch> citricsquid: About 5000!
+A7:06:12 <citricsquid> (connection died) awesome!
+A7:06:38 <08Notch> you can now click names in the tab list. :D
+A7:06:58 <Adura> For kicking/banning?
+A7:07:12 <08Notch> It adds the name to the chat line
+A7:07:17 <Adura> That'll save me attempts at typo compensating.
+A7:07:37 <citricsquid> how will we click? Will tab free the mouse?
+A7:07:54 <08Notch> citricsquid: Pressing t releases the mouse. =)
+A7:07:55 <Ausfriend> you have to click with your nose
+A7:08:18 <citricsquid> awesome!
+A7:08:50 <JTE> Heh.
+A7:09:01 <Ausfriend> Notch, how about gravity, so if you destroy a trees trunk then the leaves fall or something
+A7:09:17 <08Notch> then people can't make floating objects
+13A7:09:20 * citricsquid sneaks away for a shower
+A7:09:50 <Ausfriend> maybe you could add a new pillar or support block, to combat this?
+A7:09:52 <JTE> Making trees 'die' is more my thing anyway.
+A7:09:58 <Ausfriend> i dunno im just pulling things out of my nose now
+A7:10:07 <JTE> You do have a rather big nose.
+A7:10:19 <Ausfriend> :(
+A7:10:40 <JTE> http://www.youtube.com/watch?v=2foqV-HdxxQ
+10A7:10:48 * ZomBuster (zombuster@ip111-36-208-87.adsl2.static.versatel.nl) has joined #minecraft
+A7:10:58 <Ausfriend> god 
+A7:11:01 <Ausfriend> look at those comments
+A7:11:49 <Ausfriend> http://i31.tinypic.com/qzok8n.png 
+A7:11:56 <Ausfriend> this is what i get after i start minecraft on opera
+A7:12:00 <Ausfriend> and scroll up/down a few times
+A7:12:23 <JTE> Heh.
+A7:12:30 <JTE> Not rendering anything. :3
+A7:12:38 <ZomBuster> obv the applet is screwing up
+A7:12:39 <Ausfriend> Do you know how to fix it? :(
+A7:12:50 <ZomBuster> try reinstalling java
+A7:13:25 <Ausfriend> ugh, its a macbook, you can't just reinstall stuff willy nilly
+10A7:13:55 * MARIN (chatzilla@162-86.dsl.iskon.hr) has joined #minecraft
+10A7:14:08 * MARIN is now known as systat
+A7:14:10 <Ausfriend> Ive got update 4, should i get update 6?
+A7:14:25 <Ausfriend> *Update 5
+A7:14:26 <ZomBuster> yeh jus get the latest one
+A7:14:27 <systat> Hello some idiot is using clones to voteban legit people at PureGamer's Custom Map server, help!!!!!!
+A7:14:40 <ZomBuster> lol
+A7:14:52 <systat> I got banned and lots of other people...
+A7:14:55 <JTE> Oh, I got a solution that will make griefers happy as well as players.
+A7:14:59 <ZomBuster> dont worry about puregamersss it's a mess
+A7:15:07 <Ausfriend> JTE explain.
+A7:15:08 <ZomBuster> didnt knew they got voteban tough
+A7:15:38 <JTE> Forget votekick, instead do votemute, and make mute ignore block change commands.
+A7:15:42 <JTE> as well as chat.
+A7:15:52 <JTE> Then they can run around destroying stuff all they like
+A7:15:56 <JTE> and building whatever
+A7:15:59 <JTE> and nobody else will see it.
+A7:16:13 <JTE> So it won't disturb anyone. XD
+A7:16:26 <doohan> Then you'll have to store loads more stuff though right?
+A7:16:26 <Ausfriend> client side block creation/destruction that doesnt get sent to the server?
+A7:16:34 <JTE> Naw.
+A7:16:52 <JTE> When you build/break a block in minecraft, the client IMMEDIATELY shows the change
+A7:16:55 <doohan> Does the client store the full state or just the stuff near by?
+A7:16:57 <JTE> then sends it to the server
+10A7:17:04 * Owner (chatzilla@74.210.93.215) has joined #minecraft
+A7:17:07 <Ausfriend> uhh i just downloaded 16mb in like 1 second
+A7:17:08 <JTE> So the client will still see it happening
+A7:17:18 <Ausfriend> then it went back to my normal download speed of 270kbps
+A7:17:21 <Ausfriend> whats going on
+A7:17:22 <Owner> are there any mods here or anything
+A7:17:22 <doohan> Cause you'll move away then go back and it'll be changed
+A7:17:28 <JTE> and the server will ignore it for anyone else. :3
+A7:17:38 <JTE> doohan, the client stores the full state of the map
+A7:17:40 <JTE> because it's silly.
+10A7:17:43 * Owner is now known as Newguy1512
+A7:17:49 <JTE> and runs at 140 frames per second.
+A7:18:32 <Newguy1512> i got banned from puregamers custom server for saying:" Hey guys, what's up"
+A7:18:57 <Newguy1512> what's with that?
+A7:19:23 <Ausfriend> Apparently a griefer is votebanning everyone
+A7:19:24 <Ausfriend> anyway
+A7:19:25 <doohan> PLay on another server
+A7:19:30 <Ausfriend> "Java for Mac OS X 10.3, Update 5 cannot be installed on this computer."
+A7:19:30 <Newguy1512> which griefer
+A7:19:30 <Ausfriend> :|
+A7:19:36 <Adura> It's offensive to those who have erectile dysfunction.
+A7:19:48 <JTE> lol votebanning everyone. oo;
+A7:19:55 <ZomBuster> and why not Ausfriend?
+A7:20:10 <Newguy1512> also some guy named Roflmazturr got banned for no reason as well
+A7:20:18 <Ausfriend> Has no error message, just came up with that
+A7:20:21 <Ausfriend> zzzzzzzzzzbbbbbbbrrrrrrrrrrrrrrrrggggggggg
+A7:21:10 <systat> NewGuy, apparently idiot is using clones, to voteban everyone
+A7:21:18 <systat> I got banned too :/
+A7:21:23 <Newguy1512> :(
+A7:21:29 <Ausfriend> im gonna install update 1
+A7:21:32 <Newguy1512> i guess ill try a different server
+12A7:21:39 * Newguy1512 (chatzilla@74.210.93.215) Quit (Quit: Client Exited)
+A7:22:09 <Ausfriend> wait no update 2
+A7:22:10 <systat> Does anyone know who is OP at Puregamer's server?
+A7:22:39 <systat> Btw is voteban permament?
+A7:23:06 <Adura> There's no standard for voteban.
+10A7:23:06 * Keymax (keymax7@abar31.neoplus.adsl.tpnet.pl) has joined #minecraft
+A7:23:20 <systat> That is nice but
+A7:23:25 <systat> is voteban permamnet
+A7:23:29 <Adura> ...
+A7:25:35 <vdgmprgrmr> Heh...
+13A7:26:50 * chrstfer is bored
+A7:27:51 <Keymax> hello Notch, is there anything you could say about your plans for finite water? (:
+A7:28:10 <08Notch> i'm going to look into it again after there's some playable version of survival mode. =)
+10A7:28:19 * Notch changes topic to 'http://www.minecraft.net  |  <Ausfriend> science doesnt work that way  |  I'm coding again!! =D'
+A7:28:20 <systat> Okay, now It seems that guy is using some kind of script becaues as soon as I joined, he initiated voteban and I was banned in half a second
+A7:28:24 <JTE> I'll try to make finite water too. :3
+A7:29:13 <Ausfriend> MRJ Plugin for Mac OS X v1.0.1
+A7:29:13 <Ausfriend> [starting up Java Applet Security @ Sat Jul 11 22:27:45 EST 2009]
+A7:29:14 <Ausfriend> Sat Jul 11 22:29:02 EST 2009 JEP creating applet org.lwjgl.util.applet.AppletLoader (http://www.minecraft.net/)
+A7:29:19 <Ausfriend> and nothing happen
+A7:29:19 <Ausfriend> s
+A7:29:23 <Ausfriend> thats my java console
+A7:29:35 <Keymax> that's great, but i'm wondering if you have already planned any features?
+12A7:30:00 * systat (chatzilla@162-86.dsl.iskon.hr) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+12A7:31:27 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+A7:31:31 <JTE> Now how do I prevent /mute from being script abusable like that voteban is ...
+10A7:31:51 * Rock_D (Mibbit@82.75.107.101) has joined #minecraft
+A7:32:07 <Ausfriend> maybe get the OP to accept or decline the vote?
+A7:32:08 <Ausfriend> but then
+A7:32:09 <Ausfriend> yeah
+A7:32:33 <JTE> Oh I know, I'll make it so you only get 3 mute votes per so many hours.
+12A7:32:40 * Keymax (keymax7@abar31.neoplus.adsl.tpnet.pl) Quit (Quit: Client Exited)
+A7:33:20 <JTE> ... but that doesn't stop them if they have a lot of accounts. :(
+A7:33:22 <JTE> and bots.
+A7:33:30 <vdgmprgrmr> Holy shit, Ausfriend.
+A7:33:42 <vdgmprgrmr> Daggerfall is free and I probably would never have known.
+A7:33:51 <Ausfriend> lol
+A7:34:16 <Ausfriend> be careful though
+A7:34:19 <Ausfriend> you need 8mb of ram!
+A7:34:19 <vdgmprgrmr> Now that I've looked a bit at some gameplay videos of it, I gotta say, FUCKIN AWESOME.
+12A7:36:10 * doohan (doohan@client-86-10-18-211.bmly.adsl.virgin.net) Quit (Quit: Leaving)
+A7:41:03 <JTE> At this point it seems like I'll need to make a data file for every user in order to do this right. o.o;
+A7:45:36 <JTE> Eh.
+A7:47:04 <Ausfriend> JTE, what does it mean when the java applet hangs at a gray screen?
+10A7:49:21 * Newguy1512 (chatzilla@74.210.93.215) has joined #minecraft
+10A7:49:28 * Newguy1512 (chatzilla@74.210.93.215) has left #minecraft
+A7:49:36 <CheeToS> Notch: some kind of beacon for pointing out where other people are would be cool :v
+A7:49:44 <CheeToS> (minecraft works for me now, btw)
+10A7:49:53 * Roflmazturr (chatzilla@74.210.93.215) has joined #minecraft
+A7:49:54 <Ausfriend> What OS you on?
+A7:50:02 <CheeToS> windows 7
+10A7:50:05 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) has joined #minecraft
+A7:50:06 <Ausfriend> ah
+A7:50:20 <Ausfriend> i tried to get windows 7 on parallels desktop
+A7:50:23 <vdgmprgrmr> Upgrading from a 2003-ish computer to a late 2008-ish computer is opening up tons of possibilities in regards to gaming...
+A7:50:31 <Ausfriend> my mac couldnt handle all the glamour and fancy effects
+A7:50:51 <CheeToS> it's not your mac
+A7:50:54 <CheeToS> it's parallels
+A7:51:33 <CheeToS> it doesn't support 3d acceleration
+A7:51:38 <Ausfriend> it does
+A7:51:42 <CheeToS> eh?
+A7:52:06 <CheeToS> since when?
+A7:52:13 <Ausfriend> parallels is the only virtual os thingo that supports 3d acceleration
+A7:52:16 <Ausfriend> since version 4
+A7:52:24 <Adura> Virtualbox does.
+A7:52:40 <Ausfriend> i had virtualbox before, i didnt see an option for parallels
+A7:52:42 <Adura> Pretty sure VMWare does.
+A7:52:45 <Roflmazturr> wow banned again
+A7:52:51 <CheeToS> vmware does now too apparently
+A7:53:09 <Ausfriend> ill check out vmware
+A7:53:10 <Roflmazturr> if anyone sees hookupz77, BAN HIM INSTANTLY
+A7:53:12 <CheeToS> what are your mac's specs, Ausfriend?
+A7:53:39 <CheeToS> it really doesn't take much at all for windows 7's effects
+A7:53:49 <Ausfriend>   Model Name:	MacBook
+A7:53:49 <Ausfriend>   Model Identifier:	MacBook4,1
+A7:53:49 <Ausfriend>   Processor Name:	Intel Core 2 Duo
+A7:53:49 <Ausfriend>   Processor Speed:	2.1 GHz
+A7:53:56 <Ausfriend>   Memory:	2 GB
+A7:53:56 <Ausfriend>   Bus Speed:	800 MHz
+A7:54:13 <Ausfriend>  Chipset Model:	GMA X3100
+A7:54:13 <Ausfriend>   Type:	Display
+A7:54:13 <Ausfriend>   Bus:	Built-In
+A7:54:13 <Ausfriend>   VRAM (Total):	144 MB (:()
+A7:54:23 <CheeToS> same graphics as me
+A7:55:03 <CheeToS> you wouldn't have any problem running windows 7 on that
+A7:55:59 <citricsquid> Everything sounds so different when I don't have a hat on.
+A7:58:37 <Ausfriend> goddamn
+A7:58:40 <Ausfriend> vmware is 191mb
+A7:58:50 <peerkoel> worth every byte
+A7:59:11 <Ausfriend> if you say so
+A7:59:14 <autoswim> VRAM (Total):	144 MB
+A7:59:15 <Ausfriend> brb 4 hour dl time
+A7:59:16 <autoswim> laffo
+A7:59:33 <JTE> Okay, my /mute system should be working.
+A8:00:15 <Ausfriend> autoswim, my desktop pc has a nvidia quadro fx 4500, its just that its completely useless for internet things
+A8:00:43 <Ausfriend> holy shit
+A8:00:49 <Ausfriend> im almost breaking 400kbps download speed
+A8:00:51 <Ausfriend> best ever
+A8:00:54 <CheeToS> lol
+A8:01:14 <Ausfriend> YEARRRRRRRRRRRR 422 kbps
+A8:01:21 <CheeToS> you mean 400 KB/s or 400Kb/s?
+12A8:01:31 * Roflmazturr (chatzilla@74.210.93.215) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0/2008052906])
+A8:01:32 <Ausfriend> kilobytes
+A8:01:36 <CheeToS> :p
+A8:01:53 <Ausfriend> 400kilobits is like, just past dialup age
+A8:02:15 <CheeToS> kb = kilobits
+A8:02:55 <Ausfriend> i have 5mbit internet, so my speed SHOULD be 715 kbps :(
+A8:03:08 <Ausfriend> KB[s
+A8:03:10 <Ausfriend> KBps
+A8:03:12 <Ausfriend> there you happy?
+A8:03:14 <Ausfriend> geez
+A8:03:15 <Ste> Anyone have any requests for topics to be documented for the wiki?
+A8:03:17 <CheeToS> :>
+A8:03:25 <ZomBuster> nope Ste
+A8:03:32 <Ausfriend> uhh
+A8:03:38 <Ste> I've done 12 pages the last 2 days :3
+A8:03:40 <Ausfriend> is 'waterfall' documented?
+A8:03:43 <Ste> yes
+A8:03:43 <Ausfriend> and the methods
+A8:03:46 <CheeToS> document how awesome I am
+A8:03:49 <Ste> Not method 2
+A8:03:54 <Ste> I could add that
+A8:04:06 <Ste> But I'd need more pics from Citricsquid
+A8:04:12 <Ausfriend> documented the IRC channel for some reason?
+A8:04:19 <Ste> I didn't
+A8:04:26 <citricsquid> It's on a server if you want to make some, or I could if you know what pics you need :)
+A8:05:04 <Ste> Can I go on that server and take the shots myself?
+A8:05:04 <Ausfriend> it feels so good downloading 200 mb files in 10 minutes
+A8:05:11 <Ste> I like to trim it all up in photoshop
+A8:05:15 <citricsquid> Sure, I'll find the link :D
+A8:05:53 <citricsquid> http://www.minecraft.net/play.jsp?server=fddfd4f36d9ca6276a2a6a7f50e4dece
+A8:07:51 <Ste> Cheersios
+A8:08:23 <Ausfriend> so ive got an .iso of Windows 7, all clean and working
+A8:08:25 <Ausfriend> will it work with vmware?
+A8:15:12 <Rroff> VB3 ftw
+12A8:15:17 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+10A8:15:58 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+12A8:16:26 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) Quit (Read error: Connection reset by peer)
+10A8:16:29 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+A8:18:49 <Ausfriend> "VMware Fusion's 3D acceleration requires features that are not present in your Mac's graphics processor."
+A8:18:53 <Ausfriend> :|
+A8:18:58 <Ausfriend> MY MAC CANT BE THAT CRAP CAN IT
+12A8:19:32 * citricsquid (sam@client-81-97-77-78.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+A8:19:37 <Rroff> MAC doesn't even crawl into the same ballpark as crap
+10A8:21:31 * citricsquid (sam@client-81-97-76-143.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10A8:21:42 * ChanServ sets mode: +o citricsquid
+10A8:25:20 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) has joined #minecraft
+A8:25:48 <autoswim> waterfalls are currently terrible ideas
+A8:25:52 <autoswim> due to how water movement works
+A8:26:12 <autoswim> can't even surround the sponges in unbreakables
+A8:27:17 <citricsquid> what do you mean?
+A8:27:45 <ZomBuster> if you meke a unbreakable wall with sponges it should keep the wayer wayay
+A8:29:45 <Ste> Citricsquid: can have link to your forum tut on waterfall?
+A8:30:08 <citricsquid> http://minecraftforum.net/viewtopic.php?id=946
+A8:30:11 <Ste> thanks
+A8:32:10 <citricsquid> haha, waterfall water goes sideways, not down
+10A8:32:12 * mitchcm34 (Mibbit@adsl-70-232-71-140.dsl.ltrkar.sbcglobal.net) has joined #minecraft
+10A8:32:19 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) has joined #minecraft
+A8:32:34 <mitchcm34> When I save a single player map, is it saved locally, and where?
+10A8:32:35 * Spadge (Spadge@CPE-124-182-60-190.sa.bigpond.net.au) has joined #minecraft
+A8:32:49 <ZomBuster> no 
+A8:32:58 <ZomBuster> *not yet
+A8:33:05 <mitchcm34> Alright, thanks
+A8:33:06 <citricsquid> server side save
+12A8:33:28 * mitchcm34 (Mibbit@adsl-70-232-71-140.dsl.ltrkar.sbcglobal.net) Quit (Quit: Client Exited)
+A8:33:43 <Ste> Updated the wiki page on waterfalls: http://minecraftwiki.net/wiki/Waterfall
+10A8:34:15 * mitchcm34 (Mibbit@adsl-70-232-71-140.dsl.ltrkar.sbcglobal.net) has joined #minecraft
+A8:34:19 <citricsquid> haha, having names on the wiki is silly :D
+10A8:34:31 * mezo (mezo@CPE0018f8d6bd6b-CM001bd7aa18f2.cpe.net.cable.rogers.com) has joined #minecraft
+A8:34:47 <mitchcm34> I got one more question guys, does anyone know the largest map possible?
+A8:34:59 <mitchcm34> is 256^3 possible?
+A8:35:05 <citricsquid> There is no limit, but most computers die at too big
+A8:35:52 <mitchcm34> I don't think its the computer, its probably the browser, or the java software
+A8:36:04 <mitchcm34> doesnt support so many objects
+A8:36:38 <Ste> citric: not half as silly as some of the content-free wiki pages
+12A8:38:58 * mitchcm34 (Mibbit@adsl-70-232-71-140.dsl.ltrkar.sbcglobal.net) Quit (Quit: Client Exited)
+A8:39:21 <Ste> aha
+A8:39:23 <Ste> beaches
+A8:39:44 <Ste> that's a geographical feature that hasn't been documented yet
+A8:42:46 <mezo> notch i agree age of wonders 2 is the best ever
+A8:42:51 <CheeToS> http://en.wikipedia.org/wiki/Beach
+A8:43:35 <Ausfriend> hes off coding somewhere
+A8:43:45 <Ausfriend> HOPEFULLY FIXING MAC SUPPORT WINK WINK
+12A8:43:47 * Deiz (swh@206-248-132-97.dsl.teksavvy.com) Quit (Ping timeout: 180 seconds)
+A8:43:50 <Ausfriend> ‚îê('ÔΩû`Ôºõ)‚îå
+A8:45:39 <mezo> woop woop
+A8:45:42 <CheeToS> is it just me or wikipedia going hideously slow?
+A8:45:52 <08Notch> Ausfriend: What error do you get?
+A8:46:07 <Ausfriend> Just that, i don't get an error
+A8:46:14 <Ausfriend> It just fails to load, my java console shows nothing
+A8:46:25 <Ausfriend> CheeToS, wikipedia is going slow for me too
+10A8:47:42 * systat (chatzilla@162-86.dsl.iskon.hr) has joined #minecraft
+A8:47:56 <systat> Look at this http://i310.photobucket.com/albums/kk431/systat_photo/bans.png
+A8:48:18 <Ausfriend> eww photobucket
+10A8:48:20 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) has joined #minecraft
+A8:48:22 <Ausfriend> its become such bloatware now
+A8:48:27 <Ausfriend> use tinypic
+A8:48:48 <citricsquid> tinypic resizes images if they're over a certain size, use http://filebox.me :D
+A8:49:07 <Ausfriend> but tinypic is the fastest and cleanest one ive seen
+A8:49:15 <citricsquid> filebox is faster :D
+A8:49:16 <ZomBuster> yeh thats a flaw with votebanning
+A8:49:28 <ZomBuster> if you got 4 accounts you can just ban  everyone
+A8:49:39 <citricsquid> should be IP based
+A8:50:09 <Ausfriend> JTE, make vote banning have some sort of IP restriction on your server?
+12A8:50:22 * systat (chatzilla@162-86.dsl.iskon.hr) Quit (Quit: Client Exited)
+10A8:52:01 * Deiz (swh@206-248-132-86.dsl.teksavvy.com) has joined #minecraft
+12A8:58:22 * Arg (chatzilla@d58-104-6-192.dsl.vic.optusnet.com.au) Quit (Read error: Connection reset by peer)
+A9:03:59 <Ste> Does quatroking run the wiki?
+A9:04:10 <citricsquid> I host it, he is the main admin though.
+A9:04:46 <JTE> It would make more sense to be wiki.minecraft.net and forum.minecraft.net and skins.minecraft.net and etc. :<
+A9:04:53 <JTE> Too many different domain names. @.@;
+12A9:05:09 * C418 (C418@p5B3D5494.dip.t-dialin.net) Quit (Quit: Nettalk6 - www.ntalk.de)
+A9:05:28 <Ste> I want to make some sensible changes
+A9:05:35 <Ste> And feel like I need permission
+A9:05:46 <citricsquid> notch didn't want anyone else with access to his server and setting up sub domains to point to external server is gay
+10A9:08:28 * C418 (C418@p5B3D5494.dip.t-dialin.net) has joined #minecraft
+10A9:08:30 * ChanServ sets mode: +o C418
+A9:08:52 <citricsquid> Ste: What changes do you want to make?
+A9:09:04 <Ste> I've forgotten
+A9:09:07 <Ste> tone of them
+A9:09:11 <Ste> one*
+A9:09:22 <Ste> is to rename 'tree' blocks as trunk
+A9:09:29 <citricsquid> well, it's a wiki so go ahead :D If they face opposition, they can always be rolled back
+A9:09:47 <Ste> I wanted to add a new section to that little box of topics on the main page too
+A9:10:02 <Ste> and a fairly major section at the top of the gameplay page
+12A9:12:46 * C418 (C418@p5B3D5494.dip.t-dialin.net) Quit (Read error: Connection reset by peer)
+A9:13:36 <08Notch> could someone connect to http://www.minecraft.net/play.jsp?server=8981842891cef4303e29131f412034be ?
+10A9:14:39 * C418 (C418@p5B3D5494.dip.t-dialin.net) has joined #minecraft
+10A9:14:40 * ChanServ sets mode: +o C418
+10A9:16:20 * Notch changes topic to 'http://www.minecraft.net  |  Client 0.0.23a is out with new options and the ability to remap keys'
+A9:16:30 <Rock_D> huh, options?
+A9:16:39 <Adura> Via Esc
+A9:16:43 <CheeToS> nice :v
+A9:16:47 <PuyoDead> hey, I like the new buttons
+A9:16:49 <Rock_D> yes, didn't see those before
+A9:16:50 <Ausfriend> Notch, im using Windows 7 and ive got a the error 'Pixel Format not Accelerated'
+A9:16:59 <Ausfriend> Any news on that?
+A9:17:00 <CheeToS> Ausfriend: update your graphics drivers
+A9:17:12 <PuyoDead> Aus, don't listen to him, that won't fix it
+A9:17:12 <CheeToS> Ausfriend: if you're using intel graphics, there's updated drivers available on their website now
+A9:17:18 <Ausfriend> Im using it via Vmware
+A9:17:19 <08Notch> It's probably because your drivers don't do accelerated opengl, or at least claim not to
+A9:17:23 <Ausfriend> Everything is already updated
+A9:17:24 <Rroff> and pray your not using an older intel chipset that only does 16bit 3D
+A9:17:28 <Adura> Gravel still floats, heh.
+A9:17:30 <citricsquid> Notch: This is perfect!
+A9:17:50 <Adura> Fine updates, though.
+A9:17:51 <CheeToS> Ausfriend: it is probably a problem with vmware's 3d accel then
+A9:18:11 <Rroff> has anyone tried minecraft inside VB3?
+A9:18:15 <CheeToS> Notch: I noticed a CRITICAL PROBLEM with minecraft; mushrooms cannot grow without light, but mushrooms don't do photosynthesis!
+A9:18:28 <citricsquid> old news :D
+A9:18:32 <CheeToS> aw
+A9:20:06 <CheeToS> Notch: aw man, you removed the varying render distances? I found it EXTREMELY useful :\
+A9:20:17 <citricsquid> they're still there?
+A9:20:18 <08Notch> no, it's still there!
+A9:20:21 <PuyoDead> it's still there
+A9:20:25 <Adura> Esc
+A9:20:26 <08Notch> under options, though
+A9:20:29 <CheeToS> there's only "SHORT" and "FAR" though
+A9:20:36 <PuyoDead> there's more than that
+A9:20:38 <08Notch> huh? should be four levels
+A9:20:40 <citricsquid> There's still 4...
+A9:20:49 <PuyoDead> CheeToS, you're doing it wrong
+A9:20:52 <CheeToS> oh what the hell
+A9:20:54 <CheeToS> now it works
+A9:20:56 <08Notch> lol
+A9:20:59 <08Notch> solved that for you. =D
+A9:21:02 <CheeToS> I swear it was just switching through short and far though
+A9:21:15 <CheeToS> but I liked the key for it too :x
+A9:21:23 <PuyoDead> wait, does F still do that as well?
+A9:21:26 <citricsquid> Notch: Do you ever play minecraft and build like us normal players, or are you always developing? :D
+A9:21:28 <PuyoDead> or at least be set to it
+A9:21:32 <CheeToS> PuyoDead: no
+A9:21:35 <08Notch> citricsquid: I do play it. =D
+A9:21:41 <08Notch> it's very fun
+A9:22:17 <Ste> true enough
+A9:22:17 <CheeToS> could you include the key for the draw distance too? :>
+12A9:22:19 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) Quit (Read error: Operation timed out)
+A9:22:22 <CheeToS> I used it pretty often
+A9:22:36 <PuyoDead> awwww... I really, REALLY needed that key for render distance
+A9:22:53 <08Notch> are you sure you're not just used to it?
+A9:22:58 <CheeToS> yes
+A9:23:04 <08Notch> i'd rather not have a bunch of magic key combinations
+A9:23:05 <CheeToS> I use integrated graphics and the situation changes rapidly
+A9:23:16 <CheeToS> i'll get like 60fps in some situations
+A9:23:22 <CheeToS> then I turn around and it drops to 5 fps
+A9:23:24 <PuyoDead> I get about, ehh... 9
+A9:23:32 <CheeToS> in which case I'll lower the draw distance if I'm heading that way
+A9:23:37 <08Notch> PuyoDead: Check the options!
+A9:23:42 <PuyoDead> I did
+A9:23:45 <08Notch> it's there now, and it's saved when you leave the game and come back
+A9:23:51 <PuyoDead> but, I used F constantly
+A9:23:55 <Ausfriend> guys
+A9:24:15 <Ausfriend> can someone find me a link to update Intel GMA x3100 drivers on mac, my browsers arent working for some reason
+A9:24:20 <Ausfriend> ill just copy the link and save it for lter
+A9:24:24 <Adura> Constant F'ing must've made your hand sore.
+A9:24:28 <CheeToS> Ausfriend: sec
+A9:24:34 <Ausfriend> cheers
+A9:25:00 <PuyoDead> oh man, yea... this is kind of bunk
+A9:25:16 <CheeToS> mac doesn't appear to be listed
+A9:25:24 <CheeToS> just windows & linux
+A9:25:31 <CheeToS> hang on
+A9:26:06 <CheeToS> it's a notebook, right?
+A9:26:13 <Ausfriend> Yeah, laptop
+A9:26:18 <Ausfriend> macbook w/e
+A9:26:35 <Ausfriend> Notch, when you expect to raise the price, when the final client is done or gradually increase it?
+A9:26:40 <Ausfriend> *when do you expect
+A9:26:51 <08Notch> i'll bump the price at beta, and then again at release
+A9:26:59 <Ausfriend> alright
+A9:27:00 <08Notch> beta = when survival mode works "ok"
+A9:27:06 <08Notch> release = when survival mode is done
+A9:27:20 <Ausfriend> Will you still be updating it when its done?
+A9:27:29 <Ste> Can you remove mobs once they're spawned?
+A9:27:33 <08Notch> not forever, but there are a bunch of updates I want to do. =)
+A9:27:36 <CheeToS> Ausfriend: here's the page, but mac isn't listed http://downloadcenter.intel.com/Product_Filter.aspx?ProductID=2800&lang=eng
+A9:27:44 <08Notch> zombie siege mode, for example, and proper mod support
+A9:27:55 <08Notch> it's very possible that zombie siege will be the reference mod
+A9:27:56 <citricsquid> needs more capture the flag :D
+A9:28:01 <CheeToS> I like the new esc menu buttons
+10A9:28:03 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) has joined #minecraft
+A9:28:05 <Ste> Mob removal, anyone?
+A9:28:37 <PuyoDead> I don't mean to be a constant complainer, but this lack of a draw distance button is really awful
+A9:28:40 <08Notch> I'll keep working on the game and doing updates for as long as people play and buy it
+A9:28:43 <PuyoDead> the rest of the update is excellent, though
+A9:28:51 <08Notch> then when it's died of age, I'll release it all as open source somehow
+A9:28:56 <Ausfriend> ETA of releasing th.
+A9:28:57 <Ausfriend> ah
+A9:29:03 <Ausfriend> just answered my question
+A9:29:06 <PuyoDead> heh
+12A9:29:24 * Ste (chatzilla@5ad87e77.bb.sky.com) Quit (Read error: Connection reset by peer)
+A9:29:30 <08Notch> i've got some more game ideas for after minecraft. :D
+A9:29:34 <autoswim> need attack and defend, or some type of artillary for siege modes
+A9:29:43 <08Notch> one is a space sim game. :D
+A9:30:03 <Ausfriend> a Tower defense?
+A9:30:16 <CheeToS> Notch: I saw your recent blog post & had a question. What is your stance on modified versions of minecraft if they aren't being PUBLICLY distributed?
+A9:30:30 <08Notch> CheeToS: I don't like it.
+A9:30:48 <08Notch> but the most important thing is that people are having fun
+A9:30:59 <CheeToS> & how about modifying it for yourself and not giving it to anybody? :p
+A9:31:08 <08Notch> if it's all harmless fun and doesn't hurt my control of the project, it's probably not a problem.
+A9:31:15 <08Notch> that's fine. =)
+A9:31:19 <CheeToS> alright
+10A9:31:26 * SteGriff (chatzilla@5ad87e77.bb.sky.com) has joined #minecraft
+A9:31:39 <SteGriff> Hello agian
+A9:31:46 <SteGriff> Notch: bring back the fog key
+A9:31:51 <CheeToS> ^
+A9:31:53 <SteGriff> also, can you remove mobs?
+A9:31:56 <08Notch> I am, SteGriff. =)
+A9:32:00 <SteGriff> sweet
+A9:32:00 <CheeToS> hooray
+A9:32:02 <SteGriff> tcheers
+A9:32:03 <CheeToS> thank you <3
+A9:32:05 <08Notch> moving it to an F-key, though
+A9:32:10 <08Notch> since it's not manually mapped
+A9:32:18 <citricsquid> http://www.youtube.com/watch?v=wv-0Wq6uKaw :D
+A9:32:18 <08Notch> well, I could just make it mappable..
+A9:32:26 <CheeToS> that'd be fine I think
+A9:32:41 <PuyoDead> yea, if it was in the list of other mappable buttons, that would be great
+A9:33:43 <SteGriff> Cool vid
+A9:33:53 <Ausfriend> Damn
+A9:33:59 <Ausfriend> Braid's music is so beautiful
+A9:34:54 <08Notch> ok, _01 will be up in a minute or two
+A9:34:56 <PuyoDead> Braid is just so damn excellent overall
+A9:34:59 <SteGriff> Notch: I noticed all of the (probable) effort you put into the algorithm for generating maps has gone previously unmentioned, so I wiki'd a lot of its features :)
+A9:35:00 <PuyoDead> woo!
+A9:35:12 <08Notch> thanks =D
+A9:35:29 <SteGriff> http://minecraftwiki.net/wiki/Category:Geographical_features
+12A9:35:38 * mezo (mezo@CPE0018f8d6bd6b-CM001bd7aa18f2.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+A9:36:43 <08Notch> nice =D
+A9:36:49 <08Notch> cliffs are fun!
+A9:37:16 <citricsquid> notch, naturally occuring waterfalls would be so awesome ;)
+A9:37:43 <CheeToS> Notch: there was a severe lack of sonic sprites, so I obliged: http://files.getdropbox.com/u/2270/minecraftrprogress.png
+A9:38:01 <SteGriff> sick
+A9:38:49 <SteGriff> waterfalls would probably be mid-term to implement
+A9:39:05 <SteGriff> it would mean adding a new block, or changing the behaviour of all water
+A9:39:26 <CheeToS> yay, thank you for putting the f key back
+13A9:39:45 * SteGriff refreshes minecraft tab
+12A9:40:25 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) Quit (Read error: Operation timed out)
+12A9:40:33 * SteGriff (chatzilla@5ad87e77.bb.sky.com) Quit (Read error: Connection reset by peer)
+A9:41:14 <PuyoDead> yay!! thanks, Notch
+A9:42:53 <ZomBuster> ooh nice
+A9:43:03 <CheeToS> eek, is it possible to get rid of lava tiles?
+A9:43:16 <ZomBuster> I remapped the build menu to Q, works much faster :)
+A9:43:36 <PuyoDead> hey Notch, I think AllNaturual wanted to show you this: http://www.beowulf.org/pipermail/test/1998-October/002665.html
+12A9:44:06 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) Quit (Ping timeout: 180 seconds)
+10A9:44:54 * SteGriff (chatzilla@5ad87e77.bb.sky.com) has joined #minecraft
+A9:45:08 <SteGriff> When I use a new build for the first time, it crashes firefox :(
+A9:45:13 <SteGriff> anyhow
+A9:45:21 <SteGriff> Citricsquid, I need your server again
+A9:47:10 <SteGriff> call it off
+A9:47:14 <SteGriff> I think I found it
+A9:47:31 <citricsquid> http://www.minecraft.net/play.jsp?server=fddfd4f36d9ca6276a2a6a7f50e4dece :P
+10A9:48:33 * B04175 (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+10A9:49:32 * Bob_Ross (Mibbit@ip68-14-82-28.ri.ri.cox.net) has joined #minecraft
+10A9:49:34 * B04175 is now known as Ausfriend
+A9:49:48 <Bob_Ross> Hai
+A9:50:01 <PuyoDead> oh man, being able to click names in the chat now is freaking perfect
+A9:50:15 <Bob_Ross> hi puyo
+A9:50:31 <peerkoel> I think this game is using too much RAM or too much GPU power for my system
+A9:50:35 <PuyoDead> hey
+A9:50:43 <Ausfriend> atleast you can actually play
+A9:50:45 <Ausfriend> *tear*
+A9:50:48 <PuyoDead> heh
+12A9:50:51 * SteGriff (chatzilla@5ad87e77.bb.sky.com) Quit (Ping timeout: 180 seconds)
+A9:50:55 <Bob_Ross> the new update, on scale of 1 - 10 is....
+A9:50:58 <Bob_Ross> 4
+A9:51:01 <Bob_Ross> not too much
+A9:51:05 <Bob_Ross> but still good
+A9:51:18 <PuyoDead> I have win7 on this machine as well, and mC refuses to run there, too
+A9:51:25 <PuyoDead> but when I boot into xp, no problem
+A9:51:31 <PuyoDead> so yea, good luck, heh
+A9:51:34 <Ausfriend> grrr
+A9:51:38 <Ausfriend> the problem is
+A9:51:42 <Ausfriend> i have an iso of windows xp too
+A9:51:51 <Ausfriend> but its a boot cd and i need to actually put in a cd to install anyway
+A9:51:59 <Bob_Ross> im on my grandma's computer and it runs MC Smooth
+A9:52:05 <Ausfriend> but i dropped my mac a while ago and now the dvd drive is compressed and every cd gets jammed
+A9:52:11 <Ausfriend> and i can only take it out with tweezers
+A9:52:21 <Bob_Ross> wow ausfriend
+A9:52:27 <PuyoDead> well, that certainly sucks
+A9:52:48 <Ausfriend> it only dropped like 10 cm too
+A9:52:49 <Bob_Ross> im running my own server right now
+A9:52:59 <Bob_Ross> Mocheeze's CityBuild
+10A9:55:49 * Minerman (mechana241@c-71-207-77-211.hsd1.pa.comcast.net) has joined #minecraft
+A9:56:01 <Minerman> Oh my god. Notch is here
+A9:56:05 <Bob_Ross> http://minecraft.net/play.jsp?server=cb21bf294cc10f05bbd2821f801362c7
+A9:56:07 <Minerman> It's a miracle :O
+A9:56:09 <Ausfriend> no he isnt
+A9:56:10 <Bob_Ross> orly
+A9:56:14 <Ausfriend> its a figment of your imagination
+A9:56:15 <Bob_Ross> he are idle
+A9:56:33 <Minerman> Obviously.
+A9:56:36 <citricsquid> *working
+A9:57:00 <Minerman> Everyone knows Notch is too busy swimming in a pool of cash-.. I mean, working.
+A9:57:21 <PuyoDead> Notch McDuck
+A9:57:28 <Bob_Ross> somebody click this link: http://minecraft.net/play.jsp?server=cb21bf294cc10f05bbd2821f801362c7
+A9:57:32 <Bob_Ross> lollolol
+A9:57:37 <PuyoDead> pass
+10A9:58:23 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) has joined #minecraft
+10A9:58:43 * Taneru (chatzilla@d24-57-18-245.home.cgocable.net) has joined #minecraft
+10A9:59:00 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+A9:59:13 <Bob_Ross> comeo n
+A9:59:16 <Bob_Ross> come on*
+A9:59:47 <Ausfriend> quick question
+A9:59:57 <Ausfriend> which game is the latest of the Monkey Island franchise
+A10:00:05 <Ausfriend> number 3?
+A10:01:28 <PuyoDead> I think so...
+A10:01:55 <Bob_Ross> so empty
+A10:01:59 <Bob_Ross> why wont notch come on
+A10:02:04 <Bob_Ross> so we can flame him
+A10:02:09 <Bob_Ross> about useless stuff
+A10:02:11 <citricsquid> calm down, Bob.
+A10:02:25 <Bob_Ross> :O;
+A10:03:03 <Bob_Ross> zuriki is a girl
+A10:03:06 <Bob_Ross> shes in the UK
+A10:03:08 <Bob_Ross> shes 16
+A10:03:22 <Bob_Ross> she told me all of this in one of my servers
+A10:03:27 <citricsquid> We know.
+A10:03:39 <Bob_Ross> you won't beleive what she said
+A10:03:43 <Bob_Ross> she said
+A10:03:47 <Bob_Ross> wanna screw?
+A10:04:00 <Bob_Ross> and i was like, im not 18, your not 18
+A10:04:05 <Bob_Ross> and she was like
+A10:04:09 <Bob_Ross> oh, youre from america
+A10:04:15 <Bob_Ross> and im like, yeah
+A10:04:24 <Bob_Ross> so, like, what ya think?
+A10:04:35 <PuyoDead> enter key, use it less
+A10:04:35 <citricsquid> She's taking the piss.
+A10:04:39 <autoswim> bob there's uh
+A10:04:42 <autoswim> i'm blocked in at spawn
+A10:04:45 <autoswim> is that the funny part
+A10:04:46 <Bob_Ross> oh
+A10:04:48 <Bob_Ross> sorry
+A10:04:51 <autoswim> o ok
+A10:04:58 <citricsquid> also legal age is 16 here in the UK.
+A10:05:16 <Minerman> There's a thing called an enter key. It hates you. Stop pressing it
+A10:07:02 <Bob_Ross> you guys are lucky, critic and zuriki
+A10:07:08 <Bob_Ross> y'all can screw at 16
+A10:07:13 <Bob_Ross> fucking america
+A10:07:13 <citricsquid> citric*
+A10:07:16 <Bob_Ross> and there laws
+A10:07:21 <PuyoDead> their
+A10:07:31 <autoswim> Bob_Ross: http://www.minecraft.net/play.jsp?server=97ac679630bae36e15c5f5b13d3c0cfb
+A10:07:34 <citricsquid> also, the law stops nobody. You don't instantly get sex at 16.
+A10:07:44 <Bob_Ross> lol
+A10:07:46 <citricsquid> and there are lots of people who have sex before 16...
+A10:08:43 <autoswim> gasp..
+A10:08:49 <autoswim> notch removed our ability to fly! (for now)
+A10:09:10 <autoswim> imo we should be allowed to fly and turbo like we were until survival is working
+A10:09:17 <Minerman> I find the new Minecraft update to be pretty awesome. Now I can leave the music on without the constant, annoying sound effects.
+A10:09:19 <autoswim> its a total hassle of a bitch to build tall stuff
+A10:09:23 <PuyoDead> oh darn, hacks were fixed
+A10:09:28 <PuyoDead> isn't that just too sad
+A10:09:53 <peerkoel> not really, no
+10A10:09:55 * Boinciel (daveaud@brndmb02dc1-215-17.dynamic.mts.net) has joined #minecraft
+A10:10:14 <Minerman> It's pretty obvious that Notch is going to fix every bug or hack he finds.
+10A10:12:21 * oldage (chatzilla@78-20-130-208.access.telenet.be) has joined #minecraft
+A10:12:34 <oldage> hi
+A10:12:54 <citricsquid> yo
+A10:12:57 <autoswim> they'll just be made again
+A10:13:13 <autoswim> at least until survival is, sandbox is better with the flying
+A10:13:16 <oldage> are there any server experts here? :p
+A10:13:27 <citricsquid> oldage: what's the problem? :D
+12A10:13:29 * yihff (anonymous@99-184-199-115.lightspeed.wepbfl.sbcglobal.net) Quit (Ping timeout: 180 seconds)
+A10:13:43 <oldage> well, we (group friends) made a server
+A10:13:49 <oldage> and... the height limit is dumb
+A10:13:59 <oldage> can we get the height limit away? or higher?
+A10:14:08 <citricsquid> Yes, you can use one of the map editors
+A10:14:14 <Bob_Ross> secks
+A10:14:15 <citricsquid> and then upload that copy of the map to your server.
+A10:14:27 <PuyoDead> well autoswim, guess you'll just have to build like everyone else
+A10:14:31 <oldage> everything on the map will be gone though right?
+A10:14:41 <autoswim> oldage there is a program out
+A10:14:46 <autoswim> that can add or double the height of the map
+A10:14:48 <citricsquid> I don't think so, there are editors that take prebuilt maps
+A10:14:51 <autoswim> highest i've seen so far is 4096
+A10:14:54 <oldage> oooh
+A10:15:00 <autoswim> I have one that'll add without wiping the map
+A10:15:01 <oldage> ok, thanks guys!
+A10:15:06 <PuyoDead> for the love of sanity, don't make it that large
+A10:15:10 <PuyoDead> and look for mapjack
+A10:15:17 <PuyoDead> but don't get the newest version
+A10:15:55 <oldage> how is the program called citricsquid?
+A10:16:15 <Bob_Ross> omg!
+A10:16:20 <Bob_Ross> it isnt criticsquid
+A10:16:25 <Bob_Ross> its citricsquid
+A10:16:37 <Bob_Ross> holy shet
+A10:16:39 <oldage> LOL
+A10:16:42 <oldage> fail :p
+A10:16:48 <citricsquid> http://minecraftforum.net/viewtopic.php?id=826 might be it, 3rd reply
+A10:16:51 <Bob_Ross> :O
+A10:17:05 <oldage> cheers man!
+A10:17:07 <Bob_Ross> OME
+A10:17:25 <Bob_Ross> http://minecraft.net/play.jsp?server=cb21bf294cc10f05bbd2821f801362c7
+A10:17:58 <Bob_Ross> dude
+A10:17:59 <citricsquid> ...yes bob, you've linked that three times now.
+10A10:18:01 * r121 (r121@CPE00018058f4bf-CM001371b7085e.cpe.net.cable.rogers.com) has joined #minecraft
+A10:18:05 <Bob_Ross> lol
+A10:18:11 <Bob_Ross> you joined and left immediatelu
+12A10:18:51 * Spazzo (spazzo@CPE0022b0ca43d8-CM0011ae04842a.cpe.net.cable.rogers.com) Quit (Ping timeout: 180 seconds)
+A10:19:11 <Bob_Ross> ugh
+A10:19:14 <Bob_Ross> typos
+10A10:19:46 * Blarghargh (chatzilla@d149-67-63-143.col.wideopenwest.com) has joined #minecraft
+A10:19:46 <Bob_Ross> bumpchat
+A10:19:49 <Minerman> wait
+A10:20:01 <Minerman> Someone has made a 4096-tile-tall map?
+A10:20:17 <08Notch> more than 1024 won't work in mp
+A10:20:30 <autoswim> yes
+A10:20:36 <autoswim> are you sure notch
+A10:20:36 <Minerman> Ah.
+A10:20:39 <autoswim> because uh :)
+A10:20:47 <08Notch> yeah, it'll bug out
+A10:20:58 <autoswim> I dunno we had a pretty tall one
+A10:21:06 <08Notch> player positions are sent as signed shorts, and there are 32 substeps in each tile
+A10:21:14 <autoswim> elevation read as 4094 in the special client
+A10:22:01 <08Notch> yeah, the maps can be that big. =)
+10A10:22:11 * Spazzo (spazzo@CPE0022b0ca43d8-CM0011ae04842a.cpe.net.cable.rogers.com) has joined #minecraft
+A10:22:32 <08Notch> but player positions will bug out
+A10:24:21 <Bob_Ross> NOTCH
+A10:24:22 <Bob_Ross> hi
+A10:24:28 <08Notch> hello!
+A10:24:38 <Minerman> YouTube has a new glitch screen apparently
+A10:24:41 <Bob_Ross> what was that video on your blog
+A10:24:53 <Minerman> Now instead of turning plain green when it incorrectly switches to HQ
+A10:24:58 <08Notch> a game a friend of mine is making. =)
+A10:25:01 <Minerman> It now turns into a million shiny, neon bars
+A10:25:23 <JTE> http://minecraftforum.net/viewtopic.php?id=978 - I maded a post. oo; Now people know I exist.
+A10:25:37 <Minerman> I've known you exist for.. uh.. days.
+A10:25:55 <Bob_Ross> Notch, What video was that in your blog, where it was a game an you were rapping about driving a car. Not you, specifically, but ya know.
+A10:26:04 <Bob_Ross> ill try and find it on yer blag
+A10:26:52 <Bob_Ross> http://notch.tumblr.com/page/8 the third video down
+A10:27:32 <autoswim> before this new client update, we were able to fly to as high as we wanted and it never bugged out
+A10:27:33 <autoswim> Just sayin'
+10A10:29:20 * AlMightyBob (chatzilla@82-41-90-220.cable.ubr02.dund.blueyonder.co.uk) has joined #minecraft
+A10:29:25 <JTE> I remember that video.
+A10:29:44 <Bob_Ross> http://www.youtube.com/watch?v=_IofAtnzCcQ&feature=player_embedded
+10A10:29:56 * x266 (Mibbit@CPE00179a4ea1f6-CM001868e7e028.cpe.net.cable.rogers.com) has joined #minecraft
+A10:30:13 <autoswim> And flying once more :P
+A10:30:44 <autoswim> Not trying to be a dick but it's not public knowledge/release
+A10:30:47 <autoswim> It just makes building... easier
+12A10:30:48 * x266 (Mibbit@CPE00179a4ea1f6-CM001868e7e028.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+A10:30:50 <autoswim> until survival is out
+A10:31:14 <Bob_Ross> what about memory editing? IS that fixed?
+A10:31:19 <Bob_Ross> if it is, NOOOO
+A10:31:26 <autoswim> Memory editing for what?
+A10:31:39 <Bob_Ross> where you can build whatever block you want
+A10:31:48 <JTE> It's fixed.
+A10:31:53 <autoswim> oh. speaking of which I have something I want to show you bob
+A10:31:56 <Bob_Ross> including lava, staionary lava, water, statonary water
+A10:31:59 <autoswim> link to your server again?
+A10:31:59 <Bob_Ross> ok
+A10:32:03 <Bob_Ross> ...
+A10:32:07 <autoswim> fine
+A10:32:08 <autoswim> ill do it on my own
+A10:32:09 <Bob_Ross> let me start it up
+A10:32:12 <autoswim> nono
+A10:32:12 <Bob_Ross> no!
+A10:32:16 <autoswim> because it's defacing basically
+A10:32:25 <Bob_Ross> http://www.minecraft.net/play.jsp?server=cb21bf294cc10f05bbd2821f801362c7
+A10:32:28 <Bob_Ross> oh
+A10:32:30 <Bob_Ross> dont click
+12A10:32:39 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) Quit (Quit: Client Exited)
+A10:33:14 <autoswim> ill host one
+A10:34:04 <Bob_Ross> mkay
+A10:34:11 <autoswim> http://www.minecraft.net/play.jsp?server=ae240984882075a763462bf8c30c928d
+A10:34:39 <JTE> :< So why am I still running at liek over a hundred frames per second.
+A10:36:28 <autoswim> did you join yet
+A10:36:31 <Bob_Ross> yes
+A10:36:38 <autoswim> k
+A10:36:39 <autoswim> check this
+10A10:37:05 * Quatroking (Quatroking@86.90.159.252) has joined #minecraft
+A10:37:36 <Quatroking> what the hell people
+A10:37:40 <Quatroking> where's my FPS counter
+A10:37:46 <citricsquid> escape > options
+A10:37:49 <Quatroking> goddamnit I'm never playing this game again
+A10:37:55 <Quatroking> fuck this game and everything
+13A10:38:00 * Quatroking slits himself
+12A10:38:02 * Notch (Notch@h-77-240.A165.priv.bahnhof.se) Quit (Read error: Connection reset by peer)
+A10:38:18 <citricsquid> you upset notch!
+A10:38:19 <Quatroking> oh hey options.
+13A10:38:27 * Quatroking unslits himself
+A10:39:01 <Quatroking> Nah, Notch is just scared of blood
+10A10:39:43 * ramseh (Mibbit@c-69-255-98-24.hsd1.md.comcast.net) has joined #minecraft
+10A10:40:54 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) has joined #minecraft
+A10:43:31 <Bob_Ross> notch
+A10:43:39 <Bob_Ross> such a aweird username
+A10:43:47 <Bob_Ross> im going to repeat it
+A10:43:51 <Bob_Ross> until
+A10:43:55 <Bob_Ross> i understand it
+A10:44:01 <Bob_Ross> notchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotch
+12A10:44:03 * ramseh (Mibbit@c-69-255-98-24.hsd1.md.comcast.net) Quit (Quit: Client Exited)
+A10:44:08 <Bob_Ross> i think i get it.
+A10:44:17 <Bob_Ross> notchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchnotchn
+A10:44:17 <C418> yeah, it reads like techno.
+A10:44:18 <Bob_Ross> oops
+A10:44:21 <Bob_Ross> lololl!
+A10:44:25 <C418> kickworthy
+A10:44:35 <Bob_Ross> nah
+A10:44:39 <Bob_Ross> more like
+A10:44:40 <citricsquid> I was about to kick, haha, I couldn't think of a good kick message though :(
+A10:44:47 <Bob_Ross> lol
+A10:45:44 <C418> hm
+A10:45:47 <C418> how abouut /kick #minecraft Bob_Ross Bob_RossBob_RossBob_RossBob_RossBob_RossBob_RossBob_Ross
+A10:45:54 <C418> yes
+A10:45:57 <C418> that would do the trick
+A10:46:03 <C418> go ahead!
+10A10:46:27 * Bob_Ross was kicked by citricsquid (Bob_RossBob_RossBob_RossBob_RossBob_RossBob_RossBob_Ross)
+A10:46:32 <citricsquid> great idea!
+A10:46:41 <Quatroking> I suggest /ban next time.
+A10:46:53 <chrstfer> hello am back for a min.
+A10:47:01 <Quatroking> Considering bob ross is a faggot in overal.
+10A10:47:12 * Mongrel (Mibbit@5ac18154.bb.sky.com) has joined #minecraft
+10A10:47:12 * Bob_Ross (Mibbit@ip68-14-82-28.ri.ri.cox.net) has joined #minecraft
+10A10:47:19 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+A10:47:20 <chrstfer> yes he is
+A10:47:21 <Bob_Ross> oh my fuckin' god!
+A10:47:23 <PuyoDead> agreed.
+A10:47:28 <Bob_Ross> automaticswim is a acker
+A10:47:31 <Bob_Ross> thacker*
+A10:47:33 <Bob_Ross> he noclips
+A10:47:36 <Bob_Ross> and he has a bo
+A10:47:39 <Bob_Ross> bot
+A10:47:45 <Bob_Ross> named jurassicdick
+A10:47:47 <PuyoDead> yea, we get it. there are a lot of those
+A10:47:47 <chrstfer> most definitly a faggot. who bans people for greifing, before they get out of their retarted trap
+A10:47:56 <Bob_Ross> wow
+A10:47:59 <Bob_Ross> chrstfer
+A10:48:09 <Bob_Ross> you still bitchin about a joke?
+A10:48:15 <chrstfer> we all think you are a faggot. 
+A10:48:17 <Bob_Ross> i wont let you in, now
+A10:48:23 <chrstfer> joke my ass im still ipbanned.
+A10:48:34 <Bob_Ross> what gives me the qualities of a fag?
+A10:48:35 <chrstfer> i dont want to. faggot
+A10:48:47 <Mongrel> Sup guys, can anyone help me out? I made a map in OME, how can I load it on my private server?
+A10:48:58 <chrstfer> being a faggot. if you look it up in the dictionary, its got a picture of you
+A10:49:05 <Bob_Ross> you save it in your server hosting file as server_level.dat
+A10:49:06 <citricsquid> call it server_level.dat and stick it in the folder :D
+A10:49:09 <citricsquid> then restart the server.
+A10:49:09 <autoswim> place the server_level.bat in the folder
+A10:49:26 <Mongrel> excellent, ty guys
+A10:49:28 <chrstfer> gotta go. cya citric
+A10:49:33 <citricsquid> You'll need to change the port the server runs off for a restart though, unless you want to wait a few mins.
+A10:49:34 <Bob_Ross> good riddence
+A10:49:34 <citricsquid> bai
+A10:49:39 <chrstfer> cya faggot
+12A10:49:43 * chrstfer (Mew2456@pool-96-255-137-78.washdc.fios.verizon.net) Quit (Quit: Client Exited)
+A10:49:44 <Bob_Ross> wow
+A10:49:59 <Bob_Ross> your a bitch
+A10:50:01 <Bob_Ross> lawl
+A10:50:16 <PuyoDead> you're
+A10:50:17 <Bob_Ross> well
+10A10:50:17 * Nate (chatzilla@c-68-32-58-47.hsd1.nj.comcast.net) has joined #minecraft
+A10:50:22 <C418> whine whine
+12A10:50:22 * Blarghargh (chatzilla@d149-67-63-143.col.wideopenwest.com) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5/20090624025744])
+A10:50:26 <Nate> hello.
+A10:50:27 <Siiseli> whodares abuse te nme o the ing
+A10:50:32 <Bob_Ross> i haven't anything else to do.
+A10:50:33 <Siiseli> of the king*
+A10:50:34 <PuyoDead> what?
+A10:50:38 <citricsquid> if I were to ban bob_ross, it'd be for his awful butchering of the english language.
+A10:50:50 <C418> maybe his keyboard is broken
+10A10:50:51 * Nate is now known as nmilkosky
+A10:50:55 <Bob_Ross> what makes a cussword so bad?
+A10:51:02 <Bob_Ross> its a word, same as any else
+A10:51:02 <PuyoDead> maybe someone swapped all his keys
+12A10:51:10 * Genisi (what@76.226.29.82) Quit (Quit: Client Exited)
+A10:51:17 <Siiseli> what I meant by abusing the name of the king was why the fuck is your name bob ross you sick man
+A10:51:22 <JTE> HEllo ... Nate.
+12A10:51:25 * Quatroking (Quatroking@86.90.159.252) Quit (Quit: I'm off, kthxbai)
+A10:51:29 <Bob_Ross> shutup
+A10:51:30 <PuyoDead> probably never even watched bob ross :P
+A10:51:33 <Bob_Ross> not you, JTE
+A10:51:33 <C418> Mister Anderson.
+A10:51:38 <Bob_Ross> yes i have
+A10:51:40 <Siiseli> I sure have \:D/
+A10:51:43 <Bob_Ross> he was [paint god]
+A10:51:51 <Bob_Ross> making a paintings in under an hour
+A10:52:05 <PuyoDead> I have a directory full of episodes... not sure if that's something to be proud of or not
+12A10:52:11 * nmilkosky (chatzilla@c-68-32-58-47.hsd1.nj.comcast.net) Quit (Quit: Client Exited)
+A10:52:13 <Bob_Ross> it is
+A10:52:18 <Siiseli> PuyoDead, same here.
+A10:52:23 <Siiseli> be proud
+12A10:52:31 * Mongrel (Mibbit@5ac18154.bb.sky.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A10:52:37 <Bob_Ross> minecraft is getting sooo boooorin
+A10:52:42 <Siiseli> no you
+A10:52:45 <Bob_Ross> twhens survival ooming out
+A10:52:46 <citricsquid> I have a directory called norp ton
+A10:52:50 <PuyoDead> they why are you playing?
+A10:52:52 <PuyoDead> haha
+A10:52:53 <Siiseli> when hell freezes
+A10:53:02 <Bob_Ross> why am i playing?
+A10:53:08 <Bob_Ross> it was fun at first
+A10:53:15 <JTE> PuyoPuyoPuyoDead, I made a topic a bout my server on a message board in a thread and I'm waiting for people to reply to it and I'm anxious and not doing any of the things I've listed that I want to be making next. :33
+A10:53:20 <Bob_Ross> then it gradually lost its funned-ness
+A10:53:33 <Bob_Ross> and now.
+A10:53:33 <Bob_Ross> it
+A10:53:35 <Bob_Ross> is
+A10:53:36 <Bob_Ross> boring
+A10:53:40 <JTE> Silly Bob_Ross.
+A10:53:45 <JTE> You don't know how to make fun.
+A10:53:51 <Siiseli> thou art of the sillier kind.
+A10:54:41 <PuyoDead> JTE, I has replied!
+A10:54:44 <Bob_Ross> :/
+A10:55:00 <autoswim> what subforum, JTE?
+A10:55:03 <Bob_Ross> \:D/
+A10:55:11 <citricsquid> mapping and modding
+A10:55:19 <Bob_Ross> \:D/
+A10:55:24 <Bob_Ross>   |
+A10:55:29 <Bob_Ross>   /\
+10A10:55:29 * Bob_Ross was kicked by citricsquid (stop it)
+A10:55:58 <PuyoDead> god, he's like a little snotty kid
+A10:56:30 <autoswim> thanks
+A10:59:54 <citricsquid> http://minecraftforum.net/viewtopic.php?id=980
+A10:59:58 <citricsquid> sounds... awesome
+A11:01:07 <autoswim> time to grief
+A11:02:06 <autoswim> nope doesnt apply in mp
+A11:04:27 <autoswim> it does it in the most hilarious fashion too
+A11:04:27 <Siiseli> I wuv you citricsquid 
+A11:04:28 <Siiseli> <3
+A11:04:57 <citricsquid> why?!
+A11:05:06 <cryzed> citricsquid: 
+A11:05:12 <cryzed> How do you get OP in an IRC Channel
+A11:05:17 <cryzed> When you create one
+A11:05:23 <cryzed> Can you somehow tell the network that it's yours
+A11:05:24 <cryzed> ?
+A11:05:29 <autoswim> by default you should be
+A11:05:43 <cryzed> but if I leave
+A11:05:47 <cryzed> and another person joins
+A11:05:48 <cryzed> it's his
+A11:05:49 <autoswim> you have to register it
+A11:05:52 <autoswim> under you
+A11:05:58 <citricsquid> yeah, that's how it works, unless you register the channel with the server
+A11:06:05 <citricsquid> (I think)
+A11:06:15 <cryzed> how do I do that?
+A11:06:56 <citricsquid> http://esper.net/chanserv.php
+10A11:07:59 * mib_jhqd75 (Mibbit@pool-173-76-241-235.bstnma.fios.verizon.net) has joined #minecraft
+A11:08:24 <cryzed> ah I got it
+A11:08:36 <cryzed> ;/msg ChanServ REGISTER;|RECOVER
+12A11:10:06 * mib_jhqd75 (Mibbit@pool-173-76-241-235.bstnma.fios.verizon.net) Quit (Quit: Client Exited)
+A11:10:24 <cryzed> lol
+A11:10:26 <cryzed> this is great
+A11:10:27 <cryzed> Syntax: REGISTER channel password description
+A11:10:36 <cryzed> -ChanServ- The last parameter, which must be included, is a
+A11:10:36 <cryzed> -ChanServ- general description of the channel's purpose.
+A11:10:46 <cryzed> how should I do that without setting a password?
+A11:11:31 <peerkoel> how would you register a channel without a password?
+A11:11:42 <cryzed> ah
+A11:11:44 <cryzed> sorry
+A11:11:51 <peerkoel> no worries
+A11:12:04 <cryzed> peerkoel: 
+A11:12:09 <cryzed> I thought that the ChanServ
+A11:12:17 <cryzed> looks up my ISP and if I am registered to my nick
+A11:12:19 <cryzed> or IDENTIFIED
+A11:12:27 <cryzed> knows that I'm me and that I own this channel
+A11:14:20 <citricsquid> http://www.flickr.com/photos/39580174@N07/3692239181/
+A11:24:17 <ZomBuster> pff Helvetic is overused
+A11:26:29 <JTE> The channel password is used for stealing ownership of a channel you do not own.
+A11:26:38 <JTE> ... so make it a strong one.
+A11:26:53 <cryzed> kk
+10A11:27:07 * Dossy (chatzilla@cpc1-shep1-0-0-cust1007.lei3.cable.ntl.com) has joined #minecraft
+A11:27:25 <Dossy> citricsquid: I'll agree with 1, 2 and 5 :DD
+A11:27:51 <citricsquid> :D
+A11:27:55 <ZomBuster> not like anyone would bother to bruteforce some random channel
+A11:28:19 <JTE> citricsquid: http://minecraftforum.net/viewtopic.php?id=978 -- My list of features is quite exhaustive, I didn't know I had done so much at a glance. o.o;
+A11:29:54 <cryzed> ZomBuster: random channel, it's MY Channel
+A11:30:17 <ZomBuster> well I mean its not a very big channel
+A11:30:39 <autoswim> JTE why not run the server on a different port than a test server so others can try it out?
+A11:30:58 <autoswim> Alternatively I could host it if you don't want that or have a host, I've been running one off one of my home servers for a few weeks now
+12A11:36:08 * Dossy (chatzilla@cpc1-shep1-0-0-cust1007.lei3.cable.ntl.com) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5/20090624025744])
+A11:36:15 <JTE> Hm.
+A11:38:11 <JTE> Partially because I can't be distracted having to administrate a server, I'm afraid most people are morons, and I dun know what else. But I'm definately uncomfortable with hosting the server myself.
+A11:38:36 <autoswim> lol i see
+10A11:40:43 * Arf (telnet@190.176.241.105) has joined #minecraft
+A11:43:16 <citricsquid> I'd be willing to run one from my dedi also ;)
+10A11:43:44 * PrincepsRegulus (mlango@adsl-76-205-75-86.dsl.bcvloh.sbcglobal.net) has joined #minecraft
+A11:43:51 <PrincepsRegulus> hai
+A11:43:54 <cryzed> Yo
+10A11:44:01 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) has joined #minecraft
+A11:44:02 <PrincepsRegulus> lotsa ppl
+A11:44:20 <PrincepsRegulus> and no-one is talking...
+A11:44:23 <JTE> Yep.
+A11:44:29 <PrincepsRegulus> im going back to cryzed
+12A11:44:31 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) Quit (Quit: Client Exited)
+A11:44:36 <cryzed> :D
+10A11:44:36 * PrincepsRegulus (mlango@adsl-76-205-75-86.dsl.bcvloh.sbcglobal.net) has left #minecraft (Leaving)
+A11:46:18 <autoswim> we're al
+A11:46:20 <autoswim> oh he left
+A11:46:41 <cryzed> we're al? :D
+A11:46:56 <autoswim> nothing
+12A11:52:35 * _spondy (spondy@203-206-42-75.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+10A11:57:37 * ctburle1 (calin@ppp-70-251-25-147.dsl.hstntx.swbell.net) has joined #minecraft
+10A11:57:44 * _spondy (spondy@203-59-198-130.dyn.iinet.net.au) has joined #minecraft
+12A11:58:28 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) Quit (Ping timeout: 180 seconds)
+10A11:59:51 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+10P12:00:35 * Genisi (what@76.226.29.82) has joined #minecraft
+12P12:00:56 * _spondy (spondy@203-59-198-130.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+10P12:02:56 * SteGriff (chatzilla@5ad87e77.bb.sky.com) has joined #minecraft
+10P12:05:58 * _spondy (spondy@124-169-237-29.dyn.iinet.net.au) has joined #minecraft
+12P12:22:42 * ctburle1 (calin@ppp-70-251-25-147.dsl.hstntx.swbell.net) Quit (Ping timeout: 180 seconds)
+10P12:23:59 * ctburle1 (calin@ppp-70-251-25-147.dsl.hstntx.swbell.net) has joined #minecraft
+10P12:28:25 * nmilkosky (chatzilla@c-68-32-58-47.hsd1.nj.comcast.net) has joined #minecraft
+10P12:28:56 * Genisi is now known as Genisi|BRB
+12P12:30:09 * ctburle1 (calin@ppp-70-251-25-147.dsl.hstntx.swbell.net) Quit (Ping timeout: 180 seconds)
+10P12:30:13 * Akai (Explorer@c-71-62-107-62.hsd1.va.comcast.net) has joined #minecraft
+12P12:31:54 * Minerman (mechana241@c-71-207-77-211.hsd1.pa.comcast.net) Quit (Quit: Client Exited)
+10P12:36:24 * Genisi (what@76.226.29.82) has joined #minecraft
+10P12:36:36 * VitaEdo (vita@pool-72-77-223-17.tampfl.fios.verizon.net) has joined #minecraft
+12P12:37:26 * Genisi|BRB (what@76.226.29.82) Quit (Ping timeout: 180 seconds)
+10P12:41:00 * Piecat (chatzilla@adsl-76-199-164-204.dsl.milwwi.sbcglobal.net) has joined #minecraft
+10P12:46:20 * ctburle1 (calin@c-76-31-27-58.hsd1.tx.comcast.net) has joined #minecraft
+12P12:47:38 * nmilkosky (chatzilla@c-68-32-58-47.hsd1.nj.comcast.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.6/2009011913])
+10P12:53:34 * potato (samthrashe@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has joined #minecraft
+10P12:54:37 * Roflmazturr (chatzilla@74.210.93.215) has joined #minecraft
+P12:59:37 <Rock_D> wtf netsplit?
+P1:00:07 <Rock_D> no that looks differently
+P1:00:54 <citricsquid> no, just no talking for ages and lots of people leaving/connecting :D
+13P1:01:05 * JTE randomly huggles citricsquid again.
+10P1:01:12 * ctburle1 (calin@c-76-31-27-58.hsd1.tx.comcast.net) has left #minecraft
+P1:03:25 <cryzed> May I too?
+P1:03:45 <autoswim> how cute
+P1:03:46 <potato> hey jte i saw your thread about the custom server
+P1:03:48 <Rock_D> you are excused 
+P1:03:56 <potato> just wanna say that it's hella cool
+P1:04:04 <JTE> that's hella jeff
+P1:04:13 <citricsquid> Disclaimer: if one of my tentacles ends up in your pants it isn't my fault.
+P1:06:58 <cryzed> citricsquid: lol :D
+10P1:07:00 * yoshibot (kit@ip68-0-175-73.tc.ph.cox.net) has joined #minecraft
+10P1:10:36 * iPope (i_the_king@5ac60ec2.bb.sky.com) has joined #minecraft
+12P1:10:40 * yoshibot (kit@ip68-0-175-73.tc.ph.cox.net) Quit (Remote host closed the connection)
+P1:10:55 <iPope> have you guys all seen the sand water glitch
+P1:11:00 <JTE> Hi iPope.
+P1:11:04 <JTE> Yes we have
+P1:11:06 <JTE> And my server fixed it.
+10P1:11:09 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+P1:11:11 <JTE> And someone told me to un-fix it. :(
+P1:11:25 <iPope> :( apparently it didnt work in singleplayer anyway
+P1:11:31 <iPope> multi*
+P1:11:42 <JTE> http://minecraftforum.net/viewtopic.php?pid=6850#p6850 btw.
+P1:12:32 <iPope> thats not helpful at all :P
+P1:12:41 <JTE> Then, talk to me about it more here. :3
+P1:13:18 <iPope> right i understand everything up to the server communcating with the java applet, I dont know how your doing that
+P1:13:43 <autoswim> uh the sand-watch glitch doesn't work in mp
+P1:14:03 <autoswim> oh i didn't read the that line
+P1:14:08 <autoswim> -the
+P1:14:16 <JTE> I'm doing it through the internet.
+P1:14:46 <iPope> *sigh* i guessed that
+P1:15:08 <iPope> right the client says a command, e.g /nick
+P1:15:08 <iPope> the server gets the command
+P1:15:08 <JTE> You're asking me something silly, like "how does a PHP script send web pages to clients on an Apache server? I thought only HTML could do that!"
+P1:15:08 <JTE> :P
+P1:15:21 <JTE> The server gets the command "/nick", yes.
+P1:15:21 <iPope> nope thats not what im asking
+P1:15:29 <JTE> It gets it the same way it gets normal text.
+P1:15:40 <iPope> yup got that
+P1:15:41 <JTE> The fact that it gets interpreted AS a command in the first place is entirely server-side.
+P1:16:01 <iPope> yup, but what i want to know is what the server does after that
+P1:16:19 <JTE> The server sees "Oh hay, this guy said /nick, I should change their name!" and makes a note of whatever new name they chose.
+P1:17:00 <iPope> Uhuh, then the server sends that info to the client, which in turn changes there name inside the java applet?
+P1:18:29 <JTE> Actually, normal chat text gets sent exactly as what you see: When you see "JTE: Hi mom!" that means the server LITERALLY sent "JTE: Hi mom!" to you. So if I use /nick, I can just change that to "iPoop: Hi mom!" and be done.
+P1:20:03 <JTE> The only thing that needs to be sent to change the name over your character's head ... is the only packet that gets sent to clients containing a person's nick in the first place.
+P1:20:03 <iPope> ah okay
+P1:20:03 <iPope> any chance you can get server running? so i can see this in action
+P1:20:34 <JTE> I can, I was just looking into having someone else host it for me ...
+P1:21:38 <iPope> i can
+P1:21:38 <iPope> :P
+P1:21:38 <JTE> http://www.minecraft.net/play.jsp?server=530ae5b55ff0a56c21fc24e1f3140d7
+12P1:21:38 * Parthon (cheeeese@124-169-82-40.dyn.iinet.net.au) Quit (Quit: This is still a quit message.)
+P1:21:38 <citricsquid> JTE: I can set you up a VM with ssh access if you want to run one 24/7 externally :)
+P1:21:38 <iPope> ah
+P1:30:11 <Akai> ...
+P1:30:11 <Akai> I'm so gonna get in trouble for that one...
+P1:30:11 <iPope> woah server down :(
+13P1:30:11 * Akai just accidentally flooded her favorite server, bigtime
+P1:30:11 <citricsquid> FEMALE?!
+P1:30:11 <cryzed> run Akai !
+P1:30:11 <cryzed> RUN!
+P1:30:11 <citricsquid> also sorry JTE :( Thought it wasn't flowing water
+P1:30:11 <JTE> Bah.
+Session Close: Sat Jul 11 13:30:12 2009
+
+Session Start: Sat Jul 11 15:44:38 2009
+Session Ident: #minecraft
+10P3:44:38 * Now talking in #minecraft
+10P3:44:38 * Topic is 'http://www.minecraft.net  |  Client 0.0.23a is out with new options and the ability to remap keys'
+10P3:44:38 * Set by Notch!Notch@h-77-240.A165.priv.bahnhof.se on Sat Jul 11 09:17:15
+P3:45:55 <JTE> Except in JTE's server
+P3:45:58 <JTE> because JTE's server is awesome
+10P3:46:52 * TerribleTrioJoe (jzischka@pool-70-108-16-38.res.east.verizon.net) has joined #minecraft
+12P3:47:30 * TerribleTrioJoe (jzischka@pool-70-108-16-38.res.east.verizon.net) Quit (Quit: Client Exited)
+P3:47:48 <JTE> /mute command works now, and awesomely.
+10P3:49:07 * TerribleTrioJoe (jzischka@pool-70-108-16-38.res.east.verizon.net) has joined #minecraft
+12P3:49:08 * TerribleTrioJoe (jzischka@pool-70-108-16-38.res.east.verizon.net) Quit (Quit: Client Exited)
+P3:51:48 <citricsquid> can't speak?!
+P3:53:51 <AlLnAtuRalX> http://redditpublic.com/
+P3:54:06 <AlLnAtuRalX> Yes, I know it's ugly... but temporary 
+P3:54:19 <Animator> Hey citric.
+P3:54:28 <Animator> I just tried out chess in Minecraft. It works.
+12P3:56:27 * citricsquid (sam@client-81-97-76-28.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+12P3:56:34 * Deiz (swh@206-248-132-86.dsl.teksavvy.com) Quit (Ping timeout: 180 seconds)
+10P3:56:54 * citricsquid (sam@client-86-25-243-79.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+P3:58:37 <Animator> Guys, I just realized something.
+P3:58:43 <Animator> We have sand and gravel.
+P3:58:54 <Animator> Both fall with gravity, both different colors.
+P3:59:00 <Animator> You know what this means?
+10P3:59:04 * Deiz (swh@206-248-132-73.dsl.teksavvy.com) has joined #minecraft
+P3:59:06 <Animator> Connect 4.
+P3:59:11 <Animator> Hell YES.
+13P3:59:16 * Animator gets to work on it.
+12P4:00:02 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+12P4:00:47 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) Quit (Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org)
+12P4:03:37 * Cue (cueball61@cpc2-alde4-2-0-cust382.6-2.cable.virginmedia.com) Quit (Quit: Client Exited)
+10P4:04:23 * Malcovent (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) has joined #minecraft
+P4:05:49 <PuyoDead> oh snap, connect 4 would be awesome
+P4:06:08 <citricsquid> I tried making tetris using sand, like, deleting blocks below sand so it fell, but I failed :(
+P4:07:08 <PuyoDead> heh
+P4:07:37 <Malcovent> connect 4 <3 
+13P4:07:51 * AlLnAtuRalX used to own in Connect 4 in 1st grade.
+10P4:07:57 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) has joined #minecraft
+P4:08:21 <vdgmprgrmr> You could do a really, really weak match-3 game.
+13P4:08:44 * vdgmprgrmr still owns Connect 4.
+12P4:12:37 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+10P4:13:15 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) has joined #minecraft
+10P4:13:35 * Eagle (BLELELEL@c-24-56-241-140.customer.broadstripe.net) has joined #minecraft
+12P4:19:09 * Deiz (swh@206-248-132-73.dsl.teksavvy.com) Quit (Ping timeout: 180 seconds)
+10P4:21:01 * Deiz (swh@206-248-132-181.dsl.teksavvy.com) has joined #minecraft
+10P4:22:43 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) has joined #minecraft
+10P4:23:02 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) has joined #minecraft
+P4:23:52 <Redshift> my ocean build server now has a new twist, sea level is high up, and there is an ocean floor
+P4:23:54 <Redshift> http://minecraft.net/play.jsp?server=9653619086c67543877d610be3493a01
+P4:24:05 <Redshift> (of terrain)
+12P4:25:09 * Deiz (swh@206-248-132-181.dsl.teksavvy.com) Quit (Ping timeout: 180 seconds)
+10P4:27:23 * Deiz (swh@206-248-132-88.dsl.teksavvy.com) has joined #minecraft
+P4:27:29 <Animator> Citricsquid, can you rename my server into the All-natural casino?
+P4:27:45 <Animator> And also, Connect 4 is ready.
+10P4:29:35 * Malcovente (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) has joined #minecraft
+12P4:30:55 * Malcovent (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P4:31:17 * Boinciel (daveaud@brndmb02dc1-215-17.dynamic.mts.net) Quit (Ping timeout: 180 seconds)
+P4:31:34 <SteGriff> http://www.minecraftwiki.net/wiki/Chess
+P4:31:38 <SteGriff> night all
+12P4:31:47 * SteGriff (chatzilla@5ad87e77.bb.sky.com) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5/20090624025744])
+12P4:31:49 * Benjaman (hammertime@va-76-5-72-142.dhcp.embarqhsd.net) Quit (Quit: Client Exited)
+12P4:32:56 * Malcovente (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) Quit (Quit: Client Exited)
+10P4:33:57 * malcovent (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) has joined #minecraft
+10P4:35:07 * ChanServ sets mode: +o citricsquid
+P4:36:22 <Animator> Tic-tac-toe arena done.
+10P4:36:27 * Boinciel (daveaud@brndmb02dc1-195-2.dynamic.mts.net) has joined #minecraft
+12P4:41:31 * Roflmazturr (chatzilla@74.210.93.215) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0/2008052906])
+P4:46:31 <PuyoDead> hey Animator, how's this for some basic Connect 4? http://img200.imageshack.us/img200/9278/minecraftconnect4.jpg
+P4:49:41 <Animator> I did something similar.
+P4:49:54 <Animator> How do you set a spawn?
+P4:50:49 <vdgmprgrmr> We're racking up a pretty good amount of Minecraft games...
+P4:51:14 <vdgmprgrmr> Spleef, Connect 4, Chess, Checkers.
+P4:51:39 <vdgmprgrmr> Someone had a race track somewhere once...
+P4:54:56 <Thi3f> Does TL_Legacy(forum name) hang out here?
+P4:57:03 <vdgmprgrmr> I don't think so.
+P4:59:05 <Thi3f> He's posting stupid suggestions in support threads and confusing people :(
+P5:01:13 <ZomBuster> I think all those minecraft games are horribly unfun
+12P5:01:35 * ZomBuster (zombuster@ip111-36-208-87.adsl2.static.versatel.nl) Quit (Quit: poop on my dick)
+12P5:07:34 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) Quit (Ping timeout: 180 seconds)
+10P5:07:46 * Roflmazturr (chatzilla@74.210.93.215) has joined #minecraft
+10P5:08:39 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+P5:11:31 <Animator> Which Minecraft games?
+P5:11:57 <Animator> I've tried them all and they're incredibly enjoyable, but chess may vary in mileage.
+P5:13:24 <vdgmprgrmr> Oh my god, I don't understand how Microsoft can possibly justify packaging IE with ANYTHING.
+P5:15:44 <Rroff> lol
+P5:16:06 <Siiseli> hoho
+P5:18:42 <AlLnAtuRalX> How?  It's part of their core OS
+P5:18:47 <AlLnAtuRalX> explorer.exe anyone?
+10P5:22:03 * Thi (thi3f@81-233-18-238-no30.tbcn.telia.com) has joined #minecraft
+12P5:22:03 * Thi3f (thi3f@81-233-18-238-no30.tbcn.telia.com) Quit (Read error: Connection reset by peer)
+10P5:22:07 * Thi is now known as Thi3f
+10P5:28:05 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) has joined #minecraft
+P5:28:16 <stickzanimator> Citricsquid!
+P5:28:18 <stickzanimator> I'm here
+P5:29:09 <citricsquid> hi :D
+12P5:29:29 * AlMightyBob (chatzilla@82-41-90-220.cable.ubr02.dund.blueyonder.co.uk) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+P5:30:38 <stickzanimator> So...about the privite server...
+P5:30:38 <stickzanimator> lol
+P5:30:38 <stickzanimator> ._.
+P5:30:47 <citricsquid> doing now :)
+P5:30:51 <stickzanimator> ok
+P5:30:54 <stickzanimator> thank you so much
+P5:31:01 <citricsquid> any type of level, or just a normal one?
+P5:31:14 <stickzanimator> Um
+P5:31:16 <stickzanimator> Normal
+P5:31:57 <citricsquid> What server title do you want, and motd?
+P5:32:20 <vdgmprgrmr> Allnaturalx, IE isn't explorer.exe
+P5:32:27 <stickzanimator> Server title will be "Hippiepivot Server" (It's for a forum) and what is a motd?
+P5:32:31 <vdgmprgrmr> It's iexplore.exe
+P5:32:39 <citricsquid> message of the day, shows below the title on connect
+P5:32:44 <stickzanimator> aaaah
+P5:32:45 <stickzanimator> Um.
+P5:32:59 <vdgmprgrmr> And I don't see how they can possibly justify having it be part of the core of their OS.
+P5:33:04 <citricsquid> and what max players? (any number below 32, incl 32)
+P5:33:05 <stickzanimator> "Welcome! Respect others creations and don't be a griefer"
+P5:33:11 <stickzanimator> 16 max players
+P5:36:53 <Thi3f> vdgmprgrmr, mm, but windows lacks any good way of getting a browser without one already installed :(
+P5:37:04 <vdgmprgrmr> Yeah.
+P5:37:12 <vdgmprgrmr> That's why they package some other browser.
+P5:37:20 <vdgmprgrmr> Ahem!
+P5:37:24 <vdgmprgrmr> Firefox...
+P5:37:28 <Thi3f> Ahem, Chrome
+P5:37:32 <vdgmprgrmr> BOTH!
+P5:37:33 <citricsquid> pmed the url :)
+P5:37:40 <Thi3f> I'd rather see a decent package manager
+P5:37:40 <stickzanimator> Thank you!
+P5:37:44 <stickzanimator> Wait
+P5:37:45 <stickzanimator> but
+P5:37:47 <stickzanimator> is it privite?
+P5:37:50 <citricsquid> yes
+P5:37:52 <stickzanimator> Thanks
+P5:37:59 <Thi3f> Instead of the current app removal manager that's in windows and sucks
+12P5:38:05 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P5:39:52 <Rroff> wtf
+P5:40:01 <Rroff> my GPU fan is spinning 3x faster than it should
+P5:40:09 <Rroff> and making a terrible noise
+P5:40:29 <Rroff> 100% is usually 3000rpm and it hit 9600rpm at 100% just then
+10P5:42:41 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) has joined #minecraft
+P5:43:02 <stickzanimator> Um...I can't seem to figure out how to check my PMs on this forum. ._. 
+P5:43:20 <Animator> The Minecraft forum?
+P5:43:30 <stickzanimator> yes
+P5:43:32 <citricsquid> stickz: I meant IRC PM :P
+P5:43:37 <citricsquid> forum has no PM atm
+P5:43:40 <stickzanimator> OH
+P5:43:42 <stickzanimator> no wonder
+P5:43:44 <stickzanimator> xD
+P5:43:51 <citricsquid> Dunno if mibbit supports PMs
+P5:43:54 <citricsquid> should show at the side
+P5:44:11 <stickzanimator> ok
+10P5:44:20 * Quatroking (Quatroking@86.90.159.252) has joined #minecraft
+P5:44:23 <Quatroking> Hey there
+P5:44:35 <Thi3f> Hey
+P5:45:25 <Animator> What the hell?
+P5:45:38 <Animator> I accidentaly pressed a button and I couldn't stop walking.
+P5:45:46 <Animator> Is there autopilot on Minecraft?
+P5:45:46 <Quatroking> lol?
+P5:45:55 <Quatroking> Could be keyboard lag
+P5:45:59 <Quatroking> I have it once in a while
+P5:46:09 <Animator> Actually, here's a thought.
+P5:46:17 <Quatroking> just press the key of the direction you're walking to
+P5:46:31 <Animator> To anyone that's playing Minecraft right now, start walking and then press the Alt button.
+P5:46:36 <Animator> And see what happens.
+P5:46:39 <Quatroking> Oh you mean that
+P5:46:49 <Quatroking> that happens with all java apps
+P5:46:54 <Quatroking> that are embedded
+P5:47:00 <Quatroking> even flash.
+P5:47:10 <Animator> Cool.
+P5:47:21 <Animator> I could use that in spleef.
+P5:47:44 <Quatroking> once you alt, the browser cuts off the media's controls so that things like the adress bar don't interfere
+P5:47:57 <Quatroking> however, it doesn't throw the key released code
+P5:48:05 <Quatroking> causing the app to think you're still holding the key
+P5:48:07 <Quatroking> get it?
+P5:48:33 <Animator> Yes.
+P5:50:09 <JTE> Flash isn't a java app.
+P5:50:16 <Siiseli> orlu
+P5:50:18 <Siiseli> orly*
+P5:50:20 <Siiseli> I never.
+P5:50:23 <JTE> Yes, o rl u.
+P5:51:15 <Quatroking> JTE, read better
+P5:51:27 <Quatroking> <Quatroking> that happens with all java apps
+P5:51:27 <Quatroking> <Quatroking> that are embedded
+P5:51:27 <Quatroking> <Quatroking> even flash.
+P5:51:40 <Quatroking> could've said better, yeah.
+P5:51:53 <Quatroking> mainly all embedded media thats interactive on a page does it.
+P5:52:10 <Quatroking> except javascript or ajax I think
+P5:53:01 <AlLnAtuRalX> vdgmprgrmr, they share many of the same components (late reply lol)
+10P5:53:37 * Siiseli is now known as Ras
+10P5:53:49 * Ras is now known as Ras_Trent
+P5:54:42 <Thi3f> AlLnAtuRalX, no, they don't anymore, they used to though
+P5:54:51 <AlLnAtuRalX> As of 7 they don'[t
+P5:54:57 <AlLnAtuRalX> hasn't been released yet though
+P5:55:32 <Thi3f> 7 was released in 2006
+P5:55:49 <AlLnAtuRalX> Really?  The final version?
+P5:56:09 <AlLnAtuRalX> By released, I mean released for distribution via traditional MS channels... betas and alphas don't count as releases
+P5:56:14 <Thi3f> Yeah, something like that or early 2007
+P5:56:19 <AlLnAtuRalX> neither do RCs, which are release candidates, and not releases
+P5:56:51 <Thi3f> 7 is already replaced by 8, since March
+P5:57:04 <AlLnAtuRalX> We're talking about Windows 7 here
+10P5:57:05 * Ras_Trent is now known as Siiseli
+P5:57:06 <AlLnAtuRalX> Not IE
+P5:57:07 <Thi3f> Haha
+P5:57:09 <Thi3f> ALright
+P5:57:10 <Thi3f> Then yes
+P5:57:12 <AlLnAtuRalX> Windows 7 is the first OS where you can remove IE safely
+P5:57:13 <Thi3f> You're right :D
+P5:57:15 <AlLnAtuRalX> :P
+P5:57:16 <Thi3f> Misunderstanding
+P5:57:22 <AlLnAtuRalX> yup
+P5:57:32 <Thi3f> Mm, 7 is still scheduled for this month I think?
+P5:57:43 <AlLnAtuRalX> No ideas
+13P5:57:49 * AlLnAtuRalX uses only Linux
+P5:58:12 <AlLnAtuRalX> I have 7 in a VM, along with XP, for Photoshop and iTunes for my phone
+P5:58:19 <Thi3f> "Microsoft has stated that it plans to release Windows 7 to manufacturing starting the end of July 2009,[2] with general retail availability set for October 22, 2009"
+P5:58:22 <Thi3f> Bah, October
+P5:58:38 <AlLnAtuRalX> RC is available now though.. good enough in my book
+P5:58:48 <AlLnAtuRalX> though I've never used it as a standalone OS
+P5:58:54 <Thi3f> Mm, I've tried it, but I'm looking for a replacement for XP, as my standalone OS
+P5:58:54 <rosetta> I am on Windows7 and its pretty cool but its going to hurt when I have to pay for it :/
+P5:59:32 <AlLnAtuRalX> Pay?  Bah!  Even when I used OS X I didn't pay
+P5:59:36 <Thi3f> But I feel like I can wait for the final version so I don't have to go through the reinstalling process again
+P5:59:50 <Thi3f> Mm, I'd probably pay for Windows if it wasn't so damn overpriced
+10P5:59:53 * Siiseli is now known as Uncle_Sam
+P5:59:57 <Thi3f> And if I had a stable income
+P5:59:58 <rosetta> I almost want to pay for it to not have the hassle of updating issues but its just too much to pay
+P6:00:00 <AlLnAtuRalX> But, but, but it's an ADVANTAGE
+P6:00:04 <AlLnAtuRalX> (a genuine advantage)
+P6:00:08 <Thi3f> :P
+10P6:00:17 * Saturnino (Mibbit@75-161-189-76.mpls.qwest.net) has joined #minecraft
+10P6:00:30 * Uncle_Sam is now known as Siiseli
+P6:00:48 <AlLnAtuRalX> I wonder why 7 costs so much, looking at it now
+12P6:01:07 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10P6:01:12 * C418 is now known as c418
+P6:01:13 <rosetta> big jump from xp
+P6:01:22 <AlLnAtuRalX> $319.99 for Ultimate
+12P6:01:25 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) Quit (Quit: Ausfriend)
+P6:01:26 <AlLnAtuRalX> My netbook was about that much
+P6:01:29 <AlLnAtuRalX> :P
+P6:01:36 <Thi3f> Yeah
+P6:01:45 <Thi3f> That's retarded
+12P6:01:47 * yoshibot (kit@ip68-0-175-73.tc.ph.cox.net) Quit (Remote host closed the connection)
+P6:01:48 <AlLnAtuRalX> One of my servers was 1/4 the price
+P6:02:07 <AlLnAtuRalX> Event though I heard 7 works on Netbooks
+P6:02:09 <Quatroking> alnaturalx, you can't entirely remove IE from Win7
+P6:02:21 <AlLnAtuRalX> No, but you can safely uninstall
+P6:02:36 <Quatroking> its just removing links and associations tho
+P6:03:01 <Quatroking> I want to try Chrome OS already
+P6:03:03 <AlLnAtuRalX> http://en.wikipedia.org/wiki/Internet_explorer#Removal ... That's all I know, and it does say dependencies aren't removed
+P6:03:14 <AlLnAtuRalX> Go for Linux quatro, Chrome OS is going to be based on it in the first place
+P6:03:27 <Quatroking> I've been a long-time Linux fan already :P
+P6:03:36 <Quatroking> Debian for the win
+P6:03:42 <AlLnAtuRalX> You were playing Windows fanboy a while back......
+P6:03:44 <AlLnAtuRalX> I sense a troll
+P6:03:49 <Quatroking> wait what
+P6:03:59 <Quatroking> a windows fanboy fuck no
+P6:04:05 <Quatroking> I despite all microsoft products
+P6:04:12 <Thi3f> So you're just stupid then
+P6:04:14 <Thi3f> :)
+P6:04:21 <Quatroking> the reason I'm using windows is because of gaming reasons
+P6:04:38 <Thi3f> I don't see why people feel the need to take sides
+P6:04:39 <Quatroking> exactly when did I acted like a windows fanboy
+P6:04:52 <Quatroking> I'm not taking a side, I just prefer using linux
+P6:04:57 <AlLnAtuRalX> Don't remember, just have you in my mental list under Windows Fanboy...
+P6:05:00 <Thi3f> The fanboying, mac fanboys, etc
+P6:05:03 <AlLnAtuRalX> maybe my memory betrays me
+P6:05:06 <c418> I actered as a fanboy
+13P6:05:12 * Quatroking feels offended by being called a windows fanboy
+P6:05:17 <Quatroking> >:C
+P6:05:38 <citricsquid> They're good for different things; Linux if you like tinkering, windows if you want out of the box. There is no "better" operating system in general, unless you give specific points that it's "better" at. Like gaming, windows is clearly better, but Linux is "better" at other things. Silly argument.
+P6:05:39 <Thi3f> The whole "my OS is better than yours" is stupid
+P6:05:56 <Quatroking> window's isn't better for gaming.
+10P6:06:03 * Sat (Mibbit@75-161-189-76.mpls.qwest.net) has joined #minecraft
+10P6:06:07 * mib_hw9njb (Mibbit@cpe-72-178-113-223.satx.res.rr.com) has joined #minecraft
+P6:06:11 <AlLnAtuRalX> Out of the box citricsquid ?  Windows?
+P6:06:12 <AlLnAtuRalX> that's a joke
+P6:06:14 <citricsquid> I can run CoD1 on Linux out of the box without pissing about with emulating?
+P6:06:15 <vdgmprgrmr> It is if you don't want to spend much time tinkering.
+P6:06:18 <AlLnAtuRalX> the only reason that is is because OEMs package with drivers
+12P6:06:20 * Saturnino (Mibbit@75-161-189-76.mpls.qwest.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P6:06:26 <citricsquid> allnatural: I installed vista and I've not messed with it once, it works fine.
+P6:06:28 <AlLnAtuRalX> I had to go vista driver hunting for hours for a friend who bought the DVD
+P6:06:31 <Thi3f> Quatroking, no, but gaming is dependant on more than just the actual game part, such as development and distribution, so if that's what citricsquid is aiming at, he's right
+12P6:06:32 * mib_hw9njb (Mibbit@cpe-72-178-113-223.satx.res.rr.com) Quit (Quit: Client Exited)
+P6:06:47 <Thi3f> But it's slowly changing as well
+P6:06:49 <Quatroking> Thi3f, yeah, I know what he's trying to say
+P6:06:51 <vdgmprgrmr> Windows usually works perfectly fine "out of the box".
+P6:06:57 <AlLnAtuRalX> So does Linux....
+13P6:07:04 * AlLnAtuRalX has installed on over 20 machines perfectly
+P6:07:13 <AlLnAtuRalX> only one that had problems was my broadcom wireless card.. fuck broadcom
+P6:07:17 <vdgmprgrmr> Yeah, unless you want to do something.
+P6:07:17 <Quatroking> I actually have a WiFi card that works better under linux than under windows.
+P6:07:24 <citricsquid> Allnatural: I installed ubuntu, took 10 hours to get it working. Sure, it's fine if you don't use hardware that wants windows, otherwise you're fucked.
+P6:07:26 <Quatroking> incredible isn't it
+P6:07:36 <AlLnAtuRalX> citricsquid, lolwut?
+P6:07:38 <AlLnAtuRalX> 10 years ago?
+P6:07:48 <Quatroking> 10 hours to get it working
+P6:07:50 <AlLnAtuRalX> these days you plug it into ethernet, it auto-detects everything, you're done
+P6:07:53 <Quatroking> not 10 years
+P6:07:53 <Thi3f> AlLnAtuRalX, just try installing ubuntu on a macbook and getting all the hardware working
+P6:08:00 <AlLnAtuRalX> Thi3f, nulla nd void
+P6:08:00 <citricsquid> Last year, linksys still don't officially support my networking adapter on linux.
+P6:08:04 <AlLnAtuRalX> guess what my desktop is Thi3f ?
+P6:08:05 <AlLnAtuRalX> an iMac
+P6:08:15 <AlLnAtuRalX> worked out of the box... Same hardware as second to last macbooks
+P6:08:20 <AlLnAtuRalX> Sry :P
+P6:08:20 <citricsquid> and you just installed linux and it worked perfectly?
+P6:08:22 <Thi3f> Hold on, I'll link you
+P6:08:25 <AlLnAtuRalX> Yessir citricsquid 
+P6:08:28 <AlLnAtuRalX> I had to ethernet it
+P6:08:29 <Thi3f> I went through the installation just a year ago or so
+P6:08:30 <AlLnAtuRalX> because of the wireless
+P6:08:33 <AlLnAtuRalX> but it picked up the drivers fine
+P6:08:40 <AlLnAtuRalX> and it autoinstalled both the ATI and broadcom shit
+P6:08:53 <citricsquid> If you can find official working drivers for linksys WUG54GS USB adapter for ubuntu, you win.
+P6:09:03 <Quatroking> usb adapters are stupid
+P6:09:08 <Quatroking> get a pci
+P6:09:17 <Quatroking> its worth it.
+P6:09:22 <vdgmprgrmr> I have never, ever gotten a Linux installation working at the same capacity Windows could.
+P6:09:32 <AlLnAtuRalX> citricsquid, http://www.ubuntugeek.com/howto-setup-linksys-wusb54g-v4-wireless-in-ubuntu-gusty.html
+P6:09:37 <Quatroking> LOL
+P6:09:39 <citricsquid> is that official?
+P6:09:40 <Thi3f> https://help.ubuntu.com/community/MacBook2-1/Hardy
+P6:09:49 <citricsquid> See
+P6:09:50 <AlLnAtuRalX> Linksys has no official drivers for Linux to my knowledge
+P6:09:53 <citricsquid> that's messing about
+P6:09:57 <AlLnAtuRalX> Thi3f, get Intrepid or Jaunty
+P6:10:00 <citricsquid> I don't want that, I want out of the box.
+P6:10:11 <Thi3f> AlLnAtuRalX, https://help.ubuntu.com/community/MacBook2-1/Intrepid
+P6:10:13 <AlLnAtuRalX> citricsquid, bet Windows XP won't support that out of the box
+P6:10:21 <citricsquid> yes it does
+P6:10:24 <Thi3f> Even Intrepid has the touchpad part :)
+P6:10:29 <AlLnAtuRalX> Thi3f, I have the same hardware
+P6:10:33 <citricsquid> I've had it working out of the box on both xp and vista without anything but running install CD.
+P6:10:34 <AlLnAtuRalX> Besides the touchpad
+P6:10:41 <AlLnAtuRalX> Touchpad can be a bitch...
+P6:10:42 <Thi3f> I'm not pulling stuff out of my ass, I've gone through the procedures
+P6:10:53 <Thi3f> It's closing in on being out of the box compatible
+P6:10:56 <Thi3f> But not yet it isn't
+P6:10:58 <AlLnAtuRalX> The first part didn't apply to me (the whole bootloader shit)
+P6:11:02 <AlLnAtuRalX> because I wiped OS X entirelty
+P6:11:09 <AlLnAtuRalX> So I just stuck the CD and followed the install
+P6:11:15 <Quatroking> Anyone knows if there's a way to wirelessly connect my TV card to the cable connection downstairs?
+P6:11:26 <AlLnAtuRalX> Haven't had the touchpad issues, so I can't profess to those
+P6:11:34 <AlLnAtuRalX> only thing that doesn't work is iSight mic, camera works fine
+P6:11:39 <Thi3f> For my macbook the sound didn't work out of the box either, even though I've heard that it normally does
+P6:11:48 <vdgmprgrmr> I got HL2 working on Linux once after five or so hours of coaxing. Everything was green, and it ran at about 5fps.
+P6:11:49 <Thi3f> Webcam worked fine for me as well
+P6:12:01 <Quatroking> My pc is in the loft so I'm not really wanting to wire a cable through the entire house
+P6:12:12 <Thi3f> I got everything working eventually of course, but it wasn't out of the box, and far from easy for the average user
+P6:12:19 <AlLnAtuRalX> vdgmprgrmr, http://appdb.winehq.org/objectManager.php?sClass=version&iId=2890
+P6:12:26 <AlLnAtuRalX> platinum (flawless out of the box)
+P6:12:27 <Quatroking> Nobody?
+P6:12:32 <Quatroking> I really want to watch TV here
+P6:12:32 <AlLnAtuRalX> What works
+P6:12:33 <AlLnAtuRalX> Everything in singleplayer, downloading from steam.
+P6:12:35 <vdgmprgrmr> Not for me, obviously.
+P6:12:37 <AlLnAtuRalX> What does not
+P6:12:38 <AlLnAtuRalX> Everything works.
+P6:12:40 <vdgmprgrmr> I used Wine.
+P6:12:49 <AlLnAtuRalX> All graphic settings at their maximum, resolution: 2048x1152, fullscreen, average FPS: 80.
+P6:13:00 <vdgmprgrmr> I tried every goddamn thing I could find for HL2 and Wine on the internet.
+P6:13:11 <vdgmprgrmr> Couldn't get it working as well as I could on Windows.
+P6:13:11 <AlLnAtuRalX> vdgmprgrmr, you're doing something wrong, this was 5 yrs ago, or you're making shit up
+P6:13:17 <AlLnAtuRalX> every single person reports platinum :P
+P6:13:22 <vdgmprgrmr> This was about two years ago.
+P6:13:39 <Thi3f> However, I can't say that Windows is working out of the box either, considering every time I reinstall it I need to track down drivers here and there, but there the "hard" part is hunting them down, not fixing it
+P6:13:56 <Quatroking> I can throw my monitor on the max resolution in ubuntu only
+P6:14:02 <AlLnAtuRalX> Never tried HL2 in WINE, but Portal works fine
+P6:14:05 <AlLnAtuRalX> Both source
+P6:14:06 <Quatroking> Windows limits to 1920x1080
+P6:14:12 <Thi3f> And OSX is so hardware limited (from what I've seen with hackintosh'es) so it's not even in the ballpark, but it isn't supposed to be, so
+P6:14:28 <Quatroking> OSX is for rich people
+P6:14:29 <vdgmprgrmr> With WinXP, I can install, install SP2, install drivers from a CD, and from then on I can do anything I might want to do.
+P6:14:42 <Thi3f> vdgmprgrmr, install what drivers?
+13P6:14:43 * AlLnAtuRalX detests OS X
+P6:14:48 <vdgmprgrmr> Sound drivers.
+13P6:14:50 * AlLnAtuRalX also has an iMac
+P6:14:53 <Quatroking> So any way I can get wireless coax?
+P6:15:01 <vdgmprgrmr> Various other motherboard things.
+P6:15:13 <vdgmprgrmr> I install video drivers from nvidia.com
+P6:15:20 <Thi3f> So it's not out of the box
+P6:15:32 <vdgmprgrmr> It's about as out of the box as you can fucking get.
+P6:15:52 <Thi3f> Without limiting the hardware, yeah :P
+P6:15:56 <Quatroking> please guys, I really want to be able to get TV here in the loft
+P6:15:57 <Thi3f> But
+13P6:15:59 * AlLnAtuRalX installed them from synaptic (more OTB)
+P6:16:04 <vdgmprgrmr> How else should I get video drivers?
+P6:16:04 <Quatroking> wired coax is pretty much IMPOSSIBLE
+P6:16:05 <AlLnAtuRalX> on Ubuntu that is
+P6:16:05 <Thi3f> Linux is even more out of the box considering drivers
+P6:16:08 <AlLnAtuRalX> Fedora that was using yum
+P6:16:14 <vdgmprgrmr> Magically conjure them to my harddrive?
+P6:16:16 <Thi3f> vdgmprgrmr, a decent package manager
+P6:16:24 <AlLnAtuRalX> package management
+10P6:16:31 * c418 is now known as C418
+P6:16:31 <AlLnAtuRalX> apt, yum, Pacman
+P6:16:32 <vdgmprgrmr> Or I can spend the amazing five minutes it takes to download them.
+12P6:16:39 * Sat (Mibbit@75-161-189-76.mpls.qwest.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P6:16:40 <AlLnAtuRalX> or you can press one button and spend less time
+P6:16:47 <Thi3f> Yeah, but you shouldn't have to hunt down drivers
+P6:16:55 <vdgmprgrmr> I'm not hunting anything down.
+P6:16:55 <Thi3f> In the case of video cards it's easy
+P6:17:01 <AlLnAtuRalX> what would you rather do, firefox.com click download, click windows, save file as, runt he installer, next, next, next, agree, finish
+P6:17:01 <Thi3f> But for other drivers it's not always
+P6:17:03 <vdgmprgrmr> I know exactly where to go.
+P6:17:07 <AlLnAtuRalX> or sudo apt-get install firefox
+P6:17:08 <AlLnAtuRalX> and done
+P6:17:09 <Thi3f> Especially not for laptops
+P6:17:10 <citricsquid> AlLnAtuRalX: What if the drivers don't exist, then what? You spend 10 hours fucking with user made stuff that barely ever works.
+P6:17:28 <AlLnAtuRalX> citricsquid, I guess you have a rare case then.... never heard of such an issue
+P6:17:34 <AlLnAtuRalX> Linksys is usually fine with Linux
+P6:17:43 <AlLnAtuRalX> Unlike broadcom (>:()
+P6:18:09 <vdgmprgrmr> Allnatural, yeah, that'd be all cool and nice if I could actually get other shit working.
+P6:18:10 <Thi3f> AlLnAtuRalX, aren't there tv cards that lack linux support?
+P6:18:38 <AlLnAtuRalX> Either you guys haven't tried linux in the past year, or you all have fringe hardware
+P6:18:47 <AlLnAtuRalX> 20 machines, from Dell, HP, Lenovo, Apple, all worked out of the box...
+P6:18:49 <vdgmprgrmr> I don't have fringe hardware at all.
+P6:18:58 <AlLnAtuRalX> What doesn't work OTB then vdgmprgrmr ?
+P6:19:00 <AlLnAtuRalX> I'll look into it
+P6:19:13 <AlLnAtuRalX> Tell me fast so I don't think you're searching the google
+P6:19:23 <Thi3f> I haven't had a problem in the past year because I haven't installed linux on anything other than average hardware in the past year :P
+P6:19:31 <vdgmprgrmr> I haven't tried in the last year.
+P6:19:36 <vdgmprgrmr> But can you really blame me?
+12P6:19:40 * Lmaoboat (Lmaobat@pool-173-79-79-41.washdc.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+P6:19:41 <AlLnAtuRalX> yup :D
+P6:19:43 <AlLnAtuRalX> Well, I can
+P6:19:51 <AlLnAtuRalX> Like I said, if you need PS or games, just keep Windows
+P6:20:02 <vdgmprgrmr> After trying it five times and not a single goddamn thing going right, I would rather just stick with WIndows.
+P6:20:03 <AlLnAtuRalX> I have no problem with that
+P6:20:34 <AlLnAtuRalX> As long as you plug into ethernet, everything SHOULD work as planned if you use a mainline distro (Ubuntu/Fedora I recommend)
+P6:20:40 <Quatroking> hey guys, you know that whole ehternet through electric lines?
+P6:20:46 <Quatroking> *ethernet
+P6:20:47 <AlLnAtuRalX> Umm... kind of
+P6:20:53 <Quatroking> can that be done with coax too?
+P6:20:57 <AlLnAtuRalX> no idea
+P6:21:00 <citricsquid> hey guys, rain breaks my internet. 
+P6:21:01 <AlLnAtuRalX> It's like $200 though
+P6:21:04 <AlLnAtuRalX> a wifi router is cheaper
+P6:21:13 <Quatroking> I already use WiFi for my internet :P
+P6:21:20 <Quatroking> two wificards on the same channel
+P6:21:22 <Quatroking> works great
+P6:21:22 <AlLnAtuRalX> http://www.powerlinenetwork.co.uk/default.asp
+P6:21:42 <AlLnAtuRalX> Quatroking, this might interest you: 
+P6:21:43 <AlLnAtuRalX> http://www.netgear.com/Products/PowerlineNetworking.aspx?for=Home+Networking
+P6:21:53 <Quatroking> yay
+P6:22:11 <Quatroking> err
+P6:22:14 <Quatroking> Turns coaxial cable outlets into a high-speed Ethernet network connection.
+P6:22:18 <Quatroking> I need coax for TV
+P6:22:19 <Quatroking> :/
+P6:22:30 <AlLnAtuRalX> :'(
+P6:22:34 <AlLnAtuRalX> well, if it works, you're fine
+P6:22:45 <AlLnAtuRalX> on the other hand, I made the MISTAKE of buying the cheapest router I saw (Belkin)
+P6:22:55 <AlLnAtuRalX> and I get 1/2 the internet speed in here than near the router
+P6:23:05 <Quatroking> rofl
+P6:23:10 <AlLnAtuRalX> Pay money for the interwebz!
+P6:23:20 <Quatroking> my modem is firewall/mode/router/wifi all in one
+P6:23:27 <Quatroking> 70 bucks
+P6:23:38 <AlLnAtuRalX> Quatroking, I have one of those, but that's near where I keep my servers, so I need a separate
+P6:23:40 <AlLnAtuRalX> wireless access point
+P6:23:55 <Quatroking> use more than one WiFi card?
+P6:23:58 <AlLnAtuRalX> It came free with the fiber optics...
+P6:24:08 <AlLnAtuRalX> Won't help... A new router would though... The signal is just too poor
+P6:24:13 <AlLnAtuRalX> Plus I have 3 computers
+P6:24:18 <AlLnAtuRalX> 1 router is cheaper than 3 new cards
+P6:24:26 <Quatroking> That's what I do, two cards, an antenna for each and really improves the signal I receive
+P6:24:37 <Quatroking> my pc actually has two local IP's
+P6:24:39 <Quatroking> :P
+12P6:25:01 * citricsquid (sam@client-86-25-243-79.mcr-bng-013.adsl.virginmedia.net) Quit (Quit: Client Exited)
+P6:25:23 <AlLnAtuRalX> O. M. G.  You can boot form an ISO in Grub 2!
+P6:25:35 <AlLnAtuRalX> That is INSANELY usefull
+P6:25:46 <AlLnAtuRalX> And to think I just bought 200 blank DVDs
+P6:25:51 <Quatroking> shit yes
+P6:26:04 <Quatroking> since when is grub 2 available?
+P6:26:22 <AlLnAtuRalX> It's been for a while I think... I don't have it. but I'll look into getting it now
+10P6:26:34 * Arf is now known as ArfZzZz
+P6:26:43 <AlLnAtuRalX> http://techmantras.com/node/191
+P6:27:16 <Quatroking> Yeah, I should install grub again
+P6:27:29 <AlLnAtuRalX> Oh, it's not released yet?  :(... I thought I heard something about 9.10 using it
+P6:27:29 <AlLnAtuRalX> heh
+P6:27:36 <AlLnAtuRalX> time to check the interwebz
+P6:27:49 <Quatroking> I'm currently using the windows one because I was lazy and installed ubuntu straight out of windows
+P6:28:02 <AlLnAtuRalX> Wubi?
+P6:28:17 <AlLnAtuRalX> http://www.gnu.org/software/grub/grub-2-download.en.html
+P6:28:21 <AlLnAtuRalX> there it is...yay
+P6:28:26 <Quatroking> yeah, Wubi
+10P6:29:49 * Haruhi2 (Haruhi@68.186.97.143) has joined #minecraft
+P6:30:45 <vdgmprgrmr> Whoa.
+P6:32:12 <vdgmprgrmr> If I'm correctly understanding this, if I wanted to play STALKER: Clear Sky with Wine, I would have to compile Wine myself with a patch, and then I could play it with buggy lighting.
+P6:32:20 <vdgmprgrmr>  >.>
+12P6:32:35 * Rydia (Haruhi@68.186.97.143) Quit (Ping timeout: 180 seconds)
+P6:32:40 <vdgmprgrmr> Aaaand brb
+P6:32:41 <Quatroking> i hate compiling..
+P6:32:50 <AlLnAtuRalX> Compiling?  What is this Gentoo>?
+P6:32:57 <Quatroking> uh
+P6:33:22 <Quatroking> you can compile stuff for linux in pretty much every distribution
+12P6:33:39 * Lmaoboat_ (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) Quit (Read error: Connection reset by peer)
+P6:33:40 <Quatroking> I feel like reinstalling ubuntu
+P6:34:18 <AlLnAtuRalX> Install Arch
+P6:34:19 <Quatroking> is it possible to install grub 2, boot the ubuntu iso, and install ubuntu without overwriting grub 2?
+P6:34:19 <AlLnAtuRalX> !
+10P6:34:26 * Lmaoboat (chatzilla@pool-71-126-132-107.washdc.fios.verizon.net) has joined #minecraft
+P6:34:29 <AlLnAtuRalX> Probably...
+P6:34:36 <Quatroking> actually xubuntu because i like x
+P6:34:37 <Lmaoboat> I should totally make a dispenser skin
+P6:34:47 <Quatroking> now where do I download grub 2
+P6:34:48 <AlLnAtuRalX> xubuntu is fun
+P6:34:49 <AlLnAtuRalX> no idea
+P6:34:51 <AlLnAtuRalX> it says there
+P6:34:55 <AlLnAtuRalX> but... im not sure where
+P6:34:57 <Quatroking> the ftp doesn't have higher than 1.90 or something
+P6:35:12 <Quatroking> hmm
+P6:35:16 <Quatroking> off to freenode!
+P6:35:23 <AlLnAtuRalX> lol go to #grub and ask
+P6:35:24 <AlLnAtuRalX> whee
+P6:35:41 <AlLnAtuRalX> brb
+P6:35:48 <Quatroking> I am
+10P6:37:55 * CheeToS (na@c-69-143-253-69.hsd1.md.comcast.net) has joined #minecraft
+12P6:47:26 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) Quit (Ping timeout: 180 seconds)
+10P6:51:18 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) has joined #minecraft
+12P6:52:39 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+P6:54:39 <Quatroking> weee, downloading Xubuntu at one megabyte a sec
+10P6:59:19 * esper_hdfygh (Mibbit@h105.123.16.72.dynamic.ip.windstream.net) has joined #minecraft
+P6:59:39 <esper_hdfygh> HIII
+P6:59:54 <Quatroking> Hai.
+P6:59:57 <esper_hdfygh> The game that notch put up the video of, where can i find info on it
+10P7:00:22 * scanlonman_ (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+P7:01:13 <Quatroking> It's called Goatse
+12P7:01:16 * esper_hdfygh (Mibbit@h105.123.16.72.dynamic.ip.windstream.net) Quit (Quit: Client Exited)
+12P7:01:25 * cryzed (cryzed@i59F5CD1A.versanet.de) Quit (Read error: Operation timed out)
+13P7:01:26 * Quatroking just finished downloading Xubuntu in 13 minutes
+12P7:02:23 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (Ping timeout: 180 seconds)
+10P7:21:56 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+P7:26:05 <Ausfriend> pfft, who buys OS's
+10P7:27:57 * ez (ez@c80-216-188-39.bredband.comhem.se) has joined #minecraft
+10P7:28:15 * ChanServ sets mode: +o ez
+P7:28:35 <ez> waaazzzaaa
+12P7:28:40 * PuyoDead (Joe@cpe-24-210-151-151.woh.res.rr.com) Quit (Quit: Leaving)
+P7:36:07 <Eagle> waaaazzzaaaaaaaa
+P7:37:20 <Eagle> <esper_hdfygh> The game that notch put up the video of, where can i find info on it
+P7:37:20 <Eagle> * scanlonman_ (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+P7:37:20 <Eagle> <Quatroking> It's called Goatse
+P7:37:21 <Eagle> :O
+P7:37:32 <Quatroking> :D
+P7:37:36 <Eagle> :D
+10P7:38:22 * Cyanide (Mibbit@71-11-143-57.dhcp.stls.mo.charter.com) has joined #minecraft
+P7:41:04 <Mikesword221> NOOOO!
+P7:41:12 <Mikesword221> I just lost all my work.
+P7:41:15 <Mikesword221> :(
+P7:41:46 <scanlonman_> oh hi who said my name
+10P7:42:21 * scanlonman_ is now known as scanlonman
+P7:42:29 <C418> I did
+P7:42:42 <C418> because I felt like it was the time to say a word like scalonman
+P7:42:47 <Eagle> We all did.
+P7:42:52 <Eagle> In our hearts.
+P7:42:58 <Eagle> *sniff*
+P7:44:45 <ez> waaaaaaaaazzzzzaaaaaaaaaaaaaaaaaaaaaaaaa
+12P7:45:13 * rosetta (Rosetta@78.150.78.75) Quit (Quit: Client Exited)
+P7:47:20 <Eagle> waaaaaazzzzzzzzzzaaaaaaaaaaaaaaaaaaaaaaaa
+P7:52:51 <ez> :D
+10P7:54:19 * yoshibot (kit@ip68-0-175-73.tc.ph.cox.net) has joined #minecraft
+10P7:56:16 * smn is now known as smn`offline
+12P7:56:26 * Genisi (what@76.226.29.82) Quit (Quit: Client Exited)
+P8:01:46 <ez> http://devm-games.com/ Eagle
+P8:01:53 <Eagle> Hm what
+P8:02:12 <ez> well, not u who asked, but u quoted the question :P
+P8:02:29 <Eagle> XD
+P8:02:48 <Eagle> Wait
+P8:02:56 <Eagle> that video Notch put up on the dev blog?
+P8:04:33 <ez> yeh, that's more info on it
+12P8:06:05 * Akai (Explorer@c-71-62-107-62.hsd1.va.comcast.net) Quit (Ping timeout: 180 seconds)
+10P8:13:56 * Genisi (what@76.226.29.82) has joined #minecraft
+P8:16:37 <Lmaoboat> I need to get up earlier, I keep missing notch
+P8:16:59 <ez> I miss him too :D
+P8:17:03 <ez> *giggles*
+P8:17:14 <Eagle> :rolleyes:
+P8:17:19 <Eagle> Does he even get on anymore?
+P8:17:20 <ez> :P
+P8:17:25 <vdgmprgrmr> Yeah he does.
+P8:17:53 <vdgmprgrmr> Lmaoboat, maybe you need to stay up later?
+P8:18:09 <Lmaoboat> I've been staying up to 5 am
+P8:18:22 <vdgmprgrmr> Well obviously that's not late enough.
+P8:18:57 <vdgmprgrmr> I'm usually up till 8 or 9.
+P8:19:36 <vdgmprgrmr> Notch is usually on for an hour or two before I go to sleep.
+P8:21:15 <Lmaoboat> I needed to thank notch for designing the level gernator in a way that made my tree level turn out so well
+P8:24:30 <Adura> Did you use the ore veins? :P
+P8:24:44 <Lmaoboat>  yep
+P8:24:50 <Lmaoboat> and flooded caves
+P8:24:58 <Adura> Heh.
+12P8:29:08 * Roflmazturr (chatzilla@74.210.93.215) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0/2008052906])
+10P8:30:12 * Prime_2 (Prime_2@97-116-98-6.mpls.qwest.net) has joined #minecraft
+P8:30:33 <Lmaoboat> More shameless self-promotion: http://minecraftforum.net/viewtopic.php?id=866
+P8:30:44 <Eagle> Moar like shameful.
+P8:30:51 <Eagle> You should be ashamed. D<
+P8:30:58 <Eagle> Promoting yourself like that.
+P8:31:16 <Lmaoboat> Shameless means I have no snese of shame
+12P8:31:22 * Quatroking (Quatroking@86.90.159.252) Quit (Quit: I'm off, kthxbai)
+P8:31:30 <Eagle> That's shameful.
+10P8:31:49 * chrstfer (Mew2456@pool-72-78-144-84.phlapa.east.verizon.net) has joined #minecraft
+P8:31:55 <chrstfer> hello. all
+12P8:32:53 * chrstfer (Mew2456@pool-72-78-144-84.phlapa.east.verizon.net) Quit (Quit: Client Exited)
+P8:32:55 <ez> hello
+P8:32:58 <AlLnAtuRalX> lulz
+P8:32:58 <Eagle> ...
+P8:32:59 <Eagle> XDDD
+P8:33:04 <ez> Lmaoboat, why gravel on it?
+P8:33:14 <Animator> Holy hell in a handbasket, Lmaoboat.
+P8:33:19 <Lmaoboat>  Forgot to remove it
+P8:33:31 <JTE> ... mew?
+P8:33:49 <JTE> My server died again...... :<
+P8:33:56 <Eagle> JTE. I haven't heard from you in a while.
+P8:33:57 <Lmaoboat> I was thinking of making sand and gravel into grass
+P8:34:00 <Eagle> I thought you were a
+P8:34:00 <JTE> It makes me sad.
+P8:34:01 <Eagle> mewt
+13P8:34:10 * Eagle shameful for making that pun
+P8:34:15 <Mikesword221> That stinks.
+P8:34:18 <JTE> oh god, the horrible pun, it smites me so.
+10P8:34:29 * AlexVMiner (Mibbit@24.115.50.144.res-cmts.mtp.ptd.net) has joined #minecraft
+10P8:34:31 * Super-Dot (Super-Dot@c-24-7-116-136.hsd1.ca.comcast.net) has joined #minecraft
+P8:34:31 <AlexVMiner> :D
+P8:34:33 <AlexVMiner> hi
+P8:34:37 <AlLnAtuRalX> oh hai
+P8:34:56 <AlexVMiner> i like the new clickable names feature
+P8:35:02 <AlLnAtuRalX> grrrr
+P8:35:04 <AlexVMiner> i banned 3 people
+P8:35:07 <AlLnAtuRalX> Where's the tab auto-complete?
+P8:35:09 <AlLnAtuRalX> WHERE?
+P8:35:09 <AlexVMiner> in have the time today
+P8:35:14 <AlexVMiner> ?
+P8:35:21 <AlexVMiner> lolwut?
+P8:35:23 <AlLnAtuRalX> Tab autocomplete a la IRC
+P8:35:28 <AlLnAtuRalX> AlexVMiner, AlexVMiner AlexVMiner 
+P8:35:30 <AlLnAtuRalX> like hat
+P8:35:31 <AlLnAtuRalX> AlexVMiner, 
+P8:35:32 <AlexVMiner> lol
+P8:35:33 <Lmaoboat> It's a shame about Saddam, he really was at the end of his rope. When you let yourself get taught under the collar like that, you can get really strung out
+P8:35:34 <AlLnAtuRalX> AlLnAtuRalX, 
+P8:35:36 <AlLnAtuRalX> Lmaoboat, 
+P8:35:37 <AlLnAtuRalX> see?
+P8:35:41 <AlLnAtuRalX> tab auto-complete
+P8:35:42 <Eagle> Oh god
+P8:35:44 <Eagle> Lmaoboat
+P8:35:51 <AlexVMiner> lol lmaoboat
+P8:36:27 <AlexVMiner> bai
+12P8:36:28 * AlexVMiner (Mibbit@24.115.50.144.res-cmts.mtp.ptd.net) Quit (Quit: Client Exited)
+P8:36:37 <LucasAnderson> ?
+13P8:36:55 * LucasAnderson Goes to my server!
+10P8:36:57 * LucasAnderson (pikachushi@c-98-212-178-70.hsd1.il.comcast.net) has left #minecraft
+P8:37:58 <Super-Dot> Remappable keys :D :D :D
+P8:37:59 <JTE> .....
+13P8:38:02 * JTE massive face palm
+P8:38:14 <JTE> This is the spleef server not the echidna server.
+P8:38:34 <Super-Dot> What is?
+P8:39:19 <JTE> Okay I was just getting some hacks from there, and nooooow...
+P8:39:56 <JTE> Loading map, duh dunaa...
+P8:40:04 <JTE> Server back up.
+10P8:42:01 * VitaEdo is now known as VitaEdo|TF2
+P8:42:23 <Animator> Have you ever seen a lava trail travel on water?
+P8:42:37 <Animator> Because I just did. In a corridor. With no escape.
+10P8:42:44 * Akai (Explorer@c-71-62-107-62.hsd1.va.comcast.net) has joined #minecraft
+P8:42:49 <Animator> Scariest thing ever.
+P8:43:04 <Mikesword221> Wall closing in?
+P8:43:05 <Lmaoboat> I remember outrunning lava in infiniminer
+P8:43:10 <ez> is it only me, or does everyone randomly ban people from their servers?
+P8:43:29 <Animator> JTE, what's the name of your server?
+P8:44:08 <Mikesword221> JTE? Where?
+P8:44:36 <Animator> I saw him talk.
+P8:44:42 <ez> funniest one was when someone said, "ban him, he said 'hi' and I dont like that word" :D
+P8:45:04 <ez> then, You were banned!
+P8:45:11 <ez> that was kinda lol 
+P8:45:14 <Animator> It's odd.
+P8:45:20 <Adura> Yeah, it's like they don't know what public=true means.
+P8:45:27 <Lmaoboat> I always wanted to say to a griefer:
+P8:45:33 <ez> yeh lol
+P8:45:36 <Animator> Because that just emotionally creates more griefers.
+P8:45:39 <ez> made me laugh tho
+P8:45:55 <Lmaoboat> What do you called a group of people who play music together?
+P8:46:00 <Animator> A band?
+P8:46:05 <Lmaoboat> And he'll be kike "Band?
+P8:46:09 <Lmaoboat> And I'll be like
+P8:46:13 <Lmaoboat>  /banip
+P8:46:14 <Animator> Ah...
+P8:46:16 <Adura> That's antisemetic!
+P8:46:37 <ez> u lost me
+P8:46:51 <Lmaoboat> Because they got "band"
+P8:46:51 <Adura> <Lmaoboat> And he'll be kike "Band? <- kike
+P8:47:12 <Lmaoboat> oh
+P8:47:13 <Animator> Rimshot.
+P8:47:14 <Lmaoboat> lolwooops
+P8:47:46 <Akai> anybody have any idea why MSN Messenger and Firefox would run 10 and 5 times the connections that would seem reasonable for number of windows/tabs open
+P8:47:59 <Lmaoboat>  I once saw a guy get autobanned for racism for saying "I sniggered"
+P8:48:09 <Akai> considering all tabs except the one for minecraft hasn't been active for hours?
+P8:48:39 <Adura> Web pages contain more than one connection, you have to consider images and other assets.
+P8:48:56 <Akai> no pages are loading though
+P8:49:02 <Akai> nothing's loading at all
+P8:49:34 <Akai> and firefox did it a second time with just xkcd and minecraft open
+P8:50:59 <Akai> I'm also wondering... why a desktop's network card would still have power, when the comp has been powered off
+P8:51:15 <Adura> Wake on LAN.
+P8:51:38 <Akai> with a full shut down?
+P8:51:58 <Adura> I've not really dealt with Wake on LAN, so... not sure.
+P8:52:27 <JTE> JTE where?
+P8:52:40 <JTE> Well okay, I'll make my server public again
+P8:52:49 <JTE> And it will be named JTE's Awesome Custom Server, or some such.
+P8:52:51 <Akai> how would I test that, then?
+P8:53:05 <Adura> Google on.
+12P8:56:25 * alexsuraci (Alex@pool-71-188-133-67.aubnin.fios.verizon.net) Quit (Quit: alexsuraci)
+10P8:58:55 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) has joined #minecraft
+12P8:59:05 * Akai (Explorer@c-71-62-107-62.hsd1.va.comcast.net) Quit (Ping timeout: 180 seconds)
+P8:59:13 <Lmaoboat> Anyone else think people use clotch bocks for buildings way to much
+P8:59:14 <stickzanimator> Hey does anyone know how to make one of those undeletable blocks?
+P8:59:31 <Lmaoboat> If I see another rainbow, I'm going to puke
+P8:59:40 <stickzanimator> How do u make an undeletable block
+P9:00:03 <stickzanimator> the onse that can only be deleted by OP
+P9:00:37 <stickzanimator> anyone?
+P9:01:06 <stickzanimator> ._.
+P9:01:25 <Adura> Read the server readme.
+P9:01:35 <stickzanimator> Ok.
+10P9:02:06 * Akai (Explorer@c-71-62-107-62.hsd1.va.comcast.net) has joined #minecraft
+12P9:03:55 * stickzanimator (Mibbit@c-69-142-3-68.hsd1.nj.comcast.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P9:06:23 * C418 (C418@p5B3D5494.dip.t-dialin.net) Quit (Quit: Nettalk6 - www.ntalk.de)
+P9:11:12 <Animator> Shoot, Safari forze.
+P9:11:27 <Animator> And it froze forze, not just forze.
+P9:12:00 <Adura> Forze motorsport.
+P9:12:03 <Akai> okay...
+P9:12:12 <Akai> so.. what's a SYN Flood Attack?
+P9:12:23 <Animator> If a flood breaks out.
+P9:12:28 <Animator> Like water or lava.
+P9:12:38 <Adura> SYN flood is a type of DoS.
+P9:12:45 <Animator> Oh. ;_;
+P9:13:00 <Akai> any ideas why it might be popping up in my router's log?
+10P9:14:32 * WASD (Mibbit@c-98-196-93-35.hsd1.tx.comcast.net) has joined #minecraft
+P9:14:36 <Adura> http://cache.gawker.com/assets/images/9/2009/07/504x_custom_1247254769253_%4B%6F%64%75%5F%4C%61%6E%64%73%63%61%70%65.jpg Beta pics.
+P9:15:43 <vdgmprgrmr> Beta what?
+P9:16:04 <WASD> lies
+P9:16:14 <WASD> lies i say
+P9:16:37 <Akai> Adura, could anything be mistaken for a SYN Flood?
+P9:17:01 <Adura> Crappily written programs trying to connect to your system?
+P9:17:14 <Akai> would minecraft qualify by chance?
+12P9:17:24 * malcovent (Mibbit@host86-132-201-78.range86-132.btcentralplus.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P9:17:26 <Adura> Sure, it's not good with connections.
+P9:17:30 <Adura> Just ask AlLnAtuRalX
+P9:17:39 <Akai> because I know my sudden lag spikes seemed to line up with trying to connect to a minecraft server
+10P9:18:01 * PuyoDead (Joe@cpe-24-210-151-151.woh.res.rr.com) has joined #minecraft
+P9:18:31 <WASD> my server is a douche and never lets me connect :( 
+12P9:19:13 * Rroff (msrp24@host86-177-11-216.range86-177.btcentralplus.com) Quit (Quit: Don't drink and drive, smoke dope and fly home)
+P9:20:38 <WASD> how am i supposed to interpret "could not find the main class: com.mojang.minecraft.server.minecraft server"
+P9:20:58 <Adura> You're in the wrong dir.
+P9:21:05 <WASD> it shows up in my cmd window when i try starting up my server
+P9:21:10 <WASD> oh...
+P9:21:39 <WASD> so the solution would be...?
+P9:21:43 <vdgmprgrmr> ...
+P9:21:50 <Adura> Go to the right dir.
+P9:22:14 <WASD> i started this 2 weeks ago, took a break, and i'm just now trying to finish it 
+12P9:22:14 * ez (ez@c80-216-188-39.bredband.comhem.se) Quit (Quit: Client Exited)
+P9:22:26 <WASD> so im not all that clear on what i did 2 weeks ago...
+P9:22:30 <WASD> thanks btw
+P9:27:55 <WASD> ah it worked, i didnt realize that i still had it sitting in downloads from way back when
+P9:28:01 <Animator> And the server died.
+P9:28:13 <WASD> the help is appreciated, because im not observant lol
+P9:28:50 <Adura> What server died?
+P9:29:06 <Animator> JTE's. And it was so fun, too. ;_;
+12P9:29:11 * ArfZzZz (telnet@190.176.241.105) Quit (Quit: Client Exited)
+P9:30:05 <Lmaoboat> they need to do way with instane admin, who murdered there servr
+P9:30:17 <Super-Dot> It's up again!
+P9:30:46 <Adura> How is Minnecraft formed, how do server get populated?
+P9:31:03 <Animator> Well, Adura.
+P9:31:21 <Animator> When a person and the internet love each other so much...
+P9:31:33 <Adura> Your answer should be from the script.
+P9:31:46 <Adura> It's on the news this mroing.
+P9:32:06 <Animator> I wasn't aware this was a play.
+P9:32:18 <Adura> Google babby
+P9:32:40 <Animator> You mean baby.
+P9:33:07 <Akai> no... babby
+P9:33:16 <Animator> Nevermind.
+P9:33:19 <Akai> there's a flash video that comes up in the results if you do babby
+P9:34:12 <Akai> http://www.somethingawful.com/flash/shmorky/babby.swf
+P9:35:38 <Animator> Yeah, not watching that.
+P9:36:37 <Akai> don't blame you
+P9:37:01 <Akai> I would've closed it by now, but I feel somehow inclined to share it
+P9:37:15 <Akai> and can't seem to bring myself to close it.
+P9:37:21 <Akai> it's like a car wreck
+P9:37:32 <Akai> I don't want to watch it... but I can't help but lok
+P9:37:35 <Akai> *look
+13P9:37:41 * Akai doesn't like this keyboard
+12P9:40:04 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+10P9:42:05 * Scizor300 (Scizor300@pool-173-58-129-24.lsanca.fios.verizon.net) has joined #minecraft
+10P9:42:53 * Scizor300 (Scizor300@pool-173-58-129-24.lsanca.fios.verizon.net) has left #minecraft
+P9:43:26 <Animator> What happened to JTE's server?
+P9:44:12 <Lmaoboat> Died
+P9:44:43 <Animator> And I was enjoying treeing people. ;_;
+P9:45:31 <Animator> I was that invisible force of nature.
+P9:45:40 <Adura> Heh...
+P9:46:14 <Animator> Is it coming back on?
+10P9:46:15 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+10P9:47:33 * alexsuraci (Alex@pool-71-188-133-67.aubnin.fios.verizon.net) has joined #minecraft
+12P9:48:26 * Cyanide (Mibbit@71-11-143-57.dhcp.stls.mo.charter.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P9:49:25 <Akai> by the way...
+P9:49:47 <Akai> the large number of connections seems to have been MSN Messenger passing blame to the open browser
+12P9:51:09 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) Quit (Ping timeout: 180 seconds)
+P9:59:34 <Lmaoboat> Anyone want to host a server with my map? Anyone? Buller?
+Session Close: Sat Jul 11 22:07:52 2009
+
+Session Start: Sat Jul 11 22:07:52 2009
+Session Ident: #minecraft
+15P10:07:52 * Disconnected
+Session Close: Sat Jul 11 22:07:54 2009
+
+Session Start: Sat Jul 11 22:08:08 2009
+Session Ident: #minecraft
+10P10:08:08 * Now talking in #minecraft
+10P10:08:08 * Topic is 'http://www.minecraft.net  |  Client 0.0.23a is out with new options and the ability to remap keys'
+10P10:08:08 * Set by Notch!Notch@h-77-240.A165.priv.bahnhof.se on Sat Jul 11 09:17:15
+10P10:14:12 * Cueball (Cueball@d220-237-217-227.dsl.nsw.optusnet.com.au) has joined #minecraft
+P10:14:18 <Cueball> oh wow
+12P10:16:39 * MisterX (MisterX@p5DDE7B67.dip.t-dialin.net) Quit (Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org)
+P10:19:38 <Lmaoboat> I made an updated tree map where the upermost wood layer, sand, and gravel are grass blocks http://www.mediafire.com/?0iydkml03nm
+P10:20:59 <Lmaoboat> crap
+P10:21:04 <Lmaoboat> I made ALL the wood grass
+P10:21:30 <Lmaoboat> let's try that again
+P10:23:01 <Lmaoboat> http://www.mediafire.com/?n5zzmzv3nvz
+P10:26:52 <Lmaoboat> Don't all raise your hands at once
+P10:27:14 <Lmaoboat> I hate routers :(
+10P10:28:45 * asnoehu (thok@cc1312481-a.hnglo1.ov.home.nl) has joined #minecraft
+P10:30:02 <Animator> You haven't lived until you see the things inside a flood.
+P10:30:06 <Animator> It's beautiful.
+P10:30:12 <Animator> It's a work of art.
+P10:31:41 <JTE> It's a hose on my CPU, but totally worth it.
+12P10:32:55 * Boinciel (daveaud@brndmb02dc1-195-2.dynamic.mts.net) Quit (Quit: and now bed)
+P10:33:09 <Lmaoboat> I think each Flaming Hot Cheeto is filled with hatred for humanity
+P10:33:26 <Lmaoboat> Because  they make you pay all the way through your digestive tract
+10P10:33:36 * featurecreature (Mibbit@c-24-5-78-166.hsd1.ca.comcast.net) has joined #minecraft
+12P10:34:16 * featurecreature (Mibbit@c-24-5-78-166.hsd1.ca.comcast.net) Quit (Quit: Client Exited)
+P10:34:44 <Lmaoboat> Anyone play Donkey Kong Country 2 back in the day?
+P10:35:38 <Lmaoboat> This level partial inspired me for the tree level http://www.youtube.com/watch?v=wZ81oTdI01I
+P10:36:02 <Lmaoboat> The music is epic too
+10P10:36:42 * Roflmazturr (chatzilla@74.210.93.215) has joined #minecraft
+P10:37:47 <Animator> Oh, woah, underwater forrest.
+P10:37:53 <Animator> Didn't notice that one.
+12P10:38:38 * Cueball (Cueball@d220-237-217-227.dsl.nsw.optusnet.com.au) Quit (Read error: Connection reset by peer)
+10P10:40:27 * Cueball (Cueball@d220-237-217-227.dsl.nsw.optusnet.com.au) has joined #minecraft
+12P10:43:29 * Cueball (Cueball@d220-237-217-227.dsl.nsw.optusnet.com.au) Quit (Ping timeout: 180 seconds)
+10P10:44:52 * Cueball (Cueball@d220-237-217-227.dsl.nsw.optusnet.com.au) has joined #minecraft
+10P10:46:54 * asianRanger (aaronyim95@adsl-76-254-46-127.dsl.pltn13.sbcglobal.net) has joined #minecraft
+12P10:51:15 * asianRanger (aaronyim95@adsl-76-254-46-127.dsl.pltn13.sbcglobal.net) Quit (Quit: Client Exited)
+12P10:52:29 * _spondy (spondy@124-169-237-29.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+12P10:55:44 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+10P10:57:34 * _spondy (spondy@203-206-65-64.dyn.iinet.net.au) has joined #minecraft
+P11:03:48 <Animator> What the hell?
+P11:03:54 <Animator> There's porn on the forums.
+10P11:04:33 * mooot (gfdgfdgdf@ACC12E33.ipt.aol.com) has joined #minecraft
+P11:04:33 <Lmaoboat> I've seen better
+P11:05:18 <Eagle> Oh shit
+P11:05:20 <Eagle> The russian spam.
+P11:05:27 <Eagle> Whelp.
+P11:05:34 <Eagle> Minecraft forums are screwed.
+12P11:05:44 * mooot (gfdgfdgdf@ACC12E33.ipt.aol.com) Quit (Quit: Client Exited)
+P11:06:13 <Eagle> Except it's not russian this time, it's strange tilde/umlaut letter language.
+12P11:06:59 * Animator (Ohnoaspy@adsl-144-246-234.mia.bellsouth.net) Quit (Ping timeout: 180 seconds)
+P11:09:46 <Lmaoboat> damn ruskies
+12P11:10:44 * Taneru (chatzilla@d24-57-229-111.home.cgocable.net) Quit (Read error: Connection reset by peer)
+10P11:10:53 * Taneru (chatzilla@d24-57-229-111.home.cgocable.net) has joined #minecraft
+10P11:11:01 * Animator (Ohnoaspy@adsl-144-246-234.mia.bellsouth.net) has joined #minecraft
+12P11:12:08 * Rock_D (Mibbit@82.75.107.101) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P11:13:11 <Animator> I see no one's in a hurry to delete the porn.
+P11:14:26 <Eagle> They're all enjoying it.
+P11:15:16 <Adura> They didn't even remove the watermark, hah.
+P11:15:43 <Eagle> Thank god it's not tranny porn.
+P11:22:47 <JTE> Heh.
+10P11:23:12 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+P11:23:19 <JTE> I should've named my topic "JTE's Thread of Awesomness" huh.
+P11:23:28 <Eagle> ?
+P11:23:35 <Adura> The porn threads.
+10P11:24:02 * Starshell (Starshell@c-67-171-9-32.hsd1.wa.comcast.net) has joined #minecraft
+P11:24:46 <Eagle> JTE, your avatar reminds me of... Kid Radd.
+P11:24:55 <Eagle> Or, your skin.
+P11:24:57 <Eagle> I meant.
+P11:25:51 <JTE> It is Kid Radd.
+P11:26:07 <JTE> http://minecraftforum.net/viewtopic.php?id=976
+P11:26:12 <Eagle> His brother, you mean?
+P11:26:34 <Eagle> His brother is red. :P
+P11:27:32 <Animator> And the threads are in more than one forum.
+P11:27:33 <JTE> http://home.att.net/~miller.daniel.r/raddstand.gif -- This is Radd
+P11:27:34 <JTE> http://home.att.net/~miller.daniel.r/gnarlstand2.gif -- This is his brother.
+P11:27:50 <Eagle> I know, JTE. :P
+P11:27:52 <JTE> They aren't wearing the same suit or anything.
+P11:28:02 <Eagle> :P
+P11:28:04 <JTE> My character is a Kid Redd. Not a Gnarl.
+P11:28:09 <JTE> I'll bother to make Gnarl later.
+P11:28:12 <Eagle> Kid Redd
+P11:28:15 <JTE> Because Gnarl is awesome and deserves to be made.
+P11:28:15 <Eagle> As in
+P11:28:17 <Eagle> Red?
+P11:28:23 <JTE> I like red. ^^
+P11:28:26 <Eagle> XD
+P11:28:35 <Eagle> I say orange is better.
+P11:28:45 <JTE> At least I didn't make him green and call him "Matrix Radd"
+P11:28:52 <Eagle> (I.E. The ninja guy. I haven't read Kid Radd in a while)
+P11:28:59 <JTE> Maybe give him some shades.
+12P11:29:01 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) Quit (Ping timeout: 180 seconds)
+P11:29:05 <JTE> Oh, I made a Ninja Radd before too.
+10P11:29:08 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+P11:29:12 <JTE> Kobayashi. :3
+P11:29:19 <Eagle> :D
+P11:29:26 <JTE> The Japanese guy who wins the Koney Island hotdog eating contest every year.
+P11:29:33 <JTE> Or whatever.
+P11:29:44 <JTE> Very unskilled with the third dimension.
+P11:29:54 <Eagle> Yeah.
+P11:29:59 <JTE> ... You know, I'm the same JTE who programmed Kid Radd.
+P11:30:04 <JTE> But by that point there was nobody left~
+P11:30:18 <JTE> Just me and DakeDesu.
+P11:30:18 <Eagle> You /programmed/ Kid Radd?
+P11:30:20 <Eagle> Like
+P11:30:25 <Eagle> As a game?
+P11:30:36 <JTE> As THE game, yes.
+P11:30:45 <Eagle> :O
+P11:31:00 <Eagle> Is it finished?
+P11:31:49 <JTE> ^^; Was one of my first programming projects, not too good. ... I scrapped the engine and started rewriting Cave Story instead, planning on putting Kid Radd features in later, but that didn't get very far either (There may be one video floating around YouTube showing off its online abilities)
+P11:32:14 <Eagle> D:
+P11:32:18 <JTE> Basically, anything I program and develop by myself never gets finished.
+P11:32:31 <Eagle> I have that problem too.
+P11:32:32 <Eagle> Well
+P11:32:35 <Eagle> I don't program
+P11:32:38 <Eagle> But you get what I mean.
+P11:36:11 <PuyoDead> wow. huge level generation in singleplayer is no joke
+P11:36:11 <Animator> The forums are slowly becoming porn spam.
+P11:36:26 <vdgmprgrmr> It is indeed huge.
+P11:36:39 <Adura> It's that guy who made the minecraft porn that caused this.
+P11:39:06 <Animator> Oh hey, there's a lesbian porn thread.
+P11:39:29 <Animator> I'd enjoy it more if it WASN'T IN THE FORUM.
+12P11:40:21 * Roflmazturr (chatzilla@74.210.93.215) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0/2008052906])
+10P11:40:43 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+P11:40:44 <Eagle> Hahahaha
+P11:41:34 <Eagle> Russian girls are pretty hot.
+P11:41:51 <Adura> But, I don't think those are specifically Russian girls.
+P11:42:43 <Animator> I e-mailed Wolfram, he's taking it down.
+12P11:42:46 * Super-Dot (Super-Dot@c-24-7-116-136.hsd1.ca.comcast.net) Quit (Quit: Super-Dot)
+P11:43:00 <Animator> Predictably, you're all going to say Aw... and sigh.
+P11:43:16 <Eagle> Aw...
+13P11:43:18 * Eagle sighs
+13P11:46:07 * vdgmprgrmr sighs
+P11:46:09 <vdgmprgrmr> Aw...
+P11:46:24 <vdgmprgrmr> (WEREN'T EXPECTING THAT WERE YA?)
+P11:46:36 <Eagle> vdgm is MIXING THINGS UP
+12P11:46:41 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Ping timeout: 180 seconds)
+P11:46:48 <vdgmprgrmr> Das rite!
+P11:47:42 <Animator> Actually, I did expect that.
+12P11:48:48 * jfredett (jfredett@68-187-218-249.dhcp.oxfr.ma.charter.com) Quit (Ping timeout: 180 seconds)
+12P11:49:01 * Taneru (chatzilla@d24-57-229-111.home.cgocable.net) Quit (Ping timeout: 180 seconds)
+10P11:51:03 * Arg (chatzilla@d58-104-6-192.dsl.vic.optusnet.com.au) has joined #minecraft
+P11:51:21 <Animator> Hey Arg.
+P11:51:34 <Arg> mmm?
+10P11:51:50 * jfredett (jfredett@68-187-218-249.dhcp.oxfr.ma.charter.com) has joined #minecraft
+13P11:52:55 * JTE yawns...
+P11:53:01 <JTE> getting sleepy. D:
+P11:53:10 <Eagle> :O
+P11:54:15 <JTE> Must ... finish ... paint ... command ...
+P11:54:53 <Eagle> Paint command?
+13P11:56:34 * Animator hands JTE Red Bull.
+P11:56:38 <Kinhoshi> Heh
+P11:58:18 <Eagle> Red Bull's taste funny. :/
+P11:58:23 <Eagle> *Red Bulls
+Session Close: Sun Jul 12 00:00:00 2009

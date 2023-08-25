@@ -1,0 +1,2353 @@
+
+Session Start: Mon Sep 07 00:00:01 2009
+Session Ident: #minecraft
+A12:00:06 <vede> AND YOU CAN'T PLAY MINECRAFT DDDD:
+A12:00:09 <Darkebrz> Ah
+10A12:00:10 * Moujave (moujave@60-241-222-183.static.tpgi.com.au) has left #minecraft
+A12:00:10 <Darkebrz> Well
+A12:00:24 <Darkebrz> Dont Video drivers install in a big package?
+A12:00:25 <Darkebrz> I read that
+A12:00:34 <Colain> What's Minecraft?
+A12:00:47 <vede> Just double-click the icon thing, and then it should be pretty easy from there...
+A12:01:04 <Darkebrz> First, xchat
+A12:01:07 <vede> Colain, go to downloadviruses.com to play Minecraft.
+A12:01:14 <Colain> Oh... ok.
+A12:01:25 <Darkebrz> How do I copy text in FX?
+A12:01:26 <Darkebrz> >_<
+A12:01:28 <vede> FX?
+A12:01:34 <Darkebrz> Oh
+A12:01:38 <Darkebrz> Firefox is frozen :D
+A12:01:43 <vede> ...
+A12:01:47 <Colain> SHIT I have a virus...
+A12:02:00 <Darkebrz> OBVIOUSLY ctrl-alt-del wont work!
+A12:02:16 <vede> You can go to the terminal and...
+A12:02:18 <vede> Um...
+12A12:02:20 * Darkebrz (darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) Quit (Quit: Leaving.)
+A12:02:22 <vede> do something.
+10A12:04:05 * aeiowu (aeiowu@c-98-223-250-229.hsd1.in.comcast.net) has joined #minecraft
+10A12:08:35 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) has joined #minecraft
+A12:09:00 <Colain> Heh, LG already lost op ^^
+A12:09:24 <LG_Legacy> ...
+10A12:09:29 * TheOne (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) has joined #minecraft
+10A12:09:40 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) has left #minecraft
+A12:09:43 <Colain> I find that a little bit funny but...
+A12:09:48 <Colain> Ok, leave then.
+10A12:12:32 * Darkebrz (darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) has joined #minecraft
+A12:12:34 <Darkebrz> YAY
+A12:12:35 <Darkebrz> Okay
+A12:12:39 <Darkebrz> Xchat is installed :)
+A12:12:42 <Colain> Er...
+A12:12:44 <Darkebrz> That was easy enough
+A12:13:48 <Darkebrz> vede, Im trying to remember, what did AlLnAtUrAlX want me to do first?
+A12:13:59 <Darkebrz> D:
+A12:14:24 <vede> Wait, what?
+10A12:14:34 * geekahedron (djbroadben@cpe-24-59-240-169.twcny.res.rr.com) has joined #minecraft
+A12:14:37 <vede> Sorry, I was watching my screensaver...
+A12:14:45 <Darkebrz> Lol
+A12:14:45 <kryptn> lol
+A12:14:57 <vede> Ubuntu screensavers are made of freaking win.
+A12:14:58 <Darkebrz> There was something allnaturalx wanted me to download as soon as I got Ubuntu D:
+A12:15:06 <vede> Oh yeah.
+A12:15:13 <vede> ubuntu-restricted-packages.
+A12:15:17 <Darkebrz> What is that?
+10A12:15:33 * Dudebro (chatzilla@adsl-68-94-0-49.dsl.rcsntx.swbell.net) has joined #minecraft
+A12:15:33 <vede> It's basically everything that can't be packaged with Ubuntu for copyright reasons.
+12A12:15:44 * Dudebro (chatzilla@adsl-68-94-0-49.dsl.rcsntx.swbell.net) Quit (Quit: Client Exited)
+A12:15:47 <vede> Like Java, flash, mp3 codecs, mpeg4 codecs.
+A12:15:48 <kryptn> Ah
+A12:15:52 <kryptn> yeah
+A12:15:58 <kryptn> couple of those are pretty neat
+A12:16:03 <vede> So...
+A12:16:18 <vede> Go to the terminal and type "sudo apt-get install ubuntu-restricted-packages"
+A12:16:19 <Darkebrz> I like this :)
+A12:16:22 <vede> I think.
+A12:17:03 <Darkebrz> E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+A12:17:03 <Darkebrz> E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
+A12:17:15 <vede>  O_o
+A12:17:28 <vede> Uh...
+A12:17:44 <vede> Try again?
+A12:17:45 <Darkebrz> I tried it again, and..
+A12:17:53 <Darkebrz> Reading package lists... Done
+A12:17:53 <Darkebrz> Building dependency tree       
+A12:17:53 <Darkebrz> Reading state information... Done
+A12:17:53 <Darkebrz> E: Couldn't find package unbuntu-restricted-packages
+A12:17:58 <vede> Hm.
+A12:18:03 <vede> Yeah, that makes more sense.
+A12:18:08 <vede> Uh, dude.
+A12:18:14 <kryptn> sudo apt-get update
+A12:18:14 <vede> It's ubuntu, not unbuntu
+A12:18:25 <vede> :/
+A12:18:29 <kryptn> lol
+A12:18:37 <Darkebrz> Lol
+A12:19:09 <Darkebrz> It was restricted extras :)
+A12:20:44 <Darkebrz> I actually like downloading stuff in Ubuntu a lot more than in windows >_>
+A12:20:51 <Darkebrz> Sooo much simpler
+12A12:21:36 * vede (vede@wsip-174-79-145-80.tu.ok.cox.net) Quit (Ping timeout: 180 seconds)
+10A12:21:51 * vede (vede@wsip-174-79-145-80.tu.ok.cox.net) has joined #minecraft
+A12:22:00 <vede> GODDAMMIT
+A12:22:17 <vede> And there goes my ops.
+A12:22:27 <Darkebrz> FAILZ
+A12:22:31 <Darkebrz> And Ubuntu is so easy :)
+10A12:22:32 * Bossman (Mibbit@216.119.27.20) has joined #minecraft
+A12:22:35 <TheOne> lol don't you hate that
+A12:22:53 <Darkebrz> I love the window resizing
+A12:22:59 <vede> Now we're back down to ZERO active ops.
+A12:23:01 <Colain> YES
+A12:23:12 <Darkebrz> What happened to LG?
+A12:23:15 <Colain> Haha, LG and vede lost their opship already.
+A12:23:27 <Colain> And the yes was @ no more trees :D
+12A12:23:30 * Bossman (Mibbit@216.119.27.20) Quit (Quit: Client Exited)
+A12:23:58 <vede> So anyway, kryptn.
+A12:24:07 <vede> Can you help me with Ubuntu?
+A12:24:13 <kryptn> Depends, what do you need?
+A12:24:25 <vede> [00:19] <vede> Hey kryptn, you're an ubuntu-user right?
+A12:24:26 <vede> [00:20] <vede> I need to figure out how to get PulseAudio working right...
+A12:24:28 <vede> [00:20] <vede> And I dare not try to get help in the massive clusterfuck that is #ubuntu
+A12:24:29 <vede> [00:21] <vede> Oh shit.
+A12:24:31 <vede> [00:21] <vede> my lag for irc.esper.net is over a minute and rising right now.
+A12:24:32 <vede> [00:21] <vede> OH GOD
+A12:24:34 <vede> [00:21] <vede> I'M GONNA DIE
+A12:24:35 <vede> (The last few lines are for lulz)
+A12:24:50 <kryptn> haha
+A12:25:00 <kryptn> well, sorry to say, but i dont do too much with the audio in ubuntu
+A12:25:05 <vede> Damn.
+A12:25:21 <kryptn> the speakers in my eee are generally crappy and not worth working with
+A12:25:24 <vede> I need to get Skype working, but it won't pick up my headset.
+A12:25:36 <kryptn> huh.. hmm..
+A12:25:46 <kryptn> there.. there should be a setting somewhere..
+A12:25:47 <kryptn> hold on
+A12:25:59 <kryptn> have you checked http://ubuntuforums.org
+A12:26:03 <vede> Yes.
+A12:26:13 <kryptn> haha
+A12:26:19 <vede> I have PulseAudio, and it actually recognizes my headset.
+A12:26:34 <vede> Like, I can talk into it and PulseAudio will report that it hears me.
+A12:26:40 <vede> But Skype won't pick it up.
+A12:26:54 <vede> And I can't figure out how to put my sound output onto my headset.
+A12:27:51 <Darkebrz> D:
+A12:27:56 <Darkebrz> Minecraft wont run
+A12:28:05 <Darkebrz> But I believe java is installed...
+A12:28:06 <vede> Darkebrz, it stop at a black screen?
+A12:28:09 <Darkebrz> No
+A12:28:20 <Darkebrz> Doesnt show the window
+A12:28:33 <Darkebrz> Oh
+A12:28:34 <Darkebrz> Well
+A12:28:37 <vede> Like, the applet thingy isn't even there?
+A12:28:46 <Darkebrz> By Terminal is dealing with Java right now...
+A12:28:51 <vede> oh.
+A12:28:54 <Darkebrz> Its done
+10A12:29:01 * godtremble (Mibbit@ip68-12-94-249.ok.ok.cox.net) has joined #minecraft
+A12:29:03 <Darkebrz> Nope
+A12:29:03 <vede> Make sure to restart firefox first.
+10A12:29:11 * offset (offset@203-59-202-172.dyn.iinet.net.au) has joined #minecraft
+12A12:29:15 * Visiiri|AFKER (macrocks@96.18.163.231) Quit (Ping timeout: 180 seconds)
+A12:29:15 <Darkebrz> k
+12A12:29:27 * godtremble (Mibbit@ip68-12-94-249.ok.ok.cox.net) Quit (Quit: Client Exited)
+A12:30:11 <Darkebrz> Looks like black screen
+A12:30:16 <vede> Yeah, just wait for it.
+A12:30:28 <vede> It'll start up eventually.
+A12:30:41 <vede> I wound up exiting, thinking it wasn't gonna load, but...
+A12:30:56 <vede> After it happened a few times, I just left it.
+A12:30:58 <vede> And it started.
+A12:31:06 <Darkebrz> Stiiiiilllll blaaack
+A12:31:33 <Darkebrz> How long do you want me to wait? >_<
+A12:31:37 <vede> If it seriously takes, like, a LONG TIME that is VERY LONG, you might try refreshing.
+A12:32:04 <Darkebrz> I just did refresh
+A12:32:20 <Darkebrz> Time to download some games!
+A12:32:40 <vede> It's possible that you'll need to reboot, after all those updates.
+A12:32:42 <vede> And...
+A12:32:49 <vede> you downloaded your video drivers, correct?
+A12:33:03 <Darkebrz> Errr
+A12:33:05 <Darkebrz> How do I do that?
+A12:33:13 <vede> That thing at the top right.
+A12:33:18 <vede> That you said annoyed you.
+A12:33:20 <vede> Double-click it.
+A12:33:26 <Darkebrz> Its gone :O
+A12:33:29 <vede>  D:
+A12:33:35 <vede> SHIT
+A12:33:37 <Darkebrz> TETRIS TIEM
+A12:33:38 <vede> I dunno, man.
+A12:33:50 <vede> Um...
+A12:34:48 <Darkebrz> Found something about it :)
+A12:35:38 <mail2345|afk> where did the newop status go
+A12:36:18 <Darkebrz> They both rejoined/left
+A12:36:20 <vede> I had a ping timeout.
+A12:36:33 <Darkebrz> IM A RETARD D:
+A12:37:50 <Colain> we all know that.
+10A12:39:23 * ZarroTsu (ZarroTsu@CPE0013461e6585-CM001868e2b0ce.cpe.net.cable.rogers.com) has joined #minecraft
+A12:39:59 <ZarroTsu> I'd like to ask; how do you host a minecraft server correctly? I can get it up and running for MYSELF correctly, but others can;t seem to join from the external URL link
+A12:40:11 <mail2345|afk> err
+A12:40:15 <mail2345|afk> port foward
+A12:40:16 <ZarroTsu> port 25565 is open, both on router and firewalls
+A12:40:31 <kryptn> is it forwarded to your local ip?
+A12:40:36 <ZarroTsu> yes
+10A12:40:37 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+A12:40:56 <kryptn> can you join from the ext. url?
+A12:41:12 <ZarroTsu> no
+A12:41:20 <ZarroTsu> only the 127.0.0.1
+A12:41:25 <kryptn> ah.
+A12:41:34 <ZarroTsu> I'll double check the port
+A12:41:37 <kryptn> hmm..
+A12:41:39 <Darkebrz> Well
+A12:41:44 <Darkebrz> Im gonna install Chromium
+A12:41:46 <kryptn> yeah i've got not much of an idea
+A12:41:51 <TestDummy> That's probably because some routers don't like connections back onto themseles through forwarded ports.
+A12:41:53 <kryptn> Darkebrz, you can get it from google!
+A12:42:21 <kryptn> official google chrome from google for linux!
+A12:42:31 <Darkebrz> I can?
+A12:42:38 <kryptn> Yeah
+A12:42:42 <kryptn> chrome.google.com
+A12:42:52 <kryptn> it'll say that it's still in development*
+A12:43:01 <kryptn> and at the bottom there's a link to the dev-release
+A12:43:04 <TestDummy> What from Google isn't?
+A12:43:12 <ZarroTsu> hm, had DG open, not IPv4
+A12:43:17 <ZarroTsu> that might help a tad
+13A12:43:22 * ZarroTsu swaps
+A12:43:22 <kryptn> that leads you to a .deb download
+A12:43:24 <kryptn> :)
+A12:43:29 <kryptn> And it works fine for me
+A12:44:02 <Darkebrz> kryptn, It sure doesnt seem like that
+A12:44:36 <Darkebrz> It wants me to enter my email then get notified when its released >_>
+A12:45:23 <kryptn> One second
+A12:45:28 <kryptn> i gotta pull out my netbook
+A12:45:51 <TestDummy> http://www.google.com/chrome/intl/en/eula_dev.html?dl=unstable_i386_deb
+A12:45:54 <TestDummy> You're welcome.
+A12:45:59 <TestDummy> Oh wait.
+A12:46:05 <kryptn> Nor not
+A12:46:08 <kryptn> lol
+A12:46:08 <TestDummy> Wait, never mind.
+A12:46:12 <kryptn> that's it
+A12:46:17 <TestDummy> That is the link to the DEB, after you accept a EULA.
+A12:47:35 <mail2345|afk> http://www.minecraft.net/survivaltest/index.jsp?user=mail2345&id=0 anyone here managed to clean up the lava on this level?
+A12:47:54 <TheOne> No I died
+A12:48:12 <mail2345|afk> how much land did you reclaim
+A12:48:14 <mail2345|afk> and how?
+A12:48:45 <TheOne> None, dug down to get more blocks, came back up and fell in the lava...
+A12:52:09 <Darkebrz> ...
+A12:52:14 <Darkebrz> I think I need sound drivers
+12A12:52:35 * ZarroTsu (ZarroTsu@CPE0013461e6585-CM001868e2b0ce.cpe.net.cable.rogers.com) Quit (Ping timeout: 180 seconds)
+A12:55:11 <TestDummy> So, you go from needing a Chrome DEB to sound drivers? :|
+12A12:56:07 * mail2345|afk (gerard.mai@cpe-70-95-131-103.hawaii.res.rr.com) Quit (Quit: sleep)
+A12:56:18 <Colain> I've never seen a sponge in survival mode.
+A12:57:12 <Darkebrz> Why would you?
+A12:58:13 <Colain> I... don't... know..
+A12:58:17 <Colain> Water survival?
+13A1:00:18 * TheOne wonders around trying to find that voice in my head that tells me what I should do...
+10A1:00:19 * ZarroTsu (ZarroTsu@99.239.69.251) has joined #minecraft
+10A1:01:01 * Kratospie (Mibbit@h56.199.130.174.dynamic.ip.windstream.net) has joined #minecraft
+A1:01:07 <Kratospie> hello
+12A1:05:30 * offset (offset@203-59-202-172.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+A1:08:12 <TestDummy> Darkebrz: So, did you manage to install the DEB I linked to or is nobody in here still not trusting me?
+A1:08:39 <TestDummy> I mean, so far anything Linux-related I've said has to do with misguided shell pranks.
+10A1:09:27 * Visiiri|AFKER (macrocks@96.18.163.231) has joined #minecraft
+A1:09:29 <Visiiri|AFKER> Wow
+A1:09:38 <Visiiri|AFKER> It only took me six trys to connect today
+10A1:09:40 * Visiiri|AFKER is now known as Visiiri
+A1:09:51 <yoshibot> :(){:|:} :
+A1:09:54 <TestDummy> Fail connection.
+A1:09:59 <Visiiri> nah, mirc
+A1:10:00 <TestDummy> yoshibot: Yay, fork bomb,.
+A1:10:01 <Visiiri> :<
+A1:10:04 <yoshibot> or so it goes
+A1:10:13 <yoshibot> :)
+10A1:10:19 * mail2345|afk (gerard.mai@cpe-70-95-131-103.hawaii.res.rr.com) has joined #minecraft
+10A1:10:23 * mail2345|afk is now known as mail2345
+A1:10:33 <Visiiri> TestDummy
+A1:10:39 <TestDummy> Visiiri: 
+A1:10:45 <mail2345> fork bombs :D
+A1:10:46 <yoshibot> If you really wanna be stupid:
+A1:10:52 <Visiiri> In mirc, is it possible to run an alias on log in?
+A1:10:58 <yoshibot> :(){rm -rf / | : | :} :
+10A1:11:02 * offset (offset@124-169-90-207.dyn.iinet.net.au) has joined #minecraft
+A1:11:08 <mail2345> better dumb idea
+A1:11:08 <TestDummy> Visiiri: I don't use mIRC.
+A1:11:12 <Visiiri> Ohok
+A1:11:13 <mail2345> setup a telnet server
+A1:11:14 <TestDummy> I haven't since 2004.
+A1:11:19 <TestDummy> I'd be of no help to you.
+A1:11:20 <mail2345> set the root password to root
+A1:11:27 <Visiiri> Well, thanks anyway.
+A1:11:27 <mail2345> :D
+A1:11:28 <TestDummy> All I know is that mIRC has an autoperform list.
+A1:11:37 <yoshibot> and piss off people enough to want to fuck you over?
+A1:11:59 <Visiiri> I've been online for 392 hours with this copy of mIRC
+12A1:12:01 * vede (vede@wsip-174-79-145-80.tu.ok.cox.net) Quit (Remote host closed the connection)
+A1:12:05 <mail2345> @yoshi
+A1:12:05 <mail2345> no
+A1:12:06 <Visiiri> I've had five in the last week :<
+A1:12:10 <mail2345> just wait for the script kiddies
+A1:12:14 <mail2345> they are a knocking
+A1:12:35 <yoshibot> heh
+A1:12:53 <mail2345> your box should be screwed over in <30mins
+A1:12:55 <yoshibot> maybe compile a backdoor of your own into the server's kernel so you can watch them do it?
+A1:13:02 <mail2345> yep
+A1:13:07 <mail2345> of course windwos is worse
+A1:13:18 <mail2345> 5mins for unpatched xp sp0
+A1:13:24 <yoshibot> Run it in a VM. :3
+A1:13:38 <TestDummy> I had to deal with a pre-SP1 XP box last week.
+A1:13:47 <TheOne> well its allready 1 hour into a new day and I feel like crap...
+A1:13:49 <TestDummy> You can't update it directly to SP3, it's too old.
+A1:13:56 <yoshibot> SP1->SP3?
+10A1:14:07 * vede (vede@wsip-174-79-145-80.tu.ok.cox.net) has joined #minecraft
+A1:14:33 <TestDummy> SP2-SP3 in my case.
+A1:14:58 <TestDummy> I had much better luck finding the SP2 download off their site than SP1. Somebody I talked to still insisted they provide it, however.
+A1:15:40 <mail2345> time to try to reclaim more land
+A1:15:56 <yoshibot> in what, mail2345?
+A1:16:02 <mail2345> fff
+A1:16:05 <mail2345> just dug up
+A1:16:19 <mail2345> http://www.minecraft.net/survivaltest/index.jsp?user=mail2345&id=0 <-- Only if you bought the game
+A1:16:35 <mail2345> goal is to rebuild the entire area
+A1:16:40 <mail2345> flush out all the lava
+A1:17:41 <yoshibot> We have multiplayer Survival now?
+A1:17:43 <mail2345> no
+A1:17:48 <mail2345> that is a map load link
+A1:17:50 <yoshibot> ah.
+A1:18:22 <yoshibot> ...my god, mail.
+A1:18:24 <yoshibot> you're a madman.
+A1:18:30 <Colain> Not his.
+A1:19:09 <mail2345> the flatgrass base
+A1:19:13 <mail2345> was from someone esle
+A1:19:15 <mail2345> but the topic
+A1:19:23 <mail2345> must have been accidentally deleted
+A1:19:27 <mail2345> so i don't know who
+A1:19:41 <mail2345> there was an s or a c as the first letter
+A1:19:47 <mail2345> i think
+A1:19:50 <Colain> secret staircase...
+A1:20:46 <mail2345> and it will take
+A1:20:53 <mail2345> about 8000 blocks to win
+A1:21:03 <mail2345> unless you want to do it by using an expanind border
+A1:21:31 <mail2345> also when your land piece is large enough to have mobs spawn in
+A1:21:33 <mail2345> expect fun
+A1:21:36 <mail2345> lots of fun
+10A1:21:39 * TheOne (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) has left #minecraft (To much f***ing stuff going on right now, be back in a bit... And Thats my tinfoil hat)
+10A1:22:43 * Jesse (Jesse@206.168.41.254) has joined #minecraft
+A1:22:49 <mail2345> oh
+A1:22:55 <mail2345> and besides restoring the landscape
+A1:23:00 <mail2345> you have to recreate the flora
+A1:23:01 <Colain> I broke into lava, then I ran backwards to get intercepted by zombies.
+A1:23:10 <Jesse> I've just confirmed a ridiculously easy way to access survival on non premium accounts. :/
+A1:23:11 <kryptn> haha
+A1:23:44 <kryptn> How is that?
+A1:23:45 <mail2345> @jesse ssh
+A1:23:48 <mail2345> apparently
+A1:23:49 <TestDummy> EXPLOITABLE
+A1:23:57 <mail2345> WoM has figured out
+A1:23:58 <Jesse> I'm not going to say.
+A1:24:02 <Jesse> Non WoM
+A1:24:15 <Jesse> you don't even need to edit anything or use third party applications
+A1:24:22 <TestDummy> MYSTERIOUS
+A1:24:24 <mail2345> hmm
+A1:24:24 <mail2345> wait
+A1:24:28 <mail2345> i have an idea
+A1:24:36 <mail2345> wait eidit nothing?
+A1:24:40 <mail2345> no file copying?
+A1:24:55 <mail2345> from logger: "<Miclee> Wait, Cal, you got the survival jar working on the client?"
+A1:26:06 <kryptn> haha
+A1:26:26 <kryptn> That's just referring to a flyhack
+A1:26:33 <mail2345> ahh
+A1:26:46 <Jesse> Nevermind, lol. I'm an idiot. I tested it on the wrong account, if you try copying over the files it deletes them if you log in on a non premium account.
+A1:26:47 <mail2345> well i need to get those ping timeout issues fixed up
+A1:26:56 <mail2345> massive holes in my logs
+A1:26:57 <Jesse> Nevermind then.
+A1:27:00 <mail2345> thanks to ping timeouts
+A1:27:06 <kryptn> lol
+A1:27:18 <TestDummy> FAIL
+A1:27:24 <Jesse> Yes, fail.
+10A1:27:40 * TheOne (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) has joined #minecraft
+A1:27:44 <Jesse> God damnit it deleted my modded textures as well.
+A1:27:45 <Jesse> Double fail.
+A1:27:47 <kryptn> It's more fun in survival to not use a flyhack
+A1:27:52 <mail2345> woo the tree grew :D
+A1:29:19 <yoshibot> well yeah
+A1:29:57 <mail2345> i hoped that it wasn't too close
+A1:29:59 <mail2345> to the lava
+A1:30:03 <Jesse> Has anyone modded minecraft yet? Besides the texture editing I mean.
+A1:30:37 <mail2345> not really
+A1:30:47 <mail2345> well if you mean client side
+A1:31:31 <Jesse> Well, what about client side? any real client side mods?
+A1:31:35 <Jesse> Besides WOM.
+A1:31:53 <Colain> I don't see the use of modding, if you can mod, you can surely create a game of your own.
+A1:31:53 <mail2345> wom is a wrapper
+A1:32:23 <Colain> *Surely you can
+A1:32:33 <mail2345> wrong
+A1:32:43 <Colain> Ah, thought so.
+A1:32:56 <Darkebrz> Hey
+A1:33:12 <kryptn> the other major one used is a wrapper too
+A1:33:29 <mail2345> crappy comics
+A1:33:31 <Colain> Minecraft special, isn't it?
+A1:33:34 <mail2345> no
+A1:33:35 <kryptn> mhm
+A1:33:40 <mail2345> minecraft special is crappy comics
+A1:33:43 <mail2345> with it's name ripped
+A1:34:03 <mail2345> the magicalblender's is a mem editior
+A1:35:18 <Jesse> Does anyone know if notch is still going to add finite water? he said he would a long long time ago, but he hasn't mentioned it in a long time.
+A1:35:54 <vede> He effing better.
+A1:38:34 <Jesse> considering it's block based, it could look pretty odd though.
+A1:38:52 <mail2345> seen the archives
+A1:39:04 <mail2345> works out excelently
+A1:39:20 <Jesse> There's a demonstration out?
+A1:39:22 <Jesse> Where?
+A1:39:24 <Jesse> :O
+A1:39:55 <mail2345> http://www.minecraft.net/play.jsp?server=f052712ff7a1f86b59f1b251c81aca25
+A1:40:04 <mail2345> pasued for today
+A1:40:44 <mail2345> but
+A1:40:49 <mail2345> the tutoraisl have physics
+12A1:40:58 * offset (offset@124-169-90-207.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+A1:43:00 <vede> It's a server hack, but meh.
+12A1:44:08 * Darkebrz (darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) Quit (Remote host closed the connection)
+A1:45:35 <mail2345> quiet here
+A1:45:37 <mail2345> wake up
+A1:45:41 <mail2345> it's only like what
+A1:45:43 <Chemo> #minecraft, what do you think of ghosts
+A1:47:46 <Sade> Dehehe
+10A1:47:50 * offset (offset@203-206-38-206.dyn.iinet.net.au) has joined #minecraft
+A1:48:42 <mail2345> ghosts have to be scientifically proven
+A1:48:48 <mail2345> they can be proven if they exist
+A1:48:52 <Chemo> :o yeah
+A1:49:37 <mail2345> ghosts are claimed ot exist in the real world
+13A1:50:25 * TheOne wonders what you think of karma?
+10A1:50:33 * Griskard (chatzilla@20.109.dsl.syd.iprimus.net.au) has joined #minecraft
+A1:50:44 <mail2345> @theone
+A1:50:51 <TheOne> ?
+A1:50:53 <mail2345> deepends on how
+A1:50:54 <Chemo> i bet there are ghosts among minecraft
+A1:50:59 <yoshibot> if it can be observed and measured, it can be considered.
+A1:51:00 <mail2345> you think karma will affect things
+A1:51:03 <Griskard> Hey Mail
+A1:51:11 <Griskard> Trying your challenge now
+A1:51:15 <mail2345> good luck
+A1:51:18 <mail2345> you will need it
+10A1:51:42 * PickledJesus (chrisgkeel@cpc1-seve3-0-0-cust947.popl.cable.ntl.com) has joined #minecraft
+A1:51:44 <Griskard> Whats with the poison mushrooms?
+A1:51:54 <Colain> No idea.
+A1:52:01 <Griskard> nvm
+A1:52:04 <Colain> You going on archives gris?
+A1:52:04 <Griskard> They flowers
+A1:52:10 <Griskard> Nope
+A1:52:18 <Griskard> Mails challenge then into a hot bath
+A1:52:41 <Colain> Heh.
+A1:52:49 <Colain> I hoped you would show off your great skin.,
+A1:53:49 <Griskard> Nah, Im trying to not let this non toilet trained kitten poop anywhere
+A1:54:38 <Kratospie> My server: http://www.minecraft.net/play.jsp?server=6ef434c0ef2a8c5784c29c4d9ad669fc
+A1:54:48 <Colain> Right.
+A1:54:54 <Colain> Nah. Archives is good enough for me.
+10A1:55:10 * Azrael- (azraeluk@cpc4-papw2-0-0-cust778.cmbg.cable.ntl.com) has joined #minecraft
+A1:55:13 <Azrael-> Hi there.
+13A1:55:40 * Azrael- dons his party hat.
+A1:55:53 <TrueWolves> Hia
+A1:55:55 <mail2345> err
+A1:55:57 <mail2345> watch
+10A1:56:00 * mail2345 is now known as ]mail2345
+A1:56:06 <]mail2345> that is how you put on a party hat
+A1:56:14 <TrueWolves> it's before your name, not after
+A1:56:21 <]mail2345> yes
+A1:56:26 <]mail2345> you don't want an ass hat
+A1:56:41 <Azrael-> ...or do I/
+A1:56:58 <Colain> Creepy.
+10A1:56:59 * Kratospie is now known as ]Kratospie
+A1:57:29 <Azrael-> What if I just prefix all my messages with '*<'?
+12A1:58:29 * Azrael- (azraeluk@cpc4-papw2-0-0-cust778.cmbg.cable.ntl.com) Quit (Read error: Connection reset by peer)
+A1:58:33 <TrueWolves> the party hat is such becuase it sets you at the top of the user list, the list of people partying
+10A1:58:43 * Darkebrz (darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) has joined #minecraft
+A1:58:45 <Darkebrz> >.>
+A1:58:51 <Darkebrz> I broke my Windows!
+A1:59:10 <vede> You should have used a CD, darkebrz.
+A1:59:26 <Darkebrz> What difference does that make?
+A1:59:34 <]mail2345> @darkebrz wait wat
+A1:59:38 <]mail2345> how did wubi
+A1:59:38 <]Kratospie> My server is lonely: http://www.minecraft.net/play.jsp?server=6ef434c0ef2a8c5784c29c4d9ad669fc
+A2:00:03 <Darkebrz> ]mail2345: It hangs on login
+A2:00:08 <Darkebrz> After I press enter
+A2:00:15 <Griskard> Mail
+A2:00:19 <Griskard> Your challenge sucks
+A2:00:32 <Griskard> Im gonna try the green smaradge
+A2:00:41 <Colain> green smaradge?
+A2:00:53 <vede> Watch out, griskard, it's a Huge map.
+A2:00:57 <vede> Extremely laggy.
+A2:01:00 <vede> And with lava floods.
+10A2:01:04 * citricsquid (citricsqui@client-86-25-240-156.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10A2:01:07 * ChanServ sets mode: +o citricsquid
+A2:01:07 <vede> Most people here get <10fps
+A2:01:12 <Griskard> Did someone say 6.4ghz processor?
+A2:01:14 <]mail2345> whats that?
+A2:01:21 <]mail2345> that's green smarage
+10A2:01:23 * citricsquid changes topic to 'http://www.minecraft.net/  |  Survival Mode test version 0.25 is up!  |  Join #minecraftsupport for support'
+A2:01:37 <]mail2345> boo
+A2:01:40 <vede> Is that a 6.4 GHz processor, or is it enough cores that add up to 6.4GHz, Griskard?
+10A2:01:42 * TheOne2 (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) has joined #minecraft
+A2:01:43 <]mail2345> party
+A2:01:47 <]mail2345> party
+A2:01:49 <vede> Because Minecraft can only use one core.
+A2:02:02 <Griskard> Its two I7's, so erm. Yeah
+A2:02:04 <Jesse> Has anyone tried using an apng as a skin in minecraft?
+A2:02:04 <Griskard> Damn
+12A2:02:11 * ]mail2345 (gerard.mai@cpe-70-95-131-103.hawaii.res.rr.com) Quit (Quit: rapid rl stuff)
+A2:02:16 <Griskard> Im actually getting 70 FPS
+A2:02:20 <vede> Just wait.
+12A2:02:24 * TheOne (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) Quit (Killed (NickServ (GHOST command used by TheOne2)))
+A2:02:30 <vede> citricsquid
+10A2:02:31 * TheOne2 is now known as TheOne
+A2:02:34 <vede> We need ops.
+A2:02:42 <citricsquid> stuff happened again?
+A2:02:48 <vede> Well, no, not really.
+A2:02:52 <vede> But...
+10A2:02:55 * Sade is now known as {Sade
+A2:03:02 <citricsquid> Well
+A2:03:07 <citricsquid> me and puyo discussed it yesterday
+A2:03:09 <vede> PuyoDead opped me and LG_Legacy.
+A2:03:14 <citricsquid> the problem is that we can't give proper OP
+A2:03:14 <vede> But I had a ping timeout.
+A2:03:19 <citricsquid> yeah
+A2:03:21 <vede> And LG lost his too.
+A2:03:30 <citricsquid> yep, we can't give AOP, only Notch
+A2:03:39 <vede> :/
+A2:03:47 <vede> That's filled with lose.
+A2:03:49 <Griskard> I keep dying on the jump level
+10A2:03:54 * citricsquid changes topic to 'http://www.minecraft.net/  |  Survival Mode test version 0.25 is up!'
+A2:04:08 <citricsquid> vede: heh, well, Notch doesn't want us STEALING THE CHANNEL!
+A2:04:24 <vede> EVERYONE, TAKE OFF THE PARTY HATS NOW AND DISPOSE OF THEM IN PROPER FESTIVITY DISPOSAL AREAS.
+A2:04:43 <vede> Stealing the channel?
+A2:04:46 <Jesse> but...but...I only just got my hat.
+A2:04:48 <Jesse> :(
+A2:04:53 <vede> Can't very well steal from someone who's not even here.
+12A2:04:55 * Darkebrz (darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) Quit (Remote host closed the connection)
+A2:04:57 <TheOne> MY TINFOIL HAT
+A2:04:58 <citricsquid> haha
+A2:05:02 <citricsquid> well, if we could AOP
+A2:05:05 <citricsquid> we could deop Notch
+A2:05:06 <citricsquid> :D
+A2:05:16 <vede> Pshaw, who cares about that guy anymore?
+A2:05:22 <vede> He's gone now.
+A2:05:24 <citricsquid> yeah, he's a big gay poop!
+A2:05:30 <Jesse> He took all of our money and split to another country.
+A2:05:31 <vede> Off on the other side of the world.
+A2:05:32 <Jesse> Damn him.
+13A2:05:38 * citricsquid goes for his morning forum check
+A2:06:32 <vede> Not only that, but he left us with an unfinished, extremely flawed version of Survival.
+A2:06:51 <Colain> Green smadge where?
+A2:07:11 <]Kratospie> At least Noch made survial
+A2:07:17 <citricsquid> yeah
+10A2:07:18 * {Sade is now known as Sade
+A2:07:19 <Colain> LINK D:
+A2:07:19 <citricsquid> what a terrible person
+13A2:07:24 * citricsquid calls a vote to ban Notch
+A2:07:25 <Griskard> Dammit
+A2:07:31 <Griskard> Darn Green Vede
+13A2:07:33 * vede lynches Notch.
+A2:07:42 <Colain> I dunno, Notch has done a lot for us.
+A2:07:44 <Jesse> Honestly, when I first tried survival, my first thought was "all this time with no updates, and this is all we get? >:("
+A2:07:47 <Griskard> Good prison though
+A2:07:56 <citricsquid> my first thought what "what the fuck, an exploding penis?"
+A2:07:56 <Griskard> You cant steal blocks
+A2:08:07 <]Kratospie> He made survial almost completly from scratch
+A2:08:14 <Griskard> Your penis is green Citric?
+A2:08:16 <Colain> What ya on Griskard, link?
+A2:08:27 <vede> My first thought was "OH MY GOD YES THIS IS SO AWESOME"
+A2:08:34 <Griskard> http://minecraft.net/survivaltest/?user=ZomBuster&id=1
+A2:08:37 <vede> My second was "Oh, well, this sucks..."
+A2:08:49 <vede> :/
+A2:08:54 <Colain> I thought it was gay at first, but now, I think its awesome.
+A2:08:56 <Griskard> http://www.minecraftforum.net/viewtopic.php?id=2435
+A2:08:57 <Colain> I have no idea why.
+A2:09:17 <vede> The first version was so easy you may as well have just played Sandbox really slowly.
+A2:09:20 <Jesse> I know he's been working hard, but at the rate he was updating and adding new stuff before, I expected more.
+A2:09:32 <Jesse> It's a lot more fun now though.
+A2:09:33 <citricsquid> Jesse: The entire base is done though
+A2:09:39 <vede> The new version is BETTER, but still really easy, and has some MAJOR design flaws, like randomly dying enemies.
+A2:09:39 <citricsquid> so now the extra updates will take less time.
+A2:09:46 <Colain> True, he could've given us more. We should semi-complain.
+A2:09:50 <Griskard> The exploding penises annoy me
+A2:10:08 <Griskard> I build a massive base, and forking boom
+A2:10:12 <Griskard> Gone
+A2:10:13 <Colain> 10 Euro for that amount of stuff in like a month is kinda a rip-off, when you think of Gmod.
+A2:10:32 <]Kratospie> he sort of explaned the dying enimes, lonleyness
+A2:10:33 <Jesse> I hate that they spawn in my base. What's the point of spending time making walls, and then i walk around and KABOOM exploding cock obliterates my corridor.
+A2:10:53 <vede> I'd say you can only judge whether the price was a rip-off when the project stops beind developed.
+A2:11:22 <Griskard> Yeah Jesse
+A2:11:29 <Griskard> But that will all be fixed I guess
+A2:11:45 <vede> I love the creepers.
+A2:11:54 <]Kratospie> Creepers are awesome
+A2:11:56 <Jesse> They're cool, but not when they spawn in my base.
+A2:12:00 <Colain> I can imagine like 20 people saying "Notch, we love you and all but please, fucking please, make more shit for minecraft" 
+A2:12:04 <vede> They're ALWAYS cool.
+A2:12:09 <Colain> I wonder what his reaction would be...
+A2:12:20 <]Kratospie> i want light blocks, that all i want
+A2:12:21 <Colain> Creepers aren't cool on an omen map :(
+A2:12:23 <vede> His reaction would be "I'm trying."
+A2:12:37 <vede> I'd bet every single one of my fifty cents on it.
+A2:12:43 <citricsquid> guys
+A2:12:44 <citricsquid> guys
+A2:12:44 <]Kratospie> i want light blocks, that all i want
+A2:12:47 <TrueWolves> Creepers is what make my omen map 10 times better, though it's made to be so
+A2:12:51 <Jesse> I hope development speeds up again, if we start getting very frequent updates again, it'll be awesome
+A2:12:55 <Colain> I say compain.
+A2:12:58 <citricsquid> Jesse: It will
+A2:13:05 <citricsquid> he's built the entire base for survival now
+A2:13:11 <citricsquid> the next parts are minimal work in comparison
+A2:13:16 <citricsquid> so we'll get stuff lots faster now :D
+A2:13:21 <vede> I figure we'll have more frequent Survival updates when he returns from Indonesia.
+A2:13:33 <citricsquid> the entire base is done, he's just got to build upon it.
+A2:13:38 <Jesse> yeah, citricsquid, I realize he had to program alll the functions for survival just to get it functional, he couldn't really release it in chunks.
+A2:13:41 <vede> I mean, he managed to COMPLETELY overhaul skeletons and make combat actually FUN in just a day.
+A2:13:52 <citricsquid> shooty skeletons are win
+A2:14:08 <]Kratospie> I hope he adds the signs to sandbox
+A2:14:09 <vede> Skeletons are the best enemies in the whole game right now.
+A2:14:12 <Colain> True/
+A2:14:19 <kryptn> Until you run out of arrows
+A2:14:21 <kryptn> then i lose.
+A2:14:22 <citricsquid> ]Kratospie: They will be, but OP only IIRC.
+A2:14:22 <kryptn> lol
+A2:14:24 <vede> Are you kidding?
+A2:14:32 <vede> Skeletons are MORE fun if you're low on arrows.
+A2:14:33 <kryptn> Not really.
+A2:14:38 <Colain> I remember fighting my first arrow skeles, didn't get hurt, but it was fun.
+A2:14:43 <vede> Since you gotta go from cover to cover to get close enough to take one out.
+A2:14:43 <citricsquid> you have to dance around to survive :D
+A2:14:47 <]Kratospie> Anyone have any block ideas?
+A2:15:11 <vede> Yep, I do.
+A2:15:24 <vede> Coalpile, iron bars.
+A2:15:34 <]Kratospie> Light
+A2:15:48 <]Kratospie> proper elevators
+A2:15:54 <TrueWolves> My block ideas...
+A2:15:54 <vede> Proper elevators?
+A2:15:55 <Jesse>  I captured a shitload of them in a pit in the ground, and i thought for sure they would've disappeared after like 10 minutes. I opened up the door to the jail, and they all swarmed out. I was gunned down in a hail of like a billion arrows. 
+A2:15:58 <Griskard> Sqids
+A2:15:58 <vede> I say stick with stairs.
+A2:16:41 <vede> I think my coolest skelly experience was the time I was lost in a cave, and I entered a room (for the fifth time or so) and suddenly a wall blew up and a team of skeletons swarmed in.
+A2:16:52 <]Kratospie> ok then, make stairs that dont require constant jumping
+12A2:16:53 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (Quit: ANIME)
+A2:17:05 <vede> (Turns out I was in an above-sea-level cave, in a mountain...)
+A2:17:10 <Colain> Fun sounding.
+A2:17:26 <vede> I really like the purely-blocky form of Minecraft.
+A2:17:36 <TrueWolves> 3 kinds of crystal like blocks, 4 more kinds of stone (marble, and such), all mostly for flavor, wooden slopes/stairs, stone slopes/stairs (saddly each of those if 8) that right there is 23 blocks, then admin glass, and admin sponge, when limited water comes in, anti water force blocks to act like the current sponges
+A2:17:43 <TrueWolves> 26 blocks in total
+A2:17:46 <vede> I think stairs should stay as they already are.
+A2:17:54 <TrueWolves> 16 of those really just 2
+A2:17:55 <citricsquid> I was in a cave, everything was quiet and then a crepper popped up, no big deal, I started killing it while walking backwards to escape, didn't see a hole and went straight through it, ended up between 3 skeletons and got totally raped.
+A2:18:07 <citricsquid> that was win
+A2:18:18 <vede> I think we don't really need slope blocks.
+A2:18:20 <]Kratospie> admin glass and light, thats all i want
+A2:18:25 <Jesse> I constantly get knocked into my lavapit by monsters.
+A2:18:28 <citricsquid> Yeah, the fun is in building our own stairs
+A2:18:30 <Jesse> Sneaky bastards.
+A2:18:51 <vede> Everything should stay as either blocks or sprites.
+A2:18:57 <Colain> Green Smaradge is fun
+A2:19:18 <]Kratospie> yeah, like the light block could be a lightbulb, like the flowers and stuff
+A2:19:18 <Jesse> It would be cool if we could make our own little sprites, sort of like the flowers.
+A2:19:23 <Jesse> And place them.
+A2:19:37 <]Kratospie> you can...with tile editing
+A2:19:44 <Jesse> No one else can see them though.
+A2:19:48 <]Kratospie> yeah
+10A2:20:03 * ]Kratospie is now known as Kratospie
+A2:20:10 <vede> I've done some private mod servers.
+A2:20:25 <vede> One for SMB, another so me and a friend could make a medieval tileset.
+A2:21:43 <Kratospie> if a light block comes out, should it shine straight down, or shine in a large area
+A2:22:18 <Jesse> It would be annoying to have to cover your entire ceiling with them just to have a well lite room.
+A2:22:24 <Kratospie> yeah
+A2:22:26 <Jesse> *lit
+A2:22:29 <Kratospie> thats what i was thinking
+A2:22:34 <Griskard> In the current manner it shines  directly down
+A2:22:36 <Griskard> But yeah
+A2:22:42 <Kratospie> i would hope it would act like a real lightbulb
+A2:23:29 <Jesse> a lightbulb would seem pretty out of place in minecraft imo
+A2:23:31 <Kratospie> then that giant shadow my spleef arena created could be filed
+A2:23:40 <TrueWolves> I can't wait for pets
+A2:23:44 <TrueWolves> You know it's going to happen
+A2:24:05 <Colain> No I don't.
+A2:24:09 <Kratospie> minecrafts some sort of modernday-medivel mix
+A2:24:19 <Jesse> How is it a modern day mix?
+A2:24:25 <Kratospie> glass?
+A2:24:37 <Kratospie> people make citys
+A2:24:42 <TrueWolves> it's mostly medivel, we just biuld citys and sometimes spaceships with midevil parts =D
+A2:25:03 <Kratospie> still, a lightbulb or torch block would be amazing
+A2:25:07 <Colain> Or robots.
+A2:25:12 <Colain> I've seen robots.
+A2:25:39 <Kratospie> that way people who make buildings in the sky wouldnt leave giant dead grass spaces
+A2:25:51 <Kratospie> and caves would be easier to light up
+A2:25:55 <Colain> Hell, in the archive theres a town, it is called the market, for sales.
+10A2:26:01 * Darkebrz (Darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) has joined #minecraft
+A2:26:05 <Darkebrz> ...
+A2:26:05 <Darkebrz> So
+A2:26:11 <Darkebrz> I have a Linux partition
+A2:26:13 <Colain> DARKE IS A SEXY BEAST
+A2:26:19 <Darkebrz> When Im using Windows, what does that show up as?
+A2:26:45 <TrueWolves> and I could have GRASS on my Yggdrasil map
+A2:26:58 <Kratospie> and no more light shafts in caves
+A2:27:27 <Kratospie> underground gardening FTW
+A2:27:58 <Colain> Truewolves, did you know the archives has your map?
+10A2:28:00 * Sade (Sadereader@97-113-212-174.tukw.qwest.net) has left #minecraft (Leaving)
+A2:28:03 <TrueWolves> Yes
+A2:28:14 <TrueWolves> It has older versions of my map, I'm 100% aware
+A2:28:17 <Kratospie> so does the archives take maps and saves them?
+A2:28:26 <Colain> Cool hah.
+12A2:28:28 * aeiowu (aeiowu@c-98-223-250-229.hsd1.in.comcast.net) Quit (Quit: aeiowu)
+A2:28:29 <Kratospie> so they take everyones map? of just a few?
+A2:28:32 <Colain> Practically Kratos.
+A2:28:37 <Kratospie> wow
+A2:28:42 <Colain> Everyone that gives it to them.
+A2:28:53 <TrueWolves> He only takes what he asks for and is alowed
+A2:29:06 <Kratospie> I might, when the arenas actualy done
+A2:30:35 <Jesse> Well guys, I'm out.
+A2:30:36 <Jesse> See ya.
+12A2:30:47 * Jesse (Jesse@206.168.41.254) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5.3/20090824101458])
+A2:30:49 <Kratospie> i hope the light/torch block wont require something like the plants
+A2:33:24 <Kratospie> cus ill need to put a bunch of lights on the underside of my arena
+A2:33:47 <Colain> you'll have to delete through them too...
+A2:34:10 <Colain> oh, right, you can fall through them
+A2:35:08 <Kratospie> ill use omen
+12A2:36:52 * Kratospie (Mibbit@h56.199.130.174.dynamic.ip.windstream.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A2:37:33 <TheOne> "Sometimes we forget how appreciated we really are until the very moment that leads to the end.."
+A2:38:08 <TheOne> Just read that... don't know why but it strikes a cord with me
+10A2:38:42 * TheOne is now known as TheOne-AFK
+A2:39:42 <Darkebrz> Well
+A2:39:51 <Darkebrz> I have some sory of recovery partition
+A2:39:54 <Darkebrz> That I never knew about
+12A2:45:02 * Darkebrz (Darkebrz@24-247-83-244.dhcp.bycy.mi.charter.com) Quit (Ping timeout: 180 seconds)
+A2:51:43 <vede> Vut shud ah beeld?
+10A2:56:38 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) has joined #minecraft
+10A2:56:40 * ChanServ sets mode: +o Evil-Ville
+10A3:03:30 * potato (potto@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has joined #minecraft
+10A3:08:30 * Chemo is now known as Archduke
+10A3:08:49 * Archduke is now known as Chemo
+10A3:10:25 * TheOne-AFK is now known as Hal-9000
+10A3:11:48 * Visiiri is now known as Expro
+A3:11:56 <Expro> What's up with nicks?
+10A3:12:04 * Expro is now known as Visiiri
+A3:12:28 <TrueWolves> who knows.
+A3:12:50 <Hal-9000> Wondering If I'll get kicked for having the name of a bot
+A3:13:12 <TrueWolves> I haven't had my name changed in some time.
+A3:16:38 <vede> Wow.
+A3:16:53 <vede> Having a black outline around the crosshairs makes a HUGE difference.
+A3:16:54 <citricsquid> yes you will
+A3:16:56 <citricsquid> banbanban
+A3:17:10 <Hal-9000> Hello Dave
+10A3:17:20 * ZarroTsu is now known as ZarroTsu[sleep]
+A3:17:39 <vede> Never have your crosshair lost in the clouds or fog, since it'll always have that black outline.
+A3:18:04 <offset> Open the pod bay doors, HAL!
+A3:18:09 <citricsquid> I love the internet
+A3:18:13 <citricsquid> this guy is on a forum
+A3:18:21 <citricsquid> complaining about his webhost being down
+A3:18:26 <citricsquid> he pays about $10 a month
+A3:18:26 <vede> ...
+A3:18:31 <citricsquid> and is complaining he's losing $500 a day
+A3:18:33 <Hal-9000> I'm sorry Dave, I can not do that
+A3:18:44 <citricsquid> also wtf my finger stopped working
+A3:18:52 <offset> HAL, install linux!
+A3:19:13 <Hal-9000> What is linux?
+A3:19:22 <vede> ...
+A3:19:25 <vede> >.>
+A3:20:06 <vede> I don't even know why I'm trying to stay awake right now.
+A3:20:10 <vede> I'm bored and tired.
+A3:20:28 <vede> I should go to sleep.
+A3:20:39 <vede> Goodnight, peeps.
+10A3:20:47 * ZarroTsu[sleep] (ZarroTsu@99.239.69.251) has left #minecraft
+A3:20:52 <offset> HAL is unresponsive, ban him citric!
+A3:21:04 <citricsquid> vede: night :_)
+A3:22:48 <Hal-9000> Hello dave
+12A3:23:37 * Arf (a@190.176.201.192) Quit (Ping timeout: 180 seconds)
+10A3:31:26 * Tommerry11 (chatzilla@121-200-6-163.cust.aussiebb.net) has joined #minecraft
+10A3:32:05 * Arf (a@190.176.194.122) has joined #minecraft
+A3:32:53 <Tommerry11> wow its a bit empty.
+A3:32:59 <Tommerry11> umm...
+10A3:33:00 * baroch (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) has joined #minecraft
+A3:33:05 <Tommerry11> XD XD XD XD
+A3:33:17 <baroch> hey tommy
+A3:33:18 <Chemo> what are you XDing about?
+A3:33:32 <Tommerry11> lol. umm.. its empty
+A3:33:37 <Tommerry11> so i raved!
+A3:33:42 <Tommerry11> XD XD XD
+A3:33:42 <baroch> do you guys now anythhing about server making?
+A3:33:51 <Tommerry11> umm yea
+A3:34:07 <baroch> about port forwading?
+A3:34:13 <Chemo> google it
+A3:34:16 <baroch> *forwarding
+A3:34:24 <Tommerry11> yea
+A3:34:31 <baroch> then how
+A3:34:38 <Tommerry11> i cant really help u with that
+A3:34:40 <Tommerry11> but yea.
+A3:34:43 <Tommerry11> search it
+A3:34:49 <gear1> hello minecraft night team
+A3:34:54 <baroch> ello
+A3:34:57 <Tommerry11> hi
+A3:35:10 <Tommerry11> XD XD XD XD XD rave partY!!!!!!!
+A3:35:53 <Tommerry11> jeezz this is boring
+A3:36:00 <Tommerry11> umm....
+A3:36:06 <Tommerry11> XD XD XD XD XD XD
+A3:36:22 <Tommerry11> god. thats all i can think of now
+A3:36:22 <baroch> google doesnt work for meh
+A3:36:40 <Tommerry11> lol foget port forwarding then
+A3:36:45 <Tommerry11> get google first
+A3:36:55 <Chemo> baroch: how what?
+A3:36:56 <baroch> daw
+10A3:37:05 * baroch (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) has left #minecraft
+A3:37:12 <Tommerry11> lololololol
+A3:37:19 <Tommerry11> XD XD XD XD XD XD XD XD XD XD
+A3:37:25 <Tommerry11> ok ok
+A3:37:31 <Tommerry11> time to stop
+A3:37:54 <Tommerry11> bye
+12A3:37:55 * Tommerry11 (chatzilla@121-200-6-163.cust.aussiebb.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5.2/20090729225027])
+10A3:38:08 * baroch (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) has joined #minecraft
+A3:38:21 <Visiiri> hey there, baroch
+A3:38:25 <baroch> hey
+10A3:38:28 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) has joined #minecraft
+A3:38:37 <Jords> Hey
+A3:38:45 <baroch> do you know anything about portforwarding?
+A3:38:53 <Jords> nope
+A3:39:18 <baroch> Visiiri?
+A3:39:37 <Visiiri> Hey
+A3:39:39 <Visiiri> I do xD
+A3:39:45 <baroch> really?
+A3:39:47 <Visiiri> First, look at your modem.
+A3:39:48 <baroch> how
+A3:39:54 <Visiiri> Modem.
+A3:39:56 <Visiiri> Internet box
+A3:39:58 <citricsquid> http://192.168.1.1
+A3:39:59 <baroch> k one sec
+A3:40:00 <citricsquid> go there
+A3:40:28 <baroch> it says username and password
+A3:40:35 <kryptn> a for user
+A3:40:39 <kryptn> admin for password
+A3:40:44 <baroch> k
+A3:41:06 <baroch> k now what
+A3:41:32 <citricsquid> look around all the sections
+A3:41:35 <citricsquid> find the ports section
+A3:42:20 <baroch> port range?
+A3:42:37 <kryptn> find 'applications and gaming'
+A3:42:37 <citricsquid> yes and look for a form where you can add new ports
+10A3:42:54 * do0han (doohan@client-86-27-94-125.winn.adsl.virgin.net) has joined #minecraft
+A3:42:57 <baroch> ok now what
+A3:43:05 <kryptn> now
+A3:43:19 <kryptn> press windows key + r
+A3:43:29 <kryptn> type in cmd
+A3:43:45 <kryptn> then type ipconfig
+A3:44:07 <baroch> ok now what
+A3:44:17 <kryptn> Are you on wireless or hardwire connection?
+A3:44:26 <baroch> wireless
+A3:44:35 <kryptn> find the section that says Wireless LAN
+A3:44:56 <kryptn> And look for the IP given for IPv4 Address
+12A3:45:01 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) Quit (Quit: Jords)
+A3:45:01 <kryptn> tell us what it is
+12A3:45:21 * Griskard (chatzilla@20.109.dsl.syd.iprimus.net.au) Quit (Read error: Connection reset by peer)
+A3:46:20 <baroch> 192.168.1.105
+A3:46:34 <kryptn> Alright, remember that last number, 105
+A3:46:39 <baroch> k
+A3:46:42 <kryptn> citricsquid, what was the port for the server?
+A3:46:44 <kryptn> i forgot.
+10A3:47:08 * Cyanide (Mibbit@71-14-180-111.dhcp.stls.mo.charter.com) has joined #minecraft
+A3:47:15 <citricsquid> 25565
+A3:47:19 <kryptn> thanks
+A3:47:29 <citricsquid> it can be nything tho ;D
+A3:47:32 <kryptn> now in that first line in that apps and gaming page
+A3:47:35 <kryptn> yeah but default
+A3:47:47 <kryptn> type the name of the application  using it
+A3:47:53 <kryptn> for example "MC Server"
+A3:48:20 <kryptn> where it says 'port start' and 'port end' put 25565
+A3:48:53 <kryptn> And on the IP address, put 105
+A3:49:03 <baroch> wait
+A3:49:42 <baroch> is port start the same as External port?
+10A3:50:01 * citricsquid is now known as citricsquid|backinafew
+A3:50:06 <kryptn> How bout you take a screenshot of that page?
+A3:50:13 <baroch> k
+A3:50:59 <baroch>  i did
+A3:51:08 <kryptn> upload it somewhere so i can see it
+A3:51:10 <kryptn> like, imgur.com
+A3:51:17 <baroch> k
+A3:52:22 <baroch> http://imgur.com/aj5Gx.png
+A3:52:58 <kryptn> Damn i'm good.  Automatically assumed linksys lol
+10A3:53:04 * WillisGoodrum (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) has joined #minecraft
+A3:53:07 <kryptn> Yeah, put the external and internal port the same thing
+A3:53:18 <kryptn> 25565
+10A3:53:44 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) has joined #minecraft
+A3:53:50 <baroch> k
+12A3:53:51 * TestDummy (testdummy_@c-71-197-194-59.hsd1.wa.comcast.net) Quit (Quit: Leaving)
+A3:53:57 <WillisGoodrum> uhm
+A3:53:58 <kryptn> save the settings
+A3:54:01 <baroch> k
+A3:54:02 <kryptn> and try it out
+A3:54:10 <kryptn> uhm?
+A3:54:10 <WillisGoodrum> I'll wait for you to finish with him. :)
+A3:54:15 <kryptn> lol
+A3:54:19 <WillisGoodrum> He's at my house using my wifi
+A3:54:20 <baroch> do i have to enable it?
+A3:54:21 <WillisGoodrum> :P
+A3:54:32 <kryptn> Yeah
+A3:54:36 <kryptn> enable it
+A3:54:39 <baroch> k
+A3:55:11 <baroch> and now type the port 25565 in the properties
+A3:55:28 <kryptn> yea
+A3:55:31 <baroch> k
+A3:56:02 <baroch> i started it but i didnt work
+12A3:56:04 * WillisGoodrum (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) Quit (Quit: Client Exited)
+A3:56:09 <kryptn> why not?
+A3:56:30 <kryptn> open up the file externalurl.txt
+A3:56:36 <kryptn> and open that link.
+A3:56:36 <baroch> the black bow appeared and said press any key and i pressed "a" and it closed
+A3:56:51 <baroch> box
+A3:56:52 <kryptn> er.. what?
+A3:57:05 <kryptn> uhm..
+A3:57:19 <kryptn> what else did it say?
+A3:57:26 <kryptn> a black box should come up
+A3:57:29 <baroch> one sec
+A3:58:18 <baroch> adress already in use: Bind
+A3:58:28 <baroch> and uknown sources
+A3:59:09 <kryptn> huh..
+A3:59:14 <kryptn> Yep, no idea there
+A3:59:33 <baroch> so...
+A3:59:41 <kryptn> citricsquid|backinafew, damn you be back now
+A3:59:49 <kryptn> anyone else have any idea?
+12A4:02:58 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) Quit (Quit: Jords)
+12A4:07:41 * Arf (a@190.176.194.122) Quit (Ping timeout: 180 seconds)
+10A4:08:34 * Hideous (His_Ugline@81-226-201-194-no30.tbcn.telia.com) has joined #minecraft
+10A4:09:54 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) has joined #minecraft
+A4:10:02 <Jords> back
+A4:13:00 <Visiiri> jords
+A4:13:01 <Visiiri> http://www.minecraft.net/skin/skin.jsp?user=Visiiri
+A4:13:10 <Visiiri> it sucks :<
+A4:13:43 <Visiiri> and his hands are black for some reason...
+A4:13:47 <baroch> i like it
+A4:13:52 <Visiiri> D:
+A4:14:05 <Visiiri> See how much it fails?
+A4:14:12 <Visiiri> Hmmm
+A4:14:17 <Visiiri> I think I can rip lobo's tux D:
+A4:14:33 <Visiiri> What is lobos full name?
+A4:14:38 <Visiiri> Lobo1948?
+A4:15:22 <Jords> yea
+A4:16:24 <Jords> it's way better then what i can do :P
+10A4:21:32 * Arf (a@190.176.204.235) has joined #minecraft
+A4:23:53 <Jords> hey Vis fixed the fails in it :P
+A4:24:03 <Jords> come on to WoM to see
+10A4:25:30 * Griskard (chatzilla@20.109.dsl.syd.iprimus.net.au) has joined #minecraft
+A4:26:46 <Colain> Gris, your world got taken off.
+A4:27:54 <Griskard> Thats because I did nothing there
+A4:28:08 <Griskard> Such practical uses for building would be a need for shelter (such as taking damage when it rains) and walls to keep out strong enemies.
+A4:28:13 <Griskard> Taking damage when it rains
+12A4:28:18 * Jords (Jords@220-253-130-28.QLD.netspace.net.au) Quit (Quit: Jords)
+A4:28:25 <Griskard> Oh goody, I hope that makes it into the final
+A4:28:41 <Colain> Gris, I got it removed :P
+A4:29:13 <Griskard> Because I did nothing there
+10A4:32:55 * ]Snowman (Snowman@sd51100a0.adsl.wanadoo.nl) has joined #minecraft
+10A4:33:23 * ]Snowman is now known as Snowman
+A4:33:35 <Snowman> ello
+10A4:35:54 * r4dio (radioactiv@host63-23-dynamic.15-87-r.retail.telecomitalia.it) has joined #minecraft
+A4:36:02 <r4dio> hi ho
+A4:36:43 <r4dio> -silence-
+A4:37:01 <Snowman> *crickets*
+10A4:37:06 * Tommerry11 (chatzilla@121-200-6-163.cust.aussiebb.net) has joined #minecraft
+A4:38:04 <Colain> *Cough Cough*
+A4:38:35 <Tommerry11> whats up?
+A4:39:27 <Chemo> cough
+A4:40:38 <Tommerry11> ahh.. indeed
+A4:40:40 <Tommerry11> bye
+12A4:40:42 * Tommerry11 (chatzilla@121-200-6-163.cust.aussiebb.net) Quit (Quit: Client Exited)
+A4:41:47 <r4dio> panic
+A4:42:04 <baroch> i like it
+A4:42:06 <kryptn> AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+A4:42:21 <kryptn> Was that a good quality panic?
+A4:42:22 <baroch> they its not working
+A4:42:39 <r4dio> no.
+A4:44:44 <Snowman> http://www.minecraft.net/skin/skin.jsp?user=deadfall07
+A4:44:50 <Snowman> that is actually pretty good
+A4:45:23 <kryptn> lol awesome
+A4:48:35 <Snowman> oh yay, another spambot
+A4:49:15 <Snowman> PuyoDead, citricsquid|backinafew
+A4:49:47 <Snowman> They are dead I guess
+A4:52:18 <r4dio> spambot?
+12A5:02:16 * Hideous (His_Ugline@81-226-201-194-no30.tbcn.telia.com) Quit (Ping timeout: 180 seconds)
+12A5:03:41 * baroch (Mibbit@c-98-223-187-157.hsd1.in.comcast.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10A5:06:23 * Haruhi2 (Haruhi@68.186.97.143) has left #minecraft (Quitte)
+10A5:09:09 * FoxBoy (mobius@CPE00226b5998df-CM001ac31048a4.cpe.net.cable.rogers.com) has joined #minecraft
+A5:12:04 <Visiiri> test
+A5:13:21 <r4dio> uff i can't make the waterfall
+12A5:13:47 * citricsquid|backinafew (citricsqui@client-86-25-240-156.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+A5:17:39 <TrueWolves> waterfalls are easy
+A5:19:58 <r4dio> i can't make it :F
+A5:20:19 <r4dio> sponges :F
+12A5:24:13 * Cyanide (Mibbit@71-14-180-111.dhcp.stls.mo.charter.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A5:24:23 <r4dio> da,m
+A5:24:25 <r4dio> damn
+10A5:25:30 * Colain (Mibbit@125-239-80-133.jetstream.xtra.co.nz) has left #minecraft
+A5:27:18 <r4dio> oooo did it
+10A5:31:34 * Visiiri is now known as Visiiri|hahaImLogging
+10A5:32:03 * Visiiri|hahaImLogging is now known as Visiiri|CombatArms
+12A5:34:49 * Snowman (Snowman@sd51100a0.adsl.wanadoo.nl) Quit (Quit: Terminating Application)
+12A5:40:05 * r4dio (radioactiv@host63-23-dynamic.15-87-r.retail.telecomitalia.it) Quit (Quit: Client Exited)
+A5:55:35 <Griskard> You know
+A5:55:41 <Griskard> I feel sick when I look at glass
+10A5:56:02 * do0han is now known as doohan
+10A5:57:08 * TheAlien (Mibbit@0x50a04b85.unknown.tele.dk) has joined #minecraft
+12A5:57:17 * TheAlien (Mibbit@0x50a04b85.unknown.tele.dk) Quit (Quit: Client Exited)
+A5:57:50 <doohan> Someone say something interesting
+A5:59:42 <postlogic> Poo and popsicles.
+A5:59:54 <offset> blood pressure
+A6:00:20 <postlogic> Oil.
+10A6:01:21 * mehengo (mehengo@ua-83-227-144-97.cust.bredbandsbolaget.se) has joined #minecraft
+A6:02:05 <mehengo> hello
+10A6:05:26 * citricsquid|backinafew (citricsqui@client-86-25-240-156.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+A6:05:35 <citricsquid|backinafew> Spambot, where?
+10A6:05:38 * citricsquid|backinafew is now known as citricsquid
+12A6:05:41 * citricsquid (citricsqui@client-86-25-240-156.mcr-bng-013.adsl.virginmedia.net) Quit (Quit: Client Exited)
+A6:05:42 <doohan> citricsquid, hello
+10A6:05:43 * citricsquid (citricsqui@client-86-25-240-156.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10A6:05:45 * ChanServ sets mode: +o citricsquid
+A6:05:47 <doohan> Hello citricsquid 
+A6:05:54 <citricsquid> doohan
+A6:05:54 <citricsquid> !
+A6:05:57 <doohan> Yo
+A6:06:14 <citricsquid> oh man
+A6:06:16 <citricsquid> college
+A6:06:17 <citricsquid> what the fuck
+A6:06:19 <citricsquid> BTEC science
+A6:06:21 <doohan> You going?
+A6:06:24 <doohan> BTEC science?
+A6:06:30 <doohan> Tell me more
+A6:06:31 <citricsquid> we don't have biology, we have "Biological science"
+A6:06:31 <citricsquid> and
+A6:06:35 <citricsquid> "Science and the world"
+A6:06:37 <citricsquid> I want to die.
+A6:06:46 <doohan> You gettig to do stuff on cells?
+A6:06:53 <mehengo> anyone know if notch is going to add an option to change your password?
+A6:06:55 <doohan> Id bio at school was kind of interesting in parts
+A6:06:58 <citricsquid> mehengo: eventually yes
+A6:07:04 <doohan> did*
+A6:07:05 <mehengo> ok
+A6:07:08 <citricsquid> oh
+A6:07:12 <citricsquid> school biology was good
+A6:07:14 <citricsquid> but this is a BTEC
+A6:07:15 <doohan> Hey citricsquid I'll give you a joke to use
+A6:07:19 <citricsquid> to pass I need 20%
+12A6:07:26 * mehengo (mehengo@ua-83-227-144-97.cust.bredbandsbolaget.se) Quit (Quit: Client Exited)
+A6:07:40 <citricsquid> also got to redo fucking gcse english
+A6:07:55 <doohan> A cell goes into a shop and says "I'd like the buy some energy please", to which the shop keeper replies, "Tha'll be ATP please"
+A6:08:00 <doohan> Sound like 80p you see
+A6:08:19 <doohan> You're a rubbish audience anyway!
+A6:08:22 <doohan> :(
+A6:08:42 <doohan> Well you can get loads of that shit done this year right?
+A6:08:51 <doohan> Do a few modules?
+A6:09:08 <doohan> And since it's 20% pass why not rack up as much as you can?
+A6:09:17 <doohan> Just show up and doodle :)
+A6:09:33 <doohan> Doesn't matter as long as you show face :)
+A6:09:51 <citricsquid> yes
+A6:09:55 <citricsquid> but that requires work doohan
+A6:09:56 <citricsquid> WORK
+A6:10:00 <doohan> Not really
+A6:10:00 <citricsquid> also, I'll use that joke.
+A6:10:05 <doohan> Just requires getting out of bed.
+A6:10:24 <doohan> And doing the 3 or 4 hand ins.
+A6:10:41 <citricsquid> haha, oh man
+A6:10:44 <doohan> And english gcse should be easy for you to.
+A6:10:47 <citricsquid> I look forward to "science and the world
+A6:10:48 <citricsquid> "
+A6:10:50 <doohan> Clearly you can read and write.
+A6:10:59 <Griskard> Ick
+10A6:11:02 * minecraft (Mibbit@d192-24-54-139.try.wideopenwest.com) has joined #minecraft
+A6:11:04 <citricsquid> doohan: I was probably one of the most coherent in my GCSE class and I got an E :D
+A6:11:09 <minecraft> hey
+A6:11:11 <Griskard> Opping on theones lava server can be tiring
+A6:11:19 <Griskard> Staring at glass all the time
+A6:11:21 <minecraft> geekahedron you there
+10A6:11:31 * citricsquid sets mode: +o doohan
+A6:11:41 <citricsquid> we'll have to do it everytime you connect though :(
+A6:11:44 <doohan> Is that where you go out side and throw those grids and count how many daisies are in each square?
+A6:12:26 <doohan> Anyway it'll be an easy course, an easy grade then you should do some a levels once you get into the roll of it
+A6:12:41 <citricsquid> or I'll just about pass through and spend my time making websites! ;D
+A6:12:50 <doohan> That too, but good to have a back up paln
+A6:12:51 <doohan> plan
+A6:13:14 <citricsquid> suicide.
+A6:13:27 <citricsquid> ALSO DOOHAN, WE GET TO GO TO DRAYTON MANNER AND ALTON TOWERS.
+A6:13:32 <doohan> Sweet
+A6:13:37 <doohan> They take you on a day out?
+A6:13:43 <citricsquid> twice, in one year!!
+A6:13:52 <doohan> Don't talk to anyone in the class
+A6:13:56 <doohan> You'll hate them all
+A6:14:08 <citricsquid> my last course, I got asked if I was gay for having long hair
+A6:14:08 <doohan> You're going on a day trip for special folks.
+A6:14:30 <citricsquid> that reminds me
+A6:14:35 <citricsquid> I went to the co-op earlier
+A6:15:00 <citricsquid> in the queue there was an old woman with her carer, carer said "Would you like to go in front, you only have 2 bottles!" so I said "Thankyou very much!". Then I asked if she wanted some help.
+A6:15:12 <citricsquid> I'm normally too scared to say thanks, or even ask if people want help!
+A6:15:16 <citricsquid> I felt like a good person.
+A6:15:29 <doohan> Haha nice
+12A6:15:37 * minecraft (Mibbit@d192-24-54-139.try.wideopenwest.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A6:16:56 <citricsquid> also wow
+A6:17:03 <citricsquid> I walked like, 3 miles and now my arms are shaking
+A6:17:12 <doohan> You need to walk more...
+A6:17:24 <citricsquid> haha, my third time outside in 4 months.
+A6:17:28 <doohan> egads
+A6:17:36 <doohan> Go to the co-op more often
+A6:18:13 <citricsquid> it's only just down the road :D
+A6:18:33 <doohan> It's outside.
+A6:18:43 <doohan> You can get rid of that computer tan :P
+12A6:18:56 * Griskard (chatzilla@20.109.dsl.syd.iprimus.net.au) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.13/2009073022])
+A6:19:15 <citricsquid> haha, I'm like a milk bottle! :D
+A6:19:30 <doohan> A quadrat!!
+A6:19:33 <doohan> That's what it's called
+A6:19:48 <doohan> In bio the grid you throw at random is a quadrat
+A6:19:56 <doohan> Most of bio is simple stats really
+A6:20:15 <doohan> Unless you get to do cellular biology, then it's interesting facts
+A6:20:43 <citricsquid> I liked science, like, the learning part, not coursework though :(
+A6:20:52 <citricsquid> I got kicked out of science a few times actually, I was a little shit.
+A6:20:56 <TrueWolves> anyone in here up to wolfhunt?
+A6:21:05 <doohan> Coursework is just there so you can show you learned something
+A6:21:16 <doohan> It's helpful for yourself really
+A6:21:42 <doohan> Anyway you've got an opportunity make up some of grades you missed in school.
+A6:21:57 <doohan> Put the work in!
+A6:22:06 <doohan> When do you start?
+A6:22:16 <citricsquid> tomorrow morning ;|
+A6:22:21 <doohan> Tuesday eh?
+A6:22:29 <citricsquid> I laughed, the course is starting tomorrow and it's only got 12/16 people enrolled.
+A6:22:30 <doohan> How many classes are you taking?
+A6:22:33 <citricsquid> uh
+A6:22:41 <doohan> Just that and english?#
+A6:23:23 <citricsquid> 7 Science, which are each 1 hour 30, 1 tutorial thing which is 1 hour 30 and 1 english, also 1 hour 30 per week. All science, except English.
+A6:23:50 <doohan> If I was you i'd enroll in something else too
+A6:24:00 <doohan> I mean while you're down at the college might as well get out what you can.
+A6:24:21 <citricsquid> Some guy was doing that last year, he found it impossible because of how awful the timetables are
+A6:24:31 <doohan> Have a look though
+A6:24:42 <doohan> Like i dunno maths or something?
+A6:24:54 <doohan> Get your c up to something higher?
+A6:26:33 <doohan> Might as well do something challenging that might hold your interest
+A6:26:58 <citricsquid> my brain has totally crapped out, doubt I'd be able to manage maths again.
+12A6:27:12 * CaSquall (Mibbit@0x55514cc3.adsl.cybercity.dk) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A6:27:21 <doohan> You'd be surprised, you just need to practice.
+A6:29:37 <citricsquid> hopefully this will make my brain work again.
+A6:29:50 <citricsquid> also, ever heard someone say "I'm confused.com"?
+12A6:29:56 * Logger (mail2345@cpe-70-95-131-103.hawaii.res.rr.com) Quit (Ping timeout: 180 seconds)
+A6:29:59 <doohan> I'd hope not.
+A6:30:04 <doohan> Did you punch them after they said it?
+A6:30:07 <citricsquid> Someone said it in town
+A6:30:11 <citricsquid> I was so close to screaming at them,
+A6:30:15 <doohan> Did you push them infront of a bus?
+A6:30:32 <citricsquid> there weren't any buses around!
+A6:30:35 <doohan> Damn.
+10A6:30:38 * Visiiri|CombatArms is now known as Visiiri
+A6:30:39 <citricsquid> that would have been the appropriate action though.
+A6:30:57 <doohan> Well I'm sure they're the sort of person that'll try to make toast in the bath.
+A6:30:58 <Visiiri> HERRO CITRICSQUIDDIE
+A6:31:14 <Visiiri> I just did the most amazing thing
+A6:31:19 <Visiiri> Someone ran at me with a pistol
+A6:31:23 <Visiiri> I jumped at them
+A6:31:24 <citricsquid> doohan: I'm going to use my new science learns to prove you can make toast in the bath.
+A6:31:26 <Visiiri> pulled out my knife
+A6:31:30 <Visiiri> swerved to the left
+A6:31:35 <Visiiri> then stabbed them in the skill
+A6:31:40 <Visiiri> no healt or ammo wasted
+A6:31:40 <doohan> citricsquid, sure you can, but it wouldn't be wise to do it with a toaster :)
+A6:31:44 <citricsquid> Visiiri: on what game?
+A6:31:52 <Visiiri> Combat Arms
+A6:31:58 <Visiiri> Impossible to do, as the fighting sucks.
+13A6:32:00 * citricsquid looks up and realises
+A6:32:01 <doohan> It was all a dream Visiiri. Go back to sleep.
+A6:32:08 <Visiiri> hell no
+A6:32:11 <Visiiri> the sun just came up
+A6:32:12 <Visiiri> xD
+A6:32:16 <Visiiri> sleep is for pussies.
+A6:32:42 <Visiiri> Let's see what's on the local news
+A6:32:57 <TrueWolves> sleep is for the weak, which you become with lack of sleep
+A6:33:00 <citricsquid> "man electrocuted after making toast in the bath"
+A6:33:21 <TrueWolves> ...
+13A6:33:28 * TrueWolves gets a darwin award ready
+A6:33:42 <doohan> citricsquid, I told him I didn't want toast!
+A6:33:42 <Visiiri> lol
+A6:33:48 <Visiiri> All i have so far is obama
+A6:33:55 <doohan> He was asking for it.
+A6:34:01 <Visiiri> Oh my god.
+A6:34:03 <doohan> He said, "I'm confused.com"
+A6:34:04 <citricsquid> my local news is depressing, I'll go get the paper.
+A6:34:11 <doohan> So I zapped the dude after he made toast.
+A6:34:20 <doohan> citricsquid, local news is always depressing
+A6:34:24 <Visiiri> They just said "A new study prooves that people on their cell phones in school zones are more likely to injure students."
+A6:34:28 <Visiiri> Fucktards.
+A6:34:34 <Visiiri> wow
+A6:34:40 <Visiiri> a kid was found in a ceptic tank.
+A6:34:47 <citricsquid> lmao
+A6:34:51 <citricsquid> alive? Swimming around?
+A6:34:54 <Visiiri> No.
+A6:34:56 <Iguana> Wth.
+A6:34:58 <Visiiri> He was stuffed in there.
+A6:35:04 <Iguana> Kid found...in a ceptic tank.
+A6:35:09 <Iguana> Wth was he doing!?
+A6:35:35 <Visiiri> Sanfran shit...
+A6:35:39 <Visiiri> I want something good.
+A6:36:30 <Visiiri> Hmmm.
+10A6:36:40 * Logger (mail2345@cpe-70-95-131-103.hawaii.res.rr.com) has joined #minecraft
+A6:36:44 <Visiiri> lol tornado in seattle
+A6:36:46 <citricsquid> can't find my paper :(
+A6:36:53 <Visiiri> :<
+A6:36:54 <Visiiri> weather.
+A6:37:04 <citricsquid> http://www.staffordshirenewsletter.co.uk/staffordshirenewsletter/
+A6:37:07 <citricsquid> There, have fun.
+A6:37:17 <citricsquid> http://www.staffordshirenewsletter.co.uk/staffordshirenewsletter/DisplayArticle.asp?ID=446301
+A6:37:25 <citricsquid> Read this in the physical paper, laughed at how lame it is.
+A6:38:46 <citricsquid> the site has a forum, with 4 posts!
+A6:38:50 <doohan> Oh joy
+A6:38:55 <Visiiri> wewt
+A6:39:01 <Visiiri> wow
+A6:39:04 <doohan> citricsquid, you've just cause a peak in the there traffic today
+A6:39:07 <Visiiri> already below freezing in the mountains
+A6:39:16 <doohan> I wonder if there servers will cope?!?!
+A6:39:18 <doohan> their*
+A6:39:25 <citricsquid> lmao
+A6:39:43 <citricsquid> It's funny because it's true
+A6:39:51 <citricsquid> their alexa rank is 2m, that's got to about 10 visitors a day
+A6:40:20 <Visiiri> lol
+A6:40:25 <Visiiri> who saw the oregon bsu game?
+A6:40:51 <Visiiri> No?
+A6:40:53 <Visiiri> That's too bad.
+A6:40:56 <Visiiri> American footbal.
+A6:40:57 <Visiiri> err
+A6:40:59 <Visiiri> football.
+A6:41:30 <Visiiri> At the end, boise one (wewt), one player says a smartass comment, and the oregon guy nails him in the face.
+A6:41:31 <Visiiri> hard.
+A6:41:35 <Visiiri> he almost fell over.
+A6:41:44 <Visiiri> **won
+A6:43:11 <Visiiri> lol
+A6:43:16 <Visiiri> they're looking for a 23 year old
+A6:43:23 <Visiiri> he's 5' 9" and 140 lbs
+A6:43:35 <Visiiri> When I was twleve, I was 5' 5" and 160 lbs.
+A6:43:36 <Visiiri> xD
+A6:43:49 <citricsquid> fat kid? :D
+A6:44:01 <citricsquid> I'm 6'1 and 140lbs, about.
+12A6:44:06 * offset (offset@203-206-38-206.dyn.iinet.net.au) Quit (Quit: Client Exited)
+A6:45:35 <Iguana> I''m 5'10 and 14. :D
+12A6:47:27 * Magnulus (magnus@82-41-75-173.cable.ubr10.sgyl.blueyonder.co.uk) Quit (Quit: Magnulus)
+A6:47:31 <doohan> !0 stone citricsquid?
+A6:47:33 <Chemo> :o
+A6:47:37 <Chemo> im 5 feet and 13
+A6:47:38 <doohan> Skinny sod?
+A6:47:40 <Chemo> do i win
+A6:47:42 <doohan> 10*
+A6:47:49 <citricsquid> doohan: well, I'm getting fatter now
+A6:47:54 <citricsquid> but about 10 after a poo, yes.
+A6:48:15 <doohan> I used to be about that then I went to uni
+A6:48:32 <doohan> Lots of beer and good food results in an extras 3 stone :
+10A6:48:53 * offset (offset@203-206-38-206.dyn.iinet.net.au) has joined #minecraft
+A6:48:56 <doohan> offset, !
+A6:48:58 <Iguana> Someone halp me with dem channel starting.
+A6:49:13 <citricsquid> doohan: fatty! :D
+A6:49:15 <doohan> Turn the tv on, press the button labeled "1" on the remote
+A6:49:18 <doohan> I'm not fat :(
+A6:49:22 <citricsquid> doohan: :(
+A6:49:23 <doohan> Have a bit of a belly
+A6:49:48 <doohan> But still kind of skinny on the arms 
+A6:50:00 <doohan> I'm tall so I'm allowed to be this weight
+A6:51:36 <citricsquid> my neighbour is hilarious
+A6:51:54 <citricsquid> no wonder the kids are little shits
+A6:51:57 <citricsquid> she's an awful mother.
+10A6:57:35 * Archduke (a@ool-4574c3be.dyn.optonline.net) has joined #minecraft
+12A6:58:02 * Chemo (a@ool-4574c3be.dyn.optonline.net) Quit (Killed (NickServ (GHOST command used by Archduke)))
+10A6:58:05 * Archduke is now known as Chemo
+10A6:58:07 * Tellusius (noise@adsl-86-5-177.tys.bellsouth.net) has joined #minecraft
+10A6:58:15 * chaos95_ (chaos95@adsl-69-104-2-104.dsl.pltn13.pacbell.net) has joined #minecraft
+12A6:58:16 * Arf (a@190.176.204.235) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * potato (potto@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * marky (M_Coxy@5ac2b3f3.bb.sky.com) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * _spondy (spondy@203-206-102-94.perm.iinet.net.au) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * JJames19119 (cole19119@pool-173-64-178-31.sttlwa.dsl-w.verizon.net) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * Peerko (Peerko@cp541388-b.tilbu1.nb.home.nl) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * FNugget (sex@adsl-64-149-45-161.dsl.tul2ok.sbcglobal.net) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * geektoo (geekahedro@rrcs-208-125-110-34.nys.biz.rr.com) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * LKA (noise@adsl-86-5-177.tys.bellsouth.net) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * dinosaurdemon (matt@c-71-227-132-82.hsd1.wa.comcast.net) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * chaos95 (chaos95@adsl-69-104-2-104.dsl.pltn13.pacbell.net) Quit (paradox.esper.net excelsior.esper.net)
+12A6:58:16 * Siiseli (siiseli@kapsi.fi) Quit (paradox.esper.net excelsior.esper.net)
+A6:58:30 <Chemo> :o
+A6:58:31 <citricsquid> netsplit? :(:(
+10A6:58:42 * geektoo (geekahedro@rrcs-208-125-110-34.nys.biz.rr.com) has joined #minecraft
+A7:00:10 <citricsquid> http://www.myhorseuniversity.com/
+10A7:00:16 * _spondy (spondy@203-206-102-94.perm.iinet.net.au) has joined #minecraft
+10A7:00:47 * FNugget (sex@adsl-64-149-45-161.dsl.tul2ok.sbcglobal.net) has joined #minecraft
+10A7:00:47 * JJames19119 (cole19119@pool-173-64-178-31.sttlwa.dsl-w.verizon.net) has joined #minecraft
+10A7:00:47 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+10A7:00:47 * marky (M_Coxy@5ac2b3f3.bb.sky.com) has joined #minecraft
+10A7:00:47 * dinosaurdemon (matt@c-71-227-132-82.hsd1.wa.comcast.net) has joined #minecraft
+10A7:02:24 * Peerko (Peerko@cp541388-b.tilbu1.nb.home.nl) has joined #minecraft
+A7:04:03 <Iguana> Can someone help me with setting up a chanel?
+A7:04:06 <Iguana> channel*
+A7:04:07 <citricsquid> sure
+A7:04:13 <Iguana> Kay.
+A7:04:22 <Iguana> I registered an account.
+A7:04:35 <Iguana> But it says I need to be a serverOP to register the channel.
+A7:04:47 <citricsquid> are you the only one in the channel?
+A7:04:50 <Iguana> Ya.
+A7:05:17 <citricsquid> http://esper.net/chanserv.php
+A7:05:19 <citricsquid> read that?
+A7:07:26 <Iguana> Yep.
+10A7:07:40 * AlexVMiner (Mibbit@75.97.177.12.res-cmts.mtp.ptd.net) has joined #minecraft
+A7:07:43 <AlexVMiner> yo my peeps
+A7:07:57 <Iguana> Sup.
+10A7:08:02 * Siiseli (siiseli@kapsi.fi) has joined #minecraft
+A7:08:25 <AlexVMiner> You must sign meh wall
+A7:08:51 <Iguana> I DO1?
+A7:08:52 <Iguana> WUT
+A7:09:02 <AlexVMiner> yesh
+A7:09:03 <AlexVMiner> :3
+A7:09:05 <Iguana> Kthx.
+A7:09:10 <Iguana> Your server?
+A7:09:15 <AlexVMiner> wait
+A7:09:19 <AlexVMiner> it isn't up yet
+A7:09:26 <AlexVMiner> do you have hax?
+A7:09:44 <AlexVMiner> they make it a whole lot easier
+A7:09:53 <Iguana> Yes I do.
+A7:10:04 <AlexVMiner> ok
+A7:10:06 <Iguana> Btw Citric, how do I install this script now? xD
+A7:10:09 <AlexVMiner> use them to come on
+A7:10:14 <Iguana> It says I needed an IRC channel.
+A7:10:18 <citricsquid> Iguana: script?
+A7:10:24 <Iguana> Yeah.
+A7:10:45 <Iguana> For like !voteban and !8ball and all those commands.
+A7:10:48 <citricsquid> to register your channel
+A7:10:50 <citricsquid> just do
+A7:10:56 <citricsquid> /join #thisismynewchannel
+A7:10:57 <citricsquid> then
+A7:10:58 <Iguana> I got it now.
+A7:11:03 <citricsquid> oh okay :D
+A7:11:08 <Iguana> I just need to figure out how to install the script now...
+A7:11:14 <citricsquid> link to it?
+A7:11:19 <Iguana> Okey.
+A7:11:19 <citricsquid> I wanna see :D
+A7:11:36 <AlexVMiner> ugh
+A7:11:48 <AlexVMiner> i am forgeting a person that needs to sign my wall
+A7:11:53 <citricsquid> zuriki?
+A7:11:56 <Iguana> http://python.pastebin.com/f6a5cfae3
+A7:11:56 <AlexVMiner> no
+A7:12:05 <Iguana> IGUANANANA
+A7:12:13 <AlexVMiner> i also need quatro, mail, and iguana
+A7:12:21 <AlexVMiner> but i am forgeting one more
+A7:12:22 <Iguana> Iguana is the best though.
+A7:12:24 <Iguana> Legacy.
+A7:12:37 <AlexVMiner> noez
+A7:13:03 <citricsquid> I assume you run the script from the same place you run the server
+A7:13:22 <Iguana> Okay.
+A7:13:24 <Iguana> And Alex.
+A7:13:27 <AlexVMiner> OMG I GOT IT
+A7:13:30 <AlexVMiner> RODIFAN
+A7:13:31 <Iguana> WHERE ARE TEH SERVAR
+A7:13:41 <AlexVMiner> it will be up soon
+A7:13:45 <Iguana> NOM NOM NOM
+A7:14:57 <Iguana> It also says I need OPrules.txt
+A7:14:59 <Iguana> Wth.
+A7:15:53 <Iguana> So I restart my server, after I put it in the same directory as the server? Do I have to rename it or anything?
+A7:18:34 <Iguana> Help pl0x? D:
+A7:19:04 <AlexVMiner> its up
+A7:19:05 <AlexVMiner> http://www.minecraft.net/play.jsp?server=9788c16fac66c8a14342f35b3efce712 
+A7:20:41 <Iguana> Alex.
+A7:20:43 <Iguana> Help meh.
+A7:20:52 <Iguana> It says for this script I need PyIRC.
+10A7:21:01 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+A7:21:09 <Iguana> And I downloaded it, but everytime I run it, it closes itself a second after opening.
+A7:27:41 <Iguana> Anyone lep me woth cMss?
+A7:27:44 <Iguana> help*
+A7:28:29 <AlLnAtuRalX> are you talking about speaker technology, content management systems, microprocessors
+A7:29:11 <Iguana> Nope. :D
+A7:37:39 <doohan> citricsquid, 
+A7:37:53 <citricsquid> dooblehan
+A7:37:54 <doohan> In a few weeks IsNotchOn might be changing domain name
+A7:38:07 <doohan> Is that easy for you to update?
+A7:38:08 <AlLnAtuRalX> lol
+A7:38:33 <citricsquid> what do I need to update?
+A7:38:49 <citricsquid> never got around to using it for anything yet :D
+A7:38:58 <doohan> Well nothing then
+A7:39:03 <citricsquid> :P
+A7:39:05 <citricsquid> Notch might though
+A7:39:10 <doohan> The only thing that would change is the url
+A7:39:11 <citricsquid> lso why the change?
+A7:39:23 <AlLnAtuRalX> Oh god that is a hideous cake
+A7:39:25 <AlLnAtuRalX> http://imgur.com/aU995.jpg
+A7:39:35 <doohan> Well the domain name expires in october and I don't wish to continue using it
+A7:39:53 <doohan> I'm also going to purge the server of some other things.
+A7:40:19 <citricsquid> http://imgur.com/AOqVW.jpg
+A7:40:21 <AlLnAtuRalX> God damn you Europe... Why is spotify not on the US app store?  :(
+A7:40:37 <AlLnAtuRalX> citricsquid, that guy got the asshole of the year award on Reddit :P
+A7:40:52 <AlLnAtuRalX> I envy his skill
+A7:41:06 <citricsquid> :D
+12A7:46:22 * AlMightyBob (chatzilla@82-41-90-220.cable.ubr02.dund.blueyonder.co.uk) Quit (Remote host closed the connection)
+A7:48:06 <Iguana> Anybody know how to use cMss...I r confuzzled still. D:
+10A7:52:25 * TheOne (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) has joined #minecraft
+12A7:53:45 * Hal-9000 (Hal@ks-138-210-218-98.dhcp.embarqhsd.net) Quit (Ping timeout: 180 seconds)
+10A7:54:34 * Arf (a@190.176.204.235) has joined #minecraft
+A7:55:04 <AlexVMiner> i am back
+A7:55:05 <AlexVMiner> :O
+A7:56:51 <AlexVMiner> wait
+A7:56:55 <AlexVMiner> reddit awards?
+A7:57:15 <AlLnAtuRalX> It was just a comment in the thread :P
+A7:57:17 <AlexVMiner> also
+A7:57:19 <AlLnAtuRalX> http://www.youtube.com/watch?v=Ebe9BEe024U
+A7:57:25 <AlexVMiner> i am not an op on there anymore
+A7:57:32 <AlLnAtuRalX> alright hold one
+A7:57:32 <AlexVMiner> there was a griefer i couldn't ban
+A7:57:52 <geekahedron> who is "minecraft"
+A7:59:22 <Iguana> ME
+A8:01:08 <doohan> I'M minecraft!
+A8:02:43 <doohan> PARTY!!
+10A8:03:52 * Ausfriend (B04175@220-244-127-48.static.tpgi.com.au) has joined #minecraft
+10A8:06:46 * AlexVMiner is now known as MineCraft
+A8:06:52 <MineCraft> I am MineCraft
+A8:07:09 <TrueWolves> Who is CraftMine?
+10A8:07:18 * MineCraft is now known as CraftMine
+13A8:07:21 * TrueWolves craftsmines on minecraft
+A8:07:26 <CraftMine> I am CraftMine
+A8:07:36 <TrueWolves> I am TrueWolves =/
+10A8:07:57 * CraftMine is now known as TrueFalseWolvesFoxes
+A8:08:03 <TrueWolves> ha
+A8:08:08 <TrueFalseWolvesFoxes> I am TrueFalseWolvesFoxes!
+A8:08:09 <TrueWolves> You forgot OrCoyotes
+A8:08:13 <TrueFalseWolvesFoxes> lol
+10A8:08:23 * TrueFalseWolvesFoxes is now known as UglyTW
+A8:08:29 <UglyTW> My name is true
+A8:08:45 <TrueWolves> And null just makes me quit 90% of the time.
+10A8:08:56 * UglyTW is now known as FourRuler
+A8:09:00 <FourRuler> ...
+A8:09:01 <FourRuler> :D
+10A8:09:15 * Quatroking (Quatroking@86.90.159.252) has joined #minecraft
+A8:09:21 <TrueWolves> AlexVMiner, what are you going to do with the mob update? (added layor on head)
+A8:09:28 <TrueWolves> also...
+A8:09:29 <Quatroking> sup
+A8:09:34 <TrueWolves> FIRE FOX, YOU HAVE BETRAYED ME ;.;
+A8:09:56 <Quatroking> oxygen is a hater
+A8:09:57 <FourRuler> Quatro!
+A8:10:07 <FourRuler> I am your opposite
+A8:10:12 <Quatroking> Fuck a fanboy
+A8:10:13 <FourRuler> or
+A8:10:16 <Quatroking> shiiiit
+A8:10:17 <FourRuler> synonym
+10A8:10:25 * FourRuler is now known as AlexVMiner
+A8:10:30 <TrueWolves> ...
+A8:10:30 <AlexVMiner> :D
+A8:10:32 <TrueWolves> lol
+A8:10:38 <AlexVMiner> I need you to sign my wall
+A8:10:42 <TrueWolves> I just realised what you did when Quatro joined
+A8:10:55 <AlexVMiner> what?
+13A8:10:59 * TrueWolves gives Alex a cookie
+A8:11:02 <TrueWolves> "FourRuler"
+A8:11:05 <AlexVMiner> lol
+A8:11:39 <Quatroking> fucking vlc isn't saving my media library
+A8:11:40 <Quatroking> goddamnit
+10A8:11:42 * AlexVMiner is now known as Groove
+A8:11:46 <Groove> ...
+A8:11:51 <Groove> I OWN MINECRAFT
+10A8:12:04 * AlLnAtuRalX is now known as Notch
+10A8:12:10 * Groove is now known as hrd
+A8:12:11 <Notch> hahaha
+A8:12:15 <Notch> You are all banished!
+10A8:12:18 * Notch is now known as AlLnAtuRalX
+A8:12:19 <hrd> I am Groove's wife
+A8:13:06 <TrueWolves> I remain TW
+10A8:13:38 * hrd is now known as NoTaBnoRmaLB
+A8:13:46 <NoTaBnoRmaLB> :D
+A8:13:55 <NoTaBnoRmaLB> I AM NOT ABNORMAL
+A8:14:06 <TrueWolves> XD
+13A8:14:10 * TrueWolves gives you a cookie to
+10A8:14:19 * NoTaBnoRmaLB is now known as Chameleon
+A8:14:31 <Chameleon> NOT IGUANA, BUT CHAMELEON
+A8:14:41 <Iguana> ODAMN
+A8:14:55 <TrueWolves> o.o;;
+10A8:14:59 * Chameleon is now known as AcidicOctopus
+A8:15:00 <Iguana> My name was given to me from mah best bud Gecko. :O
+A8:15:10 <TrueWolves> XD
+A8:15:15 <Iguana> I'm serious.
+A8:15:17 <Iguana> ...
+A8:15:23 <AcidicOctopus> ...
+A8:15:29 <TrueWolves> My name is... 3-4 years old now
+A8:15:34 <AcidicOctopus> lol
+A8:15:38 <AcidicOctopus> mine is...
+A8:15:43 <TrueWolves> No one beleaves me when I say my real name is Drake.
+A8:15:50 <AcidicOctopus> about 3 or 4 months
+A8:15:56 <AcidicOctopus> DRAKE
+A8:16:01 <TrueWolves> yes?
+A8:16:05 <AcidicOctopus> do you know anyone named osh?
+A8:16:08 <AcidicOctopus> *Josh
+A8:16:15 <TrueWolves> no -.-
+A8:16:18 <AcidicOctopus> ...
+A8:16:18 <Iguana> WTH
+A8:16:19 <AcidicOctopus> LAME
+A8:16:20 <TrueWolves> I'm not that dake
+A8:16:22 <TrueWolves> drake*
+A8:16:25 <AcidicOctopus> i know
+A8:16:31 <TrueWolves> Infact I kind of hate that show
+A8:16:31 <AcidicOctopus> you are Drake, not Dake
+A8:16:31 <citricsquid> been citricsquid since october 06 :D
+A8:16:49 <AcidicOctopus> my first username was ninjachuck385
+A8:16:55 <AcidicOctopus> in, like, 4th grade about
+A8:16:59 <AcidicOctopus> maybe 3rd grade
+A8:17:04 <TrueWolves> My parent's almost named me hunter, I guess thats what I get for having a D&D nerd dad
+A8:17:04 <AcidicOctopus> :D
+A8:17:12 <AcidicOctopus> lol
+A8:17:14 <citricsquid> 05 - 06 onnet092, 06 - FOREVER citricsquid :D
+10A8:17:25 * AcidicOctopus is now known as AlexVMiner
+A8:17:33 <AlLnAtuRalX> phil11021 since i was ~4 and then when I started running that tracker I started using other nicks and I have several now
+A8:17:44 <AlexVMiner> 4?
+A8:17:46 <TrueWolves> 03-05/6 Gold Drake 05/6-Forever TrueWolves
+A8:17:54 <AlLnAtuRalX> Yeah, 4 is when I had my first website (srsly)
+A8:17:59 <citricsquid> started using a computer at 14 lmao
+A8:18:00 <AlexVMiner> lol
+A8:18:01 <AlexVMiner> cool
+A8:18:05 <citricsquid> I hate you all
+A8:18:08 <AlLnAtuRalX> fucking prudes deleted it
+A8:18:10 <AlexVMiner> started using a computer at...
+A8:18:12 <AlexVMiner> 4 about
+A8:18:34 <TrueWolves> youngest thing I can say I've done that most don't beleave is I've been a (some what decent) GM scense 7
+A8:18:37 <AlexVMiner> that was when I only wanted to play the Blues Clues PC game
+A8:18:51 <AlexVMiner> :D
+A8:18:52 <TrueWolves> haven't had a computer most of my life
+A8:19:03 <AlLnAtuRalX> Oh god.  This is going to sound weird, but I've been using a computer since Windows 95 release, and I was born in 94... Then again, for a while all I did was play Winnie the Pooh games.  <facepalm>
+A8:20:05 <AlexVMiner> *cough*
+A8:20:11 <TrueWolves> Born 91, didn't use a non school computer tell I was 11, didn't go on the internet for another 2 years
+A8:20:11 <AlexVMiner> #AlexVMiner
+A8:20:14 <AlexVMiner> *cough*
+A8:20:22 <doohan> God is everyone in here about 14?
+A8:20:26 <AlexVMiner> no
+A8:20:26 <TrueWolves> I'm 18
+A8:20:30 <AlexVMiner> actually
+A8:20:31 <AlexVMiner> yes
+A8:20:32 <AlexVMiner> i am 13
+A8:20:34 <AlexVMiner> :D
+A8:20:36 <AlLnAtuRalX> 15
+A8:20:38 <TrueWolves> well, 17 very soon 18
+A8:20:41 <AlexVMiner> wow
+A8:20:47 <AlexVMiner> allnatural, you are 15?
+A8:20:49 <TrueWolves> ...
+A8:20:51 <AlLnAtuRalX> yes
+A8:20:56 <TrueWolves> This is the first time I feel old on a channel
+A8:20:56 <AlexVMiner> WOW
+A8:21:02 <AlexVMiner> lol truewolves
+A8:21:04 <TrueWolves> most of the channels I'm on I'm one of the youngest.
+A8:21:04 <doohan> You lot make me feel old
+A8:21:15 <Quatroking> You guys are weird
+A8:21:17 <AlexVMiner> you are 45?
+A8:21:23 <AlLnAtuRalX> I'm certainly the youngest on #linux and #fedora... not sure about #ubuntu, some downright retarded stuff goes down in there
+A8:21:29 <Quatroking> I'm 16, which appearantly is a bit of old here
+A8:21:37 <doohan> I'm 23
+A8:21:45 <Quatroking> but I'm the youngest guy at school
+A8:21:57 <doohan> I'm older than all of you so I'm in charge!
+A8:22:09 <TrueWolves> XD
+A8:22:16 <TrueWolves> Most people guess my age in the 20s
+A8:22:18 <Quatroking> I don't change my name every day so booyah
+A8:22:23 <citricsquid> puyo is the oldest
+A8:22:24 <citricsquid> I think
+A8:22:26 <AlLnAtuRalX> I'm finishing HS this year... that's going to be fun.  Theoretically I can take no classes for two years, but I still have to attend school 
+A8:22:27 <citricsquid> he's our daddy.
+A8:22:30 <AlLnAtuRalX> I think Notch is the oldest
+A8:22:35 <citricsquid> he isn't here.
+A8:22:37 <TrueWolves> By the way I act, and most people are following my orders becuase I'm the GM to there game.
+A8:22:40 <citricsquid> He's older than puyo by a few months
+A8:22:41 <AlLnAtuRalX> Hmmm...
+A8:22:43 <Quatroking> Isn't drakkar the oldest
+A8:22:51 <doohan> I hate waiting for domain changes to propegate
+A8:22:52 <Quatroking> he's notch's dad right
+A8:22:57 <TrueWolves> So when they see all the experince I have as a GM, they sometimes think I'm in the 30s
+A8:23:00 <citricsquid> doohan: pfft, instant :D opendns.com!
+A8:23:14 <Evil-Ville> I am 52
+A8:23:16 <Quatroking> OpenDNS is fucking awesome
+A8:23:17 <doohan> Still got to get to other dns servers citricsquid...
+A8:23:19 <citricsquid> Evil-Ville: is 12
+A8:23:26 <Quatroking> evil-ville is an old turd
+A8:23:28 <AlLnAtuRalX> Yeah, we know
+A8:23:50 <AlLnAtuRalX> Screw OpenDNS -> http://www.pcmag.com/article2/0,2817,2351294,00.asp
+A8:23:53 <AlLnAtuRalX> That's just not cool
+A8:24:09 <citricsquid> WHOA
+A8:24:13 <citricsquid> BASED ON THE TECHNOLOGY!?!
+A8:24:36 <AlLnAtuRalX> Well obviously OpenDNS participated if they're bragging about it on their site
+A8:24:36 <Evil-Ville> Oh no parents monitoring their children
+A8:24:43 <Evil-Ville> That's the absolute worst
+A8:24:48 <citricsquid> AlLnAtuRalX: So?
+A8:25:24 <AlLnAtuRalX> So?  That's censorship citricsquid... Come on, think about if your parents only let you access appropriate sites
+A8:25:30 <citricsquid> lmfao
+A8:25:31 <AlLnAtuRalX> Where would you be now?
+A8:25:37 <AlLnAtuRalX> in #neopetz no doubt
+A8:25:41 <doohan> haha
+A8:25:50 <citricsquid> neopets is awesome
+A8:25:59 <TrueWolves> That site has some very fun minigames
+A8:26:04 <citricsquid> So openDNS are awful for allowing a company to use their technology to make parental filters?
+A8:26:07 <AlLnAtuRalX> *sigh*
+A8:26:14 <citricsquid> nothing wrong with parental filters :|
+A8:26:18 <TrueWolves> to bad I only go there once every 6 months and the pets I have starve a lot
+A8:26:24 <AlLnAtuRalX> Actually there is, but whatever
+A8:26:27 <Evil-Ville> AlLnAtuRalX is an angsty teenager though
+A8:26:33 <citricsquid> Evil-Ville: tru dat
+A8:26:34 <AlLnAtuRalX> Evil-Ville is a pre-teen
+A8:26:39 <TrueWolves> I should pay someone money in the game to look after them, it makes me feel bad, even if it's a kid game and there just data
+A8:26:49 <citricsquid> TrueWolves: data has feelings too
+A8:26:53 <AlLnAtuRalX> I'll do it for $20/month
+A8:26:57 <TrueWolves> =/
+A8:26:58 <Quatroking> I learned binary today
+A8:27:02 <doohan> 1?
+A8:27:13 <TrueWolves> I would at best pay you the points I get for taking there damn survays
+A8:27:17 <Evil-Ville> Parents can monitor what their children can see on the internet as much as they want for all I care
+A8:27:23 <TrueWolves> I agree
+A8:27:37 <doohan> It's a waste of money
+A8:27:39 <AlLnAtuRalX> So your parents would approve of your beasty habits Evil-Ville ?
+A8:27:49 <Evil-Ville> beasty habits?
+A8:27:49 <doohan> No filter or proxy has ever held me back
+A8:27:52 <Quatroking> 101010 is 42
+A8:27:54 <Quatroking> yay
+A8:27:54 <AlLnAtuRalX> Hmmm, http://img.4chan.org/
+A8:27:55 <citricsquid> AlLnAtuRalX: that's not what he said
+A8:28:01 <AlLnAtuRalX> I wonder what that is?
+A8:28:05 <TrueWolves> Think of it this way
+A8:28:07 <AlLnAtuRalX> let's chec---OH MY GOD
+A8:28:13 <citricsquid> He said it's fine for parents to monitor their kids activities, nothing more.
+13A8:28:19 * Quatroking slaps allnaturalx
+A8:28:25 <Quatroking> there's nothing wrong with 4chan you asshole
+A8:28:29 <doohan> Can I kick him?
+A8:28:33 <Quatroking> do it
+A8:28:34 <doohan> No I really shouldn't.
+A8:28:38 <doohan> I'm on a diet.
+A8:28:48 <TrueWolves> If your parents want to watch you, they should be able to, if said kid is smart enough to bypass it, he's smart enough to not have to be watched, as long as he remains unlazy enough to do so, which means me all for it, =P
+A8:29:06 <AlLnAtuRalX> TrueWolves, it's not a filter it's a monitoring system
+A8:29:17 <Evil-Ville> So what?
+A8:29:18 <doohan> Usually they go hand in hand though AlLnAtuRalX
+A8:29:19 <AlLnAtuRalX> And good like bypassing custom DNS without admin access, especially if it's ONT HE ROUTER
+A8:29:28 <Evil-Ville> They could monitor it by looking behind the child's back
+A8:29:37 <AlLnAtuRalX> Which is also bad
+A8:29:40 <Evil-Ville> No it's not
+A8:29:54 <TrueWolves> Sometimes it's a good idea =/
+A8:30:09 <TrueWolves> If your using your parent's computer, you don't have privacy
+A8:30:22 <TrueWolves> Thats why this is my computer, and I pitch in with the internet (a tiny bit)
+A8:30:26 <Evil-Ville> Do you think it's fine to let 10 year olds browse ogrish or whatever
+A8:30:30 <TrueWolves> so I have all the privacy I want.
+A8:30:33 <AlLnAtuRalX> Evil-Ville, yes.
+A8:30:37 <AlLnAtuRalX> :P
+A8:30:49 <Evil-Ville> Then you're a retard I am sorry
+A8:30:57 <citricsquid> Evil-Ville: I agree :)
+A8:31:18 <AlLnAtuRalX> Evil-Ville, letting your parents see what you're accessing and what you're saying seems like an odd position to take for your age
+A8:31:19 <doohan> I used to read sites about doing fun stuff with computers
+A8:31:27 <AlLnAtuRalX> I agree citricsquid might not care, because his parents probably wouldn't
+A8:31:31 <doohan> Most of that stuff was banned at the school by default
+A8:31:34 <citricsquid> AlLnAtuRalX: he's not really 12 :|
+A8:31:36 <AlLnAtuRalX> But it's odd for you
+A8:31:36 <Evil-Ville> Yes my delicate age of 19 years old
+A8:31:46 <AlLnAtuRalX> Orly?  I thought he said he was before citricsquid 
+A8:31:49 <citricsquid> AlLnAtuRalX: being unable to detect sillyiness on the internet.
+A8:31:52 <AlLnAtuRalX> Damn.  time to check the logs
+A8:31:55 <citricsquid> I did
+A8:31:56 <citricsquid> as a joke
+A8:31:56 <citricsquid> :|
+A8:32:02 <AlLnAtuRalX> No, before that
+A8:32:04 <Evil-Ville> I could have said it as a joke also
+A8:32:06 <AlLnAtuRalX> Twice as in
+A8:32:10 <citricsquid> I've said it multiple times
+A8:32:14 <citricsquid> I said it weeks back also :D
+A8:32:17 <AlLnAtuRalX> lol
+A8:32:24 <citricsquid> and Evil-Ville has said he's 19 multiple times.
+A8:32:47 <AlLnAtuRalX> Well maybe he was on my ignore list
+A8:32:51 <AlLnAtuRalX> or he never talks when I'm on
+A8:33:25 <AlLnAtuRalX> BTW, citricsquid, someone linked me this a few mins ago, I think it's funny: http://www.minecraftforum.net/viewtopic.php?id=2397
+A8:33:46 <Evil-Ville> Also my parents did monitor what I did on the computer back when I was 12
+A8:33:55 <Evil-Ville> Because the computer was in the living room
+A8:34:02 <AlLnAtuRalX> You see, mine didn't, and I'm not crazy.  Am I?
+A8:34:03 <citricsquid> I was also in the same situation.
+A8:34:03 <Evil-Ville> It never bothered me
+A8:34:12 <citricsquid> It did me good, I'm more careful when watching porn now.
+A8:34:57 <citricsquid> My brother uses the PC in the front room, why we would my parents let him go unsupervised?
+A8:35:06 <AlLnAtuRalX> Well, I for one had my own computer that I stopped my parents from throwing out and stole.  Windows 95 with a 15 inch CRT monitor.
+A8:35:29 <AlLnAtuRalX> citricsquid, then again, you live in the UK, so you're used to police-state scenarios
+A8:35:39 <AlLnAtuRalX> Those surveillance cameras are fine, right?
+A8:35:43 <citricsquid> LOL
+A8:36:00 <citricsquid> I bet you wear a tinfoil hat, don't you?
+A8:36:09 <AlLnAtuRalX> Ha, not quite
+A8:36:13 <AlLnAtuRalX> it's aluminum foil
+A8:36:22 <AlLnAtuRalX> Tinfoil won't stop the waves, maannn
+10A8:36:44 * Visiiri is now known as Visiiri|afk
+12A8:36:49 * PickledJesus (chrisgkeel@cpc1-seve3-0-0-cust947.popl.cable.ntl.com) Quit (Ping timeout: 180 seconds)
+A8:36:51 <Evil-Ville> I live in a lead box buried deep underground
+A8:37:21 <AlLnAtuRalX> He who trades liberty for security deserves neither." Mr. Squid
+A8:37:50 <AlLnAtuRalX> I'm sure you're smarter than Ben Franklin though
+A8:37:53 <AlLnAtuRalX> I mean, what did he know?
+A8:37:58 <Evil-Ville> Parents monitoring their children is totally the same as installing CCTV cameras everywhere
+A8:38:04 <Iguana> LOL!
+10A8:38:16 * Randati (nn@a88-112-205-124.elisa-laajakaista.fi) has joined #minecraft
+A8:38:23 <AlLnAtuRalX> Parents/children, governments/people, I honestly don't see the difference
+A8:38:44 <TrueWolves> ummm
+A8:38:48 <AlLnAtuRalX> Or is it just that once you reach 18, you magically get freedoms
+A8:38:52 <Evil-Ville> Did you just read 1984 or something
+A8:38:58 <AlLnAtuRalX> Years ago
+13A8:39:03 * TrueWolves facepalms
+A8:39:15 <AlLnAtuRalX> Honestly, tell me the difference
+A8:39:17 <AlLnAtuRalX> I'm curious
+A8:39:21 <citricsquid> guys
+A8:39:22 <citricsquid> don't forget
+A8:39:27 <AlLnAtuRalX> You guys do realize that fucking involves no skill right?
+A8:39:28 <citricsquid> AlLnAtuRalX is the one who wanted to be deleted from the forum
+A8:39:30 <AlLnAtuRalX> Sorry to break it to you
+A8:39:32 <citricsquid> because I gave pink names to mods
+A8:39:48 <TrueWolves> I'm not even going to argue over that anymore, that was a poor coralation.
+A8:39:54 <AlLnAtuRalX> correlation*
+A8:40:00 <AlLnAtuRalX> there's no coral in here
+A8:40:16 <AlLnAtuRalX> Maybe inside citricsquid's tentacles
+A8:41:45 <AlLnAtuRalX> Plus, citricsquid, I left the forums because they were retarded.  I left *server administration* because of that.  IT was the only section I posted in/read anymore
+A8:42:36 <AlLnAtuRalX> And I think, reading through it today with that link someone sent me, it's very funny how the clueless people left there argue over completely false and baseless points that are like saying "He has a tumor.  Let's scalpel his vertebrae with a spinal tap."
+A8:42:48 <Evil-Ville> Did the pink color threaten your masculinity?
+A8:42:49 <AlLnAtuRalX> So I actually find it very funny now-a-days, just like 4chan
+A8:42:49 <citricsquid> AlLnAtuRalX: read what you said a few lines back
+A8:42:51 <citricsquid> you match that.
+A8:42:56 <AlLnAtuRalX> What I said where?
+A8:43:04 <AlLnAtuRalX> I've been posting walls of text
+10A8:43:11 * PickledJesus (chrisgkeel@cpc1-seve3-0-0-cust947.popl.cable.ntl.com) has joined #minecraft
+A8:43:14 <citricsquid> <AlLnAtuRalX> citricsquid, then again, you live in the UK, so you're used to police-state scenarios
+A8:43:24 <citricsquid> "funny how clueless people are"
+A8:43:26 <citricsquid> oh wait.
+A8:43:34 <AlLnAtuRalX> It was a joke.  But you have seen the whole CCTV thing I assume?
+A8:43:40 <AlLnAtuRalX> I'm sorry for using a Reddit meme in here
+A8:43:57 <AlLnAtuRalX> Whenever someone talks about surveillance someone else asks if they are from the UK, and shit like that
+A8:43:58 <citricsquid> you mean you're sorry for mentioning something you have no idea about :)
+A8:44:13 <doohan> Appology accepted!
+A8:44:17 <Evil-Ville> Reddit sounds like the worst shit ever
+A8:44:22 <AlLnAtuRalX> Orly?  There are no CCTV cameras in the UK?  They don't arrest photographers for no reason?
+A8:44:23 <doohan> It is
+A8:44:31 <doohan> There are zillions of cameras
+A8:44:37 <doohan> Most of them don't record anything
+A8:44:39 <AlLnAtuRalX> http://search.yahoo.com/search?p=uk%20photographers%20arrest&ei=UTF-8&fr=opera2
+A8:44:40 <citricsquid> AlLnAtuRalX: Lmao, of course there are CCTV cameras
+A8:44:49 <citricsquid> but you make out as if they're everywhere
+A8:45:06 <citricsquid> http://uk.search.yahoo.com/search;_ylt=A03uv8KIDqVKbhAAtGVLBQx.?p=america+gang+rape&y=Search&fr=opera2&fr2=sb-top&rd=r1&sao=1
+A8:45:09 <doohan> citricsquid, if they could do that they would
+A8:45:10 <citricsquid> oh look you're all gang rapists
+A8:45:28 <doohan> citricsquid, one mp wants to put cameras into people homes
+A8:45:38 <AlLnAtuRalX> The following is a joke:
+A8:45:40 <AlLnAtuRalX> http://www.prisonplanet.com/photographer-arrested-for-being-too-tall.html
+A8:45:41 <citricsquid> doohan: only those homes of known child abusers
+A8:45:41 <doohan> He suggested about 20,000 families
+A8:45:56 <citricsquid> Shit, if they beat up their own kids why shouldn't they?
+A8:46:00 <offset> child abusers shouldn't be free in homes in the first place
+A8:46:01 <doohan> Nothing to do with child abuse
+A8:46:07 <doohan> People who lets there kids truant
+A8:46:07 <citricsquid> doohan: link?
+A8:46:34 <citricsquid> doohan: That is stupid, but never seen that mentioned anywhere. I've seen the whole CCTV in homes, but only of people who are a danger to their children.
+A8:46:48 <Evil-Ville> I'd say US has much bigger problems than UK
+A8:47:00 <TrueWolves> AllNaturalX is 15 =/
+A8:47:01 <AlLnAtuRalX> Evil-Ville, yeah healthcare and pointless wars, I never said it was a mecca
+A8:47:02 <citricsquid> Evil-Ville: they're all fat D:
+A8:47:07 <AlLnAtuRalX> I want to GTFO as soon as I finish college
+A8:47:11 <AlLnAtuRalX> http://www.tomsguide.com/us/britain-cctv-homes-big-brother,news-4375.html
+A8:47:19 <TrueWolves> I'm accualy a healthy wieght -.-;
+13A8:47:27 * TrueWolves , the joke killer
+A8:47:31 <citricsquid> LOL
+A8:47:32 <citricsquid> okay you win
+A8:47:35 <citricsquid> wtf @ that
+A8:47:39 <citricsquid> oh
+A8:47:55 <AlLnAtuRalX> antisocial families.  Well I'm certainly antisocial (not really), so I guess I'll get one
+A8:47:56 <citricsquid> they cited a useless source
+A8:47:59 <citricsquid> and then said
+A8:48:03 <citricsquid> "The news comes just a couple of weeks after Amazon.com's decision to delete copies of 1984 and Animal Farm from customers' Kindles in what the media described as an Orwellian move."
+10A8:48:07 * GeneralGuy (Mibbit@cpe-24-58-173-201.twcny.res.rr.com) has joined #minecraft
+A8:48:09 <doohan> http://www.techdirt.com/articles/20090802/1505345737.shtml
+A8:48:31 <doohan> It's not a big leap to go from 20,000 to 50,000 to millions to everyone
+A8:48:32 <doohan> Just in case
+A8:48:33 <AlLnAtuRalX>  http://www.express.co.uk/posts/view/115736/Sin-bins-for-worst-families was their source
+A8:48:52 <AlLnAtuRalX> but Mr Balls wants every local authority to fund them.
+A8:48:55 <AlLnAtuRalX> Mr. Balls.  lol
+A8:49:00 <citricsquid> Edd balls!
+A8:49:04 <doohan> "Oh Mrs smith hans't put her bin out the right way twice now. Time for some "intervention""
+A8:49:09 <AlLnAtuRalX> He's the children's secretary?  :O
+A8:49:39 <doohan> They switch about
+A8:49:48 <citricsquid> he was education before wasn't he?
+A8:50:05 <AlLnAtuRalX> http://en.wikipedia.org/wiki/Ed_balls
+A8:50:14 <Iguana> I just saw District 9 yesterday (yeah, kinda late)
+A8:50:18 <AlLnAtuRalX> Awesome movie Iguana 
+A8:50:21 <Iguana> YES
+A8:50:22 <Iguana> I KNOW
+A8:50:26 <Iguana> :DDDD
+A8:50:29 <AlLnAtuRalX> At least for Hollywood this year
+A8:50:38 <AlLnAtuRalX> Star Trek is the only thing that matches it IMO
+A8:50:40 <Iguana> Low budget an become awesome. :D
+A8:50:45 <Iguana> can*
+A8:50:57 <AlLnAtuRalX> that movie was not low budget
+A8:51:03 <Iguana> Yes it was... xD
+A8:51:14 <AlLnAtuRalX> 30 million is low budget?
+A8:51:21 <AlLnAtuRalX> That's not low budget :P
+A8:51:25 <Iguana> Ya. :P
+A8:51:34 <AlLnAtuRalX> Budget	£45/$70[1]
+A8:51:37 <AlLnAtuRalX> http://en.wikipedia.org/wiki/Colin_(film)
+A8:51:39 <AlLnAtuRalX> That is low budget
+A8:51:55 <PuyoDead> do you know what low budget means, Iguana?
+A8:52:00 <Iguana> I was joking.
+A8:52:05 <Iguana> D:
+A8:52:08 <PuyoDead> ...
+A8:52:14 <citricsquid> hi PuyoDead :)
+A8:52:19 <PuyoDead> hey squids
+A8:52:35 <Iguana> How much is £45 in American?
+A8:52:45 <citricsquid> read up
+A8:52:47 <citricsquid> about $70
+A8:52:51 <Iguana> Oh.
+A8:52:52 <Iguana> LOL
+12A8:54:09 * PickledJesus (chrisgkeel@cpc1-seve3-0-0-cust947.popl.cable.ntl.com) Quit (Ping timeout: 180 seconds)
+A8:54:21 <Iguana> I liked Wikus' (sp?) accent. Everytime he swore...
+A8:54:21 <AlLnAtuRalX> oooh ebay bucks
+A8:54:23 <AlLnAtuRalX> that looks cool
+A8:54:31 <AlLnAtuRalX> FOCKIN CREECHERS
+A8:54:37 <AlLnAtuRalX> It's south african
+A8:54:37 <Iguana> Loool.
+A8:54:41 <Iguana> Really?
+A8:54:48 <AlLnAtuRalX> yup
+A8:54:53 <Iguana> I've never heard a South African accent.
+A8:54:58 <Iguana> So that'sprobably why. :p
+A8:55:04 <AlLnAtuRalX> I know a few south africans
+A8:55:07 <doohan> District 9 was awesome
+A8:55:26 <Iguana> +1
+A8:55:38 <citricsquid> http://twitter.com/xnotch/status/3728692913
+A8:55:39 <offset> most south africans are rude bastards :<
+A8:55:41 <citricsquid> Notch agrees.
+A8:57:02 <AlLnAtuRalX> citricsquid, get me a copy of that also
+A8:57:05 <AlLnAtuRalX> If he replies
+A8:57:08 <AlLnAtuRalX> I'll PayPal if need be
+10A8:57:24 * geekahedron1 (djbroadben@cpe-24-59-240-169.twcny.res.rr.com) has joined #minecraft
+12A8:57:34 * geektoo (geekahedro@rrcs-208-125-110-34.nys.biz.rr.com) Quit (Ping timeout: 180 seconds)
+12A8:58:09 * geekahedron (djbroadben@cpe-24-59-240-169.twcny.res.rr.com) Quit (Ping timeout: 180 seconds)
+A8:58:17 <PuyoDead> damnit, I need some good cd/dvd burning programs for windows
+A8:58:21 <AlLnAtuRalX> Nero?
+A8:58:24 <citricsquid> AlLnAtuRalX: still waiting :(
+A8:58:32 <PuyoDead> old nero maybe
+A8:58:43 <AlLnAtuRalX> I haven't used windows since 03ish, so I have no clue
+A8:58:53 <PuyoDead> it's the very definition of bloatware now
+A8:58:56 <offset> imgburn
+10A8:59:05 * Saer (Saer@c-68-60-135-121.hsd1.mi.comcast.net) has joined #minecraft
+A8:59:17 <doohan> imgburn
+A8:59:34 <offset> It's not bloatware, the author knows what the hell he's actually doing also
+A8:59:45 <PuyoDead> oh yea, I remember using this
+A8:59:46 <citricsquid> imgburn
+A9:00:51 <Evil-Ville> You know what else is bloatware? Firefox
+A9:00:59 <citricsquid> I like firefox.
+A9:01:10 <Evil-Ville> I am going to uninstall firefox right now
+A9:01:15 <PuyoDead> I also like Firefox... but I'm not liking where it's going
+A9:01:17 <AlLnAtuRalX> You know what else is Windows?  bloatware
+A9:01:20 <AlLnAtuRalX> woops, got the order wrong
+A9:01:52 <offset> Win7 is a nice OS :o
+A9:02:07 <AlLnAtuRalX> ooh, I have one too... Why did the chicken cross the road?
+A9:02:18 <PuyoDead> I'm thinking I may end up getting win7 when it comes out
+A9:02:25 <Evil-Ville> Me too
+A9:02:35 <Iguana> Isn't there a 1 year beta out?
+12A9:02:38 * Misterangry (mrangry@c-98-248-172-133.hsd1.ca.comcast.net) Quit (Ping timeout: 180 seconds)
+A9:02:42 <Evil-Ville> I can't be bothered with betas
+A9:02:44 <AlLnAtuRalX> RC not beat
+A9:02:47 <AlLnAtuRalX> beta*
+A9:02:50 <Iguana> Oh.
+A9:02:52 <citricsquid> omg win7
+A9:02:54 <citricsquid> is so awesome
+A9:02:55 <citricsquid> get it.
+A9:02:56 <offset> ^
+A9:02:59 <PuyoDead> yea, the RC is out, which works pretty well
+A9:03:00 <AlLnAtuRalX> hahaha
+A9:03:01 <Iguana> I R DOWNLOAD RC THINGY
+A9:03:07 <citricsquid> it's the beauty of vista with the awesome of XP
+A9:03:13 <Evil-Ville> I am going to buy a new PC when Win7 is out
+10A9:03:14 * Marach (Marach@86-226-N1.aster.pl) has joined #minecraft
+A9:03:17 <AlLnAtuRalX> beauty of vista
+13A9:03:19 * AlLnAtuRalX explodes.
+10A9:03:21 * geekahedron1 is now known as geekahedron
+A9:03:39 <Evil-Ville> Vista looks pretty ugly
+A9:03:45 <Evil-Ville> Atleast it still has classic mode
+A9:03:52 <Marach> hay
+A9:04:47 <TrueWolves> Vista has a lot of unneeded shinnys
+A9:04:54 <TrueWolves> I turned as many of them off as possable
+A9:05:16 <Iguana> I changed Vista into that Windows 98 or 2000 or whatever theme.
+A9:05:20 <Iguana> I prefer it this way. :P
+A9:05:23 <citricsquid> w7, with a bit of configuring does it perfectly.
+A9:05:35 <AlLnAtuRalX> I installed Ubuntu at a senior home near me where I volunteer
+A9:05:36 <PuyoDead> I don't see how vista's extra aesthetic effects are any different than compiz
+A9:05:39 <AlLnAtuRalX> They were thanking me for days
+A9:05:51 <Marach> yay :)
+A9:05:54 <AlLnAtuRalX> Compiz is better.. .with its plugins, hundreds of effects
+A9:06:00 <offset> PuyoDead, 3d CUBE!
+A9:06:01 <PuyoDead> yea, but... are they needed?
+A9:06:01 <citricsquid> uh, how is linux easier than windows?
+A9:06:04 <offset> so effective!
+A9:06:05 <AlLnAtuRalX> PuyoDead, no
+A9:06:09 <AlLnAtuRalX> citricsquid, for old people, ti is
+A9:06:13 <citricsquid> :|
+A9:06:16 <offset> uhh...
+A9:06:22 <PuyoDead> exactly. they are both nice looking and all, but not needed
+A9:06:24 <AlLnAtuRalX> for just websurfing.  No malware, no hassle, no reinstalling O/S, easy updates
+A9:06:36 <AlLnAtuRalX> If you're used to Windows, you won't like it
+A9:06:43 <AlLnAtuRalX> It's harder for powerusers to convert than casual users
+A9:06:43 <citricsquid> I like linux
+A9:06:49 <citricsquid> but it isn't suitable as a desktop IMO
+A9:06:57 <AlLnAtuRalX> You're gravely mistaken
+A9:07:05 <citricsquid> if I could use linux without having to constantly fuck with it, I would.
+A9:07:05 <PuyoDead> I have a bad habit of breaking every linux install I try
+A9:07:07 <Evil-Ville> Don't say that citricsquid 2010 is going to be year of linux desktop
+A9:07:12 <PuyoDead> haha
+A9:07:15 <citricsquid> Evil-Ville: w7 4 life D:
+12A9:08:03 * TrueWolves (DontGiveUp@69-176-226-109.static.izoom.net) Quit (Quit: *I refuse to give up* "Happy are those who can dream dreams and are willing to pay the price that makes them come true" - Unknown)
+A9:08:16 <Evil-Ville> Linux might be easier for old people if you're talking about those really simple distros meant for netbooks
+A9:08:22 <PuyoDead> granted, ubuntu has been better for me with each release (except the last one), but I still manage to get my hands in it too much and break it over time
+A9:08:23 <AlLnAtuRalX> No Evil-Ville standard Ubuntu
+A9:08:28 <AlLnAtuRalX> All they do is press the firefox and go online
+A9:08:31 <AlLnAtuRalX> press the solitare and play
+A9:08:36 <AlLnAtuRalX> and press the power button and shutdown
+A9:08:38 <AlLnAtuRalX> that's all
+A9:08:53 <offset> Give them limited user access, it's pretty bulletproof 
+A9:09:11 <AlLnAtuRalX> You should always have limited access in any kind of OS
+A9:09:13 <PuyoDead> that and the fact that it auto-updates much more gracefully than windows helps
+A9:09:26 <offset> Sure, but who actually does that as a desktop solution
+A9:09:27 <AlLnAtuRalX> yup
+A9:09:31 <AlLnAtuRalX> I do
+A9:09:37 <AlLnAtuRalX> Why do I need to run admin?
+A9:09:43 <AlLnAtuRalX> When I really need an admin command, I can su or use sudo
+A9:09:53 <AlLnAtuRalX> But for 99% of apps giving them admin is reckless and idiotic
+A9:10:14 <Evil-Ville> I am a reckless idiot >8-)
+A9:10:23 <citricsquid> granted linux would be fine if you were ONLY using it, but who has their own network admin? 99% of home users could never understand how to administrate linux properly.
+A9:10:26 <offset> well yeah, for linux giving them admin would be silly
+A9:10:26 <PuyoDead> likewise
+A9:10:32 <PuyoDead> hence why I break it every time
+A9:10:37 <AlLnAtuRalX> For Windows too offset :P
+A9:10:49 <offset> I know, but I don't want to "run as" everytime :(
+A9:11:14 <citricsquid> windows problem? Call dell. Linux problem? Post on a forum and wait 24 hours for a plethora of wrong information and the right answer found after 20 wrong goes.
+A9:11:19 <Marach> i need to reinstall ubuntu regularly
+A9:11:28 <citricsquid> (by dell I mean pc builder >:()
+A9:11:30 <AlLnAtuRalX> citricsquid, or you can come to IRC and get your problems done instantly
+A9:11:32 <Marach> after some weeks something goes wrong
+12A9:11:34 * Kapow (kapox@c-68-82-107-29.hsd1.nj.comcast.net) Quit (Ping timeout: 180 seconds)
+A9:11:41 <PuyoDead> AlLnAtuRalX, tell vede that
+A9:11:43 <Marach> now. i cant connect to internet
+A9:11:47 <AlLnAtuRalX> If you don't believe me hop on #ubuntu or #fedora on Freenode
+A9:11:47 <Marach> just that
+A9:11:52 <AlLnAtuRalX> What happened when I was asleep PuyoDead ?
+A9:11:52 <citricsquid> AlLnAtuRalX: I had to teach my brother to IRC and he uses PCs lots, my parents on IRC? lmao
+A9:12:00 <AlLnAtuRalX> your parents on forums? lmao
+A9:12:01 <PuyoDead> he went into #ubuntu
+A9:12:06 <Evil-Ville> PuyoDead: vede can't solve the problems because he is the problem heh heh
+A9:12:10 <citricsquid> AlLnAtuRalX: Exactly my point.
+A9:12:11 <PuyoDead> hehe
+A9:12:23 <PuyoDead> point being, with 1500 people in there, he was drowned out
+A9:12:34 <PuyoDead> but hey, I'm not making a case against the channel
+A9:12:42 <citricsquid> 1500? It's impossible to keep up here with 80, wow.
+A9:12:49 <PuyoDead> just making the joke of telling him that
+A9:12:59 <AlLnAtuRalX> It happens PuyoDead, we do our best to help everyone and 99% of the people are taken care of
+A9:13:32 <AlLnAtuRalX> and it's usually ~1400
+A9:14:04 <citricsquid> arh
+A9:14:17 <Evil-Ville> I've never been to a channel that big
+A9:14:26 <AlLnAtuRalX> Say what you want about Linux, there is a hugge support team
+A9:14:26 <Evil-Ville> and i don't want to
+A9:14:30 <citricsquid> imma go, see what it's like.
+A9:14:35 <AlLnAtuRalX> citricsquid, freenode #ubuntu
+A9:14:37 <AlLnAtuRalX> see you there
+A9:14:38 <offset> ask hard questions >:D
+10A9:14:39 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has left #minecraft (Leaving)
+A9:14:42 <Marach> Evil-Ville: me too
+10A9:14:42 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+A9:14:44 <AlLnAtuRalX> god damn x
+A9:15:16 <Evil-Ville> What does all natural x mean AlLnAtuRalX
+A9:15:29 <PuyoDead> oh yea, I used to be on freenode, I should go back there
+A9:15:37 <AlLnAtuRalX> Evil-Ville, long story
+A9:15:42 <PuyoDead> wonder how many people I know are still in the same channel I was in
+10A9:15:50 * Visiiri|afk is now known as Visiir
+10A9:15:53 * Visiir is now known as Visiiri
+A9:15:58 <Visiiri> lmao
+A9:16:01 <Visiiri> lmfao
+A9:16:03 <Visiiri> roflmfao
+A9:16:08 <Visiiri> That was epic
+A9:16:13 <Visiiri> Quarentine
+A9:16:19 <Visiiri> I was a good zombie eight rounds
+A9:16:26 <Visiiri> there were twelve people in the lock
+A9:16:30 <Visiiri> I was in there too xD
+A9:16:35 <Visiiri> 10 seconds left
+A9:16:38 <Visiiri> I masacre them all!
+A9:16:39 <Visiiri> hahaha
+A9:16:40 <Visiiri> xD
+A9:16:42 <Visiiri> it was epic
+A9:16:56 <citricsquid> #ubuntu is half as active as here, with >20x more people
+A9:16:56 <citricsquid> haha
+A9:17:03 <Evil-Ville> This is all very confusing Visiiri
+A9:17:05 <Visiiri> lol
+A9:17:07 <AlLnAtuRalX> That's because nobody there
+A9:17:07 <AlLnAtuRalX> talks
+A9:17:08 <AlLnAtuRalX> like
+A9:17:09 <AlLnAtuRalX> this
+A9:17:09 <AlLnAtuRalX> all
+A9:17:10 <AlLnAtuRalX> the
+A9:17:10 <AlLnAtuRalX> time
+A9:17:13 <AlLnAtuRalX> <braces for kick>
+A9:17:21 <Visiiri> well in quarentine, you are a zombie that trys to infect humans
+A9:17:23 <Visiiri> i was a zombie
+A9:17:30 <Visiiri> i was good, and they trusted me.
+A9:17:36 <citricsquid> will I get banned on #ubuntu for telling everyone to sudo - s rm -rf *?
+A9:17:37 <Visiiri> well, there are doors that can lock
+A9:17:55 <Visiiri> i was in one as a zombie with twelve humans
+A9:17:59 <Visiiri> and a human win > zombie win
+A9:17:59 <AlLnAtuRalX> haha citricsquid 
+A9:18:01 <Evil-Ville> I still don't know what you're talking about
+A9:18:06 <Visiiri> Combat Arms :<
+A9:18:07 <AlLnAtuRalX> We don't take kindly to your type
+A9:18:11 <Visiiri> That's my life
+A9:18:13 <citricsquid> :(
+A9:18:18 <Visiiri> Minecraft then Combat Arms
+A9:18:21 <citricsquid> that's the command I remember whenever thinking of linux
+A9:18:26 <citricsquid> that and ls or ps aux
+A9:18:28 <Evil-Ville> Oh I've seen banner ads of Combat Arms
+A9:18:49 <Visiiri> wut
+A9:18:49 <Visiiri> citric
+A9:18:50 <citricsquid> combat arms is k, didn't enjoy it much though.
+A9:18:54 <Visiiri> ubuntu doesn't exist...
+A9:19:00 <Evil-Ville> It goes like "scope... silencer... gold plating... GOLD PLATED AK-47"
+A9:19:13 <citricsquid> Visiiri: on irc.freenode.net
+A9:19:16 <Visiiri> oh
+A9:19:22 <Visiiri> how do I join more servers?
+A9:19:28 <offset> citric, you don't have enough pimples to fit in :(
+A9:19:29 <Visiiri> I want to annoy the hell out of them
+A9:19:30 <citricsquid> open a new server window
+A9:19:36 <citricsquid> then do /server <server>
+A9:19:40 <citricsquid> then /join #channel
+A9:19:50 <AlLnAtuRalX> irc.ubuntu.com redirects to freenode also
+A9:19:53 <AlLnAtuRalX> If you want to do it that way
+12A9:19:57 * Visiiri (macrocks@96.18.163.231) Quit (Quit: Client Exited)
+A9:20:33 <Evil-Ville> Why didn't you tell him it's /server -m to join multiple networks at the same time
+A9:20:44 <doohan> haha
+A9:20:44 <citricsquid> because I didn't know that?
+A9:20:50 <doohan> Awesome
+A9:20:57 <citricsquid> This is the first channel I've ever properly used :D
+A9:21:01 <PuyoDead> <Visiiri> I want to annoy the hell out of them
+A9:21:10 <PuyoDead> I'm convinved that guy is mildly retarded
+A9:21:18 <doohan> I wish you could ban someone so that when they tried to join they saw a message
+A9:21:37 <citricsquid> #ubuntu is just loads of disconnect/connect messages
+A9:21:40 <doohan> What's funny is that amongst the 1000s of users in that chan he'll not get noticed
+A9:21:43 <citricsquid> with a few "how do I burn DVDs" mixed in.
+A9:21:49 <AlLnAtuRalX> He's not in here yet
+A9:22:17 <citricsquid> how come  #ubuntu has no ops?
+A9:22:45 <doohan> Most chans on freenode are like that
+A9:22:51 <doohan> People do op things through chanserv
+A9:22:54 <AlLnAtuRalX> Yeah
+A9:22:57 <AlLnAtuRalX> all the ops use chanserv
+A9:23:00 <citricsquid> oh okay
+A9:23:10 <doohan> Makes kick banning a bit less personal
+A9:23:21 <doohan> :)
+A9:24:33 <AlLnAtuRalX> alright guys I have work to do
+A9:24:40 <AlLnAtuRalX> I'll be on in a few hours
+A9:24:50 <citricsquid> I know it's not even funny
+A9:24:56 <citricsquid> but I want to tell people to rm -rf *
+A9:25:00 <citricsquid> and I don't even know why.
+A9:25:02 <doohan> haha
+A9:25:20 <doohan> It is funny
+A9:25:25 <offset> Say W7 is better than linux
+A9:25:29 <offset> you'll get attacked :D
+A9:25:33 <citricsquid> k :D
+A9:25:33 <AlLnAtuRalX> Nobody really gives a shit offset 
+A9:25:34 <AlLnAtuRalX> :P
+A9:25:48 <doohan> Also you'll just get spotted as a troll and igonred.
+A9:25:56 <citricsquid> <citricsquid> Should I use ubuntu or windows 7?
+A9:26:01 <citricsquid> :(
+A9:26:22 <citricsquid> <IdleOne> citricsquid: look at the channel name your in
+A9:26:23 <citricsquid> haha
+A9:26:50 <doohan> What's more fun is asking them about how to install xyz, then after having a long conversation where none the commands work, reveal that you're using a spectrum or something
+A9:27:07 <offset> ultimate time waster =p
+A9:27:16 <doohan> Or an amiga a500
+A9:27:25 <AlLnAtuRalX> Wait, this is #fedora right?
+A9:27:27 <AlLnAtuRalX> O shi-
+A9:27:30 <doohan> hah
+A9:27:47 <doohan> Ask them why X suck just so much?
+A9:27:59 <AlLnAtuRalX> citricsquid, Why is PulseAudio such a pile of shit?
+A9:28:08 <AlLnAtuRalX> [reason]
+A9:28:19 <AlLnAtuRalX> Then why do the masturbating monkeys that maintain Ubuntu include it?
+A9:28:20 <citricsquid> AlLnAtuRalX: probably something to do with the megabytes in the processing ram
+A9:28:23 <Marach> o lol
+A9:28:23 <AlLnAtuRalX> haha
+A9:28:27 <Marach> 1396
+A9:28:49 <AlLnAtuRalX> anyway work for real
+A9:28:53 <AlLnAtuRalX> bbs
+A9:29:11 <citricsquid> I don't like #ubuntu, I tried to select someones name with tab and ended up with the wrong, too many similar names.
+10A9:29:31 * Visiiri (macrocks@96.18.163.231) has joined #minecraft
+12A9:29:40 * Visiiri (macrocks@96.18.163.231) Quit (Read error: Connection reset by peer)
+A9:30:38 <doohan> Yeah there 1398 people in there.
+A9:30:41 <doohan> It's pointless
+A9:30:58 <Marach> yes
+12A9:30:59 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) Quit (Quit: Leaving)
+A9:31:00 <offset> Ask help for a problem. After running through all the commands post a picture of your windows cmd :D
+13A9:32:21 * citricsquid does
+A9:33:01 <offset> example "I'm having trouble with my soundcard, what do I do in console?"
+A9:33:25 <citricsquid> <citricsquid> How do I list the contents of a folder where the name includes a specific string? like, list all files with "a" in the name?
+A9:33:31 <citricsquid> went with something that wll hopefully get an answer
+A9:33:45 <doohan> ls | grep "a"
+A9:33:48 <doohan> :P
+A9:34:02 <doohan> Or something like that
+A9:34:08 <offset> pipes!
+A9:34:11 <citricsquid> changed my mind, I'm just going to look stupid.
+A9:34:22 <Marach> lol
+A9:34:22 <AlLnAtuRalX> citricsquid, you can also do ls *a* I believe
+A9:34:23 <AlLnAtuRalX> haha
+A9:34:31 <AlLnAtuRalX> but ls -l | grep a is a better answer
+10A9:34:59 * Marach is now known as Marach-afk
+A9:35:06 <citricsquid> marach ruined it, rage quit.
+10A9:35:31 * Kinhoshi (Error404@cpe-72-184-135-206.tampabay.res.rr.com) has joined #minecraft
+13A9:35:33 * citricsquid writes that command down for future use
+A9:36:06 <doohan> How did Marach ruin it?
+10A9:36:09 * Visiiri (macrocks@96.18.163.231) has joined #minecraft
+A9:36:11 <citricsquid> told them :D
+A9:36:13 <Visiiri> wow
+A9:36:14 <offset> -_-
+A9:36:16 <Visiiri> thanks citric
+A9:36:16 <doohan> Told them what?
+A9:36:21 <Visiiri> you made mIRC fail
+A9:36:23 <citricsquid> Visiiri wat
+A9:36:31 <Visiiri> I tried to join the server
+A9:36:31 <citricsquid> doohan: that I was being silly, I think.
+A9:36:35 <doohan> ah
+A9:36:36 <Visiiri> I misspelled it and it crashed windows
+A9:36:41 <citricsquid> Visiiri: lol wtf
+A9:36:45 <Visiiri> lmao
+A9:36:48 <doohan> Visiiri, that's an example of pebkac
+A9:36:57 <offset> haha
+A9:37:00 <citricsquid> hahah
+A9:37:03 <citricsquid> had to look that up
+A9:37:06 <Visiiri> lol
+A9:37:07 <citricsquid> my new favourite acronym
+A9:37:08 <PuyoDead> you crashed windows with mirc? wow, that's impressive
+A9:37:24 <offset> Might I suggest you reinstall?
+A9:37:38 <doohan> Yeah do that, that should keep you busy for an hour or so.
+A9:38:29 <Visiiri> lol
+A9:38:31 <Visiiri> i've done that alot
+A9:39:32 <citricsquid> one thing I've always wondered; how do glasses get so dirty? I put a glass of Dr Pepper on my desk, 10 mins later it's dirty and all I've done is drunk from it.
+A9:40:04 <doohan> Greasy fingers
+A9:41:11 <offset> Like your car after it rains, gets dusty
+A9:41:29 <citricsquid> magic
+A9:41:30 <Chemo> :o
+A9:41:41 <citricsquid> also pork pie is well ace.
+A9:41:41 <Chemo> i vote magic
+A9:42:00 <citricsquid> http://www.bbc.co.uk/radio4/womanshour/05/media/pork-pie.jpg
+10A9:42:32 * Quatroking is now known as LEO
+A9:42:42 <LEO> MY NAME IS LEO AND I LIKE FIFTIES ROCK AND ROLL
+10A9:42:47 * LEO is now known as Quatroking
+A9:42:50 <Quatroking> So yeah.
+12A9:43:26 * GeneralGuy (Mibbit@cpe-24-58-173-201.twcny.res.rr.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10A9:48:36 * liq3 (liquidman3@58.175.123.210) has joined #minecraft
+A9:49:29 <FoxBoy> http://www.minecraft.net/play.jsp?server=22b7144a30ea6a330e0771c9d30e78d6 i managed to host a server
+A9:49:31 <FoxBoy> wow
+A9:49:38 <FoxBoy> but it might lag :x
+12A9:50:19 * Peerko (Peerko@cp541388-b.tilbu1.nb.home.nl) Quit (Remote host closed the connection)
+10A9:50:28 * Real (Real@66.231.145.59) has joined #minecraft
+A9:52:01 <FoxBoy> anyone care to build something?
+10A9:54:04 * cal (cal@82-32-49-122.cable.ubr07.aztw.blueyonder.co.uk) has joined #minecraft
+10A9:54:05 * Peerko (Peerko@cp541388-b.tilbu1.nb.home.nl) has joined #minecraft
+12A9:54:30 * AlLnAtuRalX (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Remote host closed the connection)
+10A9:54:34 * ParSleepWork (cheeeese@203-59-189-69.dyn.iinet.net.au) has joined #minecraft
+10A9:55:14 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) has joined #minecraft
+A9:55:26 <Iguana> Sup?
+10A9:55:36 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+10A9:56:11 * Afayir (afayir.arg@bas7-ottawa23-2925037196.dsl.bell.ca) has joined #minecraft
+A9:56:11 <PuyoDead> public griefers http://peopleofwalmart.com/?p=931
+12A9:56:34 * Parthon (cheeeese@203-59-189-69.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+10A9:56:38 * ParSleepWork is now known as Parthon
+A9:56:59 <kingnerd> haha
+A9:57:01 <kingnerd> very funny
+10A9:57:05 * Cue (cueball61@cpc4-alde1-0-0-cust240.glfd.cable.ntl.com) has joined #minecraft
+A9:57:38 <Quatroking> lol, "who gives a fuck about her shirt id like to fuck her"
+A9:57:45 <doohan> Anyone here good with apache?
+A9:58:29 <Quatroking> the server software or the chopper
+A9:58:58 <Quatroking> the chopper?
+A9:59:13 <cal> probably the server software
+A9:59:28 <citricsquid> ugh
+A9:59:30 <Quatroking> I'm pretty sure he meant the chopper
+A9:59:30 <doohan> The chopper
+A9:59:33 <citricsquid> hl2 jeeps are shit to drive
+A9:59:35 <Quatroking> told you
+A9:59:44 <cal> "good with apache"?
+A9:59:49 <cal> as in, flying
+A9:59:55 <Quatroking> vroom vroom
+A9:59:57 <Quatroking> peep peep
+A9:59:59 <citricsquid> doohan: http://www.youtube.com/watch?v=7qX-K_KRSv0
+A10:00:00 <Quatroking> rocket rocket
+A10:00:15 <Quatroking> To be honest I've never seen a chopper doing peep peep
+A10:00:20 <citricsquid> I assume you've seen it.
+A10:00:21 <Visiiri> WEWT
+A10:00:29 <Visiiri> JUST BROKE 100,000 in sruvival!
+A10:00:41 <doohan> I'm wondering if it'll take two miniguns and a couple of hellfires?
+A10:00:51 <Visiiri> Has anyone done that yet?
+A10:00:53 <doohan> nah the server
+A10:00:59 <citricsquid> Visiiri: Don't think so
+A10:01:01 <Evil-Ville> Not very hard Visiiri
+A10:01:04 <Visiiri> xD
+A10:01:06 <Visiiri> awesome
+A10:01:12 <citricsquid> doohan: what's the problem? I've used it, not good though :(
+A10:01:16 <Visiiri> I found a good method
+A10:01:17 <Evil-Ville> Just leave the game running for a few days and enemies will kill themselves for you
+A10:01:22 <Visiiri> the pigs respawn in one place
+A10:01:27 <Visiiri> set up a pig farm there
+A10:01:32 <doohan> Nah got two domains pointing to the one server, want them to got to different directories on the box
+A10:01:33 <Visiiri> then you have all the shrooms you want xD
+A10:01:45 <citricsquid> oh, should be easy
+A10:01:52 <citricsquid> just add entries in the thingy for them?
+A10:02:02 <Visiiri> Alright
+A10:02:08 <Visiiri> final score is 10280
+A10:02:09 <citricsquid> That was totally useless. I know what I meant though.
+A10:02:20 <citricsquid> Visiiri: 10,280? or 100,280?
+A10:02:29 <Visiiri> oh shit
+A10:02:35 <Visiiri> wrong # of 0s
+A10:02:39 <Visiiri> 100,280
+A10:02:43 <Visiiri> i'ma take a screenie
+A10:06:16 <citricsquid> doohan: I'm sure when ever aera comes back he'll be able to help, he knows lots of the server stuff :D
+A10:06:43 <Visiiri> http://img268.imageshack.us/img268/5218/survivalhighscore.png
+A10:06:49 <Visiiri> that's just outside of my pig farm
+A10:06:57 <citricsquid> haha
+A10:06:59 <citricsquid> flatgrass
+A10:06:59 <citricsquid> ?
+A10:07:06 <Visiiri> mmmhmmm
+10A10:07:06 * Kapow (kapox@c-68-82-107-29.hsd1.nj.comcast.net) has joined #minecraft
+A10:07:12 <Visiiri> makes it easier to defend
+A10:07:14 <Visiiri> trenches
+10A10:07:14 * C418 (c418@p5B3D5FC2.dip.t-dialin.net) has joined #minecraft
+A10:07:18 <Visiiri> I have them all over
+A10:07:22 <Visiiri> bad death spot though
+A10:07:45 <Visiiri> I just got my shrooms and was going to trench the front wall of my farm when I got attacked by creepers :<
+A10:08:11 <Visiiri> there were four
+A10:08:14 <Visiiri> the last one killed me
+A10:08:24 <Visiiri> i didn't eat my mushrooms D:
+13A10:08:28 * Visiiri feels like an idiot
+13A10:08:50 * Visiiri wants to play it again on a normal, because he has a suspicion that they are suspicious.
+A10:09:23 <Iguana> WUT
+A10:11:57 <doohan> Who was talking about filtering stuff ealier?
+A10:12:10 <doohan> Evil-Ville, citricsquid 
+A10:12:19 <doohan> http://yro.slashdot.org/story/09/09/07/1315210/Parental-Control-Software-Datamines-Kids-Online-Conversations
+A10:12:58 <citricsquid> wow
+A10:13:00 <citricsquid> opt out
+A10:13:01 <citricsquid> lame
+A10:13:06 <citricsquid> I hate companies that do that
+A10:15:52 <citricsquid> comments on that are awesome :D
+A10:16:34 <citricsquid> mocheeze is back, do we reban?!
+A10:16:46 <citricsquid> bob_ross/mocheeze, can't believe I didn't notice before.
+A10:17:09 <doohan> On the forums?
+A10:17:16 <PuyoDead> oh god
+A10:17:18 <citricsquid> yeah
+A10:17:20 <citricsquid> Skittles
+13A10:17:23 * doohan shrugs
+A10:17:27 <doohan> What's he doing now?
+A10:17:43 <citricsquid> he's had an account for over a week, haha
+A10:17:58 <citricsquid> in fact how did I not notice, he types the same.
+A10:18:44 <Iguana> Citric,,,
+A10:18:49 <Iguana> I thought you already knew...
+A10:18:55 <Iguana> I told Darkebrz like last week. XD
+A10:19:18 <Iguana> AND, his signature, lead to mocheeze.webs.com
+A10:19:20 <Iguana> So yeah...
+A10:19:46 <citricsquid> coulda told me :'(
+A10:21:29 <Iguana> D;
+A10:21:35 <Iguana> I don't think you were awake.
+A10:21:42 <Iguana> It was around 10:00pm EST.
+A10:21:49 <Iguana> So it's 3am in the UK?
+A10:22:10 <Iguana> So, you bringing down the banhamer?
+A10:22:40 <PuyoDead> he never talked to me about coming back
+A10:22:53 <PuyoDead> which he was told to do if he wanted to come back
+A10:23:07 <Iguana> Forgot?
+A10:23:16 <PuyoDead> what?
+10A10:23:18 * Marach-afk is now known as Marach
+A10:23:18 <Iguana> Or maybe he's just not listening to anybody, anymore.
+A10:23:27 <Marach> hay
+A10:23:39 <Iguana> Ohai.
+A10:23:39 <Marach> citric do you hate me =D
+A10:23:47 <PuyoDead> it was the message that displayed if he ever tried to visit the forums
+A10:24:12 <citricsquid> Marach: more than I hate annoying people
+A10:24:37 <PuyoDead> if he would have asked about coming back, I wouldn't have liked it, but it would have been allowed. this now is essentially a ban evade
+A10:24:50 <Iguana> Yeah.
+A10:24:58 <citricsquid> what a complete pillock
+A10:25:09 <Iguana> I don't know what that is, but...I agree.
+A10:25:21 <Marach> noo :/
+12A10:26:24 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Quit: Leaving)
+A10:28:19 <Iguana> Yeesss. :P
+A10:28:55 <AlexVMiner> AAAAAAAAWWWWWWWWWWWWWWWWAAAAAAAAAAAAAAAAAYYYYYYYYYYYYYYYYYYYYYYY
+A10:29:05 <AlexVMiner> :D
+A10:29:07 <citricsquid> I have decided my next website will be "drpeppertasteslike.com" and then a big picture of some marzipan.
+A10:29:19 <AlexVMiner> lol why?
+A10:29:44 <citricsquid> because it tastes like marizpan
+A10:30:37 <Iguana> Marzipan?
+A10:30:42 <PuyoDead> it does?
+A10:30:45 <Iguana> Now I'm thinking of Homestarrunner.
+A10:30:46 <Iguana> ...
+A10:30:48 <citricsquid> yes and you lie if you deny it
+A10:30:59 <PuyoDead> I've only had marzipan about twice ever
+A10:31:20 <citricsquid> http://www.answerbag.com/a_view/364560
+A10:31:22 <citricsquid> He knows the truth
+A10:31:26 <PuyoDead> but dr. peper is essentially spiced prune juice
+A10:31:27 <citricsquid> have it, marzipan is amazing
+A10:32:33 <citricsquid> if I was going to die and could have one last meal it would be marzipan
+A10:32:44 <citricsquid> but if I could have a drink also I'd have dr pepper and steak for eating.
+10A10:33:03 * PrinceOfFire59 (PrinceOfFi@ool-435401ff.dyn.optonline.net) has joined #minecraft
+A10:33:34 <PrinceOfFire59> Um...anyone here?
+A10:33:52 <PrinceOfFire59> no
+A10:34:36 <citricsquid> I am!
+A10:34:55 <PrinceOfFire59> :D
+12A10:35:12 * PD-lt (PD-lt@c220-239-226-191.carlnfd1.nsw.optusnet.com.au) Quit (Ping timeout: 180 seconds)
+A10:35:53 <Visiiri> awww
+A10:36:20 <Marach> citricsquid forgive me i was stupid
+A10:36:22 <Visiiri> I was at 36,000. I had two working pig farms.
+A10:36:27 <Visiiri> one was by a ledge.
+A10:36:42 <Visiiri> I was sniping a pathway to the next pig spawnpoint.
+A10:36:49 <Visiiri> then I fell off :<
+10A10:37:13 * Kratospie (Mibbit@h56.199.130.174.dynamic.ip.windstream.net) has joined #minecraft
+A10:37:19 <Kratospie> hello
+A10:37:27 <Visiiri> hello
+A10:37:56 <Visiiri> I'm going to try cheating this time
+A10:37:59 <Visiiri> to see how far I get
+A10:38:02 <Kratospie> ?
+A10:38:06 <Visiiri> at Survival
+A10:38:09 <Kratospie> oh
+A10:38:13 <Kratospie> how?
+A10:38:16 <Visiiri> I got 100,000 from a few hours of game play today
+A10:38:18 <Visiiri> no cheats
+A10:38:21 <Visiiri> I can't tell.
+A10:38:26 <Visiiri> I like legit scores.
+A10:38:37 <Kratospie> using hacks?
+A10:38:37 <Visiiri> Patterns.
+10A10:38:42 * Dred_furst (Dred@cpc3-pool3-0-0-cust999.sotn.cable.ntl.com) has joined #minecraft
+A10:38:45 <Visiiri> Kratospie, ofc.
+A10:38:56 <Visiiri> "hack" is giving one user more than the user gets by default.
+A10:39:11 <Kratospie> ok?
+A10:39:14 <Kratospie> i know that
+A10:39:20 <Visiiri> Most people don't.
+A10:39:30 <Visiiri> All I do is edit values.
+A10:39:32 <citricsquid> Marach?!
+A10:39:41 <Marach> citricsquid?!
+A10:39:41 <Kratospie> I've seen tons of hacks in my server
+10A10:39:42 * Toadbert101 (Toadbert10@S0106000f1f4c3423.ss.shawcable.net) has joined #minecraft
+A10:39:50 <Kratospie> Visiiri?
+A10:39:59 <citricsquid> Marach: <Marach> citricsquid forgive me i was stupid ?
+A10:40:18 <Marach> already forgot? lol xP
+A10:40:20 <Toadbert101> How do you edit server.bat ?
+A10:40:33 <Marach> why do you need
+A10:40:34 <citricsquid> Toadbert101: right click > open with > notepad or whatever
+A10:40:52 <Toadbert101> oh ok
+A10:41:00 <Visiiri> Kratospie, hacks aren't offensive to me.
+A10:41:04 <Visiiri> I use them.
+A10:41:11 <Marach> or "Edit" in context menu
+A10:41:12 <Kratospie> I dont like them
+A10:41:18 <Toadbert101> I wanna try the flying hack
+A10:41:19 <citricsquid> cheats r lame
+A10:41:22 <Visiiri> lol
+A10:41:27 <Visiiri> <3 citric
+A10:41:37 <Visiiri> you get mentioned in my siggy. next to mail.
+A10:41:37 <Toadbert101> wow 66
+A10:41:42 <citricsquid> CANNOT ACOMPLISH LEGITIMATELY, MUST HACK.
+A10:41:45 <Toadbert101> I never see this many people
+A10:41:53 <Visiiri> lol masswave time
+A10:41:55 <Toadbert101> anywhere
+A10:41:57 <citricsquid> Toadbert101: we had 107 on sept 1st :D
+A10:41:58 <Kratospie> most of them are afk
+A10:42:04 <Toadbert101> lolwin
+A10:42:06 <Visiiri> Logger is a gost
+A10:42:08 <Visiiri> err
+A10:42:09 <Visiiri> ghost
+A10:42:15 <citricsquid> magician*
+A10:42:15 <Kratospie> Time for party hats
+A10:42:26 <Toadbert101> my lame channel only ever gets _30
+10A10:42:27 * Kratospie is now known as ]Kratospie
+A10:42:29 <Toadbert101> ~30*
+A10:42:40 <citricsquid> Toadbert101: :P not bad!
+A10:43:01 <Toadbert101> not good either
+A10:43:02 <Toadbert101> :(
+A10:43:27 <PuyoDead> the channel I've been on for almost8 years has... 3
+A10:43:44 <PuyoDead> wait, we have 4 right now
+A10:43:50 <Toadbert101> lol
+A10:43:51 <]Kratospie> well, if anyone wants to see my server, heres the link
+A10:44:06 <Toadbert101> hey, has anyone been to the earth server?
+A10:44:18 <]Kratospie> http://www.minecraft.net/play.jsp?server=6ef434c0ef2a8c5784c29c4d9ad669fc
+10A10:47:04 * Nalok (gdhammerbo@pool-71-176-128-153.hag.east.verizon.net) has joined #minecraft
+A10:47:12 <Nalok> Beep
+A10:47:56 <Nalok> Beep beep
+A10:48:31 <Nalok> HONKHONKHONKHONKHONKHONK
+A10:49:04 <Nalok> BEEP BEEP MOTHERFUCKERS
+A10:49:32 <Toadbert101> :U
+A10:50:11 <Visiiri> heh
+A10:50:20 <Visiiri> I figured out how to hack away the mobs in survival
+A10:50:42 <]Kratospie> -_-
+A10:50:58 <Visiiri> lets see
+A10:51:26 <Visiiri> I have inf. arrows, health, blocks, and i'm trying to find digging values
+A10:51:32 <Visiiri> but I don't know that much about them
+13A10:51:54 * Visiiri remembers n
+A10:53:25 <Nalok> Holy crap, I had no idea you could save a map and you start out with the last blocks you were carrying
+10A10:54:03 * PrinceOfFire59 (PrinceOfFi@ool-435401ff.dyn.optonline.net) has left #minecraft
+Session Close: Mon Sep 07 10:54:40 2009

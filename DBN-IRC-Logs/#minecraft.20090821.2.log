@@ -1,0 +1,806 @@
+
+Session Start: Fri Aug 21 17:32:09 2009
+Session Ident: #minecraft
+10P5:32:09 * Now talking in #minecraft
+10P5:32:09 * Topic is 'http://www.minecraft.net/  |  Keep it clean, keep it nice. Spamming nonsense can go in another channel.  |  Forums are down; back soon. | Survival beta sept 1st. http://tr.im/survivalbeta | 50,000 registred players, yay!'
+10P5:32:09 * Set by citricsquid!sam@client-81-97-78-10.mcr-bng-013.adsl.virginmedia.net on Fri Aug 21 05:07:37
+P5:32:12 <Griskard> You know how when you destroy items you get stuff to build more blocks. Would it be possible to make a non mineable one? For say, money?
+P5:32:16 <citricsquid> before I spoke to Notch, I was a nice person, now I beat up women and punch kids.
+P5:32:21 <08Notch> vede: I forgot about that, so I've only got like two archived versions
+P5:32:27 <ChJees> lol citric
+P5:32:30 <08Notch> dunno which version numbers, but around that time
+12P5:32:32 * Snowman (Snowman@sd51100a0.adsl.wanadoo.nl) Quit (Ping timeout: 180 seconds)
+P5:32:33 <Snowman2> Citricsquid, there's nothing wrong with that
+P5:32:33 <Eagle> Before I spoke to Notch, I was a cockroach
+P5:32:37 <Miclee> Notch: Will we get viking helmets and be able to raid towns and rape women?
+P5:32:38 <vede> The island-in-the-sky thing was cool, and the level generator was way better than it is now.
+10P5:32:39 * Snowman2 is now known as Snowman
+P5:32:39 <Quatroking> hey Notch, how about meeting up in Rotterdam tomorrow and drink a beer, maybe watch a movie over at my place
+P5:32:41 <fydo> now you are a NotchRoach?
+P5:32:45 <08Notch> Miclee: No. =D
+P5:32:49 <Miclee> Awwwww. :P
+P5:32:51 <Eagle> Now I'm a human.
+P5:32:52 <Quatroking> I've got 7.1 audio! **winks**
+P5:33:00 <Snowman> I've got... a headset
+P5:33:00 <Eagle> I kinda liked being a cockroach better though...
+P5:33:01 <Eagle> :/
+P5:33:02 <Griskard> Before I spoke to Notch, I was awesome, now I have gone up a level
+P5:33:04 <Griskard> Now Im German
+P5:33:05 <08Notch> Quatroking: Sounds expensive.
+P5:33:09 <08Notch> lol
+P5:33:12 <Quatroking> literally
+P5:33:12 <fydo> 7.1 Surround Sound support!
+P5:33:15 <Quatroking> and figurally
+P5:33:18 <darkparadox> why are you all harassing Notch D:
+P5:33:25 <Snowman> Cause we like it :D
+P5:33:27 <fleshBasedProcessor> Notch! Watch the movie "The Man from Earth" You will like it!
+P5:33:30 <Eagle> Why not?
+P5:33:33 <Griskard> Notch: You know how when you destroy items you get stuff to build more blocks. Would it be possible to make a non mineable one? For say, money?
+P5:33:35 <Miclee> Since we already asked all the serious questions.
+P5:33:49 <Evil-Ville> Why is this channel filled with sycophantic creeps? Serious question
+P5:33:59 <Snowman> Notch, what is your opinion on Obama's healthcare plans?
+P5:34:01 <Eagle> Notch: If food restores HP, how much? 20 HP sounds like a lot of health.
+P5:34:03 <Miclee> Notch, in survival multiplayer, will we be able to trade with other "tribes"?
+P5:34:10 <08Notch> fleshBasedProcessor: I will try. You should watch The Wrestler.
+12P5:34:20 * Bossman (Bossman-DJ@216.119.27.20) Quit (Quit: Client Exited)
+P5:34:21 <Quatroking> Ch ch ch chip and Dales  Rescue rangers
+10P5:34:27 * Bossman (Bossman-DJ@216.119.27.20) has joined #minecraft
+P5:34:27 <08Notch> Griskard: Non-minable blocks? or items?
+P5:34:35 <08Notch> Snowman: I don't know what they are.
+P5:34:35 <fleshBasedProcessor> Notch, if netflix has it on demand I will!
+P5:34:42 <Snowman> ...
+P5:34:46 <Griskard> The items. You know those little things on the ground you pick up?
+P5:34:56 <08Notch> Eagle: Probably quite a lot. You won't be able to stack food in the inventory, so each food item takes up an entire slot
+P5:34:56 <Griskard> And go in your inventory to allow you to build them again?
+P5:34:58 <Eagle> Snowman he isn't American. Just to let you know in case you forgot.
+P5:35:13 <08Notch> Miclee: No, not planned.
+P5:35:13 <Eagle> 20 HP is still a lot
+P5:35:16 <Snowman> I know, but he can still watch international news :D
+P5:35:18 <Miclee> Dang.
+P5:35:19 <Griskard> Although that brings the problem of trading "Blocks" from one char to another
+P5:35:27 <Eagle> You could fall of a deadly cliff three times and still be alive
+P5:35:31 <08Notch> Griskard: There are items that don't produce blocks
+P5:35:45 <Miclee> Will we have some kind of parry/block system with swords?
+10P5:35:52 * Bossman-DJ (Bossman-DJ@216.119.27.20) has joined #minecraft
+P5:36:04 <Griskard> Thats one more thing, Do you plan on having some sort of "Trading" system. 
+P5:36:06 <fleshBasedProcessor> I don't want any official money/trading system. Stealing and devising fair trading systems is half the fun!
+P5:36:10 <08Notch> Eagle: I could increase falling damage if it's too low.
+12P5:36:13 * Bossman (Bossman-DJ@216.119.27.20) Quit (Quit: Client Exited)
+P5:36:13 <Eagle> Notch will we be able to get more Heart Containers? (:P)
+P5:36:15 <Miclee> Griskard, I just asked him that.
+P5:36:22 <Miclee> He said Not planned.
+P5:36:27 <Griskard> Ahh Ok
+P5:36:32 <08Notch> Griskard: I've played with the idea, but decided to scrap it.
+P5:36:37 <08Notch> in the far future, maybe.
+P5:36:46 <Eagle> Notch also, will there be options like Easy Mode, Normal Mode, and Hard Mode?
+P5:36:47 <08Notch> Eagle: I have no idea what you're referring to. ;)
+P5:36:58 <Eagle> Hard Mode having several instant deaths.
+P5:36:59 <08Notch> Eagle: More like Hard Mode, Impossible Mode and European Extreme
+P5:37:03 <pimpmasta> Notch: I am starting to think you have a gay crush on me.
+P5:37:03 <Eagle> I like instant deaths.
+P5:37:17 <Miclee> Will we have some kind of parry/block system with swords?
+P5:37:18 <08Notch> pimpmasta: If I was going to go gay for anyone, it'd be for brad pitt.
+P5:37:21 <Morgranth> What about the ppl who jsut liek to build stuff ? 
+10P5:37:21 * LucanC_ (IceChat7@86-42-228-34-dynamic.b-ras1.cld.dublin.eircom.net) has left #minecraft
+P5:37:23 <Super-Dot> I could never be as extreme as a European
+P5:37:24 <Griskard> So, when I build a block again, and then destroy it, I dont get any Block builders back, do I? If not, will there be an option to turn it on so I can build and destroy and get my block back
+P5:37:24 <Eagle> Is lava an instant death, Notch?
+P5:37:33 <08Notch> Eagle: No, but almost. =)
+P5:37:37 <ChJees> I heard Japanese Hard Mode was Easy mode in Europe
+P5:37:38 <fleshBasedProcessor> Notch I really think you should make trading compleatly player controlled. Knowing the other guy might rip you off is half the fun.
+P5:37:39 <Eagle> :O
+P5:37:43 <pimpmasta> Notch: Who is this "Brad Pitt" Of which you speak?
+P5:37:49 <Eagle> Gooogle
+P5:38:09 <08Notch> Griskard: Most blocks will give you resources to build the same block
+10P5:38:15 * princepsregulus (princepsre@70.239.9.126) has joined #minecraft
+P5:38:16 <Eagle> Notch: Will we be able to increase our maximum health?
+P5:38:20 <Evil-Ville> Do leaf blocks still give you resources
+P5:38:23 <Evil-Ville> Because they shouldn't
+P5:38:26 <Griskard> Even If Its a block I just build?
+P5:38:28 <08Notch> Eagle: No. But you will be able to wear armor.
+P5:38:34 <Eagle> I see.
+P5:38:34 <Miclee> Will we have some kind of parry/block system with swords?
+P5:38:39 <Griskard> built*
+P5:38:39 <citricsquid> can we have penis armor?
+P5:38:41 <08Notch> Evil-Ville: They do, but they won't later on.
+P5:38:48 <Eagle> Citric that's called a codpiece
+P5:38:50 <pimpmasta> Okay, Notch A serious question... exactly how "Rare" Will  ore be?
+P5:38:56 <Evil-Ville> Oh good
+P5:38:57 <08Notch> Miclee: No, sorry
+P5:38:57 <citricsquid> Eagle: I meant armor that looks like a penis.
+12P5:39:00 * Bossman-DJ (Bossman-DJ@216.119.27.20) Quit (Quit: Client Exited)
+P5:39:02 <Eagle> Oh
+P5:39:05 <Miclee> Dang.
+P5:39:07 <Eagle> That's less awesome.
+P5:39:09 <08Notch> pimpmasta: Same as now
+P5:39:15 <pimpmasta> Okay...
+P5:39:23 <08Notch> citricsquid: Wait, your penis doesn't look like armor?
+P5:39:26 <Miclee> I need to think of questions.
+P5:39:28 <Super-Dot> Notch: Will there ever be metal?
+10P5:39:32 * KatMan (Mibbit@ip98-179-180-215.ri.ri.cox.net) has joined #minecraft
+P5:39:33 <08Notch> yes, Super-Dot.
+12P5:39:37 * osici (osici@stav225.univ.ox.ac.uk) Quit (Quit: Client Exited)
+P5:39:38 <Super-Dot> Oh boy :D
+P5:39:42 <KatMan> Yes to what?
+P5:39:43 <Miclee> Super, what do you think ore will do?
+P5:39:44 <Griskard> Will I get resources back from a block I just built? Notch?
+P5:39:45 <citricsquid> Notch: http://laughingsquid.com/wp-content/uploads/tentacle-arm.jpg It's basically that
+P5:39:47 <citricsquid> but a bit longer
+P5:39:57 <08Notch> Griskard: Yes, if you destroy it.
+P5:40:03 <Eagle> Notch: In order to make armor, do we just have the option? Or do we have to make some crafting station first?
+P5:40:14 <Miclee> Anvils!!
+P5:40:19 <Miclee> And hammers!
+P5:40:24 <Super-Dot> Oh right, armor means metal
+P5:40:28 <Super-Dot> And ore
+P5:40:31 <08Notch> Eagle: I don't know yet. 
+P5:40:38 <Snowman> My penis is like this http://upload.wikimedia.org/wikipedia/commons/4/44/Penis_from_snow.jpg
+P5:40:48 <Testvan> very white
+P5:40:48 <KatMan> You buy armor from a store in the map, of course!
+P5:40:52 <Eagle> Also will we be able to make buildings like craftstations and anvils and farms and kitchens etc, like in DF?
+P5:40:55 <Eagle> Notch?
+P5:40:59 <fleshBasedProcessor> Building a golden castle will be the most epic thing ever in survival. Building a massive golden castle and then luring in and fighting the final boss in your thrown room will make you a god.
+P5:41:02 <08Notch> hopefully, yes
+P5:41:09 <fleshBasedProcessor> *throne
+P5:41:14 <Eagle> Cool.
+P5:41:16 <Griskard> Awesome
+12P5:41:17 * princepsregulus (princepsre@70.239.9.126) Quit (Ping timeout: 180 seconds)
+P5:41:17 <Miclee> Eventually someone will make a "DF" mode.
+P5:41:24 <Griskard> My RPG server is looking better and better!
+P5:41:28 <citricsquid> Notch: Will we be able to push things, like, will we have a hitbox so people can't work through us anymore?
+P5:41:28 <Miclee> WHERE??
+P5:41:32 <Griskard> Now I just need people who can mod
+P5:41:35 <Miclee> Where is the RPG server?
+P5:41:40 <KatMan> Notch: Maybe instead of building armor, you buy it from a store on the map?
+P5:41:41 <Griskard> Erm. Im making one
+P5:41:43 <Eagle> Notch: Friendly fire?
+P5:41:47 <08Notch> citricsquid: Well, standing inside another mob will push you both away from each other
+P5:41:48 <Miclee> I might be able to mod.
+P5:41:51 <Griskard> Once I can get some people who are willing to mod a bit.
+P5:41:55 <Griskard> I dont really have the time
+P5:41:58 <08Notch> so you can walk through people, and you can push people off cliffs
+P5:42:00 <fleshBasedProcessor> I plan on making a survival extra hard mode where you have to eat and drink to survive and some other things are harder/more realistic
+P5:42:05 <Griskard> But I have money, lots of money for big uber server
+P5:42:06 <Eagle> XD
+P5:42:06 <08Notch> Eagle: On by default.
+10P5:42:07 * nickname (aye@c-67-187-207-63.hsd1.ca.comcast.net) has joined #minecraft
+P5:42:09 <Eagle> :O
+P5:42:13 <Miclee> <---- Can mod.
+12P5:42:20 * AlexVMiner (Mibbit@75.97.177.12.res-cmts.mtp.ptd.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P5:42:22 <Griskard> Got skype or MSN?
+P5:42:27 <08Notch> fleshBasedProcessor: That would be awesome =D
+P5:42:29 <Miclee> No.
+P5:42:32 <Eagle> Notch: Kitten explosion? :D
+P5:42:38 <Miclee> I have IRC, though!
+P5:42:42 <Eagle> (DF reference)
+P5:43:00 <08Notch> Eagle: No kittens, they're too dangerous
+P5:43:06 <Super-Dot> Will there be cow tipping?
+P5:43:06 <Eagle> Carp?
+P5:43:07 <pimpmasta> Inorite?
+P5:43:08 <Morgranth> Notch what is the most awesome thing u created or have seen on any server of minecraft?
+12P5:43:11 * Not_Famous (aye@c-67-187-207-63.hsd1.ca.comcast.net) Quit (Ping timeout: 180 seconds)
+P5:43:21 <fleshBasedProcessor> THERMONUCLEAR CAT-SPLOSION!
+P5:43:21 <KatMan> We need PUPPIES, not kittens! Duh!
+P5:43:30 <08Notch> Morgranth: That'd be the Notre Dame
+P5:43:34 <citricsquid> we need chickens and squids.
+P5:43:37 <Eagle> Notch: Carp? :D
+P5:43:43 <KatMan> SUDDENLY, CATS. LOTS OF THEM
+P5:43:50 <fleshBasedProcessor> Skeletal elephats?
+P5:43:57 <08Notch> Eagle: No fish are planned
+P5:44:00 <Eagle> Aw.
+P5:44:04 <Super-Dot> Elephants would be sweet :O
+P5:44:05 <Eagle> :/
+P5:44:08 <citricsquid> Notch: No water animals?!
+P5:44:10 <pimpmasta> Maybe, you could make cats a monster, In survival.
+P5:44:11 <Miclee> WHAT?
+P5:44:16 <Miclee> WHAT WILL WATER BE OOD FOR?
+P5:44:18 <Miclee> GOOD*
+P5:44:21 <KatMan> Make horses that you can ride on!
+P5:44:22 <pimpmasta> Only On extra hard though,
+P5:44:25 <citricsquid> Miclee: not squids, that's for sure!
+P5:44:25 <08Notch> irrigation. :D
+13P5:44:26 * citricsquid cries
+P5:44:28 <Eagle> Elephants would be a bit startling to see in a forest setting like minecraft
+P5:44:34 <Super-Dot> Plumbing
+P5:44:40 <fleshBasedProcessor> we get horse animations when wurm gets horse animations :P
+P5:44:44 <Griskard> Drowning stuff
+P5:45:01 <Super-Dot> Charlie the Unicorn-style horse animation
+P5:45:04 <Quatroking> Notch: that 3D-glasses thingie, will it be implented on 1 september?
+P5:45:17 <fleshBasedProcessor> oh yeah, make that an option.
+P5:45:24 <08Notch> it requires a startup parameter, you can't change it in the game yet
+P5:45:27 <Eagle> Notch: Will beta testers get a special prize?
+P5:45:30 <Eagle> :D
+P5:45:31 <pimpmasta> super-dot: For the love of god(notch) NO!
+P5:45:32 <Miclee> :D
+P5:45:36 <08Notch> (it has to rebuild all textures, and I don't have that code yet)
+P5:45:40 <Super-Dot> :D
+P5:45:43 <08Notch> Eagle: You already got a special price. :D
+P5:45:46 <Quatroking> So..
+P5:45:47 <ChJees> http://mkv25.net/dfma/movie-518-nuclearcatsplosion
+P5:45:48 <Eagle> :O
+P5:45:52 <Griskard> Hey Notch, What about sharks and turtles?
+P5:45:53 <Eagle> I just remembered tha
+P5:45:55 <Eagle> *that
+P5:45:57 <Quatroking> if you would put it online seperatly, would it run?
+P5:46:14 <Quatroking> so you would choose between 3d glasses yes/no before starting the client
+P5:46:25 <08Notch> Quatroking: Yes, or perhaps if you added &3dmode=true to the url or something 
+P5:46:30 <Miclee> Notch, can we have a rundown of the things in the Survival Beta?
+P5:46:32 <KatMan> Notch: Bear traps?
+P5:46:35 <Quatroking> Please, PLEASE do so!
+P5:46:37 <citricsquid> &trippyshit=true
+P5:46:52 <fleshBasedProcessor> even if it was just a small thing that only worked on singleplayer creative, I would still play it
+P5:47:00 <Super-Dot> &catsposions=true
+P5:47:12 <08Notch> Miclee: Health, food, enemies, resources. Maybe crafting.
+P5:47:15 <Eagle> Notch: Will you make it so mushrooms can grow in caves? D:
+P5:47:17 <Quatroking> I'm buying 3D glasses soon and I'd love to be able to do this
+P5:47:18 <citricsquid> &squids=true. needs squids. squids that grab you from the water and pull you in.
+P5:47:20 <Miclee> Cool.
+10P5:47:21 * princepsregulus (princepsre@adsl-70-239-9-126.dsl.bcvloh.sbcglobal.net) has joined #minecraft
+P5:47:26 <pimpmasta> notch: How come I never see you online... EVER I mean it is your game...
+P5:47:28 <08Notch> Eagle: Yes, but not for this version
+P5:47:29 <mail2345> Miclee it will be easy
+P5:47:29 <KatMan> Notch, maybe you could have bear traps that players could set?
+P5:47:33 <mail2345> to do in Lua
+P5:47:41 <ChJees> pimpmasta, Swedish time LOLZ
+P5:47:43 <08Notch> pimpmasta: I've been in single player only for quite some time now, in survival mode
+P5:47:46 <Super-Dot> citricsquid fell in love with the majesty of colors
+P5:47:49 <Eagle> Notch: Will you be able to farm underground? I.E. farm mushrooms like in DF?
+10P5:47:51 * potato_ (potto@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has joined #minecraft
+10P5:47:57 * potato_ (potto@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has left #minecraft
+P5:47:59 <pimpmasta> Mkay...
+P5:48:01 <08Notch> Eagle: I'd like that, yes. =)
+P5:48:08 <ChJees> GMT +1 FYI
+P5:48:11 <Griskard> Squid would be awesomely cool
+P5:48:15 <vede> Why have you not made mushrooms darkness-resistant yet, Notch?
+P5:48:24 <Eagle> Notch: Also, can you pick mushrooms already on the ground?
+P5:48:25 <vede> I told you about this a long time ago.
+P5:48:27 <Griskard> Hmm. I reckon a piece of armour that acts like scuba gear would be awesome
+P5:48:29 <08Notch> because I've been focusing on other things, and it's a trivial fix.
+P5:48:29 <Eagle> For trippy side effects and stuff
+P5:48:31 <fleshBasedProcessor> oh god, I want to play survival so bad.
+P5:48:36 <08Notch> trivial fixes never get done until the last minute, hehe
+P5:48:42 <vede>  -_-
+P5:48:49 <Miclee> I'm sitting here, bored, wanting to play survival so badly.
+P5:48:53 <Eagle> That describes vista! :O
+P5:48:56 <08Notch> lol
+P5:48:57 <Griskard> Masturbate
+P5:48:59 <Miclee> 11 days!
+P5:49:01 <Griskard> Then do it again
+P5:49:03 <Griskard> and again
+P5:49:06 <Griskard> Untill you collapse
+P5:49:07 <KatMan> Notch, what kind of mining tools are we gonna have?
+13P5:49:10 * Super-Dot trivially fixes vede a mug of hot chocolate
+P5:49:13 <Griskard> And sleep until survival
+P5:49:16 <vede>  :o
+P5:49:23 <Miclee> I shall hibernate!
+13P5:49:26 * vede drinks the hot chocolate.
+P5:49:27 <vede> YUMMM
+P5:49:33 <08Notch> KatMan: Bare hands
+P5:49:38 <Eagle> Notch: What if you don't finish by Sept. 1st?
+P5:49:43 <ChJees> A hibernation device would be nice :P
+P5:49:47 <ChJees> cold sleep
+P5:49:47 <08Notch> Eagle: I'll release whatever I have on sept 1.
+P5:49:57 <Eagle> Hm.
+P5:50:01 <KatMan> @Notch, awww... I wanted a particle destroyer...
+P5:50:02 <vede> Notch, just because I'm interested, how do you save signs in the map file?
+P5:50:07 <fleshBasedProcessor> I go to college tomorrow, that *might* keep my mind of minecraft
+P5:50:19 <Quatroking> Notch: so will you PLEAAAAAASE put the 3D glasses client online for us to try?
+P5:50:20 <Eagle> fleshBasedProcessor nice
+P5:50:26 <vede> They can't be stored like normal blocks, so I figure they must be special somehow.
+P5:50:32 <08Notch> Quatroking: No, not yet. September 1. =)
+P5:50:40 <Miclee> I know programs that make anything 3D.
+P5:50:41 <08Notch> vede: Indeed, they're objects. =)
+P5:50:44 <Quatroking> Yeah, on september 1 I mean
+P5:50:45 <Snowman> http://www.youtube.com/watch?v=tMjTzc_QMwc
+P5:50:45 <Miclee> Left 4 Dead in 3d is crazy.
+P5:50:49 <vede> What do you mean?
+P5:50:50 <fleshBasedProcessor> Why not :( </pout>
+P5:50:58 <Quatroking> Notch: wait, is it actually compatible with multiplayer?
+P5:51:06 <08Notch> 3d? yes.
+P5:51:09 <vede> Is there like a list of objects at the end of the level file or somesuch?
+P5:51:20 <Eagle> Snowman I saw that yesterday/today
+P5:51:24 <08Notch> vede: I don't know, I use java serialization
+P5:51:27 <vede> ...
+P5:51:31 <vede>  :|
+12P5:51:31 * darkparadox (darkparado@c-66-177-211-209.hsd1.fl.comcast.net) Quit (Quit: http://irc2go.com/)
+P5:51:36 <vede> WEAK
+P5:51:39 <Griskard> Heres one notch, Would it be feasable to make movable vehicles?
+P5:51:46 <KatMan> So, how do you put things on signs?
+P5:51:48 <08Notch> I will change it to a new file format in the future, the current one is too unstable.
+P5:51:50 <Eagle> Notch: Switches?
+P5:51:53 <08Notch> Griskard: Not yet.
+P5:51:57 <08Notch> Eagle: With the expansion. =)
+P5:51:57 <Eagle> Switches/levers?
+P5:52:00 <Eagle> Oh right
+P5:52:04 <Eagle> Heh.
+P5:52:09 <08Notch> Dungeons and Levers! It's right there, in the name!
+P5:52:15 <Eagle> I forgot! D:
+P5:52:22 <08Notch> hehe
+P5:52:27 <Miclee> Survival in a dungeon!
+P5:52:28 <Miclee> :D
+P5:52:29 <KatMan> Notch: 2.5d mode, perhaps?
+P5:52:29 <Miclee> :P
+P5:52:37 <vede> Custom enemies, yes? No?
+P5:52:38 <08Notch> lol, what?
+P5:52:44 <Miclee> 2.5d?
+P5:52:48 <08Notch> no custom models, but custom behavior, sure
+P5:52:49 <Griskard> So you mean not yet in the "Its far to much and unimportant for me to put in" or the "The drain on resources would be huge"?
+P5:52:57 <Griskard> At Notch ^
+P5:53:00 <vede> Enemy textures?
+P5:53:12 <Morgranth> notch will there be a way to classeffy waht u build a vehicle, so that u can use it to travel aroudn the map ?
+P5:53:12 <vede> That seems like something you should REALLY implement.
+P5:53:17 <Super-Dot> Player textures?
+P5:53:18 <Eagle> Notch: With a map editor, can't people just make a room with everything they'll ever need and close it off from the enemies?
+P5:53:20 <vede> Even if you don't want block textures.
+P5:53:21 <08Notch> Griskard: It's not in my plans, and I don't want to add too much extra features. It's possible it might make an interesting expansion. =)
+P5:53:24 <Eagle> Also can't they make impossible maps?
+P5:53:31 <Daroh> Out of curiosity, will maps be transferrable across modes of play?
+P5:53:31 <Miclee> Eagle, they can dig!!
+P5:53:37 <Super-Dot> Enemy and player textures do seem like a bit of a must
+P5:53:39 <Miclee> I think.
+P5:53:47 <KatMan> Notch: RACETRACK EXPANSION?
+P5:53:55 <08Notch> Daroh: Yes, but I'm not sure what to do about mobs
+P5:53:55 <Miclee> With zombie!
+P5:53:57 <Eagle> Enemies can dig?
+P5:54:01 <vede> Notch: Question
+P5:54:05 <fleshBasedProcessor> Morganth, if your going to ask a stupid question at least use proper grammar and spelling
+P5:54:06 <vede> Question?
+P5:54:09 <08Notch> I could just remove all mobs and items when in survival mode
+P5:54:22 <Daroh> sounds reasonable
+P5:54:24 <08Notch> no custom textures, vede.
+P5:54:31 <Eagle> XD
+P5:54:31 <Super-Dot> Aw jang
+P5:54:33 <vede> Lame.
+P5:54:36 <citricsquid> http://www.newgrounds.com/audio/listen/252403
+P5:54:37 <vede> Uber lame.
+P5:54:43 <Eagle> Shush vede.
+P5:54:43 <08Notch> yes, you've mentioned that.
+P5:55:02 <citricsquid> vede: If I had a custom texture for everytime you said that, I'd have lots of custom textures. 
+P5:55:09 <08Notch> lol
+P5:55:09 <Miclee> Anyone else think Blizzard is just milking WoW now?
+P5:55:11 <Eagle> Notch: Leaves are a lame resource
+P5:55:15 <Daroh> Would the player be able to re-add any items that are lost manually? I ask due to wanting to create specific scenarios and/or dungeons
+P5:55:16 <KatMan> Notch: Sorry to ask again, but what do you think of making a racetrack mode?
+P5:55:19 <Eagle> What can you make with leaves?
+P5:55:20 <vede> So we can't even make our own monsters as an extension of existing monsters?
+P5:55:26 <08Notch> KatMan: I think that's best left to a mod.
+10P5:55:32 * Not_Famous (aye@c-67-187-207-63.hsd1.ca.comcast.net) has joined #minecraft
+P5:55:35 <pimpmasta> quick question for citricsquid: You made a Minecraft club on newgrounds right?
+P5:55:38 <vede> Even if we use the same models?
+P5:55:44 <citricsquid> pimpmasta: Not a club, but I made the thread.
+P5:55:46 <08Notch> vede: You can scale them!
+P5:55:51 <vede> ...
+P5:55:52 <pimpmasta> mkay...
+P5:55:52 <Eagle> :O!
+P5:55:55 <vede>  :/
+P5:55:55 <Super-Dot> Scaling :O
+P5:56:03 <Super-Dot> That's actually pretty awesome
+P5:56:04 <Eagle> Tiny evil zombie minions?!
+12P5:56:07 * nickname (aye@c-67-187-207-63.hsd1.ca.comcast.net) Quit (Ping timeout: 180 seconds)
+P5:56:08 <KatMan> Notch: How about cars with editable textures?
+P5:56:09 <08Notch> piglets = smaller pigs. :D
+P5:56:10 <pimpmasta> Then a club is in order...
+P5:56:17 <Eagle> Millions of tiny small zombies?!!
+P5:56:19 <08Notch> KatMan: I'll get right on that!!
+P5:56:20 <Eagle> Swarming around you?
+P5:56:23 <Miclee> Hmmm... Notch: Could each person set a custom skin for mobs? When the server is spawning mobs, it randomly picks from the available?
+P5:56:40 <08Notch> :-o
+P5:56:42 <Eagle> Notch: Do enemies just spawn wherever?
+P5:56:46 <vede> If you're going to have parts of the game like this so restricted from customization, you should at least supply a good amount of things as a base.
+P5:56:49 <Super-Dot> Notch: Mob scaling by powers of two, or by anything?
+P5:56:55 <fleshBasedProcessor> Lets try to focus on singleplayer for a while. Multiplayer is after The Boat
+P5:56:56 <08Notch> They'll probably have preferences
+P5:57:06 <citricsquid> pimpmasta: http://www.newgrounds.com/bbs/topic/1073157 Pretty much dead now :(
+P5:57:16 <08Notch> like goblins will only spawn in caves, cows will only spawn on grass, pigs will only spawn stick inside trees
+P5:57:20 <08Notch> *stuck
+P5:57:20 <Eagle> Notch: Like if you built a house couldn't a zombie spawn in your basement or something? (>:D) D:
+P5:57:24 <Eagle> Oh
+P5:57:29 <Miclee> Notch: Could each person set a custom skin for mobs? When the server is spawning mobs, it randomly picks from the available?
+P5:57:30 <08Notch> it could, yes =D
+P5:57:33 <Eagle> XD
+P5:57:43 <08Notch> Miclee: I don't see how that would not be annoying.
+P5:58:07 <Eagle> Notch: Would eating mushrooms have trippy side effects?
+P5:58:17 <08Notch> do you want it to?
+P5:58:20 <vede> Yes.
+P5:58:21 <Peerko> YES
+P5:58:21 <Eagle> Could they?
+P5:58:30 <08Notch> possibly, yes =)
+P5:58:32 <Eagle> :D
+P5:58:36 <Super-Dot> Touch fuzzy, get dizzy
+P5:58:40 <citricsquid> It'd be cool if everything started morphing slightly :D
+P5:58:42 <Peerko> shrooms are ok, mmmkay?
+P5:58:46 <08Notch> Super-Dot: Ok, we're going to need a run-up for that
+P5:58:58 <vede> I played a roguelike that handled drugs amazingly well for a roguelike once.
+P5:59:12 <vede> I suggest that if you get really high, objects start to look like other objects.
+P5:59:17 <Daroh> i'd rather you leave only specific types of fungus did that, you need to eat while in caves too after all :P
+P5:59:21 <Super-Dot> o\               /o
+P5:59:23 <vede> So fellow players could appear to be dragons or pigs.
+P5:59:24 <Miclee> You see a zombie:
+P5:59:28 <Miclee> Oh look, a piggie!
+P5:59:39 <Super-Dot>   ...o\     /o...
+P5:59:43 <fleshBasedProcessor> oh, if you eat mushrooms that really old vertex shifting stuff starts happening!
+P5:59:47 <Eagle> Notch: Spectate mode?
+P5:59:51 <vede> So people that get totally wasted would actually be totally hilarious in-game.
+P6:00:01 <Super-Dot>         o/\o
+P6:00:07 <08Notch> Super-Dot: You're my hero.
+P6:00:14 <Super-Dot> :D
+P6:00:21 <vede> What is that, Super-Dot?
+P6:00:26 <Eagle> A high five
+P6:00:30 <vede> Oh.
+P6:00:30 <Super-Dot> It's a run-up high five
+P6:00:31 <vede> OH
+P6:00:35 <vede> That's AWESOME
+P6:00:37 <08Notch> a run-up high five :D 
+P6:00:47 <08Notch> he made a game reference I got
+13P6:00:52 * Eagle run-up high fives Super-Dot
+P6:00:54 <08Notch> well, err, it was cooler at the time.
+P6:00:56 <vede> I've never experienced a run-up high-five.
+12P6:00:57 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) Quit (Quit: yare yare daze)
+P6:01:07 <Miclee> I think we've asked Notch every question possible.
+P6:01:10 <vede> I need to arrange one some time.
+P6:01:15 <Eagle> THERE ARE STILL MORE
+P6:01:17 <mail2345> wait
+P6:01:18 <fleshBasedProcessor> Notch log off, I need to go pack.
+P6:01:29 <Eagle> Notch: Weather?
+P6:01:32 <Super-Dot> I agree with fleshBasedProcessor that vertex shifting for mushrooms would be sweet
+P6:01:36 <Eagle> Notch: Spectate mode?
+P6:01:37 <Miclee> Weather!
+P6:01:39 <08Notch> Eagle: I like the idea of weather!
+P6:01:43 <Eagle> :O
+P6:01:45 <vede> So Notch, feedback on my shroom effects suggestion?
+P6:01:47 <08Notch> Eagle: Yes, most likely.
+12P6:01:56 * Arf (a@190.176.234.12) Quit (Ping timeout: 180 seconds)
+P6:02:08 <Eagle> Notch: Ability to change color of sky?
+P6:02:12 <Eagle> >.>
+P6:02:19 <08Notch> vede: Well.. Team Fortress had a similar effect, and it just sucked.
+P6:02:22 <08Notch> Eagle: Already possible. :D
+P6:02:25 <fleshBasedProcessor> Notch, built in support for flying/noclip to decrease the instances of hacking?
+P6:02:27 <Eagle> Wait what
+P6:02:27 <vede> ... Wha?
+P6:02:32 <mail2345> @Notch: How can entropy be reversed?
+P6:02:37 <Super-Dot> *-THE SKY IS PURPLE FROM THE FURY OF THE GODS…-*
+P6:02:48 <08Notch> fleshBasedProcessor: MAYBE. Probably not.
+P6:02:53 <citricsquid> fleshBasedProcessor: people always want more.
+P6:03:07 <Eagle> Notch: Half ops?
+P6:03:10 <08Notch> mail2345: Well, for example by reversing time. All physical interactions are time agnostic
+P6:03:11 <citricsquid> proper flying/noclip would just make them concentrate on other things.
+P6:03:24 <vede> How did TF2 do model changing, and how did it suck?
+P6:03:36 <fleshBasedProcessor> I don't actually like flying or no-clip, but the less stuff you leave to the hackers the less destructive hacking there is. Only a theory
+P6:03:39 <mail2345> aww, you should have anwered "THERE IS YET INSUFFICENT DATA FOR A MEANINGFUL ANSWER"
+P6:03:54 <08Notch> Oh yeah!! Sorry, I forgot that (very awesome) short story!
+P6:04:07 <fleshBasedProcessor> Notch, are you the very model of a singularitarian? http://www.youtube.com/watch?v=qnreVTKtpMs
+P6:04:09 <Eagle> Notch: Haaaalf ops? :D
+P6:04:09 <vede> Vision-tinting?
+P6:04:18 <08Notch> Eagle: Not sure!
+P6:04:32 <Miclee> Notch: What's the best RTS game you've ever played?
+P6:04:40 <Eagle> They'd only have the ability to make admin blocks or something
+P6:04:43 <Eagle> And to tp
+P6:05:07 <Super-Dot> If I designed a half-op system, I would give them the ability to do everything BUT admincrete :P
+P6:05:17 <liq3> Random image of today: http://2.bp.blogspot.com/_ynOlmkpsf8U/So8Bk8Kl6qI/AAAAAAAAAjo/eRdZts4GBy4/s1600/Dimfall019MED.jpg
+P6:05:25 <Griskard> Yeah
+P6:05:28 <08Notch> Miclee: RTS? Hmm... Don't remember
+P6:05:31 <Griskard> Halfop for me
+P6:05:42 <Griskard> Would be Kick ability
+P6:05:43 <Super-Dot> Actually, separating ops and admincreters would do a lot of good
+P6:05:43 <Griskard> TP
+P6:05:44 <08Notch> fleshBasedProcessor: I'm hoping the singularity will happen. =)
+P6:05:46 <Griskard> And Maybe ban
+12P6:07:07 * Leyart (asd@dynamic-adsl-94-36-228-233.clienti.tiscali.it) Quit (Quit: Client Exited)
+P6:07:10 <08Notch> fleshBasedProcessor: I enjoyed that vid. =D
+P6:07:13 <Miclee> I'm incredibly bored right now.
+P6:07:23 <Griskard> Practice LUA modding
+P6:07:28 <Eagle> I'm having a field day with questions today.
+P6:07:30 <mail2345> Lua*
+P6:07:33 <mail2345> that's it
+P6:07:33 <Miclee> With what?
+P6:07:36 <pimpmasta> now... I share with you this funneh picture.
+12P6:07:37 * Morgranth (mau_577@77.61.219.161) Quit (Quit: Client Exited)
+P6:07:38 <pimpmasta> http://i31.tinypic.com/24l8uvo.jpg
+P6:07:43 <Griskard> Something in Lua
+P6:07:44 <mail2345> i'm programming my bot to correct everyone who says LUA.
+P6:07:51 <Miclee> lol
+P6:08:12 <fleshBasedProcessor> Notch I was linked to it by a webcomic called Dresden Codak. Its about the singularity and robot girls! http://dresdencodak.com/cast/
+P6:08:12 <citricsquid> pimpmasta: How the fuck do you manage on 1024 x 768?
+P6:08:14 <citricsquid> I would die.
+P6:09:14 <Eagle> Notch: Running?
+P6:09:37 <pimpmasta> It requires much skill, Of course I have plenty :p
+P6:10:14 <pimpmasta> so...
+P6:10:20 <pimpmasta> What now?
+P6:10:27 <08Notch> Eagle: Yes, I've thought about that. It'd probably be the other way around, though.
+P6:10:35 <Snowman> FUCK
+P6:10:36 <Eagle> ?
+P6:10:37 <08Notch> Holding shift = walking slower, and not falling off any ledges
+P6:10:47 <Eagle> Notch: So... Sneaking? :D
+P6:10:51 <Super-Dot> Would the current speed be the running speed?
+P6:10:51 <Snowman> Just smashed a mosquito on the wall and now there's blood all over it
+P6:10:52 <08Notch> sure =)
+P6:10:59 <Eagle> Notch: Will animals sleep at night?
+P6:11:00 <08Notch> Super-Dot: Doesn't have to be.
+P6:11:14 <pimpmasta> We need a running speed
+P6:11:14 <08Notch> Eagle: There won't be night/day cycles in the normal game modes
+P6:11:18 <Super-Dot> Oh boy, potential speed increase
+P6:11:20 <Eagle> Hm.
+P6:11:28 <08Notch> do you think you move too slow?
+P6:11:39 <pimpmasta> Yes.
+P6:11:40 <Super-Dot> I actually don't :O
+P6:11:47 <Super-Dot> But other people do
+P6:11:50 <08Notch> it's very easy to fix. =)
+P6:11:51 <Miclee> Hmmmm... anyone here ever play Mount&Blade?
+P6:11:52 <Veronika> No, but we need some way to move across large distances quickly.
+P6:11:53 <Eagle> I was going to say if they do sleep, sneaking by them wouldn't wake them up. :D
+P6:11:57 <Snowman> The current speed is good
+12P6:12:02 * PixelSith64 (pixelsith@71-217-0-23.tukw.qwest.net) Quit (Ping timeout: 180 seconds)
+P6:12:04 <Snowman> But a sprint would be cool
+P6:12:05 <Griskard> I play Mount and blade
+P6:12:05 <Daroh> running speed is fine... for survival mode, it could do with speeding up for sandbox though
+P6:12:05 <Super-Dot> Yeah, moving across large distances is annoying
+P6:12:12 <08Notch> oohh, sprinting!
+P6:12:16 <Miclee> Griskard, what kind of mod should I make for it?
+P6:12:20 <pimpmasta> Most people do, It's boring walking around for ages.
+P6:12:28 <Griskard> Dunno. I like Custom Settlements myself
+P6:12:34 <pimpmasta> Looking for something.
+P6:12:37 <08Notch> I could add sprinting and make it infinite in creative
+P6:12:42 <Miclee> What kind of mod would you want?
+P6:12:48 <Daroh> sounds fair
+P6:12:55 <LucanC> Notch, if you implement sprinting, you should make it infinite in sandbox mode
+P6:12:55 <Griskard> Eh. Im a bit over it atm. So I dunno
+P6:12:56 <Veronika> If you do, please make it a toggle (Capslock?)
+P6:13:21 <pimpmasta> So.. Notch'
+P6:13:31 <Griskard> Hey Notch. Will there be the ability to add AI that people can use. Like bodyguards, guards, challenges and so on
+P6:13:39 <fleshBasedProcessor> Veronika, becouse we want everyone yelling "SORRY ABOUT THE CAPS I'M SPRINTING RIGHT NOW"
+P6:13:40 <pimpmasta> When will we be able to import doom maps?
+P6:13:46 <08Notch> Griskard: Yes, you will be able to mod the ai
+P6:13:52 <08Notch> haha fleshBasedProcessor
+13P6:13:59 * citricsquid attacks a skeleton
+P6:14:05 <citricsquid> skeleton shouts "YOU MASSIVE TWAT"
+P6:14:12 <08Notch> well, i feel a bit bad calling it "ai"
+P6:14:12 <citricsquid> I look forward to modding.
+13P6:14:20 * fleshBasedProcessor traps skeletons in pits and tries to make them breed
+P6:14:23 <08Notch> the mobs and creatures will be very old-school predictable
+P6:14:35 <08Notch> difficult because they cheat (like in good old games), not because they're clever
+P6:14:38 <Griskard> But we could mod it to make it smarter, right?
+P6:14:41 <08Notch> yes
+P6:15:14 <Griskard> Ok. Just that I think on an RPG server, if clans want their own bases and such they will probably need NPC guards
+P6:15:26 <LG_Legacy> Modding enemies to speak while attacking..
+P6:15:36 <pimpmasta> Ah yes.
+P6:15:36 <LG_Legacy> Why do i sense some twisted Final Fantasy playing type?
+P6:15:38 <citricsquid> LG_Legacy: "ow that hurt, stop it!"
+P6:15:50 <Griskard> Just a blood curdling super scream. So that people crap themselves
+P6:15:56 <LG_Legacy> Heh
+P6:16:00 <citricsquid> Someone will mod swords to penises and make sex talk come from the skeletons if we have custom textures.
+P6:16:17 <LG_Legacy> Notch, you should add a ghoul/twisted monster that screams when it tries to get you, or  when it dies.
+P6:16:22 <pimpmasta> You must make zombies scream "ARRRRRGGGHHH"
+P6:16:32 <Griskard> Id be happy with sharks, turtles and squid, first
+P6:16:36 <Griskard> Especially squid
+P6:16:44 <fleshBasedProcessor> The Turing Test mode! Everyone that joins controls a player and a custom written Lua AI and everyone has to convince everyone else that they are human. sound fun?
+P6:16:46 <citricsquid> Griskard: squids :D
+P6:16:46 <pimpmasta> Oh god...
+P6:17:01 <citricsquid> fleshBasedProcessor: then they become self aware and break out of the game.
+P6:17:05 <pimpmasta> That seems like something you would do, Citric squid.
+P6:17:58 <citricsquid> squids that squirt lemon juice when you attack them?
+P6:18:03 <LG_Legacy> Heh
+P6:18:04 <mail2345> @Notch, will there be server side systems to read and modify the velocity of clients?
+12P6:18:05 * KatMan (Mibbit@ip98-179-180-215.ri.ri.cox.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P6:18:20 <mail2345> for things like speed ramps.
+P6:18:23 <mail2345> or portals
+P6:18:30 <pimpmasta> lulz
+P6:18:46 <fleshBasedProcessor> Notch, why are you awake?
+10P6:18:48 * PixelSith64 (pixelsith@71-217-0-23.tukw.qwest.net) has joined #minecraft
+P6:18:59 <Griskard> Hes god
+P6:19:03 <pimpmasta> You dare wake notch from his slumber?
+P6:20:04 <fleshBasedProcessor> What does everyone currently have open on their task bar? Me: Steam, visual studio, firefox, and chatzilla
+P6:20:32 <pimpmasta> http://i31.tinypic.com/24l8uvo.jpg
+P6:20:33 <citricsquid> fleshBasedProcessor: windows live messenger, firefox, notepad++, windows live mail, spotify, steam, tweetdeck, fireworks and IRC :D
+P6:20:37 <pimpmasta> I love that picture.
+P6:20:41 <Not_Famous> Me: Backdoor Sluts Nine
+P6:20:41 <Snowman> Youtube and chatzilla
+P6:20:42 <Griskard> Me "Skype, Minecraft, IRC
+12P6:20:46 * Logger (mail2345@cpe-70-95-131-103.hawaii.res.rr.com) Quit (Ping timeout: 180 seconds)
+P6:21:13 <pimpmasta> Mine craft Irc and that picture... To remind me notch thinks I am sexy/
+12P6:21:22 * princepsregulus (princepsre@adsl-70-239-9-126.dsl.bcvloh.sbcglobal.net) Quit (Ping timeout: 180 seconds)
+P6:21:27 <gear> pidgin, notepadd+, foobar, WoW, ventrillo, firefox
+P6:21:30 <citricsquid> http://img1.uploadscreenshot.com/images/orig/8/23300211164-orig.jpg :D
+P6:21:43 <citricsquid> gear: I always type notepadd+ and have to correct it, haha.
+P6:21:46 <gear> lol
+P6:22:24 <fleshBasedProcessor> I think Notch fell asleep at his keyboard. Notch are you awake?
+P6:22:41 <Eagle> Spontanious heart attack.
+P6:22:46 <Eagle> :(
+P6:22:49 <Eagle> He's dead.
+P6:23:02 <PixelSith64> he's dead?! 
+P6:23:06 <PixelSith64> Do we still get survival mode?
+P6:23:08 <fleshBasedProcessor> Eagle, don't even joke. I don't care if he's dead, but Minecraft!
+P6:23:14 <Eagle> XD
+P6:23:14 <fleshBasedProcessor> jk
+P6:23:45 <pimpmasta> pixel
+P6:23:48 <PixelSith64> Yes?
+P6:23:57 <pimpmasta> Notch thinks I am sexy now :D
+P6:23:59 <PixelSith64> xD
+P6:24:02 <pimpmasta> http://i31.tinypic.com/24l8uvo.jpg
+P6:24:22 <PixelSith64> hahaha
+P6:24:27 <PixelSith64> xD
+P6:24:41 <Quatroking> SPANISH LANGUAGE.
+P6:24:43 <Quatroking> IT IS SILLY.
+P6:24:44 <Quatroking> http://www.youtube.com/watch?v=b86SOHZ0nIA&feature=player_embedded
+P6:24:45 <PixelSith64> That's awesome
+P6:24:46 <citricsquid> pimpmasta: 3 times is enough.
+P6:24:56 <pimpmasta> Okay, Bad pimp.
+P6:24:56 <PixelSith64> Anyway, I'm pissed at myself
+P6:25:00 <PixelSith64> I just uninstalled Steam
+P6:25:02 <PixelSith64> On accident
+P6:25:13 <PixelSith64> And I have to reinstall 15+ games now
+P6:25:14 <PixelSith64> >_>
+P6:25:21 <Quatroking> lol pwnd
+P6:25:26 <citricsquid> PixelSith64: client doesn't remove all games does it?
+P6:25:51 <Quatroking> I've got my gcf's backed up
+P6:25:59 <PixelSith64> Just removed it from being installed. I still have them
+P6:26:01 <PixelSith64> just have to reinstall now
+P6:27:16 <PixelSith64> So is Mr. N-otch asleep?
+10P6:27:20 * abon (abon@tech-224-41.telecom.by) has joined #minecraft
+P6:27:21 <fleshBasedProcessor> I think Notch is done talking now, bye.
+10P6:27:32 * fleshBasedProcessor is now known as fleshBasedProcessor|AFK
+10P6:27:42 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) has joined #minecraft
+10P6:27:45 * smn is now known as smn`offline
+P6:28:01 <Iguana> Can anyone help me with XChat 2?
+P6:28:15 <pimpmasta> I have to bump that thread.
+10P6:28:23 * Logger (mail2345@cpe-70-95-131-103.hawaii.res.rr.com) has joined #minecraft
+P6:28:27 <pimpmasta> Like... Now.
+12P6:28:34 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+P6:29:31 <citricsquid> aera: You're good with last.fm api, easy way to check if a user exists using the api without authenticating? :D
+P6:31:32 <mail2345> anyone here wanna play wolfhunt?
+P6:31:56 <mail2345> Like mafia, but werewolves instead. #wolfhunt
+P6:32:15 <pimpmasta> Um... Thread= bumped.
+P6:32:34 <citricsquid> pimpmasta: only level 9? :P
+P6:33:21 <LG_Legacy> Wolfhunt?..
+P6:33:42 <mail2345> yea. basically you try to find out who the werewolf in the group is
+P6:33:48 <mail2345> and uhh lynch them
+P6:33:54 <pimpmasta> citricsquid Does you like my spongebob?
+P6:33:54 <LG_Legacy> Is this some stupid flash game or text based?
+P6:34:00 <mail2345> text :P
+P6:34:01 <citricsquid> pimpmasta: it r pretty
+P6:34:10 <pimpmasta>  Yay!
+P6:34:49 <pimpmasta> And it is proof I have WAY to much free time on my hands.
+P6:35:21 <LG_Legacy> 3/4 Minecraft Community Admins online.
+P6:37:02 <LG_Legacy> You know sometime, someone is going to photoshop a Admin CP, notch username, and Testing Grounds onto the website and post it somewhere.
+P6:37:12 <Dudebro> lololololol
+10P6:39:21 * Griskard_ (chatzilla@21.071.dsl.syd.iprimus.net.au) has joined #minecraft
+12P6:41:07 * Griskard (chatzilla@65.112.dsl.syd.iprimus.net.au) Quit (Ping timeout: 180 seconds)
+10P6:41:09 * Griskard__ (chatzilla@167.212.dsl.syd.iprimus.net.au) has joined #minecraft
+10P6:41:10 * Griskard__ is now known as Griskard
+12P6:42:17 * pimpmasta (Mibbit@adsl-232-12-151.asm.bellsouth.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P6:43:02 * Griskard_ (chatzilla@21.071.dsl.syd.iprimus.net.au) Quit (Ping timeout: 180 seconds)
+10P6:44:53 * Jakkarra (Jakkarra@5ad2bd83.bb.sky.com) has joined #minecraft
+P6:44:58 <Jakkarra> Hey people
+P6:45:09 <Jakkarra> Hey! notch is still here!
+10P6:45:26 * Naven (Mibbit@p4FD4C871.dip.t-dialin.net) has joined #minecraft
+P6:45:32 <Jakkarra> ...
+P6:45:35 <ChJees> He prolly fell asleep on his keyboar
+P6:45:36 <ChJees> d
+P6:45:41 <Jakkarra> hehe
+P6:45:43 <Eagle> He died or something.
+P6:45:49 <Jakkarra> Oh noes!
+P6:45:57 <citricsquid> I just put a tin of spaghetti hoops
+P6:45:57 <Jakkarra> Snaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaake!
+P6:46:00 <citricsquid> and a ting of revioli
+P6:46:02 <citricsquid> in the same pan
+P6:46:03 <citricsquid> ravioli*
+P6:46:09 <Jakkarra> i just drank two litres of pop
+P6:46:15 <Daroh> ugh, spagetti hoops? cant stand the darn things
+P6:46:26 <Jakkarra> why?
+P6:46:28 <ChJees> Ravioli in can = Fail food
+P6:46:36 <Jakkarra> i usually just eat tins of Rice pudding
+P6:46:45 <Daroh> i just dont like them
+P6:46:48 <Jakkarra> nothin' beats rice pudding with jam in
+P6:47:09 <Daroh> +honey ftw
+P6:47:14 <Jakkarra> blegh
+P6:47:20 <Jakkarra> i don't like honey that much
+P6:47:23 <Jakkarra> then again
+P6:47:29 <Jakkarra> its always the Clearish sort
+P6:47:33 <Jakkarra> never had Comb
+P6:47:39 <Jakkarra> or, the white honey you get
+P6:48:08 <Daroh> theres hundreds of different varieties, try something that isnt a cheapy store brand
+10P6:48:11 * Charlie99993 (chatzilla@75.76.129.65) has joined #minecraft
+P6:48:24 <Jakkarra> yeah
+P6:48:27 <Jakkarra> good idea
+P6:48:31 <Jakkarra> i LIKE the taste
+P6:48:34 <Jakkarra> its the aftertaste
+P6:48:44 <Jakkarra> its been a while sinse i last had it though
+12P6:48:47 * Naven (Mibbit@p4FD4C871.dip.t-dialin.net) Quit (Quit: Client Exited)
+P6:48:52 <Jakkarra> ill get some honeycomb tommorrow
+P6:48:55 <Jakkarra> *since
+P6:49:52 <Jakkarra> so.
+P6:50:06 <Jakkarra> i notice the control scheme's changin' a bit
+P6:50:14 <Jakkarra> probably for the best
+P6:51:00 <gear> stop talking to yourself
+P6:51:16 <Dudebro> No.
+P6:51:34 <Jakkarra> yeah#
+P6:51:52 <Jakkarra> i seem like im talking to myself becasue NOONE EVER ANSWERS ME.
+P6:52:00 <LG_Legacy> Wah
+P6:53:02 <Jakkarra> B'AWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWw
+P6:53:33 <Not_Famous> What's up, Jakkarra?
+10P6:53:52 * chrstfer (notch@pool-173-48-188-233.bstnma.fios.verizon.net) has joined #minecraft
+P6:54:16 <Jakkarra> ^^
+P6:54:16 <chrstfer> is notch truly on right nao, or is he afk?
+P6:54:22 <Jakkarra> AFK i assume
+P6:54:25 <chrstfer> ty
+P6:54:27 <Jakkarra> Noooooooootch?
+P6:54:35 <Jakkarra> i remember you!
+P6:54:39 <Jakkarra> Mr. Emo skin!
+P6:54:42 <chrstfer> notch : are you there?
+P6:54:45 <chrstfer> hello jak
+P6:54:51 <Jakkarra> hello
+P6:54:51 <PixelSith64> Guys, leave him alone. He's probably sleeping. D:
+P6:54:52 <chrstfer> i mite change my skin though
+P6:54:59 <PixelSith64> Hi Chrstfer. I've seen you before
+P6:55:04 <chrstfer> lol pixel ok
+P6:55:42 <Jakkarra> ten days till survival!
+P6:56:34 <chrstfer> omg yay
+13P6:56:47 * chrstfer slaps Notch around a bit with a large trout
+P6:58:10 <chrstfer> ok, say here if you are not AFK
+P6:58:34 <chrstfer> here btw
+P6:58:35 <chrstfer> lol
+P6:58:42 <Not_Famous> Here... kinda?
+P6:58:45 <Dudebro> here
+P6:58:52 <Jakkarra> here
+P6:59:02 <ZomBuster> here?
+P6:59:15 <PixelSith64> Here?
+P6:59:21 <chrstfer> lol
+P6:59:22 <gear> not here
+P6:59:22 <PixelSith64> It's like a verizon ladder thing
+P6:59:27 <PixelSith64> If you tilt your head to the right
+P6:59:55 <chrstfer> lol
+P6:59:59 <ZomBuster> heh?
+10P7:00:01 * Arf (a@190.176.234.12) has joined #minecraft
+10P7:01:08 * Douchington (Mibbit@68-186-248-7.dhcp.oxfr.ma.charter.com) has joined #minecraft
+12P7:01:13 * ChJees (jespr@81-234-87-168-no38.tbcn.telia.com) Quit (Quit: Client Exited)
+P7:01:15 <Jakkarra> im in england, we don't have verizon, 'splain
+P7:01:43 <Not_Famous> lol
+P7:01:48 <08Notch> yay, view bobbing
+P7:01:54 <08Notch> (yes, you can turn it off)
+P7:01:54 <Not_Famous> yay!
+P7:01:55 <Dudebro> yay
+P7:01:56 <Eagle> What the
+P7:02:07 <Eagle> Notch, where have you been? O.o
+P7:02:09 <Jakkarra> Notch!
+P7:02:15 <Jakkarra> the wanderer returns!
+P7:02:23 <Eagle> You like died of a sudden heart attack at the keyboard or something
+P7:02:36 <Jakkarra> and then your bottled fairy Helped you up
+P7:02:42 <Not_Famous> He didn't want to answer any more questiong @_@
+P7:02:45 <Not_Famous> questions*
+P7:04:12 <Jakkarra> Of course he does!
+P7:04:19 <Jakkarra> :P
+P7:04:32 <PixelSith64> :O
+P7:04:33 <PixelSith64> Notch!
+P7:04:36 <Not_Famous> @_@
+P7:04:42 <PixelSith64> Eagle, you were wrong
+P7:04:46 <Eagle> :O
+P7:04:47 <mail2345> @Notch, will there be server side systems to read and modify the velocity of clients?
+P7:04:48 <PixelSith64> Pouring water on computers does revive him
+P7:05:00 <mail2345> for speed ramps and velocity twisting porals
+P7:05:02 <mail2345> and the like
+P7:05:32 <chrstfer> so, is notch here now
+P7:05:38 <Dudebro> i think so
+P7:05:39 <mail2345> @vede, dude, you caused the villagers to lose
+P7:05:55 <LG_Legacy> Squidward is a nazi
+P7:06:02 <Jakkarra> so, notch, are you ENJOYING the coding for the game?
+P7:06:05 <PixelSith64> yep
+P7:06:06 <PixelSith64> he did
+P7:06:07 <PixelSith64> :<
+P7:06:25 <PixelSith64> I love how as soon as he comes online
+P7:06:29 <PixelSith64> you guys bombard him with questions
+P7:07:14 <Not_Famous> I agree
+12P7:07:21 * Douchington (Mibbit@68-186-248-7.dhcp.oxfr.ma.charter.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P7:07:51 <08Notch> Jakkarra: Very much, yes =D
+P7:08:02 <Jakkarra> Awesome
+P7:08:10 <Jakkarra> im attempting to learn C++ myself
+P7:08:20 <Jakkarra> planning on making a game... eventually
+P7:08:31 <08Notch> =D
+P7:08:37 <chrstfer> jak its verry hard to do that... 
+P7:08:43 <08Notch> it's a very fun hobby
+12P7:08:48 * LucanC (IceChat7@86-42-228-34-dynamic.b-ras1.cld.dublin.eircom.net) Quit (Quit: Easy as 3.14159265358979323846... )
+P7:08:55 <Eagle> Are you coding right now?
+P7:08:55 <chrstfer> i know a bit of c++, its very fun, just hard to do and time consuming
+10P7:09:00 * Skywars (Mibbit@adsl-64-173-170-82.dsl.frsn01.pacbell.net) has joined #minecraft
+P7:09:03 <chrstfer> notch wassup?
+P7:09:06 <PixelSith64> Notch, what would you say the biggest challenge was with making the game so far?
+P7:09:26 <Skywars> Hey notch is on?
+P7:09:30 <chrstfer> yes
+P7:09:39 <08Notch> PixelSith64: Survival mode is.

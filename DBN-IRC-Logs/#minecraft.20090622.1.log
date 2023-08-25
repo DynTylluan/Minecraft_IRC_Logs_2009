@@ -1,0 +1,841 @@
+
+Session Start: Mon Jun 22 00:00:01 2009
+Session Ident: #minecraft
+A12:03:58 <Maulrus> NIGHT ALL
+A12:05:19 <C418s> GO TO BED
+12A12:06:49 * laazala (honka@202-21-136-59.cable4.acsdata.co.nz) Quit (Ping timeout: 180 seconds)
+10A12:06:51 * laazala (honka@202-21-136-59.cable4.acsdata.co.nz) has joined #minecraft
+A12:07:56 <LazyWaffle> Maul, can you tell me when the server's back up?
+12A12:09:39 * xetam (zzzz@177-goc-17.acn.waw.pl) Quit (Quit: Leaving)
+10A12:10:33 * ShadowAddict (Mibbit@ip24-252-94-236.no.no.cox.net) has joined #minecraft
+A12:11:12 <ShadowAddict> fyi to anybody who was on it: maulrus' server isn't going back up again tonight
+A12:11:13 <ShadowAddict> :c
+A12:11:15 <ShadowAddict> sorry
+A12:11:29 <ShadowAddict> to the two or three people not in this channel that were on it
+A12:11:38 <ShadowAddict> >_>
+A12:12:15 <ShadowAddict> also it probably won't be up again til tomorrow afternoon
+A12:12:23 <ShadowAddict> cause my schedule sucks
+A12:12:29 <ShadowAddict> anyway bye again #minecraft
+12A12:13:03 * ShadowAddict (Mibbit@ip24-252-94-236.no.no.cox.net) Quit (Quit: Client Exited)
+A12:14:08 <Maulrus> LazyWaffle: I will but it won't be until tomorrow afternoon, as that dashing gentleman above mentioned
+A12:14:11 <Maulrus> >_>
+A12:14:33 <Maulrus> I could potentially leave it up til, say, 7 in the morning
+A12:14:43 <Maulrus> but I don't really want to
+A12:15:06 <Maulrus> eventually I'll get it into a setup where it's more or less on all the time
+A12:15:36 <Maulrus> I am forced to jump to and from a variety of computers, so it won't be up constantly ever
+A12:15:54 <Maulrus> and i am babbling
+A12:15:58 <Maulrus> goodnight #minecraft
+A12:16:23 <vdgmprgrmr> Goodnight you crazy babbling man.
+12A12:16:49 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A12:20:18 <Redshift> http://minecraft.net/play.jsp?server=23d84c17a3f31fef4c69a960aa6ad575
+10A12:21:25 * Cameron (chatzilla@ip72-219-179-60.oc.oc.cox.net) has joined #minecraft
+A12:21:34 <Cameron> http://www.minecraft.net/play.jsp?server=8ddcd3905567acb4cda924f2ccc8f926 Map with 8 times normal building space. :D
+A12:21:48 <Inschato> That's.. excessive
+A12:22:08 <Cameron> Very.
+A12:23:57 <C418s> haha, these school pcs have java
+A12:24:02 <C418s> but I can't connect to servers
+A12:24:08 <C418s> also these computers are slow like shit
+10A12:28:14 * andyy (chatzilla@ppp-69-148-16-250.dsl.austtx.swbell.net) has joined #minecraft
+A12:28:39 <andyy> Got a question about ports, is there a way to tell if they are opened or closed effectively?
+A12:28:50 <andyy> I have tried a program from portforward.com
+A12:29:02 <andyy> but dont think it works to well
+A12:33:32 <Redshift> google "open port"
+A12:33:35 <Redshift> first link
+A12:33:55 <Redshift> although, the port not actually be open unless the server is running
+A12:34:00 <Redshift> might not*
+A12:37:20 <Hunter712> http://minecraftforum.net/viewtopic.php?id=345
+A12:40:46 <Inschato> Cheat detected? Too much lag? That's hardly a cheat. It's certainly undesirable though. >_>
+12A12:45:59 * Rydia (Haruhi@68.186.97.143) Quit (Read error: Connection reset by peer)
+12A12:46:00 * Kapow (kapox@c-68-37-80-138.hsd1.nj.comcast.net) Quit (Ping timeout: 180 seconds)
+10A12:46:02 * Haruhi2 (Haruhi@68.186.97.143) has joined #minecraft
+10A12:49:24 * andyy_ (chatzilla@ppp-69-148-16-250.dsl.austtx.swbell.net) has joined #minecraft
+12A12:49:24 * andyy (chatzilla@ppp-69-148-16-250.dsl.austtx.swbell.net) Quit (Read error: Connection reset by peer)
+10A12:49:25 * andyy_ is now known as andyy
+12A12:50:54 * C418s (C418s@207.176.6.148) Quit (Ping timeout: 180 seconds)
+12A12:51:02 * Inschato (Doom@S0106001346a26f81.gv.shawcable.net) Quit (Quit: Client Exited)
+12A12:56:58 * andyy (chatzilla@ppp-69-148-16-250.dsl.austtx.swbell.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+12A12:58:47 * PuyoDead (Joe@cpe-24-210-151-151.woh.res.rr.com) Quit (Quit: Leaving)
+12A1:03:07 * Saladan0 (Saladan0@124.40.58.227) Quit (Ping timeout: 180 seconds)
+10A1:03:57 * Kapow (kapox@c-68-37-80-138.hsd1.nj.comcast.net) has joined #minecraft
+10A1:13:28 * Saladan0 (Saladan0@124.40.58.227) has joined #minecraft
+10A1:13:58 * Xerux (Miranda@ip1-217.edtnab02g02.dialup.ca.telus.com) has joined #minecraft
+10A1:16:01 * C418s (C418s@207.176.6.148) has joined #minecraft
+10A1:19:58 * Jarod (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+A1:20:03 <Jarod> hey
+A1:20:09 <Xerux> hey
+A1:20:20 <Evil-Ville> hey
+A1:20:21 <Jarod> I have windows vista and my server can not be hosted
+A1:20:24 <Jarod> any ideas?
+A1:20:31 <Jarod> it says failed to host
+A1:20:36 <Jarod> or something along those lines
+10A1:21:03 * Jarod is now known as Turtleboats
+A1:21:12 <Turtleboats> Does anyone know?
+A1:23:18 <Turtleboats> ...anyone?
+A1:30:46 <vdgmprgrmr> Jarodboats: Get a better OS. Tends to fix a lot of things.
+10A1:31:24 * Cue (cueball61@cpc2-alde2-0-0-cust719.glfd.cable.ntl.com) has joined #minecraft
+A1:32:44 <Turtleboats> igght man
+A1:32:46 <Turtleboats> thanks
+10A1:33:50 * Ebonblade (jason.ebon@CPE-2-52.dsl.OntheNet.net) has left #minecraft
+10A1:38:40 * Senku is now known as Senku|Tree
+12A1:42:20 * yoshibot (kit@71-223-193-31.phnx.qwest.net) Quit (Remote host closed the connection)
+12A1:42:50 * C418s (C418s@207.176.6.148) Quit (Ping timeout: 180 seconds)
+A1:46:04 <Turtleboats> Hey
+10A1:50:45 * C418s (C418s@209.8.41.66) has joined #minecraft
+12A1:54:03 * Super-Dot (Super-Dot@adsl-75-61-88-173.dsl.pltn13.sbcglobal.net) Quit (Quit: Super-Dot)
+12A1:54:29 * Cue (cueball61@cpc2-alde2-0-0-cust719.glfd.cable.ntl.com) Quit (Quit: School)
+10A1:58:04 * hey5000 (Mibbit@71-218-139-142.hlrn.qwest.net) has joined #minecraft
+A2:03:20 <Turtleboats> anyone on?
+A2:03:35 <Turtleboats> anyone know how to run a server on Vista?
+12A2:10:24 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+A2:11:37 <paul|2> huh?
+A2:11:42 <paul|2> I'm running one on W7 just fine
+10A2:18:23 * Redshift_ (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) has joined #minecraft
+12A2:19:59 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Ping timeout: 180 seconds)
+10A2:20:05 * Redshift_ is now known as Redshift
+12A2:21:06 * Trashman (chatzilla@cpe-70-113-55-136.austin.res.rr.com) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+12A2:24:15 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+10A2:25:01 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) has joined #minecraft
+12A2:28:11 * Lmaoboat (Lmaoboat@pool-71-126-132-201.washdc.fios.verizon.net) Quit (Quit: Leaving)
+10A2:29:02 * paul|2 (grif392@209.65.247.45) has left #minecraft
+12A2:31:59 * Xerux (Miranda@ip1-217.edtnab02g02.dialup.ca.telus.com) Quit (Quit: Xerux)
+12A2:41:20 * C418s (C418s@209.8.41.66) Quit (Ping timeout: 180 seconds)
+12A2:45:06 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) Quit (Quit: yare yare daze)
+12A2:53:59 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+A2:57:38 <Redshift> i finally reset my ocean build server
+A2:57:40 <Redshift> http://minecraft.net/play.jsp?server=9653619086c67543877d610be3493a01
+A2:57:42 <Redshift> fresh map
+A3:03:20 <Bobobo> why can't greifers be funny
+A3:03:35 <Bobobo> i'd get a laugh if i came into my world and my flower had a giant penis
+A3:03:50 <Bobobo> but if the greifer isnt even there when i am to see what they've done
+A3:03:52 <Bobobo> whats the point?
+A3:05:11 <Bobobo> lol
+A3:05:13 <Bobobo> loaded a backup
+A3:05:15 <Bobobo> and sure enough
+A3:05:20 <Bobobo> a man someone built has a penis
+A3:05:28 <Bobobo> and its jizzing all over the spawn
+A3:05:29 <Bobobo> :P
+A3:11:34 <JTE> Uh..?
+A3:11:58 <JTE> Yay for colorful blocks.
+10A3:21:06 * doohan (doohan@cpc2-oxfd7-0-0-cust777.oxfd.cable.ntl.com) has joined #minecraft
+12A3:33:36 * LazyWaffle (acywuracai@c-69-247-35-18.hsd1.fl.comcast.net) Quit (Quit: Client Exited)
+A3:40:39 <Bobobo> i still think that everyone should have ownership of their own blocks
+A3:40:46 <Bobobo> and admins can delete anything
+A3:41:01 <Bobobo> but only the owners can edit their own stuff
+A3:41:07 <Bobobo> the owner and admin
+10A3:41:48 * C418s (C418s@207.176.6.148) has joined #minecraft
+10A3:42:02 * NiGMA (jordan.wk@CPE-124-186-114-123.qld.bigpond.net.au) has joined #minecraft
+A3:42:38 <NiGMA> Damn! rosetta isn't here!
+12A3:42:47 * NiGMA (jordan.wk@CPE-124-186-114-123.qld.bigpond.net.au) Quit (Quit: Client Exited)
+10A3:50:45 * Trashman (chatzilla@cpe-70-113-55-136.austin.res.rr.com) has joined #minecraft
+A3:53:18 <Trashman> yarg
+10A3:56:29 * Gaviarctica (teemuc_93@a91-154-241-80.elisa-laajakaista.fi) has joined #minecraft
+10A4:02:34 * Randati (Randati@a88-112-205-124.elisa-laajakaista.fi) has joined #minecraft
+A4:02:57 <Trashman> anyone know how to run the server on vista
+A4:05:58 <m0bus> you know whats really gay?
+A4:06:08 <m0bus> powertripping admins
+A4:06:29 <m0bus> trashman, you have to add java to the enviroment table
+A4:06:47 <Trashman> i can play the game, just not hose a server
+A4:06:51 <m0bus> yep
+A4:06:53 <Trashman> host
+A4:07:02 <m0bus> you have to add java to the enviroment tables to run the server
+A4:07:12 <Trashman> explain please
+A4:07:17 <m0bus> :P ok
+A4:07:42 <m0bus> go to the control panel, go to system
+A4:08:01 <m0bus> on the left go to advanced system settings
+A4:08:14 <m0bus> on the bottom there will be a button for env tables
+10A4:08:31 * Quatroking (Quatroking@86.90.159.252) has joined #minecraft
+A4:08:34 <m0bus> in the bottom box, look for something called path
+A4:08:42 <Quatroking> Hay there
+A4:09:09 <m0bus> click edit and paste the location of java's bin folder
+A4:09:11 <m0bus> C:\Program Files (x86)\Java\jre1.6.0_07\bin
+A4:09:16 <m0bus> or wherever yours is
+A4:09:20 <m0bus> sup quak
+A4:10:58 <Quatroking> quack quack
+A4:11:03 <Quatroking> >:C
+A4:12:13 <m0bus> quat**
+A4:12:17 <m0bus> sorry :\
+A4:12:43 <Quatroking> I'
+A4:12:51 <Quatroking> I'll never forgive you
+10A4:13:55 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) has joined #minecraft
+A4:14:48 <Ylle> http://www.minecraft.net/skin/skin.jsp?user=ylle so hey here's my first skin lol
+A4:15:27 <Ylle> its terrible qq and i pretty much just made it because my sister wanted me to
+A4:16:02 <Quatroking> ._.
+A4:16:11 <Quatroking> isn't that a goddamn cartoon character
+A4:16:25 <Quatroking> wait a secpmd
+A4:16:27 <Quatroking> second
+12A4:16:33 * C418s (C418s@207.176.6.148) Quit (Ping timeout: 180 seconds)
+A4:16:34 <Quatroking> is that motherfucking sandy from spongebob
+A4:16:37 <Ylle> yes
+A4:16:42 <Quatroking> holy fuck
+A4:18:11 <m0bus> :S
+12A4:18:34 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+A4:19:01 <Ylle> eeeh practice makes perfect
+12A4:21:30 * Ylle (Ylle@81-234-87-221-no38.tbcn.telia.com) Quit (Quit: Client Exited)
+10A4:22:13 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) has joined #minecraft
+A4:26:35 <Quatroking> guys, how does the cobblestone schematic look? http://minecraftwiki.net/wiki/Cobblestone
+A4:26:39 <Quatroking> nice?
+A4:29:47 <JTE> Pretty. ^^ What's a cobble stone?
+A4:30:02 <Quatroking> uh
+A4:30:06 <Quatroking> ._.
+A4:30:15 <Quatroking> read the damn article you lazy freak
+A4:30:22 <Quatroking> lol
+A4:31:16 <Quatroking> otherwise just do a quick google search
+10A4:32:53 * Lily_Jewelspit (Ylle@81-234-87-221-no38.tbcn.telia.com) has joined #minecraft
+10A4:32:55 * Lily_Jewelspit is now known as Ylle
+A4:37:44 <m0bus> THERE ARE GRIEFERS IN ALL FORMS THROUGH LIFE, GET USED TO THEM.
+A4:37:46 <m0bus> THERE ARE GRIEFERS IN ALL FORMS THROUGH LIFE, GET USED TO THEM.
+A4:37:56 <Quatroking> wait what
+A4:38:08 <m0bus> admins, abusing their power
+A4:38:19 <Quatroking> premmies or not
+A4:38:21 <m0bus> powerhungry as it were
+A4:38:25 <m0bus> premmies?
+A4:38:33 <Quatroking> premium members
+A4:38:38 <m0bus> i have no idea
+A4:38:39 <Quatroking> premmy
+A4:38:44 <Ylle> prinny
+A4:38:53 <m0bus> i dont know if they're 'premmys' or not
+A4:38:59 <m0bus> just...goofy with power
+A4:39:04 <m0bus> like, get over it
+A4:39:18 <m0bus> you dont need to accuse every next person of griefing
+A4:39:35 <Quatroking> Makes me happy how I have a gang of reasonable friendly admins on my server
+A4:39:41 <m0bus> i was kicked because some admin thought i was destroying something
+A4:39:49 <m0bus> and i was repairing a flag
+A4:39:59 <m0bus> :\
+A4:40:52 <Quatroking> Well
+A4:40:57 <Quatroking> if you want fun, http://www.minecraft.net/play.jsp?server=a178f4773b18c9651ae1d2e0a7730cb4
+A4:41:08 <m0bus> consider it bookmarked ;)
+A4:41:15 <Quatroking> our pixelart gallery is goddamn big
+12A4:42:36 * Panza (chatzilla@124-168-252-78.dyn.iinet.net.au) Quit (Remote host closed the connection)
+10A4:43:41 * mib_7ihq9l (Mibbit@c-24-4-205-81.hsd1.ca.comcast.net) has joined #minecraft
+A4:44:01 <mib_7ihq9l> could somebody please tell me WTF is up with the swastiaks? why are they on every server, and sometimes protected?
+A4:44:57 <m0bus> laterz
+A4:45:10 <m0bus> people love the white powers
+A4:45:27 <m0bus> i think everyone in the world should be pretty desensitized to them by NOW
+A4:45:30 <Quatroking> What's wrong with swastika's?
+A4:45:37 <mib_7ihq9l> has the internet gotten +20 stupid without me noticing?!
+A4:45:46 <mib_7ihq9l> is it just 12 year old kids running around these servers?
+A4:45:51 <m0bus> they were pretty offensive like...60 years ago
+A4:45:58 <m0bus> its MOSTLY 12 year olds
+A4:45:58 <Quatroking> There's nothing wrong with a swastika, honestly.
+A4:46:00 <mib_7ihq9l> what's the point, unless you're trying to piss people off?
+A4:46:07 <m0bus> it works right?
+A4:46:13 <mib_7ihq9l> yes, and that makes you a dick.
+A4:46:17 <m0bus> :P
+A4:46:20 <m0bus> i dont make them
+A4:46:24 <Quatroking> Well it certainly pisses you off
+A4:46:33 <m0bus> i just say that people will always find ways to piss off other people
+A4:46:40 <m0bus> and it works
+A4:46:51 <mib_7ihq9l> i understand griefing, but EVERY server? is it some meme I'm not aware of?
+A4:47:05 <m0bus> i said it earlier
+A4:47:09 <Ylle> Lots of people are jerks, they're just afraid irl.
+A4:47:09 <m0bus> no matter what you do
+A4:47:14 <m0bus> no matter who you are
+A4:47:19 <m0bus> no matter where you live
+A4:47:26 <Ylle> And hell, if you're going to see something written on the wall on a bathroom stall
+A4:47:27 <m0bus> you will run into griefers in all walks of life
+A4:47:31 <Ylle> its gon' be a swastika
+A4:47:35 <m0bus> it could be a mailman or your boss
+A4:47:36 <Ylle> or a failed swastika
+A4:47:46 <Quatroking> I've even seen goddamn hammer and sickles :P
+A4:47:47 <m0bus> you will always find griefers in this world
+A4:47:52 <m0bus> just get used to it man
+A4:48:03 <mib_7ihq9l> these aren't griefers. they're systematic griefers.
+A4:48:03 <m0bus> dont let things irk you so much
+A4:48:09 <m0bus> :P
+A4:48:11 <m0bus> lol
+A4:48:15 <mib_7ihq9l> the swastikas don't irk me, just the people whose sole purpose is to piss people off.
+A4:48:23 <mib_7ihq9l> they can GTFO my internets, plz.
+A4:48:33 <m0bus> well they might not get far in life, who knows
+A4:48:46 <Quatroking> I like to troll around once in a while on Newgrounds, and that's just to piss people off and get hilarious comments back
+A4:48:49 <m0bus> the internet was designed for griefers
+A4:49:07 <m0bus> by a griefer
+A4:49:18 <Quatroking> Once people understand I'm doing it for the comments, they mostly see the fun in the comments too
+A4:49:49 <m0bus> :P
+A4:50:04 <m0bus> the trolling griefer...classic
+A4:50:10 <m0bus> bothers some people
+A4:50:13 <m0bus> no big deal 
+A4:50:26 <Quatroking> remembers me of a Hanky guy a few days ago
+A4:50:26 <m0bus> i get a kick out of seeing someone grief
+A4:50:29 <Quatroking> he came on the IRC
+A4:50:44 <m0bus> griefer?
+A4:50:47 <Quatroking> and he started thanking Notch because minecraft cured his braincancer
+A4:50:52 <Quatroking> fucking hilarious
+A4:50:54 <m0bus> :P
+10A4:51:12 * akuryo (chatzilla@86.63.251.140) has joined #minecraft
+A4:51:21 <akuryo> I NEED TEH NOTCH
+A4:51:28 <m0bus> he is teh sleeping
+A4:51:32 <akuryo> =D
+A4:51:33 <Quatroking> it also exterminated all the foreign people in his neighbourhood and prevented hawaii from being nuked
+A4:51:35 <akuryo> ok
+A4:51:43 <akuryo> ha kewl meh see
+10A4:51:48 * Kira (Kira@c-98-247-65-31.hsd1.wa.comcast.net) has joined #minecraft
+A4:51:49 <Quatroking> and his balls grew a lot
+A4:51:53 <akuryo> =D
+A4:51:53 <Quatroking> apparantly
+A4:51:56 <m0bus> he usually is on in about 4 hours
+12A4:52:01 * mib_7ihq9l (Mibbit@c-24-4-205-81.hsd1.ca.comcast.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+A4:52:02 <akuryo> do you knoz if he can swap accounts?
+A4:52:05 <m0bus> :S
+A4:52:07 <akuryo> ok thank you
+A4:52:09 <akuryo> i mean
+A4:52:13 <akuryo> i have a bought account
+A4:52:16 <akuryo> the account "crafter"
+A4:52:18 <m0bus> :\
+A4:52:21 <akuryo> i want to put it bough to akuryo
+A4:52:29 <Quatroking> I've got a song in my playlist and the lyrics sound like "prostates loose control"
+A4:52:32 <Quatroking> :/
+A4:52:33 <m0bus> i'm sure he could do something like that
+A4:52:45 <m0bus> i HATE IT when my prostate loses control
+A4:52:50 <m0bus> i'm off to bed
+A4:52:56 <m0bus> tt yall later
+A4:52:59 <Quatroking> kbay
+A4:53:08 <m0bus> kthxbai
+12A4:53:13 * m0bus (kyle.oconn@CPE002129d8a9eb-CM00080d6c1c4c.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+12A4:54:39 * Cameron (chatzilla@ip72-219-179-60.oc.oc.cox.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+10A4:56:19 * Soron (Soron@adsl2-125.qualitynet.net) has joined #minecraft
+10A4:56:25 * Soron (Soron@adsl2-125.qualitynet.net) has left #minecraft
+12A4:58:27 * Trashman (chatzilla@cpe-70-113-55-136.austin.res.rr.com) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+10A5:03:55 * citricsquid (sam@client-81-97-79-191.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10A5:04:14 * ChanServ sets mode: +o citricsquid
+A5:04:27 <Quatroking> ah citricsquid
+A5:04:35 <Quatroking> I've got something for you to do
+A5:05:02 <Quatroking> hold on
+12A5:05:30 * _spondy (spondy@203-206-88-62.dyn.iinet.net.au) Quit (Ping timeout: 180 seconds)
+A5:06:39 <Quatroking> citricsquid, you there
+10A5:06:47 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+A5:06:51 <citricsquid> yo
+A5:07:02 <Quatroking> could you install this extension on the wiki: http://www.mediawiki.org/wiki/Extension:AddHTML
+A5:07:04 <Turtleboats> yo
+A5:07:46 <Turtleboats> how do i run a server on windows vista?
+A5:07:46 <Quatroking> Then we can easily embed the mibbit IRC client in a wiki page, to get rid of that problem where stupid people can't learn how to use irc properly
+A5:07:53 <Turtleboats> how do i run a server on windows vista?
+10A5:07:54 * marach (Mibbit@ip-92-42-118-11.uznam.net.pl) has joined #minecraft
+A5:08:01 <Quatroking> which version of vista?
+A5:08:07 <Turtleboats> home i believe
+A5:08:13 <Quatroking> 32 or 64bit
+A5:08:16 <Turtleboats> umm
+A5:08:42 <Quatroking> my computer>right-click>properties
+A5:08:49 <Turtleboats> yeah
+A5:08:51 <Turtleboats> i know
+A5:08:52 <Turtleboats> 32
+A5:09:03 <Turtleboats> like
+A5:09:03 <Quatroking> have you forwarded your ports yet?
+A5:09:09 <Turtleboats> how do i do that?
+A5:09:15 <Turtleboats> do you only have to do that on vista?
+A5:09:16 <Quatroking> well first of all
+A5:09:26 <Quatroking> well you have to do that on all platforms
+A5:09:36 <marach> http://minecraftforum.net/viewtopic.php?id=378 if Notch is here, check this please, it's very important because I currently can't use internet at home...
+A5:10:00 <Quatroking> start>search bar>cmd.exe
+A5:10:01 <Turtleboats> oh
+A5:10:11 <Turtleboats> well
+A5:10:19 <Turtleboats> my buddy did it without doing anything
+A5:10:31 <Quatroking> are you on a network with more than one PC?
+10A5:10:31 * _spondy (spondy@124-169-123-149.dyn.iinet.net.au) has joined #minecraft
+A5:10:39 <Turtleboats> he clicked thestart server and it worked
+A5:10:46 <Turtleboats> yes
+A5:10:51 <Quatroking> and your buddy?
+A5:10:54 <Turtleboats> ahh
+A5:10:57 <Turtleboats> one
+A5:10:59 <Turtleboats> yesh
+A5:11:00 <Turtleboats> yeah
+A5:11:05 <Turtleboats> thats why?
+A5:11:08 <Quatroking> Yeah
+A5:11:13 <Turtleboats> ah okay
+A5:11:20 <Quatroking> the master list doesn't know which of the comptuers is sending the server signal you see
+A5:11:30 <Quatroking> that's why we got port forwarding
+A5:11:41 <Quatroking> so anyways, launch up that cmd.exe
+A5:12:04 <Quatroking> got that open?
+A5:12:10 <Turtleboats> yep
+A5:12:25 <Quatroking> type this and hit enter:
+A5:12:30 <Quatroking> ipconfig
+A5:12:40 <Turtleboats> kk
+A5:12:45 <Quatroking> it should throw out a bunch of stuff
+A5:12:51 <Turtleboats> yepp
+A5:13:06 <Quatroking> you see the ip adresses?
+A5:13:18 <Turtleboats> yeah think so
+A5:13:24 <Turtleboats> at the top of the list thing right?
+A5:13:27 <Quatroking> the ones we need are your ipv4 adres/local ip and your gateway adress
+A5:13:29 <Turtleboats> there are like 3
+A5:13:30 <Quatroking> Yeah
+A5:13:54 <Turtleboats> yeah gotem
+A5:14:06 <Quatroking> alright, now go to firefox or IE or whatever you use
+A5:14:10 <Turtleboats> kk
+A5:14:12 <Turtleboats> there
+A5:14:16 <Quatroking> and type the gateway adress in the adress bar
+A5:14:34 <Quatroking> does your modem/router/hub pop up?
+A5:15:04 <Turtleboats> yes
+A5:15:20 <Quatroking> does it ask for a password?
+A5:15:35 <Turtleboats> umm
+A5:15:36 <Turtleboats> i guess not
+A5:15:40 <Quatroking> Oh.
+A5:15:45 <Turtleboats> it says password set
+A5:15:45 <Quatroking> Well that's rather unsafe
+A5:15:49 <Turtleboats> well
+A5:15:53 <Quatroking> oh well
+10A5:15:53 * citricsquidtimeoutplx (sam@client-81-97-76-225.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+A5:15:56 <Turtleboats> i know it is pw protected
+A5:16:06 <Turtleboats> if thats what you mean
+A5:16:08 <Quatroking> anyways, search around for port forward
+A5:16:11 <Quatroking> Yeah
+12A5:16:13 * citricsquid (sam@client-81-97-79-191.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+A5:16:27 <Turtleboats> where would that be?
+A5:16:36 <Quatroking> um
+A5:16:51 <Quatroking> what model is your hub/router/modem?
+A5:17:04 <Turtleboats> at&t
+10A5:17:08 * citricsquidtimeoutplx is now known as citricsquid
+A5:17:12 <Quatroking> eh
+10A5:17:18 * ChanServ sets mode: +o citricsquid
+A5:17:26 <citricsquid> quat: I'll have a go with that extension later, got loads of work to do atm =D
+A5:17:47 <Quatroking> No that's your provider, turtleboats, I mean your modem itself
+A5:17:56 <Turtleboats> oh
+A5:17:57 <Quatroking> for example I've got a Siemens Gigaset 550
+A5:18:00 <Turtleboats> umm
+A5:18:10 <Quatroking> and a friend of mine got a Belkins
+A5:18:18 <Turtleboats> d link
+A5:18:24 <Quatroking> and the model?
+A5:18:49 <Turtleboats> d link dwa-140
+A5:19:13 <Quatroking> alright hold on
+A5:19:16 <Turtleboats> kk
+A5:19:31 <Quatroking> wireless router right
+A5:19:36 <Turtleboats> yes sir
+10A5:19:55 * ZomBuster (zombuster@ip111-36-208-87.adsl2.static.versatel.nl) has joined #minecraft
+A5:20:06 <Quatroking> Alrighty, hold on
+A5:20:09 <Turtleboats> kk
+A5:20:17 <marach> can someone help in http://minecraftforum.net/viewtopic.php?id=378, it's really urgent...
+A5:20:55 <Quatroking> marach, just wait a few days until the exchange goes up
+A5:21:09 <Quatroking> it happens to me all the time, but with larger amounts like 50 euro's at a time :P
+A5:21:27 <Quatroking> Turtleboats, did you got the router and usb adapter as a Wireless N Starter Kit?
+A5:21:40 <Turtleboats> possibly
+A5:21:45 <Turtleboats> i really don't know that one
+A5:21:53 <Quatroking> Well Let's assume that then
+A5:21:56 <Turtleboats> kk
+A5:21:59 <Turtleboats> sounds like a plan
+A5:22:09 <Quatroking> considering its the only way a DWA-140 can be acquired
+A5:22:17 <Turtleboats> haha 
+A5:22:19 <Quatroking> which would mean your router is.... a DIR-635
+A5:22:31 <Quatroking> found it.
+A5:22:56 <citricsquid> marach: I replied :)
+A5:23:05 <Turtleboats> k
+A5:23:19 <Quatroking> Turtleboats, take a look at this
+A5:23:20 <Quatroking> http://portforward.com/english/routers/port_forwarding/Dlink/DIR-635/default.htm
+A5:23:55 <Quatroking> That interface looks horrible compared to my router by the way, dear god
+A5:24:22 <citricsquid> my router is hilarious, if you plug anything into the wall sockets in our house it goes offline =(
+A5:24:28 <Turtleboats> which one is my router ip?
+A5:24:38 <Quatroking> your gateway
+A5:24:40 <Turtleboats> kk
+A5:24:58 <Turtleboats> hold up
+A5:25:10 <Turtleboats> it didn't take me to a dlink site
+A5:25:14 <Turtleboats> it took me to at&t
+A5:25:30 <Quatroking> but at&t is your internet provider..
+A5:25:36 <Turtleboats> yeah
+A5:25:50 <Turtleboats> the tutorial thing shows a dlink site coming up
+A5:25:57 <Turtleboats> i never got to that site
+A5:26:01 <Quatroking> It's possible they've thrown in a custom version in your router
+A5:26:17 <Quatroking> you don't get any setup options either?
+A5:26:48 <Turtleboats> dont think so
+A5:27:21 <Quatroking> Well then I'm out of idea's, I've never seen the gateway Ip leading to your provider's website before
+A5:27:22 <marach> i know a sitewhere you can get 0.10 $ for free in exchange of big amount of spam...
+A5:27:35 <Quatroking> give it to me, marach
+A5:27:37 <citricsquid> marach: Read the topic =D I'll send you the money you need :P
+A5:27:57 <marach> ok big thx
+A5:28:22 <marach> couldnt exchangerate go up insteadof down...
+A5:28:41 <marach> failing spacebar
+A5:28:42 <citricsquid> yep, but might take a while
+A5:28:45 <Quatroking> it's idfferent all the time
+A5:28:49 <citricsquid> it could potentially keep going down and down for a while
+A5:28:55 <citricsquid> or it could go up for ages, it's magic!
+A5:29:09 <Quatroking> When I bought my PC my money gone up and down by amounts like 50 euro's or something
+A5:29:17 <Quatroking> because I had so much :P
+A5:30:07 <marach> just a silly question, who here is NOT using mibbit? :)
+A5:30:17 <citricsquid> mIRC =D
+A5:30:36 <Bobobo> i'm using mIRC also
+A5:30:37 <ZomBuster> real men use mIRC
+A5:31:00 <marach> paypal email posted :)
+A5:32:12 <marach> i havemirc on my home pc
+A5:32:19 <citricsquid> enjoy =D
+A5:32:52 <marach> thanks again
+A5:33:14 <Turtleboats> this doesn't make any sense
+A5:33:18 <marach> i have no idea for my multiplayerskin skin
+A5:33:24 <marach> oops
+A5:35:28 <marach> why so much? 0.01 eur would be enough ;)
+A5:35:41 <citricsquid> It's easier to type 1 ;)
+A5:36:00 <marach> itseasierto type 100!
+A5:37:11 <citricsquid> Who won the reddit build contest? =o
+A5:37:45 <marach> done, will purchasebutton disappear when i getpremium?
+A5:37:50 <citricsquid> yep
+A5:38:10 <marach> it did
+A5:38:13 <marach> really fast
+A5:38:57 <Turtleboats> anyone know how to run a server on windows vista?
+10A5:39:35 * ramdance- (kvirc@ip68-4-113-234.oc.oc.cox.net) has joined #minecraft
+A5:39:40 <ramdance-> :O
+A5:39:43 <ramdance-> minecraft
+A5:39:45 <marach> using a virtual machine withwindows xp
+A5:39:54 <ramdance-> I love minecraft
+A5:40:01 <citricsquid> If you're going to virtual machine, use linux ;)
+A5:40:16 <ramdance-> hot damn
+A5:40:16 <Quatroking> Don't use a microsoft virtual machine to
+A5:40:18 <marach> is there a serverfor linux?
+A5:40:19 <Quatroking> tho*
+A5:40:27 <citricsquid> Yeah, there is
+A5:40:33 <citricsquid> it's the same file, just different run command
+A5:40:44 <ramdance-> anyone know some cool servers to build stuff on?
+A5:40:45 <marach> so its probably in java
+A5:40:54 <ramdance-> I want to build cool stuff
+A5:40:57 <Quatroking> ramdance-: http://www.minecraft.net/play.jsp?server=a178f4773b18c9651ae1d2e0a7730cb4
+A5:41:04 <ramdance-> cool
+A5:41:08 <ramdance-> will check iy out
+A5:41:16 <Quatroking> It's mine
+A5:41:18 <ramdance-> t*
+A5:41:25 <Quatroking> I've got loads of pixelart and buildings :P
+A5:42:29 <marach> withcoloredblocks i finally can build all minecraft textures as murals
+A5:42:30 <Quatroking> citricsquid, when are you going to install the extension?
+A5:42:48 <Quatroking> It'll help a whole load of people
+A5:43:16 <citricsquid> I'm working, later =D
+A5:43:32 <citricsquid> I need to build an entire social networking website in about 6 hours :|
+A5:43:33 <Quatroking> >:C
+10A5:44:31 * Redshift_ (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) has joined #minecraft
+12A5:46:32 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Ping timeout: 180 seconds)
+10A5:46:43 * Redshift_ is now known as Redshift
+A5:49:05 <marach> i try to usemiddle mousebutton to pick a color in paint xDDD
+A5:49:36 <Quatroking> citricsquid how hard is it to install an extension
+A5:49:43 <Quatroking> that's all you need to do, I'll do the rest
+A5:50:09 <ramdance-> blow it out your ugly ass
+10A5:50:11 * ramdance- (kvirc@ip68-4-113-234.oc.oc.cox.net) has left #minecraft
+12A5:50:20 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Read error: Connection reset by peer)
+A5:50:21 <Quatroking> o_o
+A5:50:36 <marach> ^^ exactly
+A5:50:49 <Quatroking> but my butt isn't ugly
+A5:50:59 <Quatroking> its fabolous
+10A5:51:01 * Turtleboats_ (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+10A5:51:02 * Turtleboats_ is now known as Turtleboats
+A5:52:02 <Quatroking> Found the sticker, Turtleboats?
+12A5:53:32 * Kapow (kapox@c-68-37-80-138.hsd1.nj.comcast.net) Quit (Ping timeout: 180 seconds)
+A5:54:38 <Bobobo> can i use a map generator to make a map of solid stone?
+10A5:54:41 * xetam (zzzz@177-goc-17.acn.waw.pl) has joined #minecraft
+10A5:55:21 * Turtleboats_ (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+12A5:55:23 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+10A5:56:29 * QuatroTest (Mibbit@ip565a9ffc.direct-adsl.nl) has joined #minecraft
+A5:56:34 <Quatroking> Hurray
+A5:56:37 <Quatroking> the widget is working
+12A5:56:39 * marach (Mibbit@ip-92-42-118-11.uznam.net.pl) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12A5:56:45 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Ping timeout: 180 seconds)
+10A5:56:51 * Turtleboats_ is now known as Turtleboats
+12A5:56:57 * QuatroTest (Mibbit@ip565a9ffc.direct-adsl.nl) Quit (Quit: Client Exited)
+A5:59:33 <Bobobo> citricsquid
+A5:59:45 <Bobobo> hows that admin script thing going?
+A5:59:48 <Bobobo> sounds cool
+A6:03:25 <Bobobo> wonder if i can host two servers...
+10A6:04:19 * Alwayswatching (Alwayswatc@089-101-031125.ntlworld.ie) has joined #minecraft
+A6:04:29 <Alwayswatching> 'ello
+A6:04:34 <Bobobo> hi
+10A6:05:17 * marach (Mibbit@ip-92-42-118-11.uznam.net.pl) has joined #minecraft
+A6:05:26 <Quatroking> citricsquid install the damn extension, I already got the widget ready to be used
+A6:05:56 <Alwayswatching> Guys
+A6:06:02 <Quatroking> Dudes
+A6:06:11 <Alwayswatching> Does anyone know who won the reddit thing
+A6:06:20 <Quatroking> I did
+A6:06:34 <Alwayswatching> What was the building
+A6:06:47 <Quatroking> a large penis
+A6:07:03 <Alwayswatching> ...Does anyone know??
+A6:07:12 <Bobobo> i'm about to start a recreation of E1M1
+A6:07:12 <Bobobo> :)
+A6:07:27 <Quatroking> :D
+A6:07:38 <Alwayswatching> Gah
+A6:07:47 <Alwayswatching> Ill kill you all!
+A6:07:55 <Quatroking> not so!
+A6:07:56 <Bobobo> i have no idea Alwayswatching
+A6:07:58 <Bobobo> check the forums
+13A6:07:59 * Alwayswatching goes on a rampage
+A6:08:03 <Quatroking> Thundercatz, OOOOH
+A6:08:07 <Alwayswatching> They didnt say
+A6:08:25 <Alwayswatching> Le stab!
+A6:08:35 <marach> whats this extension anyway?
+A6:08:55 <Quatroking> it makes it possible to add raw HTMl to protected pages on the wiki
+A6:09:05 <Alwayswatching> So what does everyone think the next update will be
+A6:09:29 <Quatroking> which makes it possible to embed the Mibbit IRC client so that all the stupid people won't have to spam around on the forums about how they can't use IRC because they got brain tumors
+A6:09:30 <marach> i have no ideahow this game can bebetter
+A6:09:44 <marach> hmm
+A6:09:50 <marach> maybei have
+A6:09:58 <Alwayswatching> Finite water?
+A6:09:59 <Quatroking> ice
+A6:10:04 <citricsquid> quatro: Why don't I just add the client on the forum? Surely that's easier than using a buggy out of date extension?
+A6:10:07 <Quatroking> slippy ice and bouncy rubber
+A6:10:11 <marach> maybe a mode like in infiniminer?
+A6:10:20 <Quatroking> citricsquid you can do that too
+A6:10:24 <Quatroking> after all it's just an iframe
+A6:10:35 <Alwayswatching> I wonder, when the game is out
+A6:10:37 <Quatroking> I suggest using a seperate page tho
+A6:10:41 <Alwayswatching> And done
+A6:10:45 <marach> teamed ore collecting
+A6:10:48 <citricsquid> quatro: That's what I meant =D
+A6:10:49 <Alwayswatching> Will he keep updating 
+A6:10:50 <Quatroking> widget link: http://widget.mibbit.com/?settings=1c3f12e8e1ea8dc8ebe624ca48582596&server=irc.esper.net&channel=%23minecraft
+A6:11:06 <Quatroking> I've already prepared the entire thing
+A6:11:19 <Quatroking> throw it in an iframe and we're done
+A6:11:53 <Alwayswatching> Omfg
+A6:12:05 <Alwayswatching> I want a minecraft iphone app
+A6:12:11 <Quatroking> rofl
+10A6:12:12 * Kapow (kapox@c-68-37-80-138.hsd1.nj.comcast.net) has joined #minecraft
+A6:12:24 <Alwayswatching> That will never happen i know
+A6:12:27 <Quatroking> does java run on an iphone?
+A6:12:38 <ZomBuster> it should
+A6:12:43 <Alwayswatching> No i dont think so :P
+A6:12:50 <Alwayswatching> Objective C
+A6:12:55 <ZomBuster> java runs on other smarthpones
+A6:13:06 <Alwayswatching> Maybe it does
+A6:13:13 <Alwayswatching> Anyway
+A6:13:21 <Alwayswatching> I would be sooo happy
+A6:13:42 <Alwayswatching> Im on IRC on my ipod touch btw
+A6:13:46 <Alwayswatching> :P
+A6:14:37 <Alwayswatching> Buh bye
+12A6:14:40 * Alwayswatching (Alwayswatc@089-101-031125.ntlworld.ie) Quit (Quit: Rooms • iPhone IRC Client • http://rooms.derflash.de)
+10A6:18:53 * Flyboy (nicholas.j@121-73-114-37.cable.telstraclear.net) has joined #minecraft
+A6:19:06 <Flyboy> Hello
+A6:19:59 <Quatroking> Hay
+A6:20:13 <Flyboy> What's going on round here?
+12A6:20:43 * liq3 (liquidman3@58.175.121.48) Quit (Ping timeout: 180 seconds)
+A6:21:08 <Turtleboats> Anyone know why I can't get on my server from Windows Vista?
+A6:21:50 <marach> something strangeis happening
+A6:22:03 <Turtleboats> ?
+A6:22:19 <marach> afterstarting singleplayer, game screen just disappearsafter5 minutes
+A6:22:33 <marach> im not running vista
+A6:23:00 <marach> and my question: WTF?
+A6:23:28 <marach> and im not saying about a game "Work Time Fun" for Sony PSP
+A6:24:09 <marach> and i cant look into javaconsole
+A6:24:36 <marach> javajustcrashes and disappears from icon panel or whatever itsnames
+A6:24:41 <marach> named
+12A6:24:48 * Flyboy (nicholas.j@121-73-114-37.cable.telstraclear.net) Quit (Ping timeout: 180 seconds)
+A6:26:21 <akuryo> I WANT A NOTCH
+12A6:26:35 * Kira (Kira@c-98-247-65-31.hsd1.wa.comcast.net) Quit (Quit: Client Exited)
+A6:26:36 <Quatroking> the NOTCHBOTCH
+A6:27:13 <marach> lol
+A6:27:30 <marach> any idea whatshappening to my game?
+A6:27:47 <Quatroking> NOTCH'S BUTTERSCOTCH
+A6:28:15 <Quatroking> NOTCH HAS BUTTERSOTCH IN HIS CROTCH
+A6:28:23 <Quatroking> wait what
+A6:28:26 <Quatroking> o_o
+A6:28:46 <marach> omg i havejavaversion 1.(whatever)
+A6:29:00 <marach> 1.6.0_11
+A6:29:23 <marach> its kinda old, itsnt it?
+A6:29:48 <marach> closing firefox to install newest, bb
+12A6:29:54 * marach (Mibbit@ip-92-42-118-11.uznam.net.pl) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10A6:30:02 * C418s (C418s@209.8.41.66) has joined #minecraft
+12A6:33:05 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Read error: Connection reset by peer)
+12A6:37:39 * C418s (C418s@209.8.41.66) Quit (Ping timeout: 180 seconds)
+A6:43:54 <Quatroking> ROW ROW, FIGHT THE POWER!
+12A6:45:17 * Redshift (chatzilla@c-98-232-237-235.hsd1.or.comcast.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.11/2009060215])
+10A6:47:48 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+10A6:48:50 * C418s (C418s@209.8.41.66) has joined #minecraft
+10A6:55:47 * flak (1@80.255.188.254) has joined #minecraft
+A6:55:51 <flak> SUP DAWGS
+10A6:56:48 * smn`offline is now known as smn
+A6:56:50 <Quatroking> WAZAAA
+A6:57:12 <smn> WAT.
+A6:58:19 <C418s> WER.
+A6:58:23 <Quatroking> WO
+A6:58:27 <Quatroking> WEN
+A6:58:29 <Quatroking> WY
+A7:00:36 <smn> WIESO.
+10A7:05:07 * [AM]-Kasp (plinka@87.110.242.186) has joined #minecraft
+A7:05:08 <[AM]-Kasp> New web browser based game, intresting and fun peoples, nice admins and more, enjoy - http://www.lostworlds.lv/go.php?1139730844
+10A7:05:10 * [AM]-Kasp (plinka@87.110.242.186) has left #minecraft
+A7:06:20 <JTE> Lame...
+A7:11:26 <ZomBuster> stupid adbots
+10A7:17:50 * Angrybanana (Wat@c-5f1670d5.010-206-626f6410.cust.bredbandsbolaget.se) has joined #minecraft
+13A7:25:03 * citricsquid slaps ZomBuster around a bit with a large trout
+A7:26:56 <Quatroking> yay
+10A7:27:22 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) has joined #minecraft
+12A7:27:52 * Quatroking (Quatroking@86.90.159.252) Quit (Quit: I'm off, kthxbai)
+12A7:29:07 * C418s (C418s@209.8.41.66) Quit (Read error: Connection reset by peer)
+13A7:29:09 * ZomBuster slaps citricsquid around with a large shark
+10A7:29:29 * C418s (C418s@207.176.6.64) has joined #minecraft
+13A7:30:48 * citricsquid nom nom nom nom noms
+10A7:32:23 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) has joined #minecraft
+A7:34:16 <Turtleboats> anyone know why i can't connect to my own server?
+A7:34:31 <flak> http://failblog.files.wordpress.com/2009/06/fail-owned-buy-baby-fail.jpg?w=467&h=700
+A7:34:33 <citricsquid> it's the way the server side client runs afaik
+A7:34:39 <citricsquid> you need to use the local IP of your machine
+A7:35:00 <Turtleboats> well how come nobody else can join either?
+A7:35:04 <Turtleboats> and also
+A7:35:13 <citricsquid> What's the server name?
+A7:35:18 <Turtleboats> i click on my server to join it and i can't
+A7:35:19 <Turtleboats> hold up
+A7:36:38 <citricsquid> what does the server command line show you
+A7:36:41 <citricsquid> is it sending heartbeats?
+A7:37:08 <Turtleboats> it says level saved!
+A7:37:18 <Turtleboats> load 0/16
+A7:37:24 <Turtleboats> what are heartbeats?
+A7:37:28 <citricsquid> okay, the problem is most likely your ports then.
+A7:38:03 <Turtleboats> i already port forwarded
+A7:38:42 <ZomBuster> anyone know fueuer
+A7:38:45 <Turtleboats> Like the only way i can get on is by putting in the info manually. and Nobody else can get on from the link
+A7:38:48 <Turtleboats> no
+A7:39:44 <ZomBuster> feuerrr
+A7:39:50 <Turtleboats> citric
+A7:39:53 <Turtleboats> any ideas?
+A7:40:06 <citricsquid> not a clue :(
+A7:40:14 <Turtleboats> crap
+A7:40:16 <Turtleboats> alright
+10A7:41:39 * Flyboy (chatzilla@121-73-114-37.cable.telstraclear.net) has joined #minecraft
+A7:42:00 <Flyboy> Damn, no Notch.
+A7:42:33 <citricsquid> =D
+A7:42:39 <citricsquid> problem flyboy? :(
+A7:42:51 <Flyboy> No NOTCH!!!!
+A7:43:10 <Flyboy> When was he last here?
+A7:43:50 <citricsquid> Not sure, I haven't seen him for over a day, I think he had yesterday off from minecraft =D
+A7:43:57 <Flyboy> Ok.
+A7:43:57 <smn> indeed
+A7:44:32 <Flyboy> I'm considering starting to stalk him. What country is he in again?
+A7:44:39 <citricsquid> sweden
+A7:44:45 <smn> but why!
+A7:44:51 <Flyboy> Is that close to new zealand?
+A7:44:57 <citricsquid> lmao, yes!
+A7:44:58 <ZomBuster> ...
+A7:44:59 <citricsquid> just next door
+A7:45:03 <Flyboy> Sweet
+A7:45:05 <smn> i don't think you'd make a good stalker
+A7:45:06 <smn> :D
+A7:46:29 <Flyboy> Look, I'm not taking any geology classes ok. XD
+A7:46:29 <Flyboy> I don't think my school has them.
+A7:46:29 <Flyboy> http://www.unlimited.school.nz/
+A7:46:29 <Flyboy> YAY!
+A7:48:12 <Turtleboats> Can you join your own server from the Multiplayer list of servers?
+A7:48:21 <Turtleboats> like if you see your server on there
+A7:48:29 <Turtleboats> or is that not possible?
+A7:48:48 <Flyboy> There is a tutorial on that gimme a minute
+A7:48:56 <citricsquid> No, you have to join with your IP
+A7:49:04 <Turtleboats> ip and port?
+A7:49:14 <citricsquid> yes
+A7:49:16 <Flyboy> http://www.minecraftforum.net/viewtopic.php?id=44
+A7:49:19 <citricsquid> it's in the readme
+A7:49:26 <Turtleboats> so each time you wanna get on your server you have to manually put that in?
+A7:49:30 <citricsquid> Yes
+A7:49:33 <citricsquid> if you run from your PC
+A7:49:56 <Turtleboats> okay
+A7:51:20 <ZomBuster> just bookmark it lol
+A7:52:45 <Flyboy> Hey, how old is everyone here? Just for reference.
+A7:52:56 <Turtleboats> right above the game it keeps saying "you can't connect to the server via this url any more!"
+A7:53:06 <Turtleboats> why is it saying that?
+A7:53:23 <Flyboy> Are you running a mac?
+A7:53:27 <Turtleboats> no sire
+A7:53:28 <Turtleboats> sir**
+A7:53:41 <Flyboy> I liked sire better
+10A7:53:53 * hexpunK (hexpunK@host81-155-22-211.range81-155.btcentralplus.com) has joined #minecraft
+A7:53:54 <Turtleboats> haha alright your royal sire
+A7:54:01 <Turtleboats> but really
+A7:54:05 <Turtleboats> why is it saying that?
+A7:54:18 <Flyboy> Bucketoffino.
+10A7:54:23 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+A7:54:50 <Flyboy> Sorry.
+A7:54:54 <citricsquid> who won allnatural? =D
+A7:55:02 <Turtleboats> alright
+A7:55:04 <kingnerd> citricsquid, Wingboy
+12A7:55:10 * hexpunK (hexpunK@host81-155-22-211.range81-155.btcentralplus.com) Quit (Quit: Client Exited)
+A7:55:10 <citricsquid> what did he make?
+A7:55:14 <kingnerd> cruise ship
+A7:55:17 <citricsquid> hot
+10A7:55:25 * kingnerd is now known as AlLnAtuRalX
+A7:55:39 <Flyboy> Wingboy is me right?
+A7:55:44 <AlLnAtuRalX> Full results, screenshots, vids will be on my blog later today and I'll also publish the .dats
+12A7:55:47 * Syndlig (synd@cpe-66-68-16-104.austin.res.rr.com) Quit (Ping timeout: 180 seconds)
+A7:55:51 <AlLnAtuRalX> Flyboy, did you make the cruise ship?
+A7:55:57 <Flyboy> Nope.
+A7:56:00 <AlLnAtuRalX> :D
+A7:56:14 <Flyboy> I'm so confused. 
+A7:56:28 <Flyboy> Is wingboy me?
+A7:56:41 <citricsquid> no...? Wingboy is wingboy.
+A7:57:11 <Flyboy> Ok then. Ppl call me crazy things sometimes.
+A7:57:22 <AlLnAtuRalX> His name ingame was WingBoy
+A7:57:27 <Flyboy> Ah.
+A7:58:04 <Flyboy> Is it just me or are a lot of ppl's names on this irc random compound words.
+A7:58:10 <AlLnAtuRalX> I actually thought someone else deserved to win, but hey, it was fair
+A7:58:11 <Flyboy> Citricsquid
+A7:58:17 <Flyboy> turtleboat
+A7:58:23 <Flyboy> greenslimy
+A7:58:33 <Flyboy> angrybanana
+A7:58:42 <Flyboy> monopolyman
+A7:59:49 <ZomBuster> Flyboy
+A8:00:09 <Flyboy> HOLY CRAP.
+A8:00:21 <ZomBuster> peerkoel
+A8:00:49 <Flyboy> I never thought about it like that.
+A8:00:49 <Flyboy> Also why do men have nipples?
+A8:00:49 <Flyboy> Think about it>
+A8:00:58 <citricsquid> we all start out as women
+A8:01:11 <flak> we all start out as cell
+A8:01:11 <citricsquid> and the best become men
+A8:01:12 <citricsquid> ;)
+A8:01:27 <flak> and then cell grows nipples
+A8:01:31 <AlLnAtuRalX> No, we actually start out as two cells
+A8:01:31 <citricsquid> "All humans begin life in the womb as females. If no Y chromosome is present in the foetus, then the embryo will continue to develop as and be born as a female. If there is a Y chromosome present in the embryo, the male sex hormone testosterone restricts the full development of breasts to just nipples,"
+A8:01:49 <citricsquid> LOL
+A8:01:54 <citricsquid> "So we know when it's time to put on a jumper. "
+A8:01:55 <Flyboy> Yeah. When you think about it we were the fastest sperm out of 250,000,000
+A8:02:15 <flak> or the strongest
+A8:02:21 <Flyboy> Bit amazing isn't it.
+A8:02:22 <flak> maybe they kill each other
+A8:02:25 <citricsquid> I posted that on a forum, "When your parents hate you, remember that you beat millions of other sperm so it could have been worse"
+A8:02:31 <Flyboy> That would be epic.
+A8:02:46 <citricsquid> I wish we could remember being sperms, that'd be awesome.
+A8:02:49 <Flyboy> SPERM COLLISEUM!!!!
+A8:03:09 <flak> or maybe one sperm that lives is the smallest, so it can squeeze through when nobody can see it
+A8:03:23 <Flyboy> That would explain a lot.
+A8:03:56 <Flyboy> Anyone live in NZ?
+A8:06:09 <smn> nazi zone?
+A8:06:16 <smn> ooh
+A8:06:20 <smn> i see now
+A8:06:27 <smn> new zealand huh
+A8:06:30 <citricsquid> naked nebras
+A8:07:23 <Flyboy>     yeo
+A8:07:23 <Flyboy> Yep.*
+A8:08:04 <Flyboy> I was talking to someone on Omegle who had never heard of New Zealand.
+A8:08:25 <AlLnAtuRalX> That's because most people on omegle are 4channers
+A8:08:57 <Flyboy> They seemed preeeeeeeeeeety sincere.
+A8:09:09 <Flyboy> But mebbe not.
+A8:09:31 <Flyboy> Anyone had a look at cleverbot.
+A8:09:38 <Flyboy> www.cleverbot.com
+A8:11:52 <peerkoel> anyone know if Parthon's city map is up and what the server url is?
+12A8:11:55 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+A8:14:56 <smn> Cleverbot: Do you speak in spanish?
+A8:14:57 <smn> User: Nein, aber auf deutsch!
+A8:14:57 <smn> Cleverbot: What does that mean?
+A8:14:57 <smn> User: It means I'm german!
+A8:14:57 <smn> Cleverbot: But where?
+A8:14:58 <smn> User: GERMANY, YOU PRICK.
+A8:15:30 <Flyboy> I know. Try binary.
+A8:15:48 <Flyboy> It also speaks french.
+A8:15:53 <smn> :D
+A8:16:03 <ZomBuster> dunno
+A8:16:06 <ZomBuster> peerkoel
+A8:16:29 <peerkoel> hmkay, thought maybe he updated to buildings with glass
+A8:16:34 <peerkoel> should be a good sight
+A8:16:39 <ZomBuster> yeh I hope so too
+12A8:16:47 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Read error: Connection reset by peer)
+A8:16:49 <ZomBuster> but havent heard of him lately
+A8:17:12 <flak> cleverbot doesn't want to speak with me
+10A8:17:21 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+A8:18:07 <Flyboy> Shockhorror, normally he never shuts up.
+12A8:18:34 * Turtleboats (chatzilla@75-43-16-189.lightspeed.austtx.sbcglobal.net) Quit (Read error: Connection reset by peer)
+A8:20:52 <Flyboy> User: Hello.
+A8:20:54 <Flyboy> Cleverbot: Hello.
+A8:20:56 <Flyboy> User: Why do men have nipples?
+A8:20:58 <Flyboy> Cleverbot: You are a computer.
+A8:21:00 <Flyboy> User: Aha.
+A8:21:31 <Flyboy> Cleverbot: Do you read comic books?
+A8:21:31 <Flyboy> User: Only if they contain male nipple exposure.
+A8:21:31 <Flyboy> Cleverbot: What is your favorite horror movie?
+A8:21:31 <Flyboy> User: Jaws.
+A8:21:31 <Flyboy> Cleverbot: I didn't like that movie. Sharks scare me.
+A8:21:31 <Flyboy> User: Isn't that the point of a horror movie?
+A8:21:31 <Flyboy> Cleverbot: Where are you?
+A8:21:33 <Flyboy> User: New Zealand.
+A8:21:33 <Flyboy> Cleverbot: Why do you live there?
+A8:21:36 <Flyboy> User: Because I can't find Sweden.
+A8:21:36 <Flyboy> Cleverbot: Isn't that normal?
+A8:21:37 <Flyboy> User: I suppose.
+A8:21:47 <citricsquid> lmao
+A8:22:57 <AlLnAtuRalX> User : Hello
+A8:22:58 <AlLnAtuRalX> Hello. User : Are you gay?
+A8:22:58 <AlLnAtuRalX> I am a Necromancer.
+A8:23:20 <smn> User: Binary?
+A8:23:20 <smn> Cleverbot: Binary.
+A8:23:21 <smn> :D:D

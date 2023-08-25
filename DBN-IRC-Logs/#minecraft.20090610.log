@@ -1,0 +1,502 @@
+
+Session Start: Wed Jun 10 17:06:23 2009
+Session Ident: #minecraft
+10P5:06:23 * Now talking in #minecraft
+10P5:06:23 * Topic is 'http://www.minecraft.net/  |  New client, new server. Check blog for changelist.  |  All doom levels! http://www.minecraft.net/doomlevels.zip  Rename to server_level.dat'
+10P5:06:23 * Set by Notch!Notch@h-77-240.A165.priv.bahnhof.se on Wed Jun 10 16:31:09
+10P5:06:35 * Nobody is now known as DBN
+P5:06:36 <Riobe1> I've been playing it in Google Chrome just fine.
+P5:06:46 <Thi3f> KEROLiUKAS, well, does other applets work?
+P5:06:53 <KEROLiUKAS> ohai dibbin, you here too?
+11P5:07:03 <DBN> hey, in this latest server update I can't connect to my own server
+P5:07:04 <KEROLiUKAS> ergh, havent used java in like ever... links for any?
+P5:07:16 <Thi3f> http://www.java.com/en/download/help/testvm.xml
+P5:07:22 <Zolyx> nn, Minecrafters - have fun
+P5:07:24 <Riobe1> DBN: Did you get the latest zip frile?
+11P5:07:27 <DBN> yes
+P5:07:28 <Riobe1> file*
+P5:07:29 <Thi3f> Underneath "Test your JVM" there's an applet
+12P5:07:34 * Zolyx (Zolyx@82-32-226-59.cable.ubr09.newt.blueyonder.co.uk) Quit (Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :))
+P5:07:39 <Riobe1> You've set up port forwarding?
+11P5:07:49 <DBN> the central server is sending me my external ip
+11P5:07:59 <DBN> which i can't connect to from inside my own network
+P5:08:03 <Riobe1> You have more than one servers?
+P5:08:08 <Thi3f> Have you tried using 127.0.0.1?
+11P5:08:15 <DBN> i can't specify an ip
+P5:08:17 <KEROLiUKAS> it's not localhost for him
+P5:08:22 <Thi3f> Oh
+12P5:08:25 * Mode (GrabPEELS@bas1-windsor12-1088733962.dsl.bell.ca) Quit (Read error: Connection reset by peer)
+12P5:08:44 * Cyanide (nds@71-11-143-57.dhcp.stls.mo.charter.com) Quit (Quit: "Everyone knows, no one talks, repression and fear rules where no one dares to ask.")
+P5:08:44 <Thi3f> Then use the LAN IP?
+P5:08:58 <KEROLiUKAS> anyways, http://www.java.com/en/download/help/testvm.xml works perfectly.
+11P5:09:04 <DBN> the new connection urls are just an ID
+11P5:09:07 <DBN> no ip/port
+P5:09:12 <KEROLiUKAS> ^
+P5:09:15 <Riobe1> Hmm..
+P5:09:24 <Riobe1> I'm not sure.
+10P5:09:24 * Mode (GrabPEELS@bas1-windsor12-1088733962.dsl.bell.ca) has joined #minecraft
+P5:09:25 <Thi3f> KEROLiUKAS, and what version is your java?
+P5:09:30 <KEROLiUKAS> just updated it..
+P5:09:40 <Thi3f> Alright
+P5:09:48 <KEROLiUKAS> 1.6.0.13
+P5:09:50 <Thi3f> Running windows?
+10P5:09:53 * Riobe1 (Admin@c-24-13-88-153.hsd1.il.comcast.net) has left #minecraft
+P5:09:59 <KEROLiUKAS> yea, vista x64
+P5:10:05 <KEROLiUKAS> I guess you just found my problem
+P5:10:05 <KEROLiUKAS> xD
+P5:10:12 <KEROLiUKAS> Windows :D
+P5:10:23 <Thi3f> Haha, naw, I just wanted to make sure before I told you to visit the control panel :P
+P5:10:39 <Thi3f> In the control panel there's a panel for Java
+P5:10:41 <Tim> i'm running it on vista 64 it works perfect
+10P5:10:52 * Furkle (furkle@bas4-stcatharines10-1279604388.dsl.bell.ca) has joined #minecraft
+P5:11:01 <Thi3f> Under the advanced tab and Troubleshooting or Debug or something, there's a box to enable logging
+11P5:11:01 <DBN> is the dev here?
+P5:11:12 <Tim> notch?
+P5:11:13 <Thi3f> DBN, don't think so
+P5:11:13 <KEROLiUKAS> yea just found that.
+P5:11:16 <Tim> no
+P5:11:17 <Furkle> anyone else tried to run the server off windows 7?
+P5:11:42 <Thi3f> Now uh, I've forgotten where the log normally goes though
+P5:12:54 <Thi3f> Perhaps somewhere in the Program Files\Java\Something\Somethingelse
+P5:13:11 <Thi3f> Anyhow, check the log if it says something unusual after freezing your browser
+10P5:14:09 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+P5:15:15 <KEROLiUKAS> damn u java
+P5:15:45 <KEROLiUKAS> it freezes at a weird point.
+P5:16:04 <Thi3f> I suppose you can't reach the java console before it freezes?
+P5:16:31 <KEROLiUKAS> no I can reach it, but that froze too now and I am unable to see it, hold on, maybe I can take a screenshot
+P5:16:43 <KEROLiUKAS> it said smthg about Warning, unknown version of windows, windows vista
+P5:16:46 <KEROLiUKAS> using default windows plugin
+P5:17:34 <Thi3f> Hmm, I don't suppose you're running 64-bit java in x86 IE though, right?
+10P5:17:49 * TrueWolves (masterofth@69-176-226-109.static.izoom.net) has joined #minecraft
+P5:17:52 <Syniphas> hey giver
+P5:18:00 <KEROLiUKAS> I am testing in firefox and chrome
+P5:18:10 <Syniphas> can you tell me how the level structure is formed?
+P5:18:11 <KEROLiUKAS> did not try IE after updating java.
+P5:18:15 <Syniphas> I wanna give it a shot
+P5:18:26 <Thi3f> Yeah, but either way, running 64 bit java in x86 browser can yield some weird results
+P5:18:30 <Thi3f> Or no results at all
+P5:18:44 <KEROLiUKAS> I think my java is x86
+P5:18:58 <KEROLiUKAS> crap it doesn't say
+P5:19:19 <Thi3f> And there's another thing you can try
+P5:19:22 <Thi3f> If the java control panel
+P5:19:46 <Thi3f> Under Advanced tab, and then Java Plug-in -> Activate next generation something something, uncheck that and see if it helps
+P5:20:25 <KEROLiUKAS> tried it
+P5:20:28 <KEROLiUKAS> no good
+P5:21:53 <Thi3f> Well, I'm out of ideas
+P5:21:54 <Thi3f> ¯\(°_o)/¯
+10P5:22:20 * timewarp (timewarp@24-183-190-25.dhcp.oxfr.ma.charter.com) has left #minecraft
+10P5:25:34 * Looking up Drakkar user info...
+10P5:25:41 * Looking up pyl user info...
+10P5:25:45 * Looking up vdgmprgrmr user info...
+10P5:25:52 * Looking up DBN user info...
+10P5:27:47 * Kitoari (NayumakKi@75-13-91-81.lightspeed.austtx.sbcglobal.net) has joined #minecraft
+12P5:30:51 * Kitoari (NayumakKi@75-13-91-81.lightspeed.austtx.sbcglobal.net) Quit (Read error: Connection reset by peer)
+10P5:31:33 * vdgmprgrmr is now known as vdg_is_away
+10P5:33:47 * r121 (r121@CPE00018058f4bf-CM001371b7085e.cpe.net.cable.rogers.com) has joined #minecraft
+12P5:34:56 * Furkle (furkle@bas4-stcatharines10-1279604388.dsl.bell.ca) Quit (Quit: Leaving)
+P5:35:48 <r121> I'm having trouble running the server. It's complaining that http://www.minecraft.net/heartbeat.jsp is returning a 500 error, and I can't connect to the server using http://www.minecraft.net/play.jsp?server=<YOUR IP>&port=<SERVER PORT>  like the docs say
+P5:37:44 <Syniphas> giver,  you here?
+11P5:38:07 <DBN> you need to update, r121
+P5:38:11 <KEROLiUKAS> I guess i'll boot into linux in a few minutes
+11P5:38:11 <DBN> get new server
+P5:38:37 <r121> I just downloaded it yesterday :S  was it changed since then?
+11P5:38:41 <DBN> yea
+P5:38:46 <r121> oh. ok then :)
+12P5:46:11 * CheeToS (na@c-69-143-253-69.hsd1.md.comcast.net) Quit (Ping timeout: 180 seconds)
+10P5:51:17 * CheeToS (na@c-69-143-253-69.hsd1.md.comcast.net) has joined #minecraft
+10P5:51:17 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+P5:51:38 <kingnerd> Hey guys... Can we maybe get this game working on Linux?  I tried on Debian and Ubuntu, both no-gos.
+P5:52:22 <KEROLiUKAS> it's java I dont see why not
+P5:52:45 <kingnerd> neither do I... The loading / downloading work fine, but when they are done, I get a black screen, which upon clicking becomes a white screen.
+P5:52:57 <kingnerd> This is both in Epiphany and Firefox (admittedly both Gecko browsers)
+P5:53:04 <kingnerd> Shouldn't make a difference though
+P5:54:25 <kingnerd> about to try it in Opera under VirtualBox
+P5:55:30 <paul|not> don't use opera
+P5:55:39 <paul|not> or at least don't switch tabs
+P5:55:40 <paul|not> if you do
+P5:56:09 <kingnerd> it's in a virtualbox.. Testing is the only reason I'm using it, so I don't have more than 1 tab
+10P5:56:39 * unknownczar (chatzilla@76-219-107-227.lightspeed.clmboh.sbcglobal.net) has joined #minecraft
+12P5:56:59 * Evil-Ville (hurfdurf@cs78249077.pp.htv.fi) Quit (Quit: yare yare daze)
+10P5:58:18 * dropshock0 (squirrelbo@c-67-160-180-88.hsd1.wa.comcast.net) has joined #minecraft
+P5:58:34 <dropshock0> Hey guys
+P5:58:41 <dropshock0> can i get some more help? :/
+P5:59:06 <kingnerd> odd.... It doesn't work in Windows either for me... something about Pixel Format not Accelerated
+P5:59:26 <dropshock0> Anyone?
+P5:59:43 <Thi3f> dropshock0, with what?
+P5:59:51 <dropshock0> With my server
+P5:59:59 <dropshock0> see i had a server before the update (i think 1.2)
+P6:00:08 <dropshock0> and now when i try to connect to my server adter updating
+P6:00:19 <dropshock0> i get "illegal name" and get kicked
+P6:00:30 <notjotham> fuck yeah, central illumination from magma flowing through treeleaves
+P6:00:32 <Thi3f> Hmm
+P6:00:39 <notjotham> in this underground/undersea palace
+P6:00:41 <Thi3f> What's your username? Same as on IRC?
+P6:00:47 <notjotham> and lots of water elevators
+P6:00:49 <dropshock0> no just dropshock
+P6:00:54 <Thi3f> Oh, weird
+P6:01:05 <dropshock0> i tried using that while connecting to irc but it  said it was already in use
+P6:01:30 <Thi3f> Hmm, haven't tried the new server though, I'm gonna check it out and see if I come up with anything :(
+P6:01:36 <dropshock0> Ok thanks
+P6:03:23 <notjotham> http://zip.4chan.org/v/src/1244665772426.jpg
+P6:03:43 <Thi3f> dropshock0, if you set verify-names to false in server.properties, does that help?
+P6:03:50 <dropshock0> ill try
+P6:03:57 <notjotham> my friend plays it fine in gentoo
+10P6:04:38 * Kovar (Statistic@69.9.109.210) has joined #minecraft
+P6:04:43 <dropshock0> ah that worked
+P6:04:45 <dropshock0> thanks
+P6:05:05 <Thi3f> Np
+12P6:05:39 * unknownczar (chatzilla@76-219-107-227.lightspeed.clmboh.sbcglobal.net) Quit (Read error: Connection reset by peer)
+10P6:05:55 * PrinceOfFire59 (PrinceOfFi@ool-435401ff.dyn.optonline.net) has joined #minecraft
+P6:06:02 <PrinceOfFire59> Hai all
+P6:06:18 <Thi3f> Ahoy
+12P6:08:51 * Drakkar (Drakkar@ip68-106-63-111.ph.ph.cox.net) Quit (Ping timeout: 180 seconds)
+10P6:09:33 * Simsarmy (chatzilla@host86-170-172-89.range86-170.btcentralplus.com) has joined #minecraft
+12P6:11:15 * dropshock0 (squirrelbo@c-67-160-180-88.hsd1.wa.comcast.net) Quit (Quit: Client Exited)
+10P6:11:33 * Drakkar (Drakkar@ip68-106-63-111.ph.ph.cox.net) has joined #minecraft
+04P6:11:33 Drakkar has the same ISP district as bomb.
+10P6:11:34 * ChanServ sets mode: +o Drakkar
+10P6:15:57 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) has joined #minecraft
+P6:18:00 <kingnerd> Okay, I got more info..> under Linux, the game always crashes when it tries to switch the applet.. is there any way to access the game applet directly (assuming I already downloaded the files into /tmp, which it did)
+12P6:20:39 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) Quit (Quit: Client Exited)
+10P6:21:10 * paul|not (grif392@71.5.21.101.ptr.us.xo.net) has left #minecraft
+10P6:22:17 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) has joined #minecraft
+12P6:24:55 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+12P6:25:51 * KEROLiUKAS (kp@c-24-7-220-190.hsd1.il.comcast.net) Quit (Quit: bai)
+10P6:28:23 * Owner (Owner@74.195.105.31) has joined #minecraft
+10P6:28:44 * paul|not (grif392@71.5.21.101.ptr.us.xo.net) has joined #minecraft
+10P6:31:12 * Scope (chatzilla@87.254.88.121) has joined #minecraft
+12P6:31:38 * Scope (chatzilla@87.254.88.121) Quit (Quit: Client Exited)
+P6:31:40 <pyl> poof
+12P6:31:47 * Mode (GrabPEELS@bas1-windsor12-1088733962.dsl.bell.ca) Quit (Read error: Connection reset by peer)
+10P6:32:18 * Mode (GrabPEELS@bas1-windsor12-1088733962.dsl.bell.ca) has joined #minecraft
+12P6:38:02 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Read error: Connection reset by peer)
+12P6:40:36 * Kovar (Statistic@69.9.109.210) Quit (Ping timeout: 180 seconds)
+10P6:43:10 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) has joined #minecraft
+10P6:47:00 * Kovar (Statistic@69.9.109.210) has joined #minecraft
+10P6:47:49 * Mawkingbird (dragonmaw@c-98-247-110-202.hsd1.wa.comcast.net) has joined #minecraft
+12P6:50:51 * Dragonmaw (dragonmaw@c-98-247-110-202.hsd1.wa.comcast.net) Quit (Ping timeout: 180 seconds)
+12P6:51:16 * Kovar (Statistic@69.9.109.210) Quit (Read error: Operation timed out)
+10P6:54:03 * Markov (chatzilla@cpe-66-66-194-14.rochester.res.rr.com) has joined #minecraft
+12P6:55:01 * Markov (chatzilla@cpe-66-66-194-14.rochester.res.rr.com) Quit (Quit: Client Exited)
+10P6:55:55 * peerkoel (peerkoel@cp541388-b.tilbu1.nb.home.nl) has joined #minecraft
+10P6:57:02 * Furkle (furkle@bas4-stcatharines10-1279604388.dsl.bell.ca) has joined #minecraft
+10P6:58:03 * Kovar (Statistic@69.9.109.210) has joined #minecraft
+12P7:01:06 * Kovar (Statistic@69.9.109.210) Quit (Ping timeout: 180 seconds)
+12P7:04:04 * Furkle (furkle@bas4-stcatharines10-1279604388.dsl.bell.ca) Quit (Quit: Leaving)
+10P7:06:32 * Kovar (Statistic@69.9.109.210) has joined #minecraft
+10P7:09:08 * Kovar (Statistic@69.9.109.210) has left #minecraft
+12P7:11:52 * Ush (Mibbit@92.251.175.43) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10P7:13:56 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) has joined #minecraft
+P7:14:07 <kingnerd> Hey guys.. My server is infinitely stuck on connecting... could this be a port issue?
+P7:15:08 <pyl> yes
+12P7:15:10 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+10P7:18:10 * Super-Dot (Super-Dot@adsl-76-202-78-207.dsl.pltn13.sbcglobal.net) has joined #minecraft
+10P7:19:22 * Garctica (teemuc_93@a91-154-241-80.elisa-laajakaista.fi) has joined #minecraft
+12P7:20:25 * Gaviarctica (teemuc_93@a91-154-241-80.elisa-laajakaista.fi) Quit (Ping timeout: 180 seconds)
+12P7:22:16 * Garctica (teemuc_93@a91-154-241-80.elisa-laajakaista.fi) Quit (Quit: Client Exited)
+10P7:39:27 * Testvan (testvan@97-123-22-90.albq.qwest.net) has joined #minecraft
+P7:40:12 <Testvan> who wants my services 
+P7:40:24 <TrueWolves> How goes the empty map?
+P7:40:25 <Tim> for what?
+P7:40:40 <Testvan> im not making it 
+P7:40:47 <Testvan> for whatever
+P7:42:14 <TrueWolves> ahh. who is working on that right now?
+12P7:43:01 * Scamper (scamper@p5B26CDB0.dip.t-dialin.net) Quit (Ping timeout: 180 seconds)
+12P7:51:07 * Tim (chatzilla@alr-bw-2f22b.mxs.adsl.euronet.nl) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.10/2009042316])
+P7:53:28 <Owner> I was building the Cradle level of Goldeneye, but the sky level isn't high enough off the ground.
+10P7:54:20 * Owner is now known as Yurka
+P7:54:27 <mezo> lower the ground level
+10P7:54:27 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) has joined #minecraft
+P7:55:00 <Yurka> How can I do that? Is there a map editor or do I need to do it manually?
+P7:55:08 <mezo> manually
+P7:55:24 <mezo> i think map parameters are coming at some point
+P7:55:27 <mezo> though i dont know how soon
+P7:55:56 <mezo> and they may include a sea level option
+10P7:56:16 * Sparr (Sparr@ip24-254-241-46.hr.hr.cox.net) has joined #minecraft
+12P7:57:26 * Super-Dot (Super-Dot@adsl-76-202-78-207.dsl.pltn13.sbcglobal.net) Quit (Quit: Super-Dot)
+P7:58:47 <Sparr> How do you host a server
+10P7:58:58 * Super-Dot (Super-Dot@adsl-76-202-78-207.dsl.pltn13.sbcglobal.net) has joined #minecraft
+P7:59:06 <pyl> pres butan
+P8:06:07 <ItzMattu> Sparr: lol
+12P8:06:13 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Quit: Leaving)
+P8:12:48 <notjotham> asl
+12P8:13:02 * Rosetta (Rosetta@78.150.40.198) Quit (Quit: Client Exited)
+P8:13:58 <pyl> no, sorry
+P8:14:05 <pyl> how does sign language work on irc anyway
+P8:14:13 <notjotham> you really are like zharf
+P8:14:23 <notjotham> i should get you two together
+P8:14:47 <pyl>  what is a zharf
+P8:15:02 <notjotham> one of your countrymen
+P8:15:32 <pyl> a fellow nigerian?
+P8:15:36 <paul|not> levels better not ever not be backwards compatible
+P8:15:43 <paul|not> 'cause shit I just spent too damn long on that castly
+P8:15:45 <paul|not> castle
+10P8:27:12 * paul|not (grif392@71.5.21.101.ptr.us.xo.net) has left #minecraft
+10P8:41:23 * Cyanide (nds@71-11-143-57.dhcp.stls.mo.charter.com) has joined #minecraft
+P8:49:57 <notjotham> is there a writeup of what exactly survival mode is
+12P8:53:36 * Cyanide (nds@71-11-143-57.dhcp.stls.mo.charter.com) Quit (Quit: "Everyone knows, no one talks, repression and fear rules where no one dares to ask.")
+12P9:01:40 * PrinceOfFire59 (PrinceOfFi@ool-435401ff.dyn.optonline.net) Quit (Ping timeout: 180 seconds)
+10P9:07:23 * Sirrah (thesage101@76.115.213.99) has joined #minecraft
+P9:07:26 <Sirrah> http://sockclap.selfip.com/sites/default/files/epic.jpg
+P9:07:34 <Sirrah> I just took this on my server
+P9:07:42 <Sirrah> it looks EPIC! :D
+P9:10:55 <pyl> i don't get it
+12P9:12:27 * Simsarmy (chatzilla@host86-170-172-89.range86-170.btcentralplus.com) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.10/2009042316])
+P9:19:47 <TrueWolves> hmmmm...
+P9:20:07 <TrueWolves> Has anyone cleared a whole small map yet? if not only 2 more days tell i try...
+10P9:20:10 * Cyanide (nds@71-11-143-57.dhcp.stls.mo.charter.com) has joined #minecraft
+P9:22:02 <pyl> let's ask our dear friends, the russian chantards
+P9:22:26 <Deiz> pyl: Do you have a new UID URL for your server?
+P9:24:00 <pyl> the webpage updates automatically
+P9:24:04 <pyl> http://minecraft.atei.st
+12P9:33:14 * Cyanide (nds@71-11-143-57.dhcp.stls.mo.charter.com) Quit (Quit: "Everyone knows, no one talks, repression and fear rules where no one dares to ask.")
+12P9:36:33 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P9:39:16 <Testvan> who is doing cool shit on a MP server
+P9:39:32 <kingnerd> the reddit public server is awesome right now
+P9:39:41 <kingnerd> full though :(
+P9:40:13 <Testvan> i want to help build something epic
+P9:41:01 <mezo> lets do something epic together testvan
+P9:41:10 <mezo> i'll design it since you just make giant boring fuckoff walls
+P9:41:24 <Testvan> ya
+P9:41:26 <Testvan> i agree
+P9:41:46 <Testvan> i have the ability but no imagination
+P9:41:59 <mezo> you have the poopstocks
+P9:42:02 <mezo> socks****
+10P9:42:06 * Warf (chatzilla@oh-71-49-157-219.dhcp.embarqhsd.net) has joined #minecraft
+P9:42:07 <TrueWolves> Testvan, want to help me make a spaceship thing once I have a flooded level?
+P9:42:42 <Testvan> maybe
+P9:43:20 <Warf> did minecraft change? i cant join any servers.
+P9:45:54 <TrueWolves> check to make sure your logged in
+P9:46:01 <TrueWolves> I forget to do that sometimes
+P9:46:32 <Warf> i am
+P9:47:23 <Testvan> i cant seem to host servers after the recent patch
+P9:49:03 <Sparr> how do you flood a level
+P9:49:24 <pyl> with water
+P9:49:36 <pyl> *helpful*
+P9:50:11 <mezo> can only flood up to sea level
+P9:50:20 <TrueWolves> dig out a whole level, then allow options to flood with water or lava
+P9:50:36 <Sparr> how do you host a server
+P9:50:40 <pyl> i told you
+P9:50:42 <pyl> you pres butan
+P9:50:46 <Sparr> which one
+P9:51:00 <Eagle> the one that you pres
+P9:51:05 <pyl> the return
+P9:51:18 <Deiz> You mean Bhutan
+P9:51:26 <Deiz> And you can press Bhutan by contacting your local embassy
+P9:51:43 <pyl> botton?
+10P9:54:43 * vdg_is_away is now known as vdgmprgrmr
+P9:54:57 <ItzMattu> Man this is crazy. I put up a server and within 30 minutes is is packed
+P9:55:05 <ItzMattu> No other servers are as full as mine as consistently.
+P9:55:12 <ItzMattu> I don't understand why mine do so well.
+P9:55:36 <ItzMattu> I now have The Giant Pyramid, The Giant Castle, and the newly founded The Giant Tree!
+P9:55:37 <ItzMattu> XD
+10P9:55:51 * Digmaster_ (Digmaster@99-171-188-219.lightspeed.sndgca.sbcglobal.net) has joined #minecraft
+12P9:55:56 * Digmaster (Digmaster@99-171-188-219.lightspeed.sndgca.sbcglobal.net) Quit (Read error: Connection reset by peer)
+P9:55:57 <vdgmprgrmr> Pyl's Server is way cooler.
+P9:56:34 <vdgmprgrmr> He has a web page with a chat log, a userlist, an admin-list, and a banned-list.
+P9:56:40 <mezo> your mouth is leaking
+P9:56:50 <vdgmprgrmr> My mouth is fine.
+P9:56:58 <vdgmprgrmr> I didn't link to it...
+P9:57:13 <vdgmprgrmr> If my mouth were leaking I would have typed this:
+P9:57:22 <vdgmprgrmr> http://mi... er...
+P9:57:27 <vdgmprgrmr> No, nevermind.
+P9:57:48 <Syniphas> lol
+P9:57:52 <Syniphas> can I has link?
+P9:57:59 <Testvan> this is a THE GREAT CASTLE http://www.minecraft.net/play.jsp?user=testvan&id=4
+P9:58:07 <Deiz> Yeah here's a link http://foo.bar.net
+12P9:59:54 * Warf (chatzilla@oh-71-49-157-219.dhcp.embarqhsd.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.10/2009042316])
+P10:00:11 <Eagle> Testvan holy FFFFF---
+13P10:00:17 * Eagle dead
+P10:01:15 <Testvan> not even servers of 24 peeps have anything on that castle
+P10:01:56 <Eagle> Minecraft is /lagging/ because of this castle
+10P10:01:57 * Warf (chatzilla@oh-71-49-157-219.dhcp.embarqhsd.net) has joined #minecraft
+P10:02:28 <Testvan> i keep joining MP servers to find something epic i am always disapointed
+P10:03:07 <TrueWolves> I saw something epic once, but it was greifed, it did give the whole place a distorted ruins look, if it was sad how much was distroyed
+P10:03:18 <vdgmprgrmr> Testvan, make your own server.
+P10:03:48 <vdgmprgrmr> Then you can organize a team of epic-construction-builders.
+P10:04:34 <vdgmprgrmr> Also, that castle is making me cry.
+P10:05:01 <Deiz> It would be better as a wholly underground cave
+P10:05:07 <Deiz> Because then it wouldn't MURDER your FPS
+P10:06:17 <Syniphas> Okay wtf
+P10:06:20 <Syniphas> Even as an mp3
+P10:06:32 <Syniphas> On audacity it plays fine
+P10:06:40 <Testvan> i dont catter to crap copmuters
+P10:07:00 <Deiz> Testvan: MURDER is relative. I get 600-700 FPS normally
+P10:07:01 <vdgmprgrmr> Whoa never thought of trying to play Hide-and-seek in MC.
+P10:07:06 <Deiz> With your castle, I'm down to ~100
+P10:07:19 <Testvan> i limit my FPS to 60 to not waste power
+P10:07:27 <vdgmprgrmr> With your castle, it stays about normal in maps of that size...
+P10:07:29 <vdgmprgrmr> 0.
+P10:07:42 <vdgmprgrmr> Less than one frame per second.
+P10:07:48 <Testvan> well go in the castle, will increase your FPS
+P10:07:56 <TrueWolves> I turn on f
+P10:11:05 <vdgmprgrmr> I press F twice and everything runs fine usually, but it sucks not being able to see everything.
+P10:12:17 <TrueWolves> About the same thing I got to do
+P10:12:40 <mezo> wanna make a deathstar testvan
+P10:12:56 <Testvan> i know not how to make round things with square things
+P10:12:56 <mezo> or a giant dome
+P10:13:04 <mezo> dont worry i got you
+P10:13:44 <Testvan> ok but i dont want to start tonight
+12P10:13:59 * MisterX (MisterX@p5DDE626B.dip.t-dialin.net) Quit (Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org)
+10P10:15:40 * Maulrus (Mibbit@ip24-252-94-236.no.no.cox.net) has joined #minecraft
+12P10:18:00 * Digmaster_ (Digmaster@99-171-188-219.lightspeed.sndgca.sbcglobal.net) Quit (Ping timeout: 180 seconds)
+10P10:18:27 * Digmaster (Digmaster@99-171-188-219.lightspeed.sndgca.sbcglobal.net) has joined #minecraft
+P10:18:33 <pyl> Testvan: hate to break it to you, but pretty much every round thing that is computer related is made with square things :]
+P10:19:02 <Testvan> so
+P10:19:18 <Testvan> i know not how to make them, i know other people do
+P10:19:28 <pyl> oh
+P10:19:31 <pyl> right
+P10:19:46 <ItzMattu> vdgmprgrmr: I am going to work on some scripts and website stuff too eventually probably
+P10:19:56 <ItzMattu> I am just too busy working on a game right now
+P10:20:08 <vdgmprgrmr> The effect can easily be achieved if you know how to calculate the distance from a point in 3d space.
+P10:20:10 <ItzMattu> And other things I was occupied with prior to setting up Minecraft servers
+P10:20:21 <vdgmprgrmr> After that it's just work.
+P10:20:27 <ItzMattu> pyl: Would you consider sharing your scripts that you are using for a website?
+P10:20:55 <ItzMattu> If you do, and if I end up making some PHP stuff to edit admin/banned lists via  a website, i will gladly pass those along.
+P10:21:14 <ItzMattu> I am considering doing a whole appeals system and whatnot as well in time.
+P10:21:34 <ItzMattu> I would work with you on them too if you know PHP
+P10:22:52 <pyl> ItzMattu: maybe when they're actually worth something, sure. what you're doing is a lot more elaborate than what i'm planning though
+P10:23:13 <ItzMattu> Well I would like a list of admin/banned/chat log thing for a site too
+P10:23:19 <ItzMattu> And if I can skip the work that would be awesome
+P10:23:23 <ItzMattu> What did you write them in?
+P10:23:30 <pyl> my stuff is all cgi-scripts and bash :]
+P10:23:33 <ItzMattu> And mostly... how did you get a chatlog onto a website?
+P10:23:53 <ItzMattu> I wouldn't know how to get the chatlog from the server since it just spams it on the screen while the java is running.
+P10:24:05 <ItzMattu> And there is no output of the log as far as I can tell...
+P10:24:16 <pyl> of course it outputs
+P10:24:19 <pyl> you said it yourself
+P10:24:21 <pyl> it spams the screen
+P10:24:25 <ItzMattu> Well yeah
+P10:24:39 <ItzMattu> But how did you grab that? You can't do anything in that console while it is runing the server
+P10:24:43 <ItzMattu> running*
+P10:25:03 <pyl> i can't?
+P10:25:12 <pyl> it's stderr
+P10:25:14 <pyl> i just redirect it
+P10:25:16 <ItzMattu> Yeah
+P10:25:21 <ItzMattu> Is that << or something?
+P10:25:27 <pyl> &>
+P10:25:42 <ItzMattu> So you jsut do the normal java comand line and then at the end do &> log.txt
+P10:25:43 <ItzMattu> ?
+P10:25:52 <pyl> that's the gist of it
+P10:25:55 <ItzMattu> Huh
+P10:25:57 <ItzMattu> Not too shabby
+P10:26:02 <ItzMattu> Then i could write a PHP script to parse the chat out
+P10:26:10 <ItzMattu> You do it with Perl?
+P10:28:40 <Testvan> plearl
+P10:29:14 <ItzMattu> pyl: does &> append to the end of a file?
+P10:31:42 <Syniphas> Anyone here cracked minecraft's level file structure already?
+P10:32:04 <pyl> no, that would be &>>
+P10:32:11 <ItzMattu> Ah okay
+P10:32:13 <pyl> and no, i do it with bash
+P10:32:17 <pyl> Syniphas: cracked? ;)
+P10:32:17 <ItzMattu> I'd probably prefer that instead
+P10:32:28 <ItzMattu> I don't want to overwrite the log everytime I restart the server
+P10:32:28 <Syniphas> pyl yeah
+P10:32:30 <ItzMattu> Which is often
+P10:33:12 <pyl> or wait
+P10:33:15 <pyl> that didn't work for me
+P10:33:30 <ItzMattu> root@linux:/home/matt/minecraft_server4# java -Xms512m -Xmx512m -cp minecraft-server.jar com.mojang.minecraft.server.MinecraftServer &>> log.txt
+P10:33:30 <ItzMattu> bash: syntax error near unexpected token `>'
+P10:33:31 <ItzMattu> O_o
+P10:33:37 <pyl> >> log.txt 2>&1
+P10:33:55 <ItzMattu> 2>&1?
+P10:33:59 <ItzMattu> So cryptic XD
+P10:34:14 <pyl> not really
+P10:34:19 <pyl> it redirects stderr to stdout
+P10:34:28 <ItzMattu> right
+P10:34:33 <ItzMattu> Which is directed at log.txt
+12P10:34:37 * kingnerd (kingnerd@pool-71-125-32-74.nycmny.fios.verizon.net) Quit (Remote host closed the connection)
+P10:34:39 <ItzMattu> But then what is 2&>1?
+P10:34:51 <pyl> ..
+P10:34:57 <pyl> that is what redirects stderr to stdout
+P10:34:57 <pyl> :p
+P10:35:03 <ItzMattu> I thought that was >> log.txt
+P10:35:05 <ItzMattu> *shrug*
+P10:35:09 <ItzMattu> I don't know bash well at all
+P10:35:10 <pyl> no, that redirects stdout.
+P10:35:15 <ItzMattu> I have done minimal bash scripts
+P10:35:36 <Syniphas> so
+P10:35:42 <Syniphas> did anyonehere do it?
+P10:35:51 <ItzMattu> Why would anyone bother?
+P10:35:59 <ItzMattu> What would you want the map data for?
+P10:36:09 <Syniphas> External level editors/converters
+P10:36:14 <Syniphas> like what giver did
+P10:36:20 <Syniphas> and notch's Doom levels
+P10:36:27 <ItzMattu> I have no idea what giver did
+P10:36:33 <Syniphas> a level editor
+P10:36:34 <ItzMattu> But if he did anything obviously he's cracked it
+P10:36:38 <ItzMattu> So ask him
+P10:36:42 <Syniphas> but he didn't release it
+P10:36:47 <ItzMattu> Well, ask nicely?
+P10:36:50 <Syniphas> He's been sleeping for the past hours now
+P10:36:54 <Syniphas> I would ask
+P10:40:09 <ItzMattu> pyl: >> log.txt 2&>1 creates both log.txt and a file named 1. 1 has all the stuff that intially happens when I start the server, but stops logging after that.
+P10:40:19 <ItzMattu> Nevermind
+P10:40:21 <ItzMattu> I am a silly goose
+P10:40:24 <ItzMattu> But it is saving in 1
+P10:40:26 <ItzMattu> Not log.txt
+P10:40:26 <pyl> you are indeed
+P10:40:45 <ItzMattu> So can i just do: >> 2&> log.txt
+P10:40:46 <pyl> what kinda cooky shell do you have?
+P10:40:59 <ItzMattu> I'm using ssh through putty, but my server uses bash
+P10:41:06 <ItzMattu> AFAIK
+P10:41:13 <ItzMattu> It's pretty much the linux standard
+P10:42:19 <pyl> i'm thinking you're doing something wrong, but i don't know what
+P10:43:54 <ItzMattu> From what I just read the ONLY thing I need is 2&>1 log.txt
+P10:43:58 <ItzMattu> I don't even need the >>
+P10:44:14 <ItzMattu> 2>&1 rather
+P10:44:15 <ItzMattu> But yeah
+12P11:04:37 * Eagle (BLELELEL@c-24-56-213-79.customer.broadstripe.net) Quit (Quit: Eagle has quit (Eagle has quit (Eagle has quit (Eagle has quit :O)))))
+12P11:04:53 * Sirrah (thesage101@76.115.213.99) Quit (Read error: Connection reset by peer)
+P11:05:13 <Maulrus> oh look its matt
+P11:05:22 <Maulrus> sorry about the threatening to ban people thing 
+P11:05:23 <Maulrus> >_>
+P11:06:55 <Maulrus> k goodnight #mincraft
+P11:07:00 <Maulrus> #minecraft even
+P11:10:43 <Super-Dot> "x Various server fill exploit preventions. No more lava floods!"
+12P11:10:43 * vatsa (nnscript@a151.ip15.netikka.fi) Quit (Read error: Connection reset by peer)
+P11:10:48 <Super-Dot> How does that work?
+P11:13:04 <Warf> LeonTalon keeps crashing this server
+P11:16:15 <ItzMattu> pyl: All I needed to do was 2> log.txt
+P11:16:17 <ItzMattu> Works perfectly
+P11:16:26 <ItzMattu> I just need stderr output, I guess that's what the server puts out
+10P11:20:06 * Lukeybatman (Lukey_batm@125-239-68-118.jetstream.xtra.co.nz) has joined #minecraft
+12P11:28:03 * Warf (chatzilla@oh-71-49-157-219.dhcp.embarqhsd.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.10/2009042316])
+10P11:38:26 * KEROLiUKAS (kp@c-24-7-220-190.hsd1.il.comcast.net) has joined #minecraft
+P11:38:29 <KEROLiUKAS> ohai again
+P11:39:20 <KEROLiUKAS> any idea why the game could freeze @ this point?
+P11:39:20 <KEROLiUKAS> WARNING: Found unknown Windows version: Windows Vista
+P11:39:20 <KEROLiUKAS> Attempting to use default windows plug-in.
+P11:39:29 <KEROLiUKAS> that's before even loading :(
+10P11:49:38 * Roras (chatzilla@weston-69.65.82.184.myacc.net) has joined #minecraft
+P11:49:57 <Roras> hello guys
+P11:50:14 <Roras> ..
+P11:50:25 <Roras> hmm
+P11:50:32 <Roras> noones has wanted to talk 
+P11:50:47 <Roras> for the past 3days
+P11:50:49 <Roras> for me
+P11:50:52 <Roras> to me*
+P11:50:54 <KEROLiUKAS> i'm here
+P11:51:00 <KEROLiUKAS> but I can't get this game to load...goddamn it
+P11:51:10 <KEROLiUKAS> java bein' homo, etc.
+P11:55:02 <Roras> hm ;9
+P11:55:14 <Roras> where are my buddies xD
+P11:55:26 <Roras> i mean
+P11:55:29 <Roras> now u are my buddy
+P11:55:38 <KEROLiUKAS> ugh sure
+P11:55:38 <Roras> but where are the others?
+P11:55:48 <KEROLiUKAS> takin' a dookie or smthg
+P11:55:54 <Roras> ah ok
+P11:58:29 <Super-Dot> Holy :O
+P11:58:36 <Super-Dot> I can connect to multiplayer now!
+P11:58:45 <KEROLiUKAS> well I cant even play sp
+P11:58:49 <KEROLiUKAS> :(
+P11:59:05 <Roras> hm
+P11:59:08 <Roras> super dot
+P11:59:15 <Roras> where are the others?
+P11:59:25 <Super-Dot> Which others?
+P11:59:41 <Roras> vdgmprgmrs
+P11:59:49 <Lukeybatman> damn
+P11:59:50 <Lukeybatman> .
+P11:59:58 <Super-Dot> Not sure
+Session Close: Thu Jun 11 00:00:01 2009

@@ -1,0 +1,1818 @@
+
+Session Start: Fri Aug 21 16:31:42 2009
+Session Ident: #minecraft
+10P4:31:44 * Now talking in #minecraft
+10P4:31:44 * Topic is 'http://www.minecraft.net/  |  Keep it clean, keep it nice. Spamming nonsense can go in another channel.  |  Forums are down; back soon. | Survival beta sept 1st. http://tr.im/survivalbeta | 50,000 registred players, yay!'
+10P4:31:44 * Set by citricsquid!sam@client-81-97-78-10.mcr-bng-013.adsl.virginmedia.net on Fri Aug 21 05:07:37
+P4:31:46 <08Notch> Not having this argument again.
+P4:31:53 <vede> There was no argument!
+P4:31:58 <vede> Well, there was, but it was short.
+P4:32:04 <Griskard> Modding?
+P4:32:08 <vede> Yeh.
+P4:32:08 <Eagle> What was his opinion 'last time'?
+P4:32:10 <Griskard> Is AWESOME
+P4:32:13 <Eagle> *your
+P4:32:26 <vede> Eagle: Can make new gamemodes and such, but can't make new blocks.
+P4:32:34 <Eagle> Oh. I see.
+P4:32:36 <vede> Or customize blocks.
+P4:32:44 <mail2345> wait wat
+P4:32:49 <mail2345> no customizing blocks
+P4:33:01 <mail2345> so no still lava
+P4:33:01 <vede> Which I just don't see the logic in.
+P4:33:01 <mail2345> or watervators
+P4:33:04 <AlexVMiner> i just pulled more skin off my shoulder
+P4:33:04 <mail2345> or portals
+P4:33:10 <Griskard> With LUA. shouldnt anyone be able to make new blocks IF they know how to mod a bit?
+P4:33:18 <08Notch> you can code custom behavior for blocks, yes. You can't replace the graphics.
+P4:33:24 <mail2345> ahh, thx for clearing that up
+P4:33:28 <Eagle> you could say that portals are just water
+P4:33:30 <AlexVMiner> grisk, you can edit blocks now
+P4:33:31 <Eagle> Yeah what notch said
+P4:33:33 <vede> Okay, but why?
+P4:33:39 <AlexVMiner> others can't see it, though
+P4:33:42 <08Notch> I'm not having this argument again, vede
+P4:34:01 <vede> Dude.
+P4:34:01 <mail2345> screw it, i'm scanning my logger
+P4:34:01 <vede> I'm just asking WHY.
+P4:34:01 <mail2345> for the argument
+P4:34:01 <08Notch> i told you why last time.
+P4:34:08 <vede> Because you like your screenshots?
+P4:34:17 <AlexVMiner> vede...
+P4:34:19 <mail2345> notch, to speed things up, can you give me a segment of the convo to scan for
+P4:34:19 <Griskard> Hey Notch, with Lua, in theory, couldn't I change the graphics anyway?
+P4:34:21 <AlexVMiner> SHUSH
+P4:34:24 <mail2345> no girs
+P4:34:29 <mail2345> Lua is server side
+P4:34:30 <08Notch> no, gris, it's server-side
+P4:34:38 <AlexVMiner> griskard, you can edit the blocks now
+P4:34:51 <Griskard> Ahh, the only experience I have is with Python. So I really dont know anything
+P4:34:55 <vede> It seems pointless.
+P4:35:03 <mail2345> lua is as easy as python
+P4:35:12 <Griskard> Im just trying to get a team together who wants to mod. Ill just feed the money :p
+P4:35:15 <vede> To allow people to change every single thing about the game, except textures.
+P4:35:23 <AlexVMiner> look:
+P4:35:24 <AlexVMiner> http://i194.photobucket.com/albums/z61/ninjachuck385/TORTERRA-1.png
+P4:35:30 <08Notch> you won't be able to change every single thing.
+P4:35:37 <vede> And now you even say you can change the way the blocks BEHAVE, but they'll always have to look the same.
+P4:35:41 <bombadil> ok did a test call...
+P4:35:43 <Evil-Ville> Hey vede shut up
+P4:35:45 <bombadil> with Magic Jack
+P4:35:53 <vede> Hey Evil-Ville, no.
+P4:35:54 <08Notch> haha, awesome, AlexVMiner =D
+P4:35:55 <AlexVMiner> cool
+P4:35:57 <bombadil> verdict so far: sucks.
+P4:36:04 <Griskard> Thats interesting, hehe
+P4:36:05 <AlexVMiner> Zuriki told me how to...
+P4:36:07 <bombadil> 4 second delay
+P4:36:11 <Griskard> At first I was like "OMG THATS HUGE"
+P4:36:21 <Griskard> And then eventuallly I saw the lighter outline :p
+P4:36:28 <bombadil> oh wait i have bittorrent on
+P4:36:33 <AlexVMiner> only 5x5
+P4:36:33 <mail2345> okay, Notch did say to keep screenies consistent.
+P4:36:48 <vede> We can change the fundamental gameplay of Minecraft, but not change textures.
+P4:36:57 <vede> It seems like a pointless restriction.
+P4:37:13 <AlexVMiner> let's make an air block that makes sand fly everywhere
+P4:37:15 <08Notch> you're entitled to think so, but reiterating that isn't going to make me change my mind.
+P4:37:18 <Griskard> Really, its Notches game, and your just another piece of shit like me, and considering how its free atm, Just shut up...
+P4:37:31 <vede> What the hell?
+P4:37:51 <AlexVMiner> but whatever i say notch puts in the game
+P4:37:52 <AlexVMiner> :D
+P4:37:54 <mail2345> anyway, there are practicalilty issues with sending images
+P4:38:06 <Eagle> vede, if he's allowing modding the game, he's allowing modding the functions of blocks.
+P4:38:08 <mail2345> such asn bandwith
+P4:38:10 <Griskard> Thats because your AlexfrikkinV Miner
+P4:38:12 <mail2345> and*
+P4:38:17 <mail2345> as*
+P4:38:18 <vede> mail2345, yeah, that's why we couldn't make custom skins, right?
+P4:38:24 <Eagle> I don't think it has to do with him saying "NO WAI YOU CAN'T CHANGE ONLY THE GRAPHICS"
+P4:38:27 <mail2345> ugh, the skins come from
+P4:38:33 <vede> Yeah, yeah, yeah, I know.
+P4:38:33 <mail2345> minecraft.net server
+10P4:38:36 * Sl1N0 (Nilsoinas@dsl-roibrasgw1-feb8dc00-106.dhcp.inet.fi) has joined #minecraft
+P4:38:38 <vede> But it proves that it can be done.
+P4:38:42 <Snowman> Oh btw Notch, We need a pickaxe made out of your beard.
+P4:38:43 <vede> The texture file is TINY.
+P4:38:48 <vede> It's smaller than the level.
+P4:38:56 <AlexVMiner> lol snowman
+P4:38:57 <Eagle> It's not that he's restricting you from changing the graphics, he's letting you change everything besides the graphics. :P
+P4:38:59 <Eagle> If that made sense.
+P4:39:08 <Griskard> Speaking of which, Notch, just a question, whats the biggest map I can make?
+P4:39:11 <08Notch> Snowman: I trimmed it a couple of days ago, but didn't keep any :-(
+P4:39:12 <AlexVMiner> same thing eagle
+P4:39:15 <vede> Which is why I'm confused by this.
+P4:39:16 <Snowman> :O
+P4:39:17 <Eagle> In other words, be happy with what you got
+P4:39:21 <Snowman> YOU HAVE NO MORE BEARD?
+P4:39:22 <Griskard> I cant use OME, to create superbig stuff, it blows in my face
+Session Close: Fri Aug 21 16:48:13 2009
+
+Session Start: Fri Aug 21 19:15:11 2009
+Session Ident: #minecraft
+10P7:15:11 * Now talking in #minecraft
+10P7:15:11 * Topic is 'http://www.minecraft.net/  |  Keep it clean, keep it nice. Spamming nonsense can go in another channel.  |  Forums are down; back soon. | Survival beta sept 1st. http://tr.im/survivalbeta | 50,000 registred players, yay!'
+10P7:15:11 * Set by citricsquid!sam@client-81-97-78-10.mcr-bng-013.adsl.virginmedia.net on Fri Aug 21 05:07:37
+P7:15:21 <Griskard> I cant mod much, but Im willing to pay out like 150 bucks a month for a proper server, thats why Im trying to con people into helping :p
+P7:15:36 <mail2345> you know
+P7:15:36 <Quatroking> Notch: what in god's name are you up to at this time of the night
+P7:15:36 <mail2345> the prenium server
+P7:15:39 <mail2345> is nearly grief free
+P7:15:43 <Quatroking> Murdering popular indie developers to get yourself up in the ranks?
+P7:15:48 <Skywars> Lets build a massive minecraft monument dedicated to Notches' likeness.
+P7:16:01 <08Notch> Quatroking: View bobbing! :D
+P7:16:01 <PixelSith64> Lets build a real life city
+P7:16:02 <PixelSith64> Made out of only blocks
+P7:16:02 <Quatroking> holy shit
+P7:16:08 <Jakkarra> yes!
+P7:16:09 <PixelSith64> And model them after Minecraft blocks
+P7:16:12 <Jakkarra> YES!
+P7:16:15 <Jakkarra> ill halp!
+P7:16:17 <Quatroking> which glasses do I need to buy, by the way
+P7:16:21 <Jakkarra> we need to FINISH it though
+P7:16:26 <Jakkarra> glasses?
+P7:16:29 <08Notch> Quatroking: Red left eye, cyan right eye
+P7:16:30 <Griskard> Someone setup the private server and Ill be in there so fast
+P7:16:39 <Quatroking> alrighty
+P7:16:41 <Jakkarra> Purple left eye, green right eye
+P7:16:49 <Jakkarra> or, pure white both eyes
+P7:16:49 <ZomBuster> not really purple
+P7:16:54 <Jakkarra> dark purple
+P7:16:57 <Quatroking> why do all the 3d glass sites look like they're straight from geocities
+P7:16:57 <Griskard> Red left eye, Red right eye
+P7:16:58 <Skywars> Get the fine wines, have the ladies bring the appetizers and tell the fiddle band to begin playing! 
+P7:17:16 <Quatroking> fundle the band?
+P7:17:20 <Griskard> Im gonna shower
+P7:17:29 <Griskard> Then Ill be back to work on meh ideas
+P7:17:46 <Skywars> Notch are you married?
+P7:18:00 <ZomBuster> quatro http://www.3dstore.nl
+P7:18:04 <mail2345> @Notch, will there be server side systems to read and modify the velocity of clients?
+P7:18:23 <Quatroking> like I said, why the hell do all those sites look like they're from geocities
+P7:18:35 <Quatroking> they should learn about making a proper website
+P7:18:36 <Jakkarra> when are we doing the citybuild thing?
+P7:18:41 <ZomBuster> looks like an ordinary web shop to me
+P7:18:56 <Quatroking> Yeah, but its dutch
+P7:19:08 <Griskard> Actually Notch, sorry again, but, Will Zombies/skeles drop stuff when they die? 
+P7:19:09 <Quatroking> The Dutch rules at technology, baby
+P7:19:17 <Skywars> http://www.youtube.com/watch?v=pZ_btTYk9v4
+P7:19:19 <Quatroking> We have freakin' Wikipedia and shit
+P7:20:10 <Quatroking> Zombuster, no way I'm ordering one at their store
+P7:20:19 <Quatroking> I'm getting SQL errors all over the place
+P7:20:32 <ZomBuster> I did.. received them in the post 2 days later
+P7:20:41 <Quatroking> meh
+P7:20:41 <chrstfer> someone should write a GUI personality modifier for the mobs
+12P7:22:25 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) Quit (Read error: Connection reset by peer)
+P7:22:34 <Jakkarra> what are you talking about Chrst?
+P7:23:34 <Quatroking> aids
+P7:23:47 <Jakkarra> stop being an idiot
+P7:24:58 <chrstfer> lol
+P7:25:01 <chrstfer> me?
+P7:25:08 <Quatroking> Yeah, you
+P7:25:15 <chrstfer> i am talking about AIDS he was right
+P7:25:16 <chrstfer> lol
+10P7:25:25 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) has joined #minecraft
+P7:25:58 <chrstfer> no, somewere along the lines i thot i heard editable AI for mobs. someone should make a GUI editor for that
+P7:26:12 <chrstfer> http://www.youtube.com/watch?v=qdiN-SatPa8
+P7:26:16 <Quatroking> would these work: http://www.3dstore.nl/catalog/popup_image.php?pID=169
+P7:26:32 <chrstfer> OMG i need those
+12P7:26:44 * Skywars (Mibbit@adsl-64-173-170-82.dsl.frsn01.pacbell.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P7:27:04 <chrstfer> any good private servers up?
+P7:28:18 <Jakkarra> hopefully lagless
+P7:28:56 <08Notch> yes, Quatroking
+10P7:29:00 * mib_4pb0qyrm (Mibbit@120.141.1.160) has joined #minecraft
+P7:29:07 <Quatroking> oh boy
+P7:29:39 <LG_Legacy> ?
+P7:30:26 <Jakkarra> are you willing to tell us the contents of survival mode, notch? or, do you want it to be a suuuuuuuuuurrrrrppppriiiiiissseeeeee!!!
+P7:30:40 <Quatroking> it will have tiles
+12P7:30:40 * ZomBuster (zombuster@ip111-36-208-87.adsl2.static.versatel.nl) Quit (Quit: Client Exited)
+P7:30:42 <Not_Famous> surprise! You died
+P7:31:07 <Not_Famous> awe:( @_@
+10P7:32:13 * KatamariManatee (Mibbit@ip98-179-180-215.ri.ri.cox.net) has joined #minecraft
+10P7:32:39 * JavaGuest937 (JavaGuest9@c-24-8-163-24.hsd1.co.comcast.net) has joined #minecraft
+P7:33:15 <Jakkarra> so, thats a no then, notch?
+P7:33:19 <Jakkarra> ^^
+P7:34:01 <JavaGuest937> whats the deal with the E thing?
+P7:34:09 <Jakkarra> its to pic things up
+P7:34:18 <Jakkarra> and to interact with game-objects
+P7:34:21 <Jakkarra> *pick
+P7:35:05 <Not_Famous> The "use" button. like crack, or meth :D
+P7:35:21 <Griskard> Is there some way to make maps without OME?
+P7:35:48 <Quatroking> damnit I can't find any site that sells 3D glasses with a plastic miniature without having to pay a shitload of shipping/absurt price
+P7:36:08 <Quatroking> and when I find one they only accept visa, not even paypal!
+12P7:36:29 * abon (abon@tech-224-41.telecom.by) Quit (Quit: see you)
+P7:37:48 <Super-Dot> Plastic miniature?
+P7:38:06 <LG_Legacy> Hey Notch, will we be able to shove people someday?
+P7:38:07 <Quatroking> eh, i mean, monture
+P7:38:10 <Quatroking> that thing
+P7:38:38 <Quatroking> frame
+P7:39:00 <Super-Dot> They're all cardboard or something?
+P7:39:01 <JavaGuest937> http://kyucon.com/qblock/
+12P7:39:04 * JavaGuest937 (JavaGuest9@c-24-8-163-24.hsd1.co.comcast.net) Quit (Quit: One small step for Java, one giant leap for IRC.)
+P7:39:22 <Quatroking> Yeah
+P7:39:25 <Quatroking> cardboard
+P7:40:34 <Jakkarra> 'need a dispenser here!
+P7:40:48 <Jakkarra> need a dispenser here!
+P7:41:15 <Quatroking> you knucklehead
+P7:41:37 <Jakkarra> Chucklenuts
+P7:41:59 <Dudebro> I'M GONNA HEADBUTT YA
+P7:42:05 <Quatroking> NOTCH
+P7:42:09 <Jakkarra> order now, an' ill throw in a second beatin' ABSOLOUTELY FREE!
+P7:42:11 <Quatroking> NOTCH DOES THIS WORK WITH MINECRAFT http://www.i-glassesstore.com/iglassespc-3d.html
+P7:42:47 <Quatroking> read: how do I waste a shitload of money and look silly at the same time
+10P7:42:59 * princepsregulus (princepsre@70.239.9.126) has joined #minecraft
+P7:43:01 <08Notch> i don't know
+P7:43:13 <Quatroking> well
+P7:43:18 <Quatroking> there's one way to find out
+P7:43:23 <Griskard> Notch, Did I end up in your bed last night or just look silly?
+P7:43:23 <PixelSith64> Bye them!
+P7:43:25 <Quatroking> and since you're the developer..
+10P7:43:29 * monty (Monty@i-195-137-91-221.freedom2surf.net) has joined #minecraft
+P7:43:37 <08Notch> i haven't implemented support for it
+P7:43:40 <mail2345> @Notch, will there be server side systems to read and modify the velocity of clients?
+P7:43:45 <08Notch> but I just implemented a reloadAll() funcion in the texture loader
+P7:43:49 <08Notch> so you can toggle 3d mode ingame now :D
+10P7:43:51 * monty is now known as dinosteve
+P7:43:52 <PixelSith64> lulz. Quatroking, what the hell kind of 3D glasses are those?
+P7:43:54 <Quatroking> woohoo
+P7:43:58 <PixelSith64> ooh
+P7:43:59 <PixelSith64> :D
+P7:44:00 <08Notch> mail2345: I don't know yet
+P7:44:04 <PixelSith64> Notch, you know you're awesome. Right?
+P7:44:11 <08Notch> oh, wow, thanks. :D
+P7:44:12 <Jakkarra> sure he does!
+10P7:44:16 * DementedHog (chatzilla@115.64.85.159) has joined #minecraft
+P7:44:20 <Jakkarra> everyone loves Notch!
+P7:44:25 <08Notch> I'll go sleep now. =D
+P7:44:32 <PixelSith64> ahhh. See ya Notch
+P7:44:36 <Jakkarra> bai Notch
+P7:44:37 <Not_Famous> good night Notch
+P7:44:42 <Eagle> NOTCH WHAT IS 235 DIVIDED BY PI
+P7:44:44 <Jakkarra> Has fun with that "sleep" thing
+P7:44:56 <08Notch> Eagle: 80?
+12P7:44:58 * princepsregulus (princepsre@70.239.9.126) Quit (Remote host closed the connection)
+10P7:45:06 * princepsregulus (princepsre@70.239.9.126) has joined #minecraft
+P7:45:08 <Griskard> Damn
+P7:45:09 <Eagle> I doubt it's a whole number.
+P7:45:10 <Eagle> :P
+P7:45:12 <Griskard> Your quick like that
+P7:45:17 <08Notch> 74.8. :D
+P7:45:22 <mail2345> ugh
+P7:45:24 <dinosteve> Are there any admin for"Redshift's Ocean Build" here?
+P7:45:24 <mail2345> ask logger
+P7:45:25 <Eagle> Good enough.
+12P7:45:38 * Notch (Notch@h-77-240.A165.priv.bahnhof.se) Quit (Quit: thud)
+P7:45:57 <mail2345> "<Logger> Result: 235 / pi = 74.8028233"
+P7:45:59 <Griskard> Eagle asked notch the first AND last question
+P7:46:01 <Griskard> Hehehe
+P7:46:06 <mail2345> oshi notch was right
+P7:46:11 <Griskard> Hahah
+10P7:46:38 * antinull (antinull@99-36-127-23.lightspeed.livnmi.sbcglobal.net) has joined #minecraft
+P7:46:42 <PixelSith64> I guess Notch likes Eagle
+13P7:46:49 * dinosteve pokes antinull
+P7:46:49 <Griskard> Nah
+P7:46:57 <Griskard> Eagle is notches girlfriend
+P7:47:14 <Eagle> Wait what
+P7:47:15 <mail2345> mai isn't here anymore
+P7:47:21 <PixelSith64> :O
+P7:47:22 <PixelSith64> I knew it!
+P7:47:23 <mail2345> too bad.
+P7:47:27 <antinull> hi steve
+P7:47:27 <PixelSith64> Eagle, you never told me. :<
+P7:47:36 <antinull> isnt redshift going downhill?
+P7:47:42 <Jakkarra> ALL OF YOU ARE BABIES!
+P7:47:45 <Quatroking> Griskard: impossible, I'm Notch's husband
+P7:47:56 <Jakkarra> AAAAAAAAAAAAAAAGH! BALONEY!
+P7:47:56 <Eagle> He's cheating on you with me
+P7:47:57 <Griskard> No
+P7:47:59 <Not_Famous> The max size on my map I can get is 435, 63, 435. am I doing something wrong?
+12P7:48:01 * Piecat (chatzilla@76.229.174.26) Quit (Read error: Connection reset by peer)
+P7:48:02 <Griskard> Your my husband
+P7:48:02 <Quatroking> I stole her from Ez
+P7:48:04 <Quatroking> srsly
+P7:48:06 <PixelSith64> I'm so confused
+P7:48:08 <Jakkarra> thats a VERY odd size
+P7:48:14 <Eagle> I'm just confused that I'm suddenly a girl now
+P7:48:15 <Griskard> Not Famous
+P7:48:18 <Griskard> Thats wierd
+P7:48:22 <LG_Legacy> What?
+P7:48:22 <Jakkarra> http://www.youtube.com/watch?v=_i7tqWMbUFU
+P7:48:26 <Jakkarra> awesome song
+P7:48:31 <PixelSith64> Eagle, you're a girl?
+P7:48:32 <PixelSith64> o-O
+P7:48:34 <Not_Famous> Is there something I'm doing wrong?
+P7:48:38 <Griskard> But I cant get it over 512 by 512 by 16, so I dunno
+P7:48:39 <PixelSith64> Why the hell did you tell me you were male?
+P7:48:41 <Eagle> I'm not a girl. >:O
+P7:48:52 <Griskard> Hang on
+P7:48:58 <Griskard> I just got it to 512 512 54
+P7:49:00 <Griskard> 64*
+P7:49:11 <Not_Famous> I wouldn't mind that size
+10P7:49:15 * Ollieh (Ollieh@60-241-175-129.static.tpgi.com.au) has joined #minecraft
+12P7:49:16 * Arg (chatzilla@d58-104-81-124.dsl.vic.optusnet.com.au) Quit (Read error: Connection reset by peer)
+P7:49:24 <Griskard> At 128 instead of 64 it freezes up OME on me
+P7:49:29 <Ollieh> was notch on yesterday?
+10P7:49:30 * Arg (chatzilla@d58-104-81-124.dsl.vic.optusnet.com.au) has joined #minecraft
+P7:49:39 <Not_Famous> it's actually what I was going for. what vers. of Omen do you have?
+P7:49:44 <citricsquid> he was on about 10 minutes ago Ollieh
+12P7:49:48 * Miclee (miclee1@CPE001839f2360a-CM0012c99a3e00.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+P7:49:52 <Griskard> Ive been trying to get a 1024x 1024x 256, bur it definately dont like that
+P7:49:53 <PixelSith64> In all his awesomeness
+P7:49:57 <Ollieh> oh carp
+P7:50:05 <citricsquid> Ollieh: literally just missed him haha
+P7:50:08 <Griskard> I dunno what version I have
+P7:50:10 <Ollieh> did he say anything cool?
+P7:50:14 <Griskard> Yes
+P7:50:17 <Griskard> But you cant hear it
+P7:50:26 <citricsquid> Ollieh: http://www.minecraft.net/temp/pig.jpg
+P7:50:30 <Ollieh> can I get a log of irc in any way?
+P7:50:37 <mail2345> err
+P7:50:37 <Jakkarra> look on the Devlog!
+P7:50:38 <mail2345> wait
+P7:50:40 <Ollieh> HAha
+P7:50:41 <citricsquid> Ollieh: yeah, but they're very long :D
+P7:50:42 <mail2345> gonna load up logger
+P7:50:43 <Jakkarra> PIGGIES!
+P7:50:50 <Ollieh> nice piggies
+P7:50:54 <Jakkarra> devlog, QUICK!
+P7:50:59 <mail2345> though i have a few holes in there
+P7:51:03 <mail2345> due to ping timeouts
+P7:51:13 <mail2345> and on it's old nick, some ops
+P7:51:24 <Ollieh> is combat in the survival beta, did anyone ask?
+12P7:51:25 * KatamariManatee (Mibbit@ip98-179-180-215.ri.ri.cox.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P7:51:52 * princepsregulus (princepsre@70.239.9.126) Quit (Quit: dude)
+12P7:52:01 * vede (vdgmprgrmr@12.173.3.190) Quit (Ping timeout: 180 seconds)
+P7:52:03 <Griskard> No
+P7:52:07 <Griskard>  guess we assumed
+P7:52:21 <Ollieh> oh well
+P7:52:33 <Testvan> my balls
+P7:52:43 <liq3> Ollieh: Most likely.
+P7:53:01 <Ollieh> on what basis?
+P7:53:04 <Griskard> So, anyone here managed to get a 1024 by 1024 by 128 to build in OME?
+P7:53:14 <liq3> Ollieh: he's already done hp, items, armour...
+10P7:53:18 * vede (vdgmprgrmr@12.173.3.190) has joined #minecraft
+P7:53:20 <liq3> Combat wouldn't atke more then 2-3 days.
+P7:53:25 <Not_Famous> Griskard: What Version of Omen do you have?
+P7:53:28 <Ollieh> I guess
+P7:53:44 <Ollieh> do you guys play dwarf fortress?
+12P7:53:45 * Dudebro (chatzilla@adsl-68-94-22-113.dsl.rcsntx.swbell.net) Quit (Ping timeout: 180 seconds)
+P7:53:51 <Griskard> I dont know famous
+P7:53:52 <liq3> Ollieh: I do a little bit...
+P7:54:21 <Ollieh> everyone should, the games are similar in a sense
+P7:54:29 <Ollieh> just very different at the same time
+P7:54:30 <liq3> haha yes.
+P7:55:14 <Super-Dot> dinosteve: Still there?
+P7:55:21 <Quatroking> Notch: do you have those 3D glasses yourself
+P7:55:27 <dinosteve> I here, yeah
+P7:55:35 <liq3> Ollieh: You played AI War?
+P7:55:39 <Quatroking> oh, he left
+P7:55:46 <Super-Dot> I'm an op on Ocean Build
+P7:55:48 <Quatroking> anyone else have 3d glasses?
+10P7:55:50 * Xeros (Mibbit@ip98-167-210-64.ph.ph.cox.net) has joined #minecraft
+04P7:55:50 Xeros has the same ISP district as bomb.
+P7:55:55 <dinosteve> Awesome
+P7:56:10 <liq3> Quatroking: Nope. I kinda want some. lol.
+P7:56:27 <dinosteve> Can you ipban Krakstoriaz
+13P7:56:28 * bombadil *my hobby*: printing "You're now op!" from the server admin terminal.
+P7:56:29 <Quatroking> I'm trying to find a site that sells them cheaply
+P7:56:39 <Quatroking> preferably with a plastic frame
+P7:56:50 <Not_Famous> make your own?
+P7:56:54 <liq3> Yeh.
+P7:56:57 <liq3> You could make your own. :P
+P7:57:01 <Xeros> Helloo there
+P7:57:05 <liq3> Any craft store would have the materials.
+P7:57:19 <Ollieh> liq3: nah havent, should I?
+P7:57:28 <Xeros> I guess I'm gonna have to ask since it's my first time here... is Notch on? :P
+P7:57:34 <Not_Famous> Easy as pie :D
+P7:57:40 <Griskard> No
+P7:57:40 <liq3> Ollieh: Nope, not really, I'm just asking everyone. :D
+P7:57:43 <Griskard> He left 15 mins ago
+12P7:57:43 * Daroh (Daroh@cpc1-midd1-0-0-cust399.midd.cable.ntl.com) Quit (Quit: ~ Trillian Astra - www.trillian.im ~)
+P7:58:02 <Not_Famous> Bombadil: Does the Magic Jack work?
+P7:58:05 <Griskard> So, you did just miss him
+P7:58:05 <Jakkarra> i play Dwarf fortress
+P7:58:09 <liq3> Ollieh: It's a grand strategic tower defense 4X RTS if you're interested.
+P7:58:09 <Xeros> Aw too bad, I'm proud of that man. lol anyway, I'm having multi-player connection problems
+P7:58:12 <Jakkarra> for that guy who asked
+P7:58:25 <Griskard> Whats your problem?
+P7:58:28 <bombadil> Not_Famous: yes. it works quite well, in fact. your voice mail even gets emailed to you in wav format!
+P7:58:38 <Xeros> Every single public server says it can't connect and that it might be down. I'm running a Mac OS X and have tried Safari, and Firefox, and updated Java =/
+P7:58:51 <Not_Famous> WHAT?!? That's Crazy! I'm going to buy it now. Thanks bombadil!
+10P7:58:56 * Dudebro (chatzilla@adsl-68-94-22-113.dsl.rcsntx.swbell.net) has joined #minecraft
+P7:58:56 <bombadil> wait
+P7:59:00 <bombadil> Not_Famous
+P7:59:05 <Not_Famous> *puts down car keys*
+P7:59:08 <bombadil> LMAO
+P7:59:16 <Xeros> Single Player works, and I love Minecraft already.. but I know it'd be much better on multiplayer!
+P7:59:25 <Griskard> Hmm
+10P7:59:29 * flyboy (chatzilla@121.90.253.248) has joined #minecraft
+P7:59:35 <Not_Famous> there can't be anything bad @_@
+P7:59:36 <liq3> Xeros: Most likely a firewall is blocking it.
+P7:59:39 <Griskard> Firewall blocks it?
+P7:59:52 <LG_Legacy> Router blocks things half of the time.
+P8:00:01 <bombadil> not_famous: what i said is true. it works well. but if you are putting load on your internet line it lags (i.e. downloading). otherwise the quality is great. everyone i've called says it sounds the exact same as a normal phone. i sometimes get a bit of digital-ness to people's voices (does that make sense?).
+P8:00:04 <Xeros> Hmmm... well I hate Mac so bad because it.. doesn't make sense to me.. where can I find if a firewall is active?
+P8:00:12 <liq3> Legacy: Router shouldn't be blocking if he's trying to connect. Router's only usually cause problems when trying to host.
+P8:00:19 <bombadil> not_famous: i'm sending mine back only because i discovered that it is in fact NOT possible to get a Canadian phone number yet :(
+P8:00:22 <Super-Dot> blblbl
+P8:00:24 <LG_Legacy> It blocks people from connecting aswell sometimes.
+P8:00:33 <LG_Legacy> Even himself with the 'external' url
+P8:00:33 <liq3> Legacy: Yeh, I dunno.
+P8:00:34 <bombadil> not_famous: i'm actually really disappointed. i want to keep it :(
+P8:00:36 <LG_Legacy> But not the internal
+P8:01:10 <Not_Famous> bombadil: that makes sense, but I already have a package with my ($39.99) phone service right now. so it sounds great for just $20.
+P8:01:19 <flyboy> Notch has mad 14,810 euros with minecraft
+P8:01:29 <flyboy> made*
+P8:01:40 <Not_Famous> The service I have right now is digital as well. I don't like it that much. :/
+P8:01:42 <bombadil> Not_Famous: in all honesty it is awesome. i wish i could get a local number. i would consider disconnecting my land line tbh
+P8:01:43 <Griskard> No
+P8:01:50 <Griskard> Er. Euros 
+P8:01:52 <Griskard> Sorry
+P8:02:01 <Griskard> Hes made 21k usd, but loses 60% to tax
+P8:02:13 <bombadil> shit that's harsh, 60%?
+P8:02:22 <bombadil> what country is he in?
+P8:02:25 <Griskard> Sweden?
+P8:02:39 <bombadil> he should just call it "donations"
+P8:02:45 <Not_Famous> Thanks, bombadil! That's great news.
+P8:02:50 <bombadil> maybe he can get around the tax then :)
+P8:03:01 <liq3> Haha. "Donate $20 and get a free game!"
+P8:03:07 <Ollieh> heh
+P8:03:10 <bombadil> not_famous no problem, hope it works well for you :)
+10P8:03:12 * AlexVMiner (Mibbit@75.97.177.12.res-cmts.mtp.ptd.net) has joined #minecraft
+P8:03:15 <AlexVMiner> PIGS
+P8:03:21 <AlexVMiner> THEY ARE SO CUTE
+P8:03:24 <Dudebro> OINK OINK OINK
+P8:03:29 <Dudebro> I WANT TO MURDER THEM
+P8:03:35 <AlexVMiner> O.O
+P8:03:37 <Griskard> Pig up you
+P8:03:39 <Dudebro> That is my plan
+P8:03:43 <Dudebro> Raids.
+P8:03:46 <AlexVMiner> BACON
+P8:03:46 <Griskard> Alex
+P8:03:48 <Dudebro> On farmers.
+P8:03:48 <bombadil> if you eat ham etc then technically you are paying people to murder them for you
+P8:03:51 <Ollieh> and all the vegetarians stopped playing
+P8:04:00 <Dudebro> lolololol
+P8:04:02 <Griskard> I dont suppose you have gotten a map larger than 512 to work in OME?
+P8:04:06 <Dudebro> It's delicious murder.
+P8:04:15 <liq3> Dudebro: And unhealthy.
+P8:04:17 <AlexVMiner> i haven't tried, nor do i want to
+P8:04:25 <Not_Famous> Griskard: if that was to me, then no :( I'm stuck at 435
+P8:04:32 <Dudebro> Unhealthy, but still delicious.
+P8:04:42 <Not_Famous> it wasn't to me, but I'll still say it @_@
+P8:04:44 <AlexVMiner> more that 512x512x64 makes the server lag SO much
+P8:04:45 <bombadil> Xeros you there?
+P8:04:47 <Xeros> Yeah I don't know where to find out if this Mac has a firewall. I'd know how if it were Windows buut... is it just supposed to show it in this inconveniently located bar..thing, at the bottom? lol
+P8:04:55 <liq3> Dudebro: It's also the #1 cause of polution. :]
+P8:05:00 <Griskard> I dont suppose anyone here is willing to try something out with their OME for me?
+P8:05:42 <Griskard> Yeah, well alex, Im thinking the solution is 512 by 612 by 64, and just have portals to different servers. Although would that still cause the lag?
+P8:05:49 <Xeros> And yes I'm here :P
+P8:05:56 <bombadil> Xeros: Apple menu > System Preferences > Security > Firewall
+P8:06:20 <bombadil> Xeros: In system preferences there is a search box. it can help you find settings
+P8:06:28 <Xeros> Ah thank you so much ^.^ not even a google search could provide me such info easily heh
+P8:06:42 <bombadil> Xeros: you say you hat it because you don't understand it. in truth, you are cursing your own ignorance.
+12P8:06:51 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) Quit (Ping timeout: 180 seconds)
+P8:06:58 <Xeros> I like your way of thinking, lol
+P8:07:06 <liq3> bombadil: All OSes suck. They just suck in different ways.
+12P8:07:51 * DementedHog (chatzilla@115.64.85.159) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5.2/20090729225027])
+P8:07:57 <bombadil> liq3: thanks for the tip.
+P8:08:05 <liq3> Welcome.
+P8:08:16 <liq3> Now I'm bored. :(
+P8:08:42 <Griskard> liq
+P8:08:44 <bombadil> liq3: bordem is your ego trying to avoid inner silence. inner silence leads to liberation
+P8:08:46 <Griskard> If your bored
+P8:08:55 <Griskard> Try creating a 512 512 128 and see if it works
+P8:09:01 <liq3> bombadil: Yeh, doing nothing is hard for me. 
+P8:09:14 <liq3> Griskard, I would, but I don't care. :p
+P8:09:23 <Griskard> Then you cant be that bored
+P8:09:30 <bombadil> liq3: try to count your breaths and see how far you can get before your mind wanders. if you make it past 12 you are doing very well
+P8:09:38 <liq3> lol.
+P8:09:39 <Xeros> I may have to start cursing my own ignorance again, because there is no firewall anything in the security section, just a few checkboxes. I'm sorry but Mac just seems so.. "un"advanced. Is security really lacking that much? Anyway, search box it is.
+P8:10:05 <liq3> Xeros: It probably has no anti-virus...
+P8:10:08 <bombadil> firewall tab...
+P8:10:19 <bombadil> lmao
+P8:10:20 <liq3> Of course, that's because windows is the only OS that viruses work on. :D
+P8:10:22 <bombadil> Macs dont need anti-virus
+P8:10:25 <liq3> :]
+P8:10:28 <bombadil> :D ;)
+P8:10:50 <bombadil> fun fact: Macs don't need to have their hard drives manually defragged, either
+10P8:10:50 * LG_Legacy (LGLegacy@71-82-103-142.dhcp.bycy.mi.charter.com) has joined #minecraft
+P8:10:56 <liq3> I love linux... Only one virus has even been known to work on it, and it was a lab virus. It was patched within a day or 2. :D
+P8:11:05 <bombadil> the OS degrags hardrives in the background
+P8:11:10 <liq3> :D
+P8:11:18 <Xeros> I'll agree with that lol. Yepp there's no firewall tab, no tabs at all. This is Mac OS X 10.4.11 if that helps.
+P8:11:20 <bombadil> linux is beautiful
+P8:11:36 <bombadil> Xeros: are you on an admin account?
+P8:11:41 <liq3> bombadil: The OS is nice... except for it's game deficency and horrible UI.
+P8:12:08 <Xeros> Yes, in fact I just resetted the admin password so that I could install the Java update, so total access.
+P8:12:16 <bombadil> i love the way its organized is all. and it's one of the reasons i love OS X, as it is unix based
+P8:12:29 <liq3> organized? What do you mean?
+P8:13:13 <bombadil> everything
+P8:13:26 <Xeros> I, as well, dislike the fact that all the random stuff I'd like to download can't work on a Mac unless they make a seperate version. That's probably why there are no viruses, because barely any programs work on macs xP
+P8:13:33 <bombadil> everything is orderly, unlike windows.
+P8:13:49 <bombadil> xeros, no offense, but you are a newb
+12P8:14:15 * Super-Dot (Super-Dot@adsl-75-61-92-1.dsl.pltn13.sbcglobal.net) Quit (Quit: Super-Dot)
+P8:14:16 <liq3> Xeros: No, there's no virus because the OS is based off Unix. Unix is designed so well it's nearly impossible to make viruses for it.
+P8:14:28 <bombadil> correct !
+P8:14:35 <bombadil> liq3 = win
+10P8:14:35 * pimpmasta (Mibbit@adsl-232-12-151.asm.bellsouth.net) has joined #minecraft
+P8:14:41 <Xeros> Thanku. So please tell me why this is? I happen to love games, and surfing the internet, and a mac makes both of these complicated.
+P8:14:49 <liq3> "It's unpopular" is a common myth Windows newbs throw around. :p
+P8:14:58 <Dudebro> I designed a minor OS X virus
+P8:15:07 <bombadil> hmm maybe you like crappy games? all the games i enjoy are for OS X. Starcraft, Unreal Tournament, Minecraft... ;)
+P8:15:09 <Dudebro> nothing very damaging
+P8:15:11 <liq3> dudebro: let me guess, they had to open it?
+P8:15:17 <Dudebro> Yeah.
+P8:15:21 <liq3> Then it doesn't count. :p
+10P8:15:23 * Daroh (Daroh@cpc1-midd1-0-0-cust399.midd.cable.ntl.com) has joined #minecraft
+12P8:15:26 * pimpmasta (Mibbit@adsl-232-12-151.asm.bellsouth.net) Quit (Quit: Client Exited)
+P8:15:31 <Dudebro> But, you could disguise it as a different application.
+P8:15:40 <bombadil> dudebro: you can disguise any app as another app :P
+P8:15:57 <Dudebro> :P
+P8:15:58 <Xeros> I happen to love multitudes of small games and programs that most people have never heard of, including abandonware. My favorite of all time would be "3D Movie Maker".
+P8:16:02 <Griskard> I made a virus that made the monitors explode, killing people...
+P8:16:13 <LG_Legacy> Xeris
+P8:16:15 <LG_Legacy> Xeros*
+P8:16:23 <LG_Legacy> Like Damage Incorporated and Glider?
+P8:16:28 <bombadil> Xeros: fun  fact! i am currently running Windows XP within OS X, using "Parallels". works for any game or program I throw at it
+P8:16:32 <liq3> bombadil: AI War:FC, TF2, 2 awesome games that don't work on Mac.
+P8:16:34 <bombadil> and it's NOT emulation
+10P8:16:55 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) has joined #minecraft
+P8:16:59 <liq3> Bombadil: How much FPS do you lose? :]
+P8:17:05 <Xeros> That works for people with money heh x.x
+P8:17:11 <bombadil> liq3: i was just teasing Xeros, i know there are great games of windows that aren't on Mac. that's why i dual boot Vista
+P8:17:22 <bombadil> xeros: uhhhhhhhh bittorrent... ;)
+P8:17:41 <bombadil> liq3: some games run faster
+P8:17:49 <Xeros> I guess I didn't look hard enough... but if it's not on Piratebay, every other website..worries me.
+P8:18:09 <bombadil> umm the pirate bay is not to be visited any longer...
+P8:18:09 <liq3> Bomdadil: Vista? lol.
+P8:18:16 <bombadil> the owners got owned in court and they sold it to cover their fines
+P8:18:28 <Xeros> When was this?
+P8:18:45 <bombadil> check wikipedia
+P8:19:01 <liq3> What's sad is that they think the pirates would actually buy their games if they couldn't pirate them.
+P8:19:10 <liq3> So ignorant.
+P8:19:10 <liq3> :/
+P8:19:33 <Not_Famous> haha, Yeah, I'm gunna go buy GTA @_@
+P8:19:36 <bombadil> ya, or movies, music etc
+P8:20:07 <bombadil> i buy games if they are good
+P8:20:12 <Xeros> Just read it... that's weird I just downloaded Rosetta stone from em like... a few days ago lol
+P8:20:21 <bombadil> but i do not buy movies on physical media... 
+P8:20:38 <bombadil> oh ya the site still works... but who is it working for now? that's the question
+P8:20:47 <bombadil> i think it's going to turn into a pay site soon
+P8:21:04 <antinull> itll be down in a week if its a paysite lol
+P8:21:09 <bombadil> haha ya
+P8:21:13 <bombadil> isohunt.com is good
+P8:21:24 <antinull> private trackers
+12P8:21:27 * Kinhoshi (Error404@cpe-72-184-135-206.tampabay.res.rr.com) Quit (Read error: Connection reset by peer)
+10P8:21:27 * Kin (Error404@cpe-72-184-135-206.tampabay.res.rr.com) has joined #minecraft
+12P8:21:33 * Daroh (Daroh@cpc1-midd1-0-0-cust399.midd.cable.ntl.com) Quit (Quit: ~ Trillian Astra - www.trillian.im ~)
+P8:21:50 <Xeros> oh thank you.. I have no idea what other sites to trust for torrents... I can tell most of them are just..wrong. full of ads and obviously fake torrents
+P8:22:22 <Xeros> I'll try isohunt though
+P8:22:26 <bombadil> haha as if TPB is not full of ads :D
+P8:22:27 <liq3> isohunt isn't bad.
+P8:22:39 <Xeros> but TPB's ads are entertaining and nicely set to the side haha
+P8:22:39 <liq3> heh, I no longer see ads. MY brain filters them out. :D
+P8:22:53 <Not_Famous> liq3 :D
+P8:22:58 <Ollieh> reinstalling java did not help my problem: "java is not recognised as internal or external command"
+10P8:22:59 * adobewedge (Adobewedge@c-76-19-157-29.hsd1.ma.comcast.net) has joined #minecraft
+04P8:22:59 adobewedge has the same ISP district as high6.
+P8:23:11 <bombadil> i use adblock simply because some ads disturb me
+P8:23:17 <bombadil> mostly ones selling sex
+P8:23:19 <bombadil> like the ones on TPB
+P8:23:31 <Xeros> So anyway, if I don't have a firewall tab. Thenn.. I dunno maybe I don't have a firewall? Unless there are more tabs, in which case I have none >.<
+P8:23:31 <bombadil> or uh... selling with sex i should say
+P8:23:37 <Griskard> Hahah
+P8:23:48 <Griskard> I was like "WHAT! How come I never get them!:
+P8:24:03 <Not_Famous> I tried making my map bigger, and... the edges are invisible :(
+P8:24:08 <bombadil> lets face it the hot girl can be distracting
+P8:24:12 <bombadil> *hot girls
+P8:24:15 <Eagle> FACEBOOK OF SEX
+P8:24:21 <Eagle> YOUTUBE OF PORN
+P8:24:24 <Eagle> I hate those ads. :/
+P8:24:31 <bombadil> agree
+P8:24:48 <Not_Famous> Selling Minecraft with cube bewbz
+P8:24:52 <Eagle> I especially hate the EVONY ads
+P8:25:00 <Xeros> I hate the Evony ads that are like "PLAY IN SECRET" "GET THE PRINCESS"... but I love the game lol.
+P8:25:01 <Quatroking> I just ordered two 3D glasses through ebay
+P8:25:04 <Quatroking> guess how much I paid
+P8:25:17 <Eagle> 599 US DOLLARS?
+P8:25:21 <Quatroking> 3 dollers including shipment and handling :P
+P8:25:28 <bombadil> okay, howabout that "welcome my lord" or whatever ads, for some online game? it has a painting of an elf woman with huge cleavage. now, another version has started going around and the painting has been replaced with a porn model. 
+P8:25:31 <bombadil> not subtle at all
+P8:25:50 <Xeros> I only started playing because it said "Free Forever!".. in fact it did have items for real money, luckily you could obtain any pay item without money though
+P8:26:08 <bombadil> omg, you clicked that ad and used their game?
+P8:26:30 <Xeros> I'm actually addicted to the game.. it's like a mix of Age of Empires and....idk what else lol
+P8:26:35 <bombadil> liar, you were hoping for more extreme cleavage
+P8:26:54 <LG_Legacy> I can probably find more cleavage
+P8:27:02 <LG_Legacy> -seeks-
+P8:27:23 <Xeros> No but you should see the stuff that comes out of peoples mouths in that game when they're new... "You can have sex in this game?"
+12P8:27:28 * Iguana (Iguana@CPE002191dd1c8e-CM00111ae61624.cpe.net.cable.rogers.com) Quit (Quit: Leaving)
+P8:27:36 <AlexVMiner> i am hearing weird noises down hear in the basement
+P8:27:41 <AlexVMiner> maybe it is in my head
+P8:27:54 <AlexVMiner> i DID watch a lot of Jason murders today
+P8:28:09 <bombadil> xeros: i believe it
+P8:28:15 <bombadil> think of the demographic those ads attract
+P8:28:16 <Xeros> That sounds scary... maybe it's one of those A.I. Minecraft "mob" guys, walking nearby in some tunnel :O
+P8:28:25 <AlexVMiner> should i get the water bottle across the room?
+P8:28:30 <Griskard> Maybe is a pig
+P8:28:34 <Griskard> Why not?
+P8:28:35 <bombadil> alexvminer: don't risk it
+P8:28:35 <AlexVMiner> or shut down my computer and flee?
+P8:28:41 <AlexVMiner> lol
+P8:28:57 <AlexVMiner> if i dont come on the irc tomorrow
+P8:28:59 <AlexVMiner> i am dead
+P8:29:03 <AlexVMiner> brb
+P8:29:04 <bombadil> i wouldn't bother to shut the comp down. just flee, tipping furniture, pets, etc over behind you to slow pursuit.
+P8:29:13 <Xeros> lmao
+P8:29:19 <LG_Legacy> Amazing
+P8:29:19 <AlexVMiner> I GOT IT
+P8:29:27 <LG_Legacy> Evony does not have any external pictures..
+P8:29:27 <AlexVMiner> I GOT THE WATER BOTTLE
+P8:29:36 <LG_Legacy> AlexVMiner
+P8:29:39 <LG_Legacy> Go play Afraid of Monsters
+P8:29:41 <LG_Legacy> Get spooked
+P8:29:46 <bombadil> Lg_Legacy: you were looking for an Evony ad?
+P8:29:50 <AlexVMiner> should i investigate the rest of the basement?
+P8:29:54 <LG_Legacy> I was looking for extra pics
+P8:29:57 <LG_Legacy> Not the ad
+P8:30:02 <LG_Legacy> However
+P8:30:07 <LG_Legacy> These places have failed to deliver
+P8:30:21 <bombadil> alexvminer: investigate, torch held aloft, sharpened keyboard thruts forward protectively
+P8:30:23 <Snowman> http://www.youtube.com/watch?v=Q5im0Ssyyus
+10P8:30:34 * Kin is now known as Kinhoshi
+P8:30:37 <AlexVMiner> i have a hanger and a water bottle
+P8:30:39 <AlexVMiner> that is all
+P8:30:50 <bombadil> hanger... good
+P8:30:56 <LG_Legacy> Fucking A Alex
+P8:31:02 <AlexVMiner> like, for clothes
+P8:31:02 <LG_Legacy> Are you McGyver?
+P8:31:06 <AlexVMiner> yes
+10P8:31:07 * ^ofmice (cuttthroat@cpe-70-112-223-179.austin.res.rr.com) has joined #minecraft
+P8:31:07 <AlexVMiner> :D
+10P8:31:13 * ^ofmice (cuttthroat@cpe-70-112-223-179.austin.res.rr.com) has left #minecraft
+P8:31:20 <bombadil> quick, google electrotelekenetic training. if you study hard within 40 minutes you should be able to conjure a weak bolt from the tip
+P8:31:20 <AlexVMiner> should i investigate?
+P8:31:34 <AlexVMiner> it is a plastic one
+P8:31:40 <AlexVMiner> not metal
+P8:31:41 <bombadil> >:O !!!
+P8:31:45 <bombadil> you're screwed !!
+P8:31:56 <AlexVMiner> i can still hit things
+P8:32:04 <AlexVMiner> the water bottle is empty
+P8:32:20 <Xeros> When I was a kid I was interested in both Magick and Psychics lol.... had a semi-bad experience attempting psychics
+P8:32:27 <Quatroking> everytime I look in the mirror I beat my wife
+P8:32:42 <AlexVMiner> quatro....
+P8:32:42 <Quatroking> with a bat
+P8:32:48 <AlexVMiner> you dont have a wife, do you?
+P8:32:56 <Quatroking> Notch is my wife
+P8:33:00 <Quatroking> mein wife.
+P8:33:01 <bombadil> probably never even touched a breast
+P8:33:03 <Griskard> I just found a sardine in my oyster
+P8:33:07 <Xeros> I was just trying to make a "psi ball" haha... and for some reason I got sick immediately and started throwing up nothing, dry heaving... for like ever.
+P8:33:19 <AlexVMiner> he probably touched his own man breast at the most
+P8:33:25 <bombadil> jeez way to suck at psi balls :P
+P8:33:27 <Eagle> PSI ROCKIN'
+P8:33:36 <Eagle> >.>
+P8:33:40 <Quatroking> alexvminer: do rubber boobs count
+P8:33:49 <AlexVMiner> i am going to investigate now
+P8:33:51 <AlexVMiner> brb
+P8:34:08 <Xeros> After closer thought, I realized I was not taking energy from around me.. I had my hands up near my stomache and was probably taking energy from...MYSELF.... give me a senso bean :P
+P8:34:19 <AlexVMiner> okay
+P8:34:21 <AlexVMiner> nothing
+P8:34:23 <bombadil> xeros: the trick is that making a psi ball with your own bodily energy will deplete you. if you build a psi ball out of divine energy you aren't depleted, in fact your body is energized by the energy moving through you
+P8:34:46 <Eagle> Are you guys seriously talking about energy balls?
+P8:34:48 <bombadil> ah so you realized your error !
+P8:34:59 <Xeros> Yeah I know. And yes we are lol...
+P8:35:12 <Eagle> You guys know that whole website is a joke, right?
+P8:35:18 <bombadil> what website?
+P8:35:19 <AlexVMiner> guys, g2g
+P8:35:22 <AlexVMiner> bye now
+P8:35:25 <Xeros> I did realize it...but for some reason I never really went back to it. Same with Magick, when interested in "Witchcraft" lol
+12P8:35:42 * AlexVMiner (Mibbit@75.97.177.12.res-cmts.mtp.ptd.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P8:36:02 <Eagle> The only too-good-to-be-true thing that actually works is lucid dreaming. :P
+P8:36:22 <Xeros> I did a "warmth" spell, and I'm very convinced it works, and it still works for me. You'd think that'd motivate me to try out ore but... I can't afford candles and oils and...fairy dust wherever you get that... seriously.
+P8:36:23 <bombadil> Eagle: you assume your knowledge is complete. a very foolish mistake
+P8:36:40 <bombadil> xeros: stay away from that kinda crap
+P8:36:46 <Xeros> I didn't assume it was complete haha.. I just think I have...A.D.D. or something xD
+P8:36:47 <bombadil> it's unnecessary
+P8:37:04 <LG_Legacy> http://www.youtube.com/watch?v=iEWgs6YQR9A
+P8:37:06 <LG_Legacy> Because i can
+P8:37:11 <Eagle> bombadil: Any other too-good-to-be-true things that actually work?
+P8:37:12 <Xeros> oh you were talking to Eagle.. wow I need to read more heh... that green was kinda faint though
+P8:37:37 <Xeros> I'm using some online browser-based IRC thing called mibbit
+10P8:37:40 * Peroggi (Perogi@S0106001cf0fcecf9.ok.shawcable.net) has joined #minecraft
+10P8:37:45 * Kevooi (Mibbit@82.131.46.71.cable.starman.ee) has joined #minecraft
+P8:38:18 <bombadil> Lg_legacy, thank you hhaha :D
+P8:38:22 <Xeros> But yeah I will stay away from it... for all I know I might do so many "warmth spells" that I'll spontaneously combust
+P8:38:33 <Xeros> xD
+P8:38:39 <bombadil> Xeros: the problem is that power is a trap
+P8:38:52 <Eagle> Guys just to let you know
+P8:38:59 <Eagle> Magic doesn't exist in real life. O.o
+P8:39:10 <bombadil> Eagle: depends what your definition of magic is
+P8:39:23 <Eagle> I have a broad definition of magic
+P8:39:31 <bombadil> if you were to show a computer to a person 500 years ago, they would think it's magic. even a television
+P8:39:35 <Eagle> As in 'anything that is not actually possible'
+P8:39:46 <Eagle> you can't create fire
+P8:39:48 <Eagle> I'm sorry
+P8:39:52 <bombadil> what's magic to one person is science to another
+P8:39:57 <Eagle> Well you can with tools and crap
+P8:40:02 <Xeros> You mean anything that we actually don't know if it is possible or not :p
+P8:40:06 <Eagle> You can't just suddenly spawn fire.
+P8:40:12 <bombadil> Eagle: who here is claiming to cast fire ball lvl 33 ?
+P8:40:15 <Xeros> lmfao
+P8:40:18 <Eagle> Warmth spells
+P8:40:20 <Eagle> Same thing
+P8:40:30 <bombadil> Eagle: i don't know what a warmth spell is. 
+P8:40:33 <Eagle> All you are doing is concentrating your blood to your palm or something
+10P8:40:34 * tarkata14 (johnheim14@dialup-4.252.211.17.Dial1.Chicago1.Level3.net) has joined #minecraft
+P8:40:46 <Xeros> Hey.. the warmth spell was the only thing that worked for me! Whether it was similar to a placebo effect I dunno.. but it continues to work for me to this day
+P8:40:53 <Xeros> and no it warms my entire body
+P8:41:04 <bombadil> have you tried checking with a thermometer, xeros?
+P8:41:05 <Eagle> Placebo effect = mind trick
+P8:41:12 <mail2345> science can be objectivly proved
+P8:41:14 <Griskard> Yeah, so does opening your blood vessels
+P8:41:17 <mail2345> magic cannot\
+P8:41:21 <Griskard> Which is what a warmth spell is
+10P8:41:22 * TheOne-afk is now known as TheOne
+P8:41:33 <Xeros> No I haven't, not only do I not have one but you know, it might not be 'real heat', but it sure warms me up.
+P8:41:34 <Griskard> The one, your lava server was lavard
+P8:41:41 <TheOne> huh?
+P8:41:53 <Griskard> Its opening your blood vessels further
+P8:41:54 <Griskard> Nothing else
+P8:42:05 <Griskard> Your the one with the lava sevrer right?
+P8:42:06 <Testvan> is it engorged
+P8:42:12 <TheOne> yes
+P8:42:39 <bombadil> the correct definition of magick is: Magick is the Science and Art of causing Change to occur in conformity with Will. -- if i desire to make a cup of tea, i boil the water and follow the necessary steps to do so. i have then performed a magickal act of creating a cup of tea. seems mundane? it is, if you know how to make tea
+P8:42:41 <Xeros> No I actually think it's not even real heat, I believe more that it is a "mind trick" but it's a very useful mind trick indeed. I've walked around comfortably shirtless in the winter, it was cool
+P8:42:50 <bombadil> when you bring you car to be fixed at a shop, you get it fixed by a car magician
+P8:42:52 <Xeros> or should I say... "warm"... aah hah hah hah ...no jk lol
+P8:43:00 <Real> alright it's getting annoying... people must stop using the word "real"... spell it wrong or abbreviate it or something
+P8:43:21 <Xeros> For Realz?
+P8:43:22 <bombadil> lol !
+12P8:43:36 * ojii (ojii@52-0.1-85.cust.bluewin.ch) Quit (Quit: Leaving)
+P8:43:38 <Eagle> Real change your name.
+P8:43:41 <Kevooi> anyone hasn't been having issues with potential rogue ops, have you?
+P8:43:53 <Real> I will not change my name.
+P8:44:02 <Eagle> Change it to NotReal
+P8:44:06 <Eagle> Or Reel
+P8:44:09 <Eagle> Or Rael
+P8:44:12 <TheOne> you talking to me kevooi
+P8:44:13 <Real> I think not.
+P8:44:16 <Eagle> Or xReal
+P8:44:17 <Kevooi> anyone really
+P8:44:28 <Eagle> Sorry buddy, but the word 'real' came first
+P8:44:38 <Real> Don't care.
+P8:44:49 <Eagle> Have fun with your flashing irc
+P8:44:49 <bombadil> for real, he doesn't care
+P8:44:55 <Real> Weak.
+P8:44:58 <Xeros> So yeah, even if the warmth spell is just a mind trick, it works well and I'd like to discover more mind tricks. I can tell you that I surely cannot make a cold spell of any sort lol. The warmth sell by the way, is simply a phrase while thinking of a source of heat.
+P8:44:58 <Eagle> He's not being very realistic
+P8:45:03 <bombadil> oh get real, dude.
+P8:45:05 <Testvan> permission to rhyme
+P8:45:19 <Eagle> permission granted?
+P8:45:25 <Testvan> you not a mod
+P8:45:33 <bombadil> rhyming is not allowed here
+P8:45:34 <Eagle> Why do you need permission
+P8:45:41 <bombadil> because it's FORBIDDEN
+P8:45:46 <Eagle> ...
+P8:45:53 <Griskard> The warmth sell by the way, is simply a phrase while thinking of a source of heat.
+P8:45:55 <Xeros> Because he requires admission? Forbiddden? You gotta be kiddin'.
+P8:45:56 <Griskard> Thats right
+P8:46:04 <Xeros> spell*
+P8:46:05 <Xeros> lol
+12P8:46:11 * Kevooi (Mibbit@82.131.46.71.cable.starman.ee) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P8:46:12 <Eagle> Xeros, real nice rhymes
+P8:46:13 <Griskard> Simply concentrating on any source of heat...
+P8:46:15 <Eagle> Really
+P8:46:18 <Xeros> ahaha
+P8:46:19 <Not_Famous> @_@
+P8:46:20 <bombadil> those are half rhymes
+P8:46:43 <Real> fly like an eagle
+P8:46:48 <Eagle> to the seeeaa
+P8:46:55 <Xeros> But the thing is, if I simply alone concentrate on a source of heat it doesn't work for me. If I concentrate on something cold it doesn't make me cold either.
+P8:47:03 <Eagle> time keeps on slippin' slippin' slippin'
+P8:47:05 <Real> michael vick is an eagle now, crazy
+P8:47:08 <Eagle> into the futuuuure
+P8:47:28 <Eagle> Real crazy
+P8:47:49 <Eagle> I can't believe he's really changing teams
+P8:48:12 <Xeros> The phrase sounds silly actually, but yeah, it goes "I am warm, as warm as fire. All this warmth is my desire." It could be the words but if I change them to fit cooling it still won't work.
+P8:48:15 <Real> one bird to another -- first a falcon now an eagle
+P8:48:36 <Eagle> I've never heard that saying before. Real nice though.
+P8:48:51 <bombadil> Xeros: the trick there is that it works because you believe it will.
+P8:48:54 <Real> now you're just being a jackass
+P8:48:59 <Eagle> :P
+P8:49:02 <Eagle> Sorry?
+P8:49:14 <bombadil> but if you test it with a thermometer, it probably won't show temperature change
+P8:49:15 <Eagle> Real sorry, man.
+P8:49:22 <Eagle> (Okay I'll stop.)
+P8:49:24 <Real> man wtf come on
+P8:49:26 <Xeros> Well I have to admit, I believe it works because it does work. I'm not sure exactly how much I believed in it when I first used it.
+P8:49:30 <Eagle> ;D
+P8:49:34 <bombadil> maybe a tiny bit, but of course it's possible for the mind to concsiously increase metabolism to generate internal heat
+P8:49:36 <bombadil> it's an old trick
+P8:49:48 <Eagle> Xeros your mind is very easily swayed
+P8:49:49 <bombadil> Tibetan yoga of inner heat
+P8:49:51 <Xeros> Is that why I'm so skinny? :P
+P8:50:06 <bombadil> these yogis go into the snowy mountains and meditate in the snow,naked. they melt all the snow around them
+P8:50:10 <Xeros> Whatchu talkin' 'bout, Willi...I mean Eagle
+P8:50:22 <Eagle> If you can get yourself to believe that you're warm
+P8:50:33 <bombadil> several feet in diameter, melted snow
+P8:50:44 <Eagle> Your brain is very susceptible to suggestion
+P8:50:58 <bombadil> Eagle you're right, but the tricky part is that the body follows the mind
+P8:51:18 <Xeros> Any explanation as to why I can't make myself feel cool? lol. I even tried making up an even sillier phrase "I am cold, as cold as ice. All this cold makes me feel nice." xD
+P8:51:28 <bombadil> it's funny because you and Xeros are both in fact correct
+P8:51:40 <Eagle> Unless his body doesn't actually feel warm and his brain is just making up the information that his nerves aren't giving it
+P8:51:43 <Quatroking> Guys
+P8:51:45 <Quatroking> oh god
+P8:51:49 <Quatroking> I'm getting a cat
+P8:51:51 <Quatroking> :O
+P8:51:53 <Eagle> :OO
+P8:51:55 <bombadil> xeros try this one: imagine biting and chewing on ice, or a popsicle. that will make you feel cold
+P8:51:55 <Xeros> I love catz
+P8:52:05 <Quatroking> an abyssian sorrel
+P8:52:08 <Eagle> Name it Glthulkn
+P8:52:20 <Quatroking> It already has a name, Missie
+12P8:52:21 * flyboy (chatzilla@121.90.253.248) Quit (Remote host closed the connection)
+P8:52:27 <Quatroking> I'm adopting it
+P8:52:31 <Eagle> Nickname it Glthulkn
+P8:52:39 <bombadil> xeros: you could also try curling your tongue into a tube and sucking air through it. that's an old yogic trick to cool the body down
+P8:52:50 <Quatroking> blogpost: http://www.quatroworld.org/2009/08/21/im-getting-a-cat/
+P8:52:53 <Ollieh> what are the colour requirements/limits for the custom skin, I cant seem to be able to make my hair light brown
+12P8:53:19 * Quatroking (Quatroking@86.90.159.252) Quit (Read error: Connection reset by peer)
+P8:53:22 <Xeros> Well idk it's not exactly working for me.. and I'm in an air conditioned to the max room as well heh
+P8:53:22 <Eagle> There shouldn't be any restrictions. O.o
+P8:53:24 <Real> okay eagle testing something, say my name say my name
+P8:53:39 <Eagle> Really? For realz? Get real man.
+P8:53:39 <Ollieh> ok, then its probably the software
+P8:53:46 <bombadil> nice, quatroking. you may find that tripod cats are speedier than you had imagined
+P8:53:51 <bombadil> my cousins have one
+P8:53:53 <Real> try "Real"
+P8:53:58 <Eagle> Real
+P8:54:02 <Xeros> What's strange is that I have a high tolerance to heat, and a low tolerance to cold. I'd think that'd make cold more of a possibility than heat hmm
+P8:54:03 <Real> damn
+P8:54:11 <Real> i dunno how to override this sheiza
+P8:54:19 <Eagle> Quatro left
+P8:54:32 <Eagle> Also tripod. :D
+P8:54:33 <bombadil> i'm telling the real truth, too. a tripod cat
+10P8:54:48 * gamerman (chatzilla@cblmdm24-53-171-190.buckeyecom.net) has joined #minecraft
+P8:54:58 <bombadil> hmm idea
+P8:55:08 <Eagle> Real what irc are you using
+P8:55:20 <Real> a free version of xchat
+P8:55:30 <Eagle> XChat 2?
+P8:55:35 <Real> it might be called xchat 2 or ychat?
+P8:55:44 <Real> yeah i think so
+P8:55:49 <Snowman> Quatro, learn to spell it's Abyssinian not Abyssian
+P8:55:54 <Eagle> YChat is XChat 2
+P8:56:00 <Eagle> Quatro left
+P8:56:02 <Real> ok yes that's it then
+P8:56:19 <Eagle> I don't think there is an option to not highlight thinks
+P8:56:22 <Eagle> *things
+P8:56:31 <Real> what IRC do you use
+P8:56:34 <Eagle> Just add a letter to your name. It's the easiest way.
+P8:56:37 <Eagle> XChat 2
+P8:56:42 <Real> bah
+P8:56:55 <Real> i just want to turn off highlights and Google is not being my friend right now
+13P8:57:24 * bombadil summons *** citricsquid drakkar siiseli _spondy adobewedge adura aeiowu aera amatsu annihilatorbeta antinull applecrate arf arg asnoehu ausfriend betasword bobochariot- charlie99993 chrstfer daerils[w-shadow] daidoji dbn deiz desuunion dinosaurdemon dinosteve dred_furst dudebro eagle fleshbasedprocessor fnugget foxblitzz fydo gamerman gear geektoo genisi griskard hunter712 isnotchon jakkarra joeyjo0 kapow_ kinhoshi kraffztr
+P8:57:32 <Arf> AAAAAAAAAAAH FFUUUUUUUCK
+P8:57:33 <FNugget> no
+P8:57:34 <Eagle> Why did you just do that.
+10P8:57:34 * citricsquid sets mode: +b *!*@S01060012172da1d3.wp.shawcable.net
+P8:57:35 <Arf> MY HIGHLIGHT
+P8:57:35 <Xeros> Hey, has anyone heard of something called "3D Movie Maker"(besides when I mentioned it earlier lol)
+10P8:57:40 * Bradness (chatzilla@h225.231.30.71.static.ip.windstream.net) has joined #minecraft
+10P8:57:40 * bombadil was kicked by citricsquid (No you didn't.)
+P8:57:40 <adobewedge> Holy, wha?
+P8:57:44 <Arf> lol
+P8:57:50 <Arf> Love you, citricsquid
+P8:57:51 <Eagle> bombadil was a nice guy
+P8:57:53 <Eagle> O.o
+11P8:57:54 <DBN> The Game
+P8:57:57 <TheOne> lmao
+P8:57:59 <Snowman> uh wtf just happened
+P8:58:02 <Eagle> Ban him too. >:O
+P8:58:07 <aeiowu> BOMBADIL!!!!! NOOOOO!!!!!!!
+P8:58:08 <citricsquid> Eagle: That is the one thing that in IRC will get you instant banned.
+P8:58:09 <mail2345> "* citricsquid sets mode: +b *!*@S01060012172da1d3.wp.shawcable.net"
+P8:58:21 <Eagle> Hm.
+12P8:58:22 * dinosteve (Monty@i-195-137-91-221.freedom2surf.net) Quit (Quit: The Game: You Lost It)
+P8:58:34 <TheOne> well that made me lol
+P8:58:34 <Eagle> FFFF
+P8:58:36 <Snowman> wha wha wha what was all of that? o.O
+P8:59:21 <Griskard> The ones server just kicked me, Frikkin dumb op flooded his own house
+P8:59:32 <Xeros> Is there something somewhere that shows some rules about this chat? lol just in case..
+P8:59:44 <citricsquid> Xeros: Don't be an idiot, that's pretty much it :)
+10P8:59:48 * Arf is now known as Arf|dinner
+P8:59:54 <AnnihilatorBeta> why was i summoned
+P8:59:54 <Snowman> I think it's /motd
+P9:00:06 <TheOne> you have an issue with my server griskard?
+P9:00:13 <Snowman> And btw, what does that summoning thing do?
+P9:00:18 <Xeros> So... I can talk about how I dislike Religion all I want? :o
+P9:00:21 <Eagle> Says everybody's name at once
+P9:00:21 <Griskard> nah
+P9:00:23 <AnnihilatorBeta> it makes us gods.
+P9:00:25 <mail2345>  THIS CHANNEL != THIS SERVER
+P9:00:28 <Griskard> Just annoying, 
+P9:00:35 <Bradness> What all of the custom-coded servers?
+P9:00:41 <Not_Famous> didn't work very well, I didn't see my name :(
+P9:00:52 <Griskard> Thats because
+P9:00:53 <Snowman> And what is mode +b?
+P9:00:56 <Griskard> Your Not Famous
+P9:00:57 <Eagle> Ban
+P9:00:57 <citricsquid> Snowman: ban
+P9:00:58 <mail2345> ban
+P9:01:01 <Snowman> oh
+P9:01:07 <Eagle> Griskard: YEEEEAAAAH
+P9:01:09 <Not_Famous> awe forgot @_@
+P9:01:15 <AnnihilatorBeta> G_G
+10P9:01:28 * princepsregulus (princepsre@70.239.9.126) has joined #minecraft
+P9:01:29 <Bradness> Does anyone know any custom servers besides The Archives?
+P9:01:29 <Snowman> So he said the name of everyone in this chat and got instant banned?
+P9:01:34 <Griskard> yep
+P9:01:44 <Eagle> bans only last for a couple of days though
+P9:01:47 <Eagle> right citric?
+P9:01:49 <Griskard> Is saying "Notch" over and over again while he is trying to work bannable?
+P9:02:02 <Snowman> And why does that command exist?
+P9:02:06 <Eagle> If he's on the chat he's not working :)
+P9:02:06 <AnnihilatorBeta> saying anything over and over again is going to get you in trouble.
+P9:02:08 <Xeros> *sniff* I wish Minecraft Multiplayer would work for me.... I want to play it so baaad 
+P9:02:08 <citricsquid> Snowman: I have IRC set to alert me and so do most people, so most people he named just got "DING" for no reason.
+P9:02:18 <citricsquid> I'll unban him in a few mins, just annoyed me D:
+P9:02:22 <Real> what free IRC programs are everyone using?
+P9:02:23 <TheOne> lol
+P9:02:28 <Griskard> Chatzilla
+P9:02:29 <Snowman> Yeah I have the ding too
+P9:02:34 <Eagle> XChat 2
+P9:02:42 <AnnihilatorBeta> i don't. so i don't have to deal with it.
+P9:02:44 <Snowman> but I just think that it's a weird command to say everyone's name
+P9:02:50 <Snowman> What's the use of that
+P9:02:51 <Real> how's chatzilla, griskard?
+10P9:02:51 * citricsquid sets mode: -b *!*@S01060012172da1d3.wp.shawcable.net
+P9:02:57 <Not_Famous> Why are the edges of my map invisible?
+P9:03:02 <Snowman> I have ChatZilla too btw
+P9:03:04 <AnnihilatorBeta> the use of that is to piss people off.
+P9:03:13 <AnnihilatorBeta> or annoy people so they want to ban him.
+P9:03:14 <Real> well how is it anyway? any issues?
+P9:03:15 <Snowman> Yeah but why is it coded in the server?
+P9:03:27 <citricsquid> Snowman: it's a client side command isn't it?
+P9:03:34 <Snowman> oh idk
+12P9:03:41 * princepsregulus (princepsre@70.239.9.126) Quit (Quit: Client Exited)
+P9:03:49 <Eagle> It's client side like the trout command?
+13P9:03:59 * citricsquid slaps Eagle around a bit with a large trout
+13P9:04:13 * TheOne takes trout and uses it to catch a bear
+P9:04:15 <Eagle> I can't hit you back since I don't have that command. D:
+P9:04:28 <citricsquid> /me slaps citricsquid around a bit with a large trout
+13P9:04:32 * AnnihilatorBeta slaps trout around a bit with a large Eagle
+P9:04:35 <Snowman> trout command?
+P9:04:38 <Eagle> Well yeah
+P9:04:40 <citricsquid> AnnihilatorBeta: lmao
+P9:04:44 <Eagle> I meant automatically. :P
+P9:04:56 <mail2345> how do you setup name alarms
+P9:04:56 <Xeros> Maybe they should have an anti-ding... be like "unding Xeros" and the ding shall play backwards... and all flashing will stop.. idk I'm just kidding lol
+P9:05:04 <Real> does Chatzilla go nuts when someone says your nick? if so can it be turned off?
+P9:05:15 <Snowman> Well for me it just dings
+13P9:05:15 * Eagle slap annihilator around a beta with a trough large
+P9:05:20 <Snowman> but you can turn that off
+P9:05:21 <Dudebro> Smae
+P9:05:22 <mail2345> how do i turn on nick alerts? just wondering
+P9:05:24 <Dudebro> *same
+13P9:05:29 * Xeros test
+P9:05:32 <Xeros> oh okay
+P9:05:39 <TheOne> I don
+P9:05:47 <Snowman> Oh and sentences containing my name are bold
+P9:05:48 <citricsquid> mail2345: what client?
+P9:05:49 <AnnihilatorBeta> nobody needs me anyways. i don't need nick alerts.
+P9:05:49 <Real> sweet i'm getting it
+P9:05:52 <mail2345> mirc
+P9:05:52 <TheOne> I don't get a ding
+13P9:05:58 * Not_Famous is going to brb
+P9:05:59 <Snowman> AnnihilatorBeta :p
+P9:06:03 <Real> mIRC isn't free anymore!
+P9:06:03 <Eagle> Mine just flashes my chat.
+P9:06:06 <citricsquid> mail2345: tools > address book
+P9:06:14 <Griskard> AnnihilatorBeta! Quick! I NEED YOU!
+P9:06:15 <citricsquid> I have citricsquid, citric and forum set to ding and go pink :D
+12P9:06:17 * Dudebro (chatzilla@adsl-68-94-22-113.dsl.rcsntx.swbell.net) Quit (Remote host closed the connection)
+12P9:06:17 * Not_Famous (aye@c-67-187-207-63.hsd1.ca.comcast.net) Quit (Quit: Client Exited)
+P9:06:19 <Veronika> When was mIRC free?
+P9:06:21 <Bradness> Does anyone know of any open-sourced custom servers? ._.
+P9:06:21 <Xeros> I'm using the browser based "mibbit" IRC, and names just appear in a different color heh
+P9:06:30 <AnnihilatorBeta> what do you need me FOR, buster?
+P9:06:36 <Real> mIRC was free probably 6-8 years ago
+P9:06:44 <Griskard> I need AnnihilatorAlpha terminated...
+P9:06:46 <citricsquid> Bradness: aeras the archives will be opensource when mc hits beta, currently there aren't any.
+P9:06:56 <Griskard> mIRC has always been free
+P9:06:56 <Eagle> XChat isn't free anymore. :/
+P9:07:01 <Veronika> I think mIRC was always pay to use, but it lets you use it indefinitely.
+P9:07:05 <AnnihilatorBeta> gg
+P9:07:09 <Bradness> Im an admin on The Archives, thanks, even though I need that
+P9:07:14 <Real> i think not, Veronika
+13P9:07:18 * AnnihilatorBeta terminates Griskard
+P9:07:21 <Bradness> Isnt MC hitting beta on uhhh the 1st?
+10P9:07:23 * shawnachu (Mibbit@cpe-24-28-30-184.austin.res.rr.com) has joined #minecraft
+P9:07:30 <liq3> Bradness: Yes, I think it is.
+P9:07:31 <Real> i was around when it, like, came out
+12P9:07:35 * Arg (chatzilla@d58-104-81-124.dsl.vic.optusnet.com.au) Quit (Read error: Connection reset by peer)
+P9:07:35 <Griskard> Survival is too
+P9:07:38 <shawnachu> HI guys
+P9:07:39 <AnnihilatorBeta> it's hitting the survival beta, yes.
+P9:07:40 <mib_4pb0qyrm> whos admin onarchives
+P9:07:41 <Bradness> Cool
+P9:07:43 <Bradness> Me
+P9:07:45 <Eagle> Survival is beta
+P9:07:45 <Eagle> :P
+P9:07:49 <Eagle> Hey shawnachu
+P9:07:51 <shawnachu> Hi eagle
+P9:07:53 <mib_4pb0qyrm> i need admin there
+P9:07:54 <Bradness> mib_4pb0qyrm: I am.
+P9:07:59 <Griskard> Need to buy it before then
+P9:08:01 <Bradness> mib_4pb0qyrm: Why?
+P9:08:02 <mail2345> mail2345 test
+10P9:08:04 * JonAce (Mibbit@cpe-24-193-103-34.nyc.res.rr.com) has joined #minecraft
+P9:08:04 <mib_4pb0qyrm> t/nick Roadcrosser
+P9:08:04 <shawnachu> eagle
+P9:08:06 <mail2345> ugh
+P9:08:08 <mail2345> not working
+13P9:08:10 * TheOne *Oh look, something shiny!* 
+P9:08:10 <Eagle> shawnachu
+P9:08:11 <citricsquid> mail2345: doesn't do it on your own
+10P9:08:11 * mib_4pb0qyrm is now known as Roadcrosser
+P9:08:14 <shawnachu> about your server
+P9:08:14 <citricsquid> did that work? :D
+P9:08:17 <Roadcrosser> need blb
+P9:08:19 <shawnachu> what happened?
+P9:08:20 <TheOne> mai12345?
+P9:08:25 <mail2345> try again
+P9:08:29 <Real> ah shit chatzilla is a firefox add-on, not a standalone program?
+P9:08:29 <Bradness> Road, you dont need admin for BLB
+P9:08:30 <citricsquid> mail2345: doesn't do it on your own
+P9:08:31 <TheOne> mai12345?
+P9:08:32 <Bradness> Ask Lucas.
+P9:08:36 <Bradness> And yes, this is Pixel.
+P9:08:43 <AnnihilatorBeta> mai12345 sounds like a griefer
+P9:08:45 <Roadcrosser> oh
+P9:08:49 <Roadcrosser> :P
+P9:08:49 <citricsquid> mail2345 is my boyfriend
+P9:09:02 <Roadcrosser> lucas has something...
+12P9:09:06 * JonAce (Mibbit@cpe-24-193-103-34.nyc.res.rr.com) Quit (Quit: Client Exited)
+12P9:09:10 * gamerman (chatzilla@cblmdm24-53-171-190.buckeyecom.net) Quit (Quit: ChatZilla 0.9.84 [Firefox 3.0.13/2009073022])
+P9:09:14 <Roadcrosser> hes a ghost now
+P9:09:17 <mail2345> not working
+P9:09:22 <Roadcrosser> he cant help
+P9:09:39 <Roadcrosser> need another admin
+P9:10:13 <citricsquid> mail2345: http://img1.uploadscreenshot.com/images/orig/8/23303100699-orig.jpg
+P9:10:25 <Roadcrosser> need another admin
+P9:10:38 <TheOne> think I'll try mirc...
+P9:10:50 <Roadcrosser> need another admin
+P9:11:04 <mail2345> ohh.
+P9:11:06 <mail2345> there
+P9:11:12 <Roadcrosser> on archives
+P9:11:19 <citricsquid> mail2345 yay
+P9:11:28 <Roadcrosser> can someone help
+P9:11:32 <AnnihilatorBeta> whoa
+P9:11:40 <Roadcrosser> ?
+P9:11:59 <Roadcrosser> i need admin on archives
+P9:12:37 <mail2345> okay try now
+P9:12:42 <citricsquid> mail2345
+P9:13:05 <mail2345> oh wait i forgot to tell it that that was a regexp
+P9:14:13 <citricsquid> mail2345
+10P9:14:16 * Skywars (Mibbit@adsl-76-221-199-113.dsl.frs2ca.sbcglobal.net) has joined #minecraft
+P9:14:18 <mail2345> ahh, now it works
+P9:14:22 <citricsquid> yay
+13P9:14:25 * citricsquid highfives mail2345
+P9:14:55 <Skywars> is there a 3rd party Minecraft forum out there?
+P9:15:02 <Skywars> ehh..fanforum I guess?
+P9:15:07 <Eagle> Not yet.
+P9:15:07 <Griskard> No
+P9:15:09 <citricsquid> minecraftforum.net was thirdparty
+P9:15:13 <citricsquid> and it'll be back monday :)
+P9:15:16 <mail2345> ahh
+P9:15:21 <Griskard> I jizzed
+P9:15:22 <mail2345> thx for the date
+P9:15:23 <Griskard> In
+P9:15:23 <Real> monday, awesome!
+P9:15:25 <Griskard> My forums
+P9:15:26 <shawnachu> woot
+P9:15:29 <mail2345> :D
+P9:15:36 <Skywars> I LOVE YOU CITRICSQUID
+13P9:15:37 * citricsquid breaks everyones heart when he misses another deadline
+P9:15:41 <Real> hahahaha
+P9:15:46 <Real> shouldn't have set one
+P9:15:51 <Bradness> Cant wait for beta.
+P9:15:51 <Real> ;P
+P9:15:53 <Bradness> =)
+10P9:16:00 * TheOne is now known as TheOne-afk
+P9:16:01 <citricsquid> Real: well, going to scream at my client if he doesn't pay tomorrow. 
+P9:16:06 <Bradness> What happened to the MC forums anyways?
+P9:16:15 <Real> your client?
+P9:16:16 <citricsquid> Bradness: I ran out of money :)
+P9:16:21 <Bradness> Oh
+P9:16:22 <Griskard> He went broke
+P9:16:27 <Griskard> He spent too much on pron
+P9:16:29 <Eagle> Bradness what's with the new name?
+P9:16:31 <citricsquid> Real: I'm waiting for my client to pay me so I can renew hosting :)
+P9:16:35 <Griskard> And was to proud to take donations
+P9:16:36 <Testvan> hamster porn
+P9:16:41 <Bradness> Eagle: What do you mean?
+P9:16:42 <Eagle> Griskard he spend too much on a UFO
+P9:16:54 <Real> what precisely do you mean by "client" in this situation?
+P9:17:03 <citricsquid> Real: person I made a website for
+P9:17:03 <Griskard> Hes a male gigalo
+P9:17:06 <citricsquid> not someone who bummed me
+P9:17:16 <Real> ahhh okay i understand
+P9:17:18 <Griskard> My answer was better...
+P9:17:25 <Bradness> Eagle: What do you mean? New name?
+P9:17:29 <Daidoji> um excuse me, testvan. but he is a connoisseur of guinea pig porn
+P9:17:30 <Eagle> Hm what
+P9:17:45 <Roadcrosser> i need admin on archives
+P9:17:49 <Eagle> <Bradness> Ask Lucas.
+P9:17:49 <Eagle> <Bradness> And yes, this is Pixel.
+P9:17:59 <Roadcrosser> lucas is now ghost
+P9:18:02 <Bradness> Lucas is my co-admin friend dude
+P9:18:08 <Roadcrosser> lucas is now ghost
+P9:18:09 <Bradness> And PixelEater is my ingame name
+P9:18:16 <Roadcrosser> cant do anythin
+P9:18:16 <Testvan> worst convo so far new one plz
+P9:18:21 <Eagle> I know somebody named PixelSith
+P9:18:22 <Eagle> :P
+P9:18:30 <shawnachu> Lol
+P9:18:34 <Bradness> Yep
+P9:18:38 <Bradness> He plays The Archives
+P9:18:39 <Testvan> do you like bananas and nuts?
+P9:18:41 <Bradness> PixelSith64
+P9:18:46 <Eagle> Yeah.
+P9:18:49 <shawnachu> Yeah, I know him
+P9:18:51 <Roadcrosser> lucas is now ghost
+12P9:18:52 * TheOne-afk (TheOne@ks-138-210-223-223.dhcp.embarqhsd.net) Quit (Quit: Ok look, there comeing to take me away ha ha!)
+P9:18:55 <Roadcrosser> i need admin on archives
+P9:18:57 <Bradness> Hes pretty cool
+P9:19:00 <Bradness> Road
+P9:19:04 <Bradness> You arent getting it
+P9:19:12 <Bradness> Now please, stop asking.
+P9:19:14 <Roadcrosser> ?
+P9:19:17 <Roadcrosser> lucas is now ghost
+P9:19:23 <shawnachu> All the servers I'm admin on are down >.>
+P9:19:25 <Roadcrosser> cant ask em
+P9:19:28 <Eagle> I heard you the seventh time
+P9:19:35 <shawnachu> 8th?
+P9:19:37 <Roadcrosser> t...
+P9:19:43 <Roadcrosser> whadoido?
+P9:19:45 <citricsquid> Roadcrosser: Asking to BE admin, or need an admin to do something?
+P9:19:50 <Eagle> Guys I think lucas is now ghost
+P9:19:56 <Skywars> Citric will skins be up on monday as well?
+P9:20:05 <shawnachu> Asking for admin doesn't get you admin :P
+P9:20:07 <Roadcrosser> need admin to do something
+P9:20:11 <citricsquid> Skywars: wiki skins and forum :) all the sites I run... hopefully.
+P9:20:15 <shawnachu> ....Usually
+P9:20:25 <Bradness> Road, if you said that... -.0
+P9:20:25 <Eagle> citric what's with that late client anyways? >:O
+P9:20:34 <citricsquid> Eagle: Dunno, he's a twat.
+P9:20:39 <Roadcrosser> ?
+P9:20:40 <citricsquid> Bradness: I worked it out instantly :3
+P9:20:43 <Eagle> Excuses?
+P9:20:52 <Daidoji> start your own serveR?
+P9:20:54 <shawnachu> Lack of moner
+P9:20:56 <shawnachu> *money
+P9:20:58 <Bradness> Lol, thanks citricsquid 
+P9:20:59 <Eagle> moner
+P9:21:07 <Roadcrosser> if i said that...?
+P9:21:08 <shawnachu> What's a moner.
+P9:21:09 <citricsquid> Eagle: I was late on delivery, but he's taken 2 weeks to review the work. silly man.
+P9:21:17 <Skywars> hmm
+P9:21:21 <Skywars> does august have 31 days
+P9:21:22 <Eagle> Why did he ask for you to make him a website if hey didn't have the money?
+P9:21:24 <Bradness> It sounded like you were begging for admin
+P9:21:24 <Daidoji> when you find a $100 bill
+P9:21:25 <Eagle> *he
+P9:21:30 <Daidoji> instant money boner
+P9:21:35 <shawnachu> Skywars: Yeah
+P9:21:38 <Skywars> FUUUU
+P9:21:43 <shawnachu> ....What
+P9:21:52 <Skywars> Too long until September 1st
+P9:21:55 <Daidoji> monkey boner.
+P9:22:12 <Eagle> Oh darn two weeksDAIDOJI we get it! >:O
+P9:22:18 <citricsquid> i've already played survival, #minecraft ops get a preview :)
+P9:22:25 <Eagle> what
+P9:22:28 <shawnachu> You
+P9:22:32 <shawnachu> Lucky >.>
+13P9:22:40 * Eagle mauls citric
+P9:22:47 <citricsquid> it's pretty crap actually
+P9:22:51 <citricsquid> notch sucks
+P9:22:51 <Xeros> "Failed to Connect. You failed to connect to the server. It's probably down!" is what appears on every single multiplayer server I click on, yet single player works fine ;-;
+P9:22:53 <Skywars> :(
+P9:22:54 <Eagle> XD
+P9:22:55 <Griskard> BLASHPHEMY!
+P9:22:55 <Skywars> wat...
+P9:22:59 <shawnachu> I paid 15 bucks for crap?
+P9:22:59 <Skywars> how..
+P9:23:02 <Skywars> but why...
+P9:23:08 <citricsquid> joking :(
+P9:23:10 <Skywars> :l
+P9:23:11 <citricsquid> not really played it.
+P9:23:14 <Eagle> Guys protip: he's joki-
+P9:23:15 <Skywars> oh lol
+P9:23:15 <Eagle> aw
+P9:23:16 <Griskard> Only Survival sucks... :p
+P9:23:20 <shawnachu> Oh you
+P9:23:20 <Skywars> LOLSAUCE
+P9:23:24 <Daidoji> well did anyone play the minecraft pre-alpha
+P9:23:24 <Skywars> nintendo
+P9:23:26 <Daidoji> aka wurm
+P9:23:27 <Daidoji> haha
+P9:23:28 <Daidoji> get it
+P9:23:32 <Griskard> Ahahahah
+13P9:23:34 * shawnachu beats critic some more
+P9:23:34 <Griskard> Not funny
+P9:23:41 <Daidoji> no it's pretty funny
+P9:23:41 <citricsquid> shawnachu: :(
+P9:23:46 <shawnachu> :D
+P9:23:52 <Griskard> I played Wurm
+P9:23:59 <Griskard> After I beat it I quit
+P9:24:03 <Griskard> So others could have a chance
+P9:24:04 <citricsquid> I heard the dev was a big fag
+P9:24:05 <Daidoji> you didn't beat it
+P9:24:09 <Daidoji> me and testvan beat wurm
+P9:24:11 <Daidoji> ask him
+P9:24:12 <shawnachu> Wurm?
+P9:24:14 <Griskard> Yeah I did, I beat it
+P9:24:23 <Skywars> http://www.youtube.com/watch?v=ugriWSmRxcM
+P9:24:31 <Daidoji> we beat wurm by building a pinewood satellite
+P9:24:31 <Skywars> caution: gets stuck in ur head
+P9:24:34 <Griskard> I created a cog, in the middle of a mountain, 2 hours away from water
+P9:24:51 <Griskard> OWNT
+P9:25:04 <shawnachu> What's wurm about
+12P9:25:10 * Jakkarra (Jakkarra@5ad2bd83.bb.sky.com) Quit (Ping timeout: 180 seconds)
+P9:25:13 <citricsquid> Skywars: brain melt
+P9:25:17 <Daidoji> it's a game that does everything possible to make your life miserable
+P9:25:26 <Skywars> citricsquid: lol
+P9:25:30 <shawnachu> Oh boy I love murderous games
+P9:25:36 <Daidoji> not in a good way
+P9:25:40 <Xeros> Agh, Wurm was another game I always wanted to play but didn't work. Could someone help me figure out why Minecraft servers aren't working for me? I'm on a Mac OS X
+P9:25:41 <citricsquid> http://www.youtube.com/watch?v=-lS7VFDIlvo
+P9:25:48 <shawnachu> Does it have sideways flying spikes?
+P9:25:52 <Xeros> Already tried looking for Firewalls but... that conversation just...stopped =/
+P9:26:10 <Skywars> lol@ citricsquid
+P9:26:10 <Daidoji> no worse: you have to wait 2 weeks of real time for olive trees to sprout
+P9:26:12 <citricsquid> Xeros: mac os gays up, lots of problems with it.
+P9:26:23 <shawnachu> What.
+P9:26:26 <Daidoji> why is that important you ask? well you need olive oil to make compasses
+P9:26:34 <shawnachu> what
+P9:26:40 <shawnachu> olive oil for compasses?
+P9:26:41 <Griskard> Its super realistic
+P9:26:51 <shawnachu> Well
+P9:26:53 <Griskard> It takes 24 hours to craft plate armour
+P9:26:57 <Xeros> Yeah I hate Mac, I can't even find if it has servers. If it were Windows I could easily, but Mac is like so not complicated it's complicated lol
+P9:26:58 <Skywars> http://www.youtube.com/watch?v=pZ_btTYk9v4 for citricquid and all
+P9:27:00 <shawnachu> Atleast you don't have to wait 2 years
+P9:27:04 <Griskard> And then you step in a hole and cant walk
+P9:27:14 <shawnachu> lol
+P9:27:14 <Daidoji> newb traps were fun
+P9:27:21 <Eagle> If you fall more than 10 feet you break a leg
+10P9:27:23 * Dudebro (chatzilla@adsl-68-94-22-113.dsl.rcsntx.swbell.net) has joined #minecraft
+P9:27:26 <Daidoji> you'd dig an 80 steep hole
+P9:27:27 <Eagle> and you can't move for the rest of the game
+P9:27:31 <Daidoji> and plant thorns on the side
+P9:27:33 <citricsquid> Skywars: you can't remove stephanie!
+P9:27:36 <citricsquid> she's the best part.
+P9:27:40 <Skywars> NOOO
+P9:27:42 <Skywars> she fails
+10P9:27:46 * x266 (x266@CPE00179a4ea1f6-CM001868e7e028.cpe.net.cable.rogers.com) has joined #minecraft
+P9:27:50 <Skywars> she takes all the testostrone out
+P9:27:52 <Griskard> If you piss on your hands accidently, you catch a disease and slowly die
+P9:27:56 <Skywars> so is wurm free?
+12P9:27:59 * x266 (x266@CPE00179a4ea1f6-CM001868e7e028.cpe.net.cable.rogers.com) Quit (Quit: Client Exited)
+P9:28:02 <Daidoji> not anymore
+P9:28:31 <Eagle> If you bathe in a lake you get an infection
+P9:28:37 <Eagle> and slowly die
+P9:28:40 <Griskard> Drink water
+P9:28:40 <shawnachu> ....Wow.
+P9:28:43 <Griskard> Get a disead
+P9:28:46 <Griskard> And slowly die
+P9:28:49 <citricsquid> how much does wurm cost?
+P9:28:51 <Griskard> Dont drink water?
+P9:28:52 <Eagle> Breathe in
+P9:28:54 <Griskard> Slowly die
+P9:29:00 <Eagle> Get an airborne disease
+P9:29:05 <Xeros> I have to say that Minecraft is one of the best things I've ever played(at least single player x.x). Exploring the randomly generated world is amazing, finding hidden caverns and barely visible tunnels... and then digging up to look over a huge forest.
+P9:29:06 <Griskard> And do not try and outrun a fucking bear
+P9:29:07 <Eagle> Slowly die
+P9:29:10 <shawnachu> I'm assuming if you eat food you die.
+P9:29:12 <Eagle> Simply exist
+P9:29:18 <Eagle> Slowly die of age
+P9:29:27 <Griskard> Build a house. Anywhere yo want, however you want
+P9:29:29 <Griskard> Build crops
+P9:29:34 <Griskard> And watch them slowly die
+P9:29:36 <shawnachu> What's a life span of a normal character
+P9:29:44 <Griskard> 40 seconds
+P9:29:47 <shawnachu> lol
+P9:29:48 <Eagle> About 60 years
+P9:29:57 <Eagle> If you don't die of other causes
+10P9:29:59 * merma (yo@ip36-32-15-186.ct.co.cr) has joined #minecraft
+P9:30:01 <Griskard> 40 seconds before you die and have to spawn again
+P9:30:10 <Griskard> Because you fell down a ditch
+P9:30:15 <Griskard> Or a mineshaft
+P9:30:19 <shawnachu> "I paid to repeatedly spawn on a lion"
+P9:30:23 <Griskard> Yeah
+P9:30:26 <Eagle> Or trip on a stray blade of grass
+P9:30:30 <shawnachu> lol
+P9:30:35 <Griskard> Oh and that time I swallowed a fly
+P9:30:47 <shawnachu> It had rabies?
+P9:30:48 <Griskard> And it kept hitting me and slightly hurting my stomach
+P9:30:54 <Eagle> XD
+P9:30:55 <Griskard> Until I died
+P9:30:59 <shawnachu> lol
+P9:31:06 <Skywars> already dling wurm
+P9:31:24 <Eagle> One time there was a bunch of air in my lungs
+P9:31:34 <Eagle> And I couldn't move because the air was clipping inside of me
+P9:31:34 <shawnachu> And you exploded.
+P9:31:40 <Griskard> Yeah
+P9:31:42 <Griskard> That sucked
+P9:31:47 <Griskard> Thankfully they removed air
+10P9:31:49 * olol (olol@113.30.95-79.rev.gaoland.net) has joined #minecraft
+P9:31:55 <Eagle> But then I choked to death
+P9:31:58 <Eagle> when they did that
+P9:31:59 <Griskard> But forgot to make the characters able to live without it
+P9:32:00 <shawnachu> On air?
+P9:32:01 <Griskard> Yeah
+P9:32:01 <tarkata14> venn, your server is empty once again, I'm the only one on it.
+P9:32:08 <Daidoji> http://ilm.johnnythemidget.com/image/wurm/bearback_mountain_east_of_dongel.jpg
+P9:32:13 <olol> Hello all, in need cMss 3.0 =d
+P9:32:16 <Daidoji> we built that in wurm
+10P9:32:19 * olol is now known as Kouki
+P9:32:26 <Daidoji> testvan how long did that take?
+P9:32:30 <Skywars> i wonder why wurm is now p2p..
+P9:32:30 <Daidoji> something like 2 weeks I guess
+P9:32:50 <Daidoji> 2 weeks of 10-20 people working on it
+P9:33:00 <Griskard> Then there was that time I stepped through a door, hitting my head on the doorway, stumbled outside and got randomly struck by lightning
+P9:33:00 <Kouki> Plz can you send me good link cMMs 3.0 pls ?
+P9:33:02 <Griskard> But to this day
+P9:33:07 <Griskard> I blame Notch for that
+12P9:33:11 * mail2345 (gerard.mai@cpe-70-95-131-103.hawaii.res.rr.com) Quit (Quit: rl)
+P9:33:24 <Daidoji> I don't know how it's notch's fault
+P9:33:27 <Griskard> The webpage "ilm.johnnythemidget.com" cannot be found
+P9:33:28 <Daidoji> he left like 2 years ago almost
+P9:33:28 <Griskard> DNS error occurred. Server cannot be found. The link may be broken.
+12P9:33:29 * tarkata14 (johnheim14@dialup-4.252.211.17.Dial1.Chicago1.Level3.net) Quit (Quit: Client Exited)
+P9:33:33 <Eagle> One time my knees were crippled because of my character weighed 80 pounds and knees weren't made for that kind of stress
+P9:33:34 <Griskard> I got struck by frikking lightning
+P9:33:37 <Kouki> help me plw =/
+P9:33:40 <Kouki> plz
+P9:33:44 <Griskard> How is that not notches fault?
+P9:33:54 <Skywars> hmm
+P9:33:56 <shawnachu> You guys played any games lately
+P9:34:01 <Griskard> Wurm...
+P9:34:02 <Skywars> wurm startup isnt doing anything
+P9:34:02 <shawnachu> ...besides minecraft
+P9:34:05 <Eagle> I played Minecraft recently
+P9:34:07 <Eagle> Oh
+P9:34:09 <Daidoji> it went pay before he even left
+P9:34:10 <Griskard> Wurm
+P9:34:11 <Eagle> I played Craftmine recently
+P9:34:26 <Kouki> Can you send me a link of cMss 3.0 or not...?
+P9:34:26 <Skywars> argh how long until wurm startup finishes..
+P9:34:27 <shawnachu> I love Craftmine.
+P9:34:28 <merma> is minecraft some kind of starcraft and minesweeper hybrid?
+P9:34:35 <shawnachu> lol
+P9:34:36 <Eagle> I hate craftmine because people keep deflooding my map
+P9:34:37 <Daidoji> I mean you could always do a free account
+P9:34:39 <Kouki> lol merma
+12P9:34:40 * Snowman (Snowman@sd51100a0.adsl.wanadoo.nl) Quit (Read error: Connection reset by peer)
+P9:34:47 <Daidoji> it's just you were capped at 20 skill
+P9:34:47 <shawnachu> you're on this channel
+P9:34:49 <Skywars> "This seems to be your first time playing"
+P9:34:52 <Eagle> And they keep rebuilding all of my stuff!
+P9:34:54 <shawnachu> and you don't know what minecraft is?
+P9:34:58 <merma> nope
+P9:35:01 <shawnachu> xD
+P9:35:02 <Skywars> then how..
+P9:35:03 <Eagle> Craftmine sucks until they change the multiplayer
+P9:35:04 <merma> I saw the channel on the server's list
+P9:35:10 <Kouki> lol and i searc a link of cMss 3.0 XDDDDDDDDDDDDDD
+P9:35:15 <shawnachu> http://www.minecraft.net/
+P9:35:16 <Daidoji> minecraft is like blockland
+P9:35:17 <Daidoji> sort of
+P9:35:17 <Griskard> Hey Eagle
+P9:35:18 <shawnachu> clicky
+12P9:35:20 * aeiowu (aeiowu@205-237-126-12.intuitiongames.isupark.org) Quit (Quit: aeiowu)
+P9:35:21 <Eagle> what
+P9:35:28 <Daidoji> except the entire world is made of square blocks
+P9:35:41 <shawnachu> IT's Roblox except not crap.
+P9:35:42 <Kouki> the forums and wiki of minecraft are down =(
+P9:35:46 <Griskard> Would you like to see a Minecraft RPG server, with portals around like Archives
+P9:35:47 <Skywars> why doesnt wurmstartup work?
+P9:35:58 <Eagle> I'm done with Minecraft tonight
+P9:36:00 <shawnachu> RPG server?
+P9:36:00 <Eagle> :/
+P9:36:04 <Daidoji> just look at the videos of mc on youtube
+P9:36:05 <Griskard> Its downloading the 15 gig of client data
+P9:36:05 <shawnachu> Link?
+P9:36:07 <merma> nice, im trying minecraft
+P9:36:08 <Skywars> all I get is "this seems to be your frist time playing?"
+P9:36:09 <Skywars> holy fark
+P9:36:10 <Eagle> But sure
+P9:36:11 <Griskard> Dont have it up yet
+P9:36:14 <Xeros> wurm downloads a bunch of patches when you first open it btw
+P9:36:15 <Griskard> Im waiting for Lua
+P9:36:19 <Skywars> griskard do you play for free?
+P9:36:19 <Daidoji> or yeah just start the game up..
+P9:36:24 <Skywars> or how does that work..
+P9:36:31 <Griskard> You can yes
+P9:36:37 <Griskard> Just on one island thingo
+P9:36:46 <Daidoji> they got rid of that
+P9:36:48 <Kouki> Can you send me the script cMss3.0 ==' plw
+P9:36:49 <Kouki> plz
+P9:37:03 <Xeros> That's it, I'm getting a Windows emulator simply to play minecraft multiplayer..... and to use 3D Movie Maker...!!!
+P9:37:04 <fleshBasedProcessor|AFK> Anyone know if there is a free windows emulator for mac?
+P9:37:13 <Xeros> whoah... talk about coincidence
+P9:37:17 <shawnachu> lol
+P9:37:31 <Eagle> Kouki cMss isn't on 3.0 yet
+P9:37:34 <Griskard> But anyway, after Lua comes out, I want to make a RPG style server. Multiple citys (several maps), forests, Clan citys/bases and soon
+P9:37:36 <Eagle> It's on 0.3
+P9:37:36 <Griskard> so-on
+P9:37:38 <Skywars> processor what about bootcamp. or is that cost money..
+P9:37:38 <Griskard> *
+P9:37:44 <Xeros> I'd like to know the same information as fleshBasedProcessor
+P9:37:45 <Daidoji> the problem is minecraft is 3D though
+P9:37:54 <Kouki> okay eagle sorry
+P9:38:02 <shawnachu> Cough Kingdom hearts?
+P9:38:03 <Daidoji> unless there's a pretty good windows emulator that has 3D support
+P9:38:06 <Daidoji> never heard of one though
+P9:38:09 <shawnachu> 3D rpg's exist
+P9:38:13 <Kouki> but i search linkof cMss 0.3 but all link is dead =(
+P9:38:22 <Eagle> :/
+P9:38:23 <Kouki> can you send a file ?
+P9:38:25 <Xeros> Wait... windows emulators... don't have god 3d support? this is confusing
+P9:38:29 <Kouki> can you send me *
+P9:38:29 <Eagle> Mine is edited though
+P9:38:35 <Skywars> Wait, NOTCH MADE WURM?
+P9:38:40 <Eagle> Yeah.
+P9:38:43 <Skywars> wowzers
+P9:38:49 <Kouki> Seriously ?
+P9:38:50 <Xeros> Wait... seriously? no
+P9:38:53 <Griskard> Duh
+P9:38:56 <Griskard> Yeah
+P9:38:56 <merma> seems interesting, is there some point though? or just make random fortresses on the map?
+P9:39:02 <Griskard> Wurm?
+P9:39:03 <shawnachu> Pigs: http://notch.tumblr.com/post/168543844/pigs
+P9:39:04 <Xeros> Uh...lol hmm
+P9:39:05 <Griskard> Or minecraft?
+P9:39:12 <Kouki> Eagle can you upload you cMss ??
+P9:39:17 <Griskard> In minecraft we will have combat soon
+P9:39:20 <Kouki> your*
+P9:39:21 <Eagle> But mine isn't the raw cMss
+P9:39:24 <Griskard> At the moment there isnt much to it
+P9:39:41 <Eagle> I took out some stuff and added some stuff
+P9:39:51 <Daidoji> well anyway I ran xp in vmware on this thing
+P9:39:54 <Daidoji> and it didn't have 3D support
+P9:39:57 <Xeros> It says Notch worked on the first Wurm ages ago or something
+P9:40:00 <Daidoji> and that's suppose to be the best one
+P9:40:19 <Kouki> okay eagle
+P9:40:24 <Eagle> Sorry
+P9:40:26 <Eagle> :/
+P9:40:37 <LG_Legacy> Oh god..
+P9:40:39 <Xeros> " Minecraft is an up an coming great game made by Notch. Who also worked on the first Wurm graphical client ages ago. "
+P9:40:39 <Daidoji> unless they've made a major advance in that area in the last year
+P9:40:47 <LG_Legacy> I'm onm a vent with hyperactive crazy teenage girls..
+P9:40:52 <LG_Legacy> :l
+P9:40:58 <shawnachu> O_o
+P9:41:06 <LG_Legacy> They promised us grandpa
+P9:41:09 <LG_Legacy> Then they lied
+P9:41:12 <shawnachu> ....what
+P9:41:14 <Daidoji> and gave us cousin jimmy
+P9:41:16 <Kouki> Eagle, send me as even
+P9:41:18 <Xeros> The cake is a lie.
+P9:41:26 <shawnachu> :(
+P9:41:33 <Eagle> ?
+P9:41:37 <shawnachu> I wanted cake.
+P9:41:40 <Eagle> I'm not sending anything
+P9:41:44 <Eagle> >:/
+P9:42:03 <Eagle> Forums'll be back on monday
+P9:42:09 <Eagle> you can find it then
+P9:42:13 <Kouki> WHYYYYYYYYYYYYYYYYYY
+P9:42:15 <Kouki> a ookay
+P9:42:17 <Eagle> :P
+P9:42:17 <Kouki> Thx
+12P9:42:37 * Skywars (Mibbit@adsl-76-221-199-113.dsl.frs2ca.sbcglobal.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P9:42:54 <Griskard> Is there some way notch can stop Java hacking for minecraft? Otherwise any sort of trading or need to MINE will go out the window
+P9:42:58 <Eagle> Kouki
+P9:43:04 <Eagle> http://cryzed.pastebin.com/f3c5715c
+P9:43:05 <shawnachu> Griskard
+P9:43:09 <Eagle> Google is your friend
+P9:43:22 <shawnachu> He says he made a security system
+P9:43:26 <shawnachu> in his blog
+P9:43:39 <shawnachu> But you can disable it for your server if you want
+P9:43:56 <Daidoji> huh
+P9:44:00 <Daidoji> guess they finally did add 3D support
+P9:44:04 <Daidoji> well then
+P9:44:06 <Kouki> It are normal that I my map), otherwise cannot up there is bandage 'black' has the exterieur of that this
+P9:44:11 <shawnachu> "This involves adding a lot of additional security to the game server, such as preventing wallhacks and flying.  (Don’t worry, if you play on a server with flying and wallhacks and enjoy playing like that, you can turn off the added security from the server settings.)"
+P9:44:11 <Kouki> exterieur = 'ou'
+P9:44:14 <Kouki> 'out'
+P9:44:28 <Kouki> i use a reverso lol :sorry
+P9:44:33 <Griskard> That doesnt mean you cant use memory hacking though
+P9:44:46 <citricsquid> Griskard: Validation can prevent that
+P9:45:43 <Kouki> http://cryzed.pastebin.com/f3c5715c Eagle, it's juste a source...
+P9:45:48 <Daidoji> I should probably tell notch about graphics card hacking
+P9:45:57 <Eagle> Kouki that's the cMss script
+P9:45:58 <Xeros> Daidoji which emulator are you talking about that has 3d support or something?
+P9:46:04 <Daidoji> vmware
+P9:46:09 <Xeros> ah thank you
+P9:46:09 <Daidoji> but it's not 100%
+P9:46:19 <Kouki> But where is the file ??
+P9:46:30 <Daidoji> vmware workstation, to be specific
+13P9:46:34 * shawnachu has to go
+P9:46:35 <Daidoji> there's a billion vmware apps
+P9:46:39 <shawnachu> Cya guys
+12P9:46:44 * shawnachu (Mibbit@cpe-24-28-30-184.austin.res.rr.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P9:46:46 <Xeros> do you know of any others? I mean I don't own this computer so if it takes like years then, idk maybe I won't do it
+P9:46:52 <Xeros> oh ok
+P9:47:00 <Daidoji> there's that microsoft virtual machine
+P9:47:04 <Kouki> Sorry eagle, i'm noob but i don't find the fil;;;
+10P9:47:54 * citricsquid2 (sam@client-86-25-243-16.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+P9:48:42 <Daidoji> although if you have an intel mac you're bone out of luck with the microsft one
+P9:49:19 <Xeros> I believe this is the Mac where.. the Computer is within the moniter. and it's Mac OS X 10.4
+12P9:49:25 * citricsquid (sam@client-86-25-242-182.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+P9:50:05 <Kouki> Eagle :( ?
+P9:50:09 <Daidoji> oh, then it might work. the key though is you need like 2GB of ram or forget it.
+P9:50:16 <Bradness> Roadcrosser: The server froze.
+P9:51:08 <Daidoji> although you might be able to use xp lite to get a minimal OS to just run games
+P9:51:11 <Kouki> Please somebody could grow upe my map?
+10P9:51:15 * mib_ap7m6ahg (Mibbit@d24-57-111-173.home.cgocable.net) has joined #minecraft
+P9:51:17 <Xeros> hmm I got 1gb... agh I just want to play minecraft online!! it works single player...this is so...saddening. Once I get home, my normal windows computers can't even handle minecraft single player with closest fog
+10P9:51:26 * mib_ap7m6ahg is now known as setveen
+P9:51:31 <Daidoji> man that's pretty bad
+P9:51:44 <Roadcrosser> oh
+P9:51:47 <Bradness> setveen: The server is down.
+P9:51:58 <Roadcrosser> now what
+P9:52:02 <setveen> thanks,
+P9:52:03 <Bradness> setveen: Roadcrosser: Join #minecraft 
+P9:52:07 <Bradness> I mean
+P9:52:12 <Bradness> setveen: Roadcrosser: Join #archives
+P9:52:13 <setveen> was wondering what happened to it
+P9:52:25 <Roadcrosser> so i reload/
+P9:52:31 <Roadcrosser> t?
+12P9:52:34 * citricsquid2 (sam@client-86-25-243-16.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+P9:53:46 <Roadcrosser> only can find tb archives
+12P9:53:50 * MisterX (MisterX@p5DDE7F9D.dip.t-dialin.net) Quit (Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org)
+P9:55:49 <Roadcrosser> :(
+P9:55:58 <Roadcrosser> cant load archives
+P9:56:08 <setveen> its down
+P9:56:18 <setveen> also, #archives
+P9:56:22 <Roadcrosser> oh
+10P9:56:25 * setveen (Mibbit@d24-57-111-173.home.cgocable.net) has left #minecraft
+P9:56:31 <Roadcrosser> now what
+10P9:57:26 * setveen (Mibbit@d24-57-111-173.home.cgocable.net) has joined #minecraft
+P9:57:29 <Roadcrosser> now what
+P9:57:37 <Xeros> anyone know of a working server that isn't down right now? Maybe I have just been extremely unlucky and picked every down server? lol
+10P9:57:49 * Not_Famous (drivesidew@c-67-187-207-63.hsd1.ca.comcast.net) has joined #minecraft
+P9:58:31 <setveen> http://www.minecraft.net/play.jsp?server=35d8e69f5c3af73fe3c35ee2393c982a
+P9:58:45 <Not_Famous> Hey
+P9:58:55 <setveen> hi
+P9:58:59 <Roadcrosser> ...
+P9:59:19 <Xeros> Nope doesn't work ;-;
+P9:59:29 <setveen> it works for me
+P9:59:52 <Roadcrosser> ?
+10P10:00:20 * citricsquid (sam@client-86-25-243-185.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+P10:00:22 <liq3> rofl @ latest blog post.
+10P10:00:23 * ChanServ sets mode: +o citricsquid
+P10:01:05 <Dudebro> PIGS!
+P10:01:15 <liq3> :D
+P10:01:19 <liq3> we need flying pigs!
+P10:01:21 <liq3> >.<
+P10:01:25 <Dudebro> YES
+P10:01:36 <Dudebro> Are there water-based mobs?
+P10:01:42 <liq3> dunno.
+P10:01:49 <Roadcrosser> ...
+P10:01:55 <Dudebro> There should be.
+P10:01:57 <Dudebro> Lik
+P10:01:59 <Dudebro> e
+P10:02:02 <Dudebro> Sharks and stuff
+P10:02:08 <liq3> haha. there might be. :p
+P10:02:17 <citricsquid> I think Notch said no :(
+P10:02:23 <Dudebro> awww
+P10:02:26 <Dudebro> Oh well
+P10:02:34 <citricsquid> I wanted squids D:
+P10:02:41 <Dudebro> Wait, can regular mobs wander into water?
+P10:02:50 <citricsquid> yeah, eventually drown, I think
+P10:02:57 <Dudebro> ah
+P10:03:14 <liq3> hrm, they drown now? I hope we drown.
+P10:03:18 <Dudebro> We drown
+12P10:03:20 * Peroggi (Perogi@S0106001cf0fcecf9.ok.shawcable.net) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5.2/20090729225027])
+P10:03:21 <citricsquid> we do!
+P10:03:22 <liq3> It'll be nice when water is a real barrier. :p
+P10:03:25 <Dudebro> What does lava do?
+P10:03:27 <liq3> citric: for sure? :D
+P10:03:32 <citricsquid> notch said so!
+P10:03:35 <liq3> woot!
+P10:03:36 <citricsquid> with a bubble meter!
+P10:03:40 <liq3> haha.
+P10:03:40 <Dudebro> Instant kill, or what?
+P10:03:46 <liq3> dudebro: I'd assume instant kill.
+P10:03:53 <Dudebro> Not fun.
+P10:03:57 <liq3> :p
+P10:04:02 <liq3> be careful when mining under yourself!
+P10:04:02 <liq3> :P
+P10:04:08 <liq3> or just don't.
+P10:04:09 <liq3> haha.
+P10:04:12 <Dudebro> Then again, it would be good for a moat.
+P10:04:17 <liq3> oh yes. :D
+P10:04:22 <liq3> but then, so would water.
+P10:04:49 <setveen> so citricsquid, are you ever going to bring the forums back? i could get some started if you dont
+P10:04:53 <Dudebro> Water doesn't kill people that step in it.
+P10:05:13 <citricsquid> setveen: they're down because lack of server and the server should be back monday :)
+P10:05:24 <setveen> cool
+P10:06:17 <Roadcrosser> so
+P10:06:25 <setveen> so
+P10:06:30 <Roadcrosser> when archives back up
+P10:06:39 <Griskard> FUCKING YESTERDAY
+P10:06:41 <Griskard> Monday...
+P10:06:49 <Roadcrosser> ?
+P10:07:00 <Roadcrosser> archives only up on monday?
+10P10:09:47 * Arf|dinner is now known as Arf
+12P10:10:35 * Not_Famous (drivesidew@c-67-187-207-63.hsd1.ca.comcast.net) Quit (Quit: Peace and Protection 4.22)
+10P10:10:44 * Not_Famous (drivesidew@c-67-187-207-63.hsd1.ca.comcast.net) has joined #minecraft
+P10:10:49 <citricsquid> peta make me laugh
+P10:11:17 <Dudebro> They are zany
+P10:11:38 <citricsquid> the chickens I look after are well treated, they're not beaten up and kicked. I'll carry on eating them, thanks peta!
+P10:12:01 <Dudebro> honestly, I prefer having my meat beaten.
+P10:12:08 <citricsquid> tastes better.
+P10:12:12 <Dudebro> ^
+12P10:12:51 * Kouki (olol@113.30.95-79.rev.gaoland.net) Quit (Remote host closed the connection)
+P10:15:26 <liq3> ... You guys are terrible. D:
+P10:15:34 <Not_Famous> horrible :(
+10P10:15:37 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+P10:16:13 <liq3> I mean really, hurting yourself by eating meat! It's terrible. 
+P10:16:14 <Dudebro> Dick jokes always end with animal cruelty.
+12P10:16:14 * Dred_furst (Dred@cpc3-pool3-0-0-cust999.sotn.cable.ntl.com) Quit (Ping timeout: 180 seconds)
+12P10:18:24 * Charlie99993 (chatzilla@75.76.129.65) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.5.2/20090729225027])
+12P10:19:01 * Eagle (BLELELEL@c-24-56-241-140.customer.broadstripe.net) Quit (Ping timeout: 180 seconds)
+10P10:19:31 * Spajh (184e2c2e@nn1.rusbyte.com) has joined #minecraft
+10P10:19:38 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+12P10:19:55 * adobewedge (Adobewedge@c-76-19-157-29.hsd1.ma.comcast.net) Quit (Quit: adobewedge)
+P10:20:40 <merma> the lava game was fun
+P10:20:50 <Not_Famous> liq3, vege?
+P10:22:05 <liq3> vegan.
+P10:22:36 <Not_Famous> nice.
+P10:22:38 <Dudebro> FILTHY HIPPIE SCUM
+P10:22:45 <Dudebro> lol jay kay
+P10:22:50 <liq3> filthy? Hrm, actually, that's pretty accurate. :D
+P10:22:58 <liq3> I should shower more.
+P10:23:05 <Dudebro> I should as well.
+P10:23:09 <Not_Famous> me too @_@
+P10:23:18 <liq3> You, I just realised.
+P10:23:38 <liq3> The amount I shower is directly proportional to the amount of socializing I do. 
+P10:23:48 <Dudebro> Same
+P10:24:00 <Dudebro> Unless said socializing is done at a pool party.
+P10:24:03 <Not_Famous> is this considered socializing?
+P10:24:03 <liq3> lol.
+P10:24:04 <liq3> ;P
+P10:24:10 <liq3> Not_famous: Somewhat...
+P10:24:12 <liq3> Not really.
+P10:24:25 <Not_Famous> atleast the internet can't smell
+P10:25:01 <citricsquid> night guiysss
+P10:25:12 <Not_Famous> night citricsquid
+P10:25:28 <Spajh> night Sam
+12P10:26:11 * citricsquid (sam@client-86-25-243-185.mcr-bng-013.adsl.virginmedia.net) Quit (Quit: Client Exited)
+12P10:28:15 * Roadcrosser (Mibbit@120.141.1.160) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P10:28:47 * setveen (Mibbit@d24-57-111-173.home.cgocable.net) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P10:30:44 * Spajh (184e2c2e@nn1.rusbyte.com) Quit (Quit: IRC.NN.RU (Ping timeout))
+10P10:36:51 * princepsregulus (princepsre@adsl-70-239-9-126.dsl.bcvloh.sbcglobal.net) has joined #minecraft
+12P10:38:24 * Chariot- (charitoPL@cpe-065-188-062-039.sc.res.rr.com) Quit (Quit: Client Exited)
+10P10:38:58 * Super-Dot (Super-Dot@adsl-75-61-92-1.dsl.pltn13.sbcglobal.net) has joined #minecraft
+10P10:38:59 * ChanServ sets mode: +o Super-Dot
+12P10:40:54 * princepsregulus (princepsre@adsl-70-239-9-126.dsl.bcvloh.sbcglobal.net) Quit (Ping timeout: 180 seconds)
+12P10:45:03 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (Quit: ANIME)
+P10:45:14 <Not_Famous> hah
+10P10:45:18 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+12P10:51:17 * AnnihilatorBeta (Annihilato@bas1-toronto48-1279277002.dsl.bell.ca) Quit (Read error: Connection reset by peer)
+10P10:55:00 * brendanmint (chatzilla@69.171.161.141) has joined #minecraft
+12P10:58:30 * chrstfer (notch@pool-173-48-188-233.bstnma.fios.verizon.net) Quit (Quit: Client Exited)
+12P10:58:57 * brendanmint (chatzilla@69.171.161.141) Quit (Quit: Client Exited)
+10P11:04:00 * Marc (chatzilla@c-76-26-244-155.hsd1.fl.comcast.net) has joined #minecraft
+04P11:04:00 Marc has the same ISP district as chewy.
+10P11:04:10 * Marc is now known as SrsBzns
+P11:04:28 <SrsBzns> Wow, this is actually pretty full.
+12P11:04:32 * Real (Real@66.231.145.59) Quit (Quit: Until we meet again...)
+12P11:06:05 * SrsBzns (chatzilla@c-76-26-244-155.hsd1.fl.comcast.net) Quit (Quit: Client Exited)
+12P11:14:37 * Ollieh (Ollieh@60-241-175-129.static.tpgi.com.au) Quit (Quit: I don't like you. But Bersirc 2.2 does. Try it out now. [ http://www.bersirc.org/ - Open Source IRC ])
+12P11:15:12 * Amatsu (amatsudark@142.47.134.2) Quit (Quit: Client Exited)
+10P11:15:15 * gordenfreechmen (Mibbit@173-111-149-87.pools.spcsdns.net) has joined #minecraft
+P11:15:40 <gordenfreechmen> pigs :U
+P11:16:58 <Xeros> Dr. Freechmen... Welcome to Black Meescha
+P11:18:00 <gordenfreechmen> :P
+P11:18:06 <gordenfreechmen> my player model is a spy
+P11:18:12 <gordenfreechmen> kinda an in-joke
+P11:18:47 <LG_Legacy> Cause we don't all know TF2
+P11:18:58 <gordenfreechmen> no
+P11:19:04 <gordenfreechmen> not because of that
+P11:19:10 <gordenfreechmen> well kinda but
+P11:19:36 <gordenfreechmen> yeah, when I accidently ruined someone's building on a pub,
+P11:19:39 <gordenfreechmen> they said I was a spy
+P11:19:54 <Bobo> PIGS
+10P11:20:19 * TheOne (a@138.210.223.223) has joined #minecraft
+P11:20:23 <gordenfreechmen> hi theone
+P11:20:40 <TheOne> hey
+P11:21:02 <Not_Famous> hi
+P11:21:27 <PuyoDead> http://img31.imageshack.us/img31/6945/diabeetus.gif
+P11:21:44 <vede> Blood Frontier is tons of fun, and you guys should play it.
+P11:22:17 <vede> Good gameplay, good graphics (and EXTREMELY easy to run), and free.
+P11:22:31 <gordenfreechmen> thanks for the advertising, billy mays
+P11:22:45 <vede> And open-source.
+P11:22:48 <Not_Famous> we're suppose to stop playing MineCraft?!?!?!
+P11:22:48 <vede> And you're welcome.
+P11:23:02 <vede> You're supposed to stop capitalizing "craft" in it, at least.
+P11:23:05 <vede>  >.>
+P11:23:11 <Bobo> why?
+P11:23:18 <Not_Famous> oh... I suppose that will have to do. Minecraft. @_@
+P11:23:27 <Not_Famous> :D
+P11:23:30 <Bobo> Crinemaft
+12P11:23:37 * TheOne (a@138.210.223.223) Quit (Quit: Client Exited)
+P11:23:39 <Not_Famous> bobo's funny
+P11:23:57 <vede> Mein Krapht
+P11:24:01 <Bobo> lol
+P11:24:09 <Bobo> hitler's new book
+P11:24:26 <gordenfreechmen> blood frontier is a mod of cube 2 or something?
+P11:24:33 <vede> You just go HERE: http://www.mediafire.com/download.php?ggzknh2vdmm
+P11:24:42 <vede> Not a mod of Cube 2.
+P11:24:45 <vede> Uses the same engine.
+P11:24:47 <Bobo> asif we'd download your random download link
+P11:24:53 <vede>  :(
+10P11:25:09 * TheOne (a@138.210.223.223) has joined #minecraft
+P11:26:03 <vede> Well...
+P11:26:13 <vede> You can go here I guess: http://bloodfrontier.svn.sourceforge.net/bloodfrontier/
+P11:26:25 <gordenfreechmen> why are you advertising
+P11:26:33 <gordenfreechmen> gtfo back
+P11:26:36 <vede> Because I felt the need to express mah opinions.
+P11:26:57 <Bobo> why are there pigs?
+P11:27:00 <Bobo> in minecraft
+P11:27:01 <Bobo> lol
+P11:27:06 <Bobo> do we harvest them?
+P11:27:15 <vede> There are pigs in Minecraft because we need stuffs to eat.
+P11:27:15 <gordenfreechmen> no
+P11:27:19 <gordenfreechmen> you dig until you find lava
+P11:27:23 <gordenfreechmen> and let them fall in
+P11:27:24 <vede> And to keel.
+P11:27:33 <gordenfreechmen> then you can make burgers to heal you
+P11:27:33 <vede> Ah, man.
+P11:27:36 <gordenfreechmen> simple as that
+P11:27:39 <Bobo> lol
+P11:27:44 <vede> I can imagine a factory farm, Minecraft style.
+P11:27:51 <Bobo> yeahhh
+P11:27:53 <vede> Bunch of pigs walking down a track, to a lava pit.
+P11:27:57 <vede> Hilarity.
+P11:28:04 <Bobo> and strips of bacon come out the other side
+10P11:28:05 * Adurah (Adura@bas2-toronto21-1242310150.dsl.bell.ca) has joined #minecraft
+P11:28:11 <vede> Yups.
+P11:28:19 <Bobo> i love that theres signs
+P11:28:25 <vede> Signs are win.
+P11:28:29 <Bobo> we just need block ownership 
+P11:28:48 <vede> Never gon' happen.
+P11:28:53 <vede> Been said.
+P11:28:53 <Bobo> actually i spoooose
+P11:29:07 <Bobo> minecraft's current state is more like the level editor anyway
+P11:29:15 <vede> Lots of checks, and double required memory for the level.
+P11:29:16 <Bobo> so its not so important
+P11:29:18 <vede> Badbadbad
+12P11:29:50 * Adura (Adura@bas2-toronto21-1242310150.dsl.bell.ca) Quit (Ping timeout: 180 seconds)
+P11:29:51 <gordenfreechmen> i love this signs
+P11:29:52 <gordenfreechmen> we need them
+P11:29:58 <gordenfreechmen> like srsly guys
+P11:30:06 <Bobo> they will certainly help
+P11:30:10 <gordenfreechmen> people tend to make cities
+P11:30:16 <vede> And castles.
+P11:30:18 <gordenfreechmen> it'd be nice to know what the hell that thing is
+P11:30:20 <vede>  >.>
+P11:30:56 <PuyoDead> holy hell, this blood frontier downloader is wretched
+P11:31:02 <vede> "Welcome to Burgtownsville!"
+P11:31:08 <gordenfreechmen> i found a trojan
+P11:31:08 <gordenfreechmen> :\
+P11:31:14 <vede> I doubt it.
+P11:31:30 <vede> Or, I at least doubt it's actually a trojan.
+P11:31:37 <PuyoDead> no trojans here, but I think I've been transported to '87
+P11:31:47 <vede> Yes, it's pretty lame, but it works.
+P11:31:55 <vede> And it even has an updater.
+P11:32:19 <vede> You can also use an SVN program if you have one.
+P11:32:26 <PuyoDead> they could at LEAST add a progress bar or percentage
+P11:32:30 <vede> Yeah.
+P11:32:45 <vede> Worth it, though.
+P11:32:55 <vede> I'll prolly be playing the game for at least the next few weeks.
+P11:32:59 <PuyoDead> oh! bonus day in dissidia
+P11:33:01 <vede> (brb)
+P11:33:44 <LG_Legacy> http://steamcommunity.com/groups/minecraftgroup
+P11:33:47 <LG_Legacy> Foir no reason
+P11:34:02 <Xeros> I'd like to advertise 3d movie maker... :P Damn I wish I could play this amazing game on multiplayer...
+P11:34:25 <gordenfreechmen> vince shlani has joined the battle
+P11:35:14 <gordenfreechmen> wait wut
+P11:35:16 <gordenfreechmen> its limited
+12P11:36:00 * Griskard (chatzilla@167.212.dsl.syd.iprimus.net.au) Quit (Read error: Connection reset by peer)
+10P11:44:15 * SlayerXL (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+10P11:44:56 * Griskard (chatzilla@167.212.dsl.syd.iprimus.net.au) has joined #minecraft
+P11:45:09 <Griskard> The Archives is down?
+10P11:45:46 * Dusicyon (IceChat7@h69-131-88-179.cntcnh.dsl.dynamic.tds.net) has joined #minecraft
+12P11:48:07 * SlayerXL (Stuie@220-244-161-193.static.tpgi.com.au) Quit (Quit: Client Exited)
+10P11:49:16 * mezo (mezo@CPE0018f8d6bd6b-CM001bd7aa18f2.cpe.net.cable.rogers.com) has joined #minecraft
+10P11:50:21 * Kin (Error404@cpe-72-184-135-206.tampabay.res.rr.com) has joined #minecraft
+12P11:50:24 * Kinhoshi (Error404@cpe-72-184-135-206.tampabay.res.rr.com) Quit (Read error: Connection reset by peer)
+12P11:51:44 * merma (yo@ip36-32-15-186.ct.co.cr) Quit (Quit: Leaving)
+P11:53:13 <Xeros> Grawr...
+10P11:53:50 * FlyZ (Mibbit@24-247-50-39.dhcp.monr.mi.charter.com) has joined #minecraft
+P11:55:28 <LG_Legacy> Interesting
+P11:55:38 <LG_Legacy> Flyz, what are you doing?
+P11:58:37 <vede> http://www.youtube.com/watch?v=cNu4CluFOcw
+P11:58:39 <vede>  :DDDD
+Session Close: Sat Aug 22 00:00:01 2009

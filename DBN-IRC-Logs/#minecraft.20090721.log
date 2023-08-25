@@ -1,0 +1,485 @@
+
+Session Start: Tue Jul 21 16:43:30 2009
+Session Ident: #minecraft
+10P4:43:30 * Now talking in #minecraft
+10P4:43:30 * Topic is 'http://minecraft.net | ]Party mode! | We don't want any free willies in the jacuzzi, wear speedos!'
+10P4:43:30 * Set by citricsquid!sam@client-81-97-79-117.mcr-bng-013.adsl.virginmedia.net on Mon Jul 20 17:47:53
+12P4:43:45 * Awol10 (Awol@206.173.165.111) Quit (Quit: Trillian (http://www.ceruleanstudios.com)
+P4:44:16 <Azjherben> Back
+P4:45:07 <Azjherben> Worked
+P4:45:18 <citricsquidSLEEP> I'm not asleep
+10P4:45:20 * citricsquidSLEEP is now known as citricsquid
+P4:45:24 <citricsquid> @zuriki
+P4:45:27 <LKA> citric you lied to us
+P4:45:30 <LKA> or something like that
+P4:45:37 <Zuriki> D:
+P4:45:38 <citricsquid> irc keeps changing my name >:(
+10P4:45:54 * ChanServ sets mode: +o citricsquid
+P4:47:41 <Azjherben> Hi citricsquid
+P4:48:17 <citricsquid> yo
+P4:48:32 <Azjherben> I think I added the security you suggested.
+P4:48:42 <citricsquid> How do you check file type?
+P4:48:52 <Azjherben> It
+P4:49:02 <Azjherben> 's already in PHP
+P4:49:08 <Azjherben> All you have to do is
+10P4:49:09 * Themage (richyates1@24.149.92.110) has joined #minecraft
+P4:49:22 <Azjherben> $type = $_FILES["name"]["type"]
+P4:49:25 <citricsquid> ugh
+P4:49:25 <citricsquid> no
+P4:49:27 <Azjherben> ?
+P4:49:27 <citricsquid> that's mimetype
+P4:49:29 <Themage> CAn someone help me with my problem luanching a server?
+P4:49:32 <citricsquid> the mimetype is given by the browser
+P4:49:33 <Azjherben> Oh?
+P4:49:37 <Azjherben> Okay
+P4:49:37 <citricsquid> so I can "give" the mimetype for .dat
+P4:49:40 <citricsquid> when uploading php
+P4:49:51 <citricsquid> and then destroy the site.
+P4:49:57 <Azjherben> I'll keep looking for the best way
+P4:50:15 <Azjherben> For now it rejects anything with a minetype of .dat and that dosn't have ".dat" in it.
+P4:50:27 <citricsquid> Open the file and read the first 64 characters (I think that's it?) with PHP and check what it gives there
+P4:50:28 <Azjherben> Do you know? Before I start looking?
+P4:50:35 <Azjherben> Okay
+P4:50:42 <Azjherben> Sounds good
+P4:50:47 <Azjherben> Or
+P4:50:52 <Azjherben> Scan the whole file for "php"
+P4:50:58 <Azjherben> if it's anywhere in there
+P4:51:02 <Azjherben> Reject it
+P4:51:04 <citricsquid> no
+P4:51:11 <Azjherben> Why not?
+P4:51:12 <Adura> Minetype, hah.
+P4:51:17 <citricsquid> you check if it is dat, if it isn't then refuse.
+P4:51:20 <citricsquid> Not the other way around
+P4:51:29 <citricsquid> .php, .php5 etc
+P4:51:30 <ZomBuster> aagh more overflow
+P4:51:35 <ZomBuster> I don't get it :(
+P4:51:45 <Adura> You can confirm if it's a good map if you know what makes a good map.
+P4:52:07 <Azjherben> Right now we are just making they olny upload maps
+P4:52:09 <ZomBuster> what makes me a good map
+P4:52:15 <Azjherben> We aren't even talking about quality control yet
+P4:52:31 <Adura> I mean legit map, hah.
+P4:52:40 <Themage> Can someone help me?
+P4:52:45 <Azjherben> I guess
+P4:52:59 <Themage> when I try to execute the jar file it comes up with "Failed to load Main-Class Manifest attribute 
+P4:53:00 <Azjherben> Anyway
+P4:53:03 <Azjherben> Yup
+10P4:53:04 * Themage (richyates1@24.149.92.110) has left #minecraft
+P4:53:07 <Azjherben> Get the latest java
+P4:53:10 <Azjherben> Instal in C:\
+P4:53:16 <Azjherben> then go into start menu
+P4:53:20 <Azjherben> click "run"
+P4:53:23 <Azjherben> type in "cmd"
+P4:53:26 <Azjherben> and type this
+P4:53:43 <Azjherben> (Saying you have your minecraft folder on the desktop)
+P4:53:51 <Azjherben> cd Desktop/minecraftstuff
+P4:54:06 <Azjherben> c:\javafolderhere\bin\java -jar OME.jar
+P4:54:19 <Azjherben> I renamed my minecraft folder with OME a
+P4:54:23 <Azjherben> and my java folder j
+P4:54:29 <Azjherben> So I can do it quickly.
+P4:54:57 <Azjherben> C:\j\bin\java -jar Desktop\a\OME.jar
+P4:55:03 <Azjherben> In the command prompt.
+P4:55:22 <Azjherben> Back to my maps site thing
+P4:55:31 <Azjherben> So I have to read the first 64 bits
+P4:57:25 <Azjherben> And what am I checking for exactly?
+P4:57:28 <ZomBuster> damnit
+P4:57:31 <Azjherben> ?
+P4:57:35 <ZomBuster> I managed to create a map
+P4:57:37 <ZomBuster> so complex
+P4:57:43 <Azjherben> ya?
+P4:57:47 <ZomBuster> it creates overflow
+P4:57:52 <citricsquid> I made 64 bits up, but it's a certain part of the file header that includes the real file type.
+P4:58:06 <Azjherben> Okay
+P4:58:17 <Azjherben> BRB
+P4:58:45 <citricsquid> http://pastebin.ca/1502511
+P4:58:55 <citricsquid> That's part of a .png, as you can see at the top it conaints the filetype
+P4:58:57 <citricsquid> contains*
+12P4:59:12 * doohan (doohan@client-81-109-247-87.winn.adsl.virgin.net) Quit (Ping timeout: 180 seconds)
+P4:59:57 <Azjherben> So what makes a .dat file uniqute, that I could search for?
+P5:00:03 <Azjherben> I know it dosn't have %dat
+P5:00:11 <Azjherben> Wait
+P5:00:18 <Azjherben> Isn't there a wiki page on that
+P5:00:44 <ZomBuster> try to connect http://www.minecraft.net/play.jsp?server=cfe8b64d8aeca7fb61c20060840bb0b5
+P5:00:53 <Azjherben> 0x271bb788
+10P5:00:57 * citricsquidSLEEP (sam@client-86-25-241-186.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+P5:01:36 <Azjherben> How do I check for four hex bytes in a file?
+12P5:01:57 * citricsquid (sam@client-81-97-76-212.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+P5:03:43 <Adura> Some sort of PHP beginner?
+P5:03:52 <Azjherben> Not really
+P5:04:02 <Azjherben> I just never needed to read that kind of stuff
+P5:04:34 <Azjherben> In fact
+P5:04:42 <Azjherben> My question is more with the .dat format
+P5:05:24 <citricsquidSLEEP> aren't minecraft maps zipped or something but with .dat filetype?
+10P5:05:30 * citricsquidSLEEP is now known as citricsquid
+P5:05:38 <cryzed> they are gzipped
+P5:05:50 <citricsquid> so not actually .dat?
+12P5:06:04 * cryzed (cryzed@i59F5E49C.versanet.de) Quit (Remote host closed the connection)
+P5:06:30 <Azjherben> Ya
+P5:06:37 <Azjherben> I just read about it
+P5:06:41 <Azjherben> They are gzipped
+P5:10:46 <Azjherben> Hmm
+P5:11:10 <Azjherben> I don't see how checking bytes can be possible with out requiring people to decompress files first
+P5:11:45 <Adura> You extract it on your end.
+P5:11:51 <ZomBuster> I dont get it.. the level loads fine in any 3rd party level editor, there is no water/lava or even sand/gravel.
+P5:12:19 <ZomBuster> and still it doesnt work
+P5:13:09 <Azjherben> Hmm
+P5:13:33 <Azjherben> Even compressed they still have the same first few bytes
+P5:13:44 <Azjherben> So, I just check for those bytes.
+P5:15:16 <Azjherben> I GTG do something
+P5:15:23 <Azjherben> But I think I figured out a way.
+P5:18:22 <JTE> o.o
+P5:18:37 <JTE> Silly...
+P5:18:44 <Rroff> you can use zlib to read/write gzip on the fly
+P5:19:08 <JTE> Any awesome application ever uses zlib.
+P5:19:17 <Rroff> ?
+P5:20:16 <JTE> It's true. Name one application which is awesome and doesn't use zlib.
+P5:20:34 <Rroff> wasn't quite sure what you were saying
+P5:20:55 <Rroff> I started work on a grief repair tool but got bored of parsing the java serialisation into a struct long before I got anywhere much :(
+10P5:21:17 * Ush (Mibbit@filter4.filter.imagine.ie) has joined #minecraft
+P5:21:31 <Ush> hmm. quiet
+P5:21:37 <Rroff> sssh
+P5:21:48 <Ush> ah, sorry
+P5:21:50 <Rroff> :P
+P5:21:55 <Ush> actually
+P5:21:55 <JTE> Heh.
+P5:22:18 <Ush> dont you just hate it when an op on a server goes nuts and bans all other ops?
+P5:22:41 <Rroff> :O
+P5:22:52 <Rroff> my trusted OPs have web control panel access too
+P5:22:56 <Rroff> so they could over-ride
+P5:23:15 <Ush> oof
+P5:23:19 <Ush> so much trust
+P5:23:20 <Darkebrz> Ush
+P5:23:26 <Ush> ?
+P5:23:31 <Darkebrz> Just make sure you trust all your ops
+P5:23:38 <Ush> it wasnt my server
+P5:23:43 <Ush> i was just made op
+10P5:23:47 * UnknownX (chatzilla@66.247.218.200) has joined #minecraft
+P5:23:53 <Ush> dont know who did the banning
+P5:24:06 <Darkebrz> Oh
+P5:24:27 <Rroff> http://aten-hosted.com/images/mcadmin.jpg
+P5:24:28 <Ush> the map owner had just left, so they were obviously biding their time
+P5:24:37 <Rroff> old version as I've now moved everything into catagories
+P5:25:00 <Ush> so they have access to that?
+P5:25:07 <Darkebrz> What should I make a skin of?
+P5:25:10 <Rroff> yeah
+P5:25:21 <Ush> phooo
+P5:26:05 <Darkebrz> What should I make a skin of? 
+12P5:26:25 * Darkebrz (IceChat7@24-247-83-244.dhcp.bycy.mi.charter.com) Quit (Quit: Relax, its only ONES and ZEROS!)
+P5:26:26 <Ush> errr
+P5:26:34 <Ush> question
+P5:27:03 <Ush> when one is ip banned, is it possible to log on to map from another computer?
+P5:27:10 <Ush> *a map
+P5:27:29 <UnknownX> only if the computer ip's differ
+P5:27:31 <Rroff> aslong as your not username banned and the other PC has a different external IP
+P5:27:41 <Rroff> *WAN IP
+10P5:27:51 * bodenhamer (adam_boden@c-76-28-185-127.hsd1.wa.comcast.net) has joined #minecraft
+10P5:27:56 * Darkebrz (IceChat7@24-247-83-244.dhcp.bycy.mi.charter.com) has joined #minecraft
+P5:28:07 <Darkebrz> So
+P5:28:11 <Darkebrz> What should I make a skin of?
+P5:28:24 <Ush> hmm would it say "You've been ip banned!" or just a general "You've been banned!"?
+P5:28:34 <Darkebrz> You've been banned!
+12P5:28:53 * tripel (adam_boden@c-76-28-185-127.hsd1.wa.comcast.net) Quit (Ping timeout: 180 seconds)
+P5:29:47 <Ush> so there is still hope... There were some good times on that map
+P5:30:06 <Darkebrz> What map?
+P5:30:26 <Ush> Darkebrz, take a Hubble image and turn it into a skin
+P5:30:47 <Darkebrz> Erm
+P5:30:48 <Ush> map is "LOOONG 1024x256 Natural Map by M"
+P5:31:31 <Ush> find one with lots of stars, pixelise it and... errr well i dont know what the next step would be
+P5:31:38 <Darkebrz> Only person on there is someone name eddeddy
+P5:31:45 <Ush> hmm
+P5:31:47 <Darkebrz> And hes AFK
+P5:31:55 <Darkebrz> So the rogue op is gone i guess :/
+P5:32:01 <Ush> probably
+P5:32:16 <Ush> thanks for checking it, Derkebrz
+P5:32:40 <Ush> if you're there for long, look for my bar at the end of the map and have a drink on me...
+P5:33:01 <Darkebrz> Heh
+12P5:33:05 * Kevooi (Mibbit@82.131.5.136.cable.starman.ee) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P5:33:22 <Ush> its got a big red "bar" sign out front
+P5:33:25 <Ush> and a squad car
+P5:33:26 <Darkebrz> K
+P5:33:26 <Darkebrz> WEll
+P5:33:28 <Darkebrz> Hm
+P5:33:35 <Darkebrz> What do I do a skin of ;_;
+P5:33:39 <Ush> oh and an irish flag
+P5:33:57 <Ush> i still think a Hubble image skin would be good
+P5:34:04 <Darkebrz> Maybeh
+P5:34:11 <Ush> certainly unique
+10P5:34:31 * Niko` (aaronarrie@221.Red-81-34-168.dynamicIP.rima-tde.net) has joined #minecraft
+P5:35:20 <ZomBuster> it would be just some noise
+P5:35:46 <Ush> ZomBuster!
+P5:35:51 <Ush> interesting test maps
+P5:35:59 <ZomBuster> who what where
+P5:36:24 <Ush> ... your test naps...
+P5:36:29 <ZomBuster> yeh that
+P5:36:31 <Darkebrz> I have no idea what this is gonna look like...
+P5:36:31 <Ush> *maps
+P5:36:32 <ZomBuster> small problem
+P5:36:35 <ZomBuster> they are too complex
+P5:36:51 <Ush> hace you seen shadows server?
+P5:36:59 <ZomBuster> been there yeh
+P5:37:01 <ZomBuster> canyon
+P5:37:15 <Ush> for a while he had a lava map
+P5:37:28 <Ush> big big mountains
+P5:37:49 <Darkebrz> This actually looks pretty cool http://minecraft.net/skin/skin.jsp?user=Darkebrz
+P5:38:12 <Ush> Ooo not too shabby
+P5:38:27 <Darkebrz> I just pasted the picture on it
+P5:38:30 <ZomBuster> eh interesting
+P5:38:39 <Darkebrz> Ill try using a different secton
+P5:38:43 <Darkebrz> *section
+P5:38:53 <Ush> More stars and contrast?
+P5:39:11 <Darkebrz> Well
+P5:39:13 <Darkebrz> Kinda
+P5:39:52 <Darkebrz> Everything is going to be really blurry no matter what
+12P5:39:53 * Dilt (Dilt_Eee@ip68-225-73-116.no.no.cox.net) Quit (Quit: Client Exited)
+12P5:42:52 * bodenhamer (adam_boden@c-76-28-185-127.hsd1.wa.comcast.net) Quit (Read error: Connection reset by peer)
+10P5:42:56 * Malcovent (Mibbit@host86-140-80-3.range86-140.btcentralplus.com) has joined #minecraft
+P5:43:08 <Malcovent> RAWR hey.
+10P5:43:21 * tripel (adam_boden@c-76-28-185-127.hsd1.wa.comcast.net) has joined #minecraft
+P5:44:33 <Ush> Greetings
+P5:44:52 <Ush> Today I have had three cups of coffee and a coke.
+P5:44:56 <Ush> hellohellohello
+P5:45:45 <Ush> Idea for minecraft skin.
+P5:46:44 <JTE> Heh.
+P5:47:00 <Darkebrz> what
+P5:47:24 <Malcovent> i've been banned from the server i op x_x
+P5:47:28 <Malcovent> it appears we have a rogue!
+P5:47:42 <Ush> Oh crap happened to me half an hour ago
+P5:47:46 <Malcovent> really?
+P5:47:50 <Ush> Yes
+P5:47:57 <Malcovent> x_x
+P5:47:58 <Malcovent> rogue op or bug?
+P5:48:00 <Snowman> What server?
+P5:48:04 <Ush> rogue
+P5:48:09 <Malcovent> desk-rabbits
+P5:48:11 <Malcovent> ---'
+P5:48:34 <Ush> "LOOONG 1024x256 Natural Map by M" 
+P5:48:41 <Ush> It is a nice map...
+P5:48:49 <Snowman> make a 16x1024 one :p
+P5:48:58 <Ush> hah
+P5:49:26 <Ush> Oh! the skin idea: go to shorpy.com
+P5:49:35 <Ush> find a random image
+P5:49:43 <Darkebrz> Ush, whats your skin idea?
+P5:49:46 <Ush> rotate by random amount
+P5:49:51 <Ush> then paste it on
+P5:49:59 <Ush> its not a great idea
+10P5:50:23 * Malcovent1 (Mibbit@host86-140-80-3.range86-140.btcentralplus.com) has joined #minecraft
+P5:50:36 <Malcovent1> AND THEN MY INTERNET CRASHES
+P5:50:39 <Malcovent1> tonight is not my night..
+12P5:50:52 * Malcovent (Mibbit@host86-140-80-3.range86-140.btcentralplus.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P5:50:57 <Niko`> i need some help
+P5:51:05 <Ush> Yes?
+P5:51:08 <Malcovent1> i need a shotgun and a adress.
+P5:51:09 <Niko`> I just downloaded the server, and I want to run a flatgrass map, huge
+P5:51:12 <Malcovent1> but yeh, help with what x_x
+12P5:51:21 * ZomBuster (zombuster@ip111-36-208-87.adsl2.static.versatel.nl) Quit (Quit: Client Exited)
+P5:51:26 <Niko`> could it be 'bout 1024x1024x1024?
+P5:51:34 <Ush> Major lag there
+12P5:51:36 * Genisi (what@76.226.29.82) Quit (Ping timeout: 180 seconds)
+P5:51:43 <Niko`> well, a bit smaller then
+P5:51:54 <Ush> 1024x256
+P5:52:11 <Ush> v long, will remain unexplored for a while
+10P5:52:48 * Dilt (Dilt_Eee@ip68-225-73-116.no.no.cox.net) has joined #minecraft
+P5:52:49 <Azjherben> I'm back
+P5:53:03 <Ush> Hello
+P5:53:22 <Niko`> yep
+P5:53:27 <Azjherben> So, I'm going to add that thing to my site.
+P5:53:31 <Azjherben> To make it secure
+P5:53:34 <Azjherben> Yeah.....
+P5:54:35 <Niko`> im using a 512x512xidk map
+P5:54:44 <Ush> How is it running?
+P5:58:43 <Ush> I may as well ask this: if anyone is on the map I mentioned, and a player with meteo in his name is there, would you mind asking him to unban Ush and BallinStalin (rogue op banned us)? You would be making a stranger on the internet happy...
+10P5:58:50 * Genisi (what@76.226.29.82) has joined #minecraft
+12P5:59:18 * Malcovent1 (Mibbit@host86-140-80-3.range86-140.btcentralplus.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P6:05:50 <Niko`> http://www.minecraft.net/play.jsp?server=a0760b44cfeccc877676052b89337a9e
+P6:07:17 <Testvan> http://img404.imageshack.us/img404/4817/99468875.png
+10P6:08:21 * Arf|Homewerk is now known as Arf
+P6:08:59 <Ush> Wurm
+P6:09:04 <Ush> Hmm
+P6:09:16 <Testvan> they have a pro advertising dept.
+P6:12:18 <Darkebrz> I know Meteo
+P6:12:22 <Darkebrz> He isnt on right now
+P6:12:49 <Azjherben> Ha
+P6:12:58 <Azjherben> Emo
+P6:13:06 <Azjherben> But why is it called "wurm"
+P6:13:06 <Darkebrz> ...??
+P6:15:12 <Ush> Wurm translates roughly to "dragon"
+P6:15:20 <Darkebrz> Oh
+P6:15:21 <Darkebrz> Wurm
+P6:15:37 <Ush> wurm pronounced more like "vurm"
+P6:18:22 <Azjherben> Oh
+P6:18:38 <Testvan> are you a emo fag?
+P6:18:42 <Azjherben> No
+P6:18:44 <Testvan> want to chill in a virtual forest?
+P6:18:50 <Testvan> with shit graphics?
+P6:18:57 <Testvan> WURM IS WAITING
+P6:19:04 <Azjherben> Lol
+P6:19:08 <Azjherben> gtg
+12P6:19:16 * Azjherben (Mibbit@cpe-74-76-143-181.nycap.res.rr.com) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+12P6:19:59 * Ush (Mibbit@filter4.filter.imagine.ie) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+10P6:43:27 * Arf is now known as Arf|OutWithFfffffrends
+12P6:44:20 * Dred_furst (Dred@user-514c420a.l3.c5.dsl.pol.co.uk) Quit (Quit: Leaving)
+12P6:44:27 * yoshibot (kit@pool-71-123-232-81.dllstx.fios.verizon.net) Quit (Remote host closed the connection)
+P6:53:35 <Niko`> dam.n
+12P6:56:10 * Fragmer (Fragmer@c-98-248-163-16.hsd1.ca.comcast.net) Quit (Quit: Leaving)
+P6:56:30 <Niko`> FINALLY THE MAP i WANT LOLLL
+10P6:57:32 * JTE (JTE@ool-457f154d.dyn.optonline.net) has left #minecraft
+P7:06:25 <Niko`> ush
+10P7:09:32 * Not_You (chatzilla@pool-72-64-50-176.nrflva.east.verizon.net) has joined #minecraft
+10P7:09:37 * Not_You is now known as lerp
+P7:10:30 <lerp> citricsquid
+P7:10:44 <lerp> is the standard map server yours
+10P7:14:43 * dinosaurdemon (matt@c-71-227-132-82.hsd1.wa.comcast.net) has joined #minecraft
+10P7:25:17 * yoshibot (kit@pool-71-123-232-81.dllstx.fios.verizon.net) has joined #minecraft
+12P7:27:28 * C418 (C418@p5B3D50AD.dip.t-dialin.net) Quit (Quit: Nettalk6 - www.ntalk.de)
+10P7:27:48 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+12P7:36:27 * citricsquid (sam@client-86-25-241-186.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+10P7:39:09 * citricsquidSLEEP (sam@client-86-25-243-34.mcr-bng-013.adsl.virginmedia.net) has joined #minecraft
+10P7:39:16 * citricsquidSLEEP is now known as citricsquid
+10P7:39:20 * ChanServ sets mode: +o citricsquid
+10P7:51:45 * AnnihilatorBeta (Annihilato@bas1-toronto48-1279276304.dsl.bell.ca) has joined #minecraft
+P7:52:43 <Snowman> guys im off
+P7:52:47 <Snowman> cyall
+12P7:52:57 * Snowman (Snowman@sd51100a0.adsl.wanadoo.nl) Quit (Quit: Tata)
+Session Close: Tue Jul 21 20:08:23 2009
+
+Session Start: Tue Jul 21 20:08:23 2009
+Session Ident: #minecraft
+15P8:08:23 * Disconnected
+10P8:09:26 * Rejoined channel #minecraft
+10P8:09:26 * Topic is 'http://minecraft.net | ]Party mode! | We don't want any free willies in the jacuzzi, wear speedos!'
+10P8:09:26 * Set by citricsquid!sam@client-81-97-79-117.mcr-bng-013.adsl.virginmedia.net on Mon Jul 20 17:47:53
+10P8:10:24 * lobster_MB (michielbra@ip54534322.speed.planet.nl) has joined #minecraft
+12P8:10:53 * Rroff (msrp24@host86-177-99-24.range86-177.btcentralplus.com) Quit (Quit: Don't drink and drive, smoke dope and fly home)
+10P8:14:02 * Applecrate (saavedro@jaws.braintruck.net) has joined #minecraft
+10P8:14:52 * netzero (netzero@41334437.cst.lightpath.net) has joined #minecraft
+10P8:15:09 * liq3 (liquidman3@58.175.121.48) has joined #minecraft
+10P8:16:40 * scanlonman_ (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+12P8:16:40 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (Read error: Connection reset by peer)
+12P8:21:24 * scanlonman_ (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) Quit (serenity.esper.net excelsior.esper.net)
+12P8:30:12 * ChJees (jespr@81-234-87-168-no38.tbcn.telia.com) Quit (Quit: Client Exited)
+10P8:30:32 * scanlonman (taylor@66-227-211-200.dhcp.trcy.mi.charter.com) has joined #minecraft
+10P8:31:39 * fleshBasedProcessor (chatzilla@75-121-96-249.dyn.centurytel.net) has joined #minecraft
+12P8:36:39 * yoshibot (kit@pool-71-123-232-81.dllstx.fios.verizon.net) Quit (Remote host closed the connection)
+12P8:42:17 * dinosaurdemon (matt@c-71-227-132-82.hsd1.wa.comcast.net) Quit (Read error: Connection reset by peer)
+P8:53:30 <fleshBasedProcessor> Heool
+P8:53:32 <fleshBasedProcessor> hello
+P8:53:50 <citricsquid> yo
+P8:53:58 <fleshBasedProcessor> hey citric
+P8:55:10 <fleshBasedProcessor> damn, I want to start a conversation but I honestly can't think of anything to say
+P8:55:24 <citricsquid> how about, "Personally I prefer my waffles toasted"
+P8:55:56 <fleshBasedProcessor> I prefer my waffles right before sleeping
+P8:57:05 <fleshBasedProcessor> Are you going to learn Lua scripting for when it is released?
+12P8:57:32 * potato (samthrashe@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) Quit (Read error: Connection reset by peer)
+10P8:57:42 * potato (samthrashe@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has joined #minecraft
+P8:58:29 <fleshBasedProcessor> Hi potato, I like your hell map. And thank you citric for hosting it.
+P9:00:41 <citricsquid> :3
+P9:01:35 <fleshBasedProcessor> I made a big stalactite and a long twisting path along a wall leading up to it. Then a guy named sqwigly made a shitty looking one right next to it
+P9:01:58 <citricsquid> what's your ingame name?
+P9:02:03 <fleshBasedProcessor> And I just found out firefox has the word "shitty" in its dictionary :)
+P9:02:07 <fleshBasedProcessor> alexRatcliff
+P9:02:16 <fleshBasedProcessor> I forget which it is on the forums
+P9:03:08 <citricsquid> might reset, someone flooded :(
+P9:03:15 <citricsquid> also, oped you on hell server :)
+P9:03:24 <Niko`> citric
+P9:03:25 <fleshBasedProcessor> Cool!
+P9:03:50 <Niko`> your flatgrass server is being attacked with griefers quite often
+P9:03:57 <Niko`> can't u do anything 'bout it?
+P9:04:14 <citricsquid> not really, i can make you an op though so you can kick them if you want :D
+P9:04:22 <fleshBasedProcessor> Did anyone grief my rebuilt Satan yet?
+P9:04:23 <Niko`> i already am
+P9:04:28 <Niko`> im najkankenko
+P9:04:29 <citricsquid> oh, silly me :D
+P9:04:36 <Niko`> I closed the prision
+P9:04:42 <Niko`> its pretty much all I can do lol
+P9:04:43 <fleshBasedProcessor> Wait, I can just go look instead of yelling about it on IRC.
+10P9:07:23 * Compo (Mibbit@cpc3-oldh9-2-0-cust971.10-1.cable.virginmedia.com) has joined #minecraft
+12P9:07:42 * Compo (Mibbit@cpc3-oldh9-2-0-cust971.10-1.cable.virginmedia.com) Quit (Quit: Client Exited)
+P9:08:32 <fleshBasedProcessor> Hey citric, were you planing on doing a full reset or restror a backup?
+P9:09:12 <citricsquid> To the default hell map, as usual :)
+12P9:09:56 * Gaviarctica (teemuc_93@a91-154-253-150.elisa-laajakaista.fi) Quit (Read error: Connection reset by peer)
+12P9:12:14 * lerp (chatzilla@pool-72-64-50-176.nrflva.east.verizon.net) Quit (Read error: Connection reset by peer)
+P9:15:55 <fleshBasedProcessor> there seem to be a couple people on who want to play the hell map, think you could do the reset now?
+10P9:17:49 * potato_ (samthrashe@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) has joined #minecraft
+12P9:17:49 * potato (samthrashe@CPE000393e704cd-CM001bd71cdc30.cpe.net.cable.rogers.com) Quit (Read error: Connection reset by peer)
+12P9:18:54 * vdgmprgrmr2 (vdgmprgrmr@12.173.3.190) Quit (Quit: Nettalk6 - www.ntalk.de)
+P9:25:53 <fleshBasedProcessor> Citricsquid, are you still there?
+P9:26:33 <fleshBasedProcessor> there are 4 people on the hell map that are hopeful you reset it soon.
+P9:27:05 <citricsquid> I'll do it now
+10P9:27:37 * iM (notonyourl@cpc1-swin5-0-0-cust21.sol2.cable.ntl.com) has joined #minecraft
+P9:29:03 <fleshBasedProcessor> thank you!
+10P9:30:19 * yoshibot (kit@pool-71-123-232-81.dllstx.fios.verizon.net) has joined #minecraft
+P9:30:46 <Darkebrz> AACH
+P9:30:48 <Darkebrz> FUCK
+P9:30:53 <Darkebrz> Ugh
+P9:30:54 <Darkebrz> Well
+12P9:31:17 * Genisi (what@76.226.29.82) Quit (Ping timeout: 180 seconds)
+P9:31:41 <Darkebrz> I bit off the cap of my SunnyD
+P9:31:48 <Darkebrz> And theres a little tiny piece in it
+P9:31:54 <Darkebrz> And I freaking swallowed it
+P9:32:09 <Zuriki> Ring sting to follow
+P9:32:20 <Darkebrz> ...What?
+P9:32:32 <Zuriki> Well it's gotta go somewhere
+P9:32:36 <Darkebrz> WHAT
+10P9:32:45 * Genisi (what@76.226.29.82) has joined #minecraft
+P9:32:49 <Zuriki> Plop.
+12P9:35:38 * Zuriki (Zuriki@5ada9d9a.bb.sky.com) Quit (Quit: ChatZilla 0.9.85 [Firefox 3.0.11/2009060215])
+12P9:39:38 * citricsquid (sam@client-86-25-243-34.mcr-bng-013.adsl.virginmedia.net) Quit (Ping timeout: 180 seconds)
+12P9:42:50 * TrueWolves (DontGiveUp@69-176-226-109.static.izoom.net) Quit (Ping timeout: 180 seconds)
+10P9:47:38 * sa2fan (Mibbit@bas3-montreal28-1242529997.dsl.bell.ca) has joined #minecraft
+P9:47:58 <sa2fan> hello
+P9:48:00 <sa2fan> ?
+12P9:48:14 * sa2fan (Mibbit@bas3-montreal28-1242529997.dsl.bell.ca) Quit (Quit: Client Exited)
+10P9:48:54 * TrueWolves (DontGiveUp@69-176-226-109.static.izoom.net) has joined #minecraft
+12P9:51:45 * tripel (adam_boden@c-76-28-185-127.hsd1.wa.comcast.net) Quit (Ping timeout: 180 seconds)
+12P9:52:50 * iM (notonyourl@cpc1-swin5-0-0-cust21.sol2.cable.ntl.com) Quit (Ping timeout: 180 seconds)
+10P9:53:28 * Arcshot (Arcshot@cpe-76-93-174-11.san.res.rr.com) has joined #minecraft
+P9:53:41 <Arcshot> yo guys
+12P9:53:45 * Arcshot (Arcshot@cpe-76-93-174-11.san.res.rr.com) Quit (Quit: Client Exited)
+P9:54:02 <AnnihilatorBeta> classic
+10P10:01:12 * Eagle (BLELELEL@c-24-56-241-140.customer.broadstripe.net) has joined #minecraft
+12P10:03:55 * mariopro766 (brettman@24.100.122.56) Quit (Ping timeout: 180 seconds)
+10P10:09:17 * mariopro766 (brettman@24.100.122.56) has joined #minecraft
+12P10:10:19 * AnnihilatorBeta (Annihilato@bas1-toronto48-1279276304.dsl.bell.ca) Quit (Quit: go go cosplay fffff)
+10P10:13:11 * vdgmprgrmr (vdgmprgrmr@12.173.3.190) has joined #minecraft
+10P10:18:05 * Stargoat (Stuie@220-244-161-193.static.tpgi.com.au) has joined #minecraft
+12P10:39:45 * Niko` (aaronarrie@221.Red-81-34-168.dynamicIP.rima-tde.net) Quit (Quit: Client Exited)
+10P10:42:30 * Arg (chatzilla@d58-104-81-124.dsl.vic.optusnet.com.au) has joined #minecraft
+10P10:43:20 * Meizlizard (Gavin@adsl-76-202-76-180.dsl.pltn13.sbcglobal.net) has joined #minecraft
+P10:47:17 <Meizlizard> The custom screen size greasemonkey script is so cool.
+10P10:57:15 * Pl0x (Mibbit@124-197-8-206.callplus.net.nz) has joined #minecraft
+12P10:57:30 * Pl0x (Mibbit@124-197-8-206.callplus.net.nz) Quit (Quit: Client Exited)
+10P10:58:09 * Pl0x (Mibbit@124-197-8-206.callplus.net.nz) has joined #minecraft
+P10:58:42 <fleshBasedProcessor> If citric is still around, I would like to let him know that the hell map is being rebuilt nicely and thanks for making me an op
+P10:58:52 <fleshBasedProcessor> I built a new spawn cage too
+P10:58:56 <Pl0x> K
+12P11:00:34 * Genisi (what@76.226.29.82) Quit (Ping timeout: 180 seconds)
+10P11:01:49 * Genisi (what@76.226.29.82) has joined #minecraft
+10P11:03:40 * venn177 (savethefis@cpe-173-171-176-80.tampabay.res.rr.com) has joined #minecraft
+P11:03:47 <venn177> Hey guys
+P11:03:51 <venn177> Queeeeeeeeeestion
+P11:04:07 <venn177> Anyone here?
+P11:04:53 <venn177> D:
+P11:04:56 <venn177> Someone, pleeedz?
+P11:05:16 <Kinhoshi> ?
+P11:05:33 <venn177> Would you happen to be at all good at adminning a server?
+P11:05:43 <Kinhoshi> Nope, I've never done it sorry
+P11:05:47 <venn177> Damn
+P11:05:58 <venn177> I'm trying to set up the external HTML-based console
+P11:06:10 <venn177> I had a rogue OP IP ban half my server while I was asleep >.>
+10P11:30:49 * Perogi (Perogi@S0106001cf0fcecf9.ok.shawcable.net) has joined #minecraft
+P11:31:20 <Perogi> any body else getting a massive influx of hackers on steriods?
+12P11:55:20 * fleshBasedProcessor (chatzilla@75-121-96-249.dyn.centurytel.net) Quit (Remote host closed the connection)
+10P11:57:23 * Ken (chatzilla@203.185.208.148) has joined #minecraft
+P11:57:41 <Ken> Perog: you're a douche
+10P11:57:46 * Ken is now known as triddin
+P11:58:05 <triddin> why you ban me, i only ever did building stuff
+P11:58:23 <triddin> you get op and go crazy
+P11:58:37 <triddin> *perogi
+P11:58:46 <Perogi> I didn't ban you
+P11:58:56 <triddin> someone ip banned me
+P11:58:57 <Perogi> and another op said you were flooding things
+P11:59:11 <triddin> no way, someone flooded my pyramid
+12P11:59:14 * Pl0x (Mibbit@124-197-8-206.callplus.net.nz) Quit (Quit: http://www.mibbit.com ajax IRC Client)
+P11:59:22 <triddin> then i get banned for i
+P11:59:33 <triddin> son of a bitch
+P11:59:53 <triddin> well, you can keep your server. never going back ever
+Session Close: Wed Jul 22 00:00:01 2009
